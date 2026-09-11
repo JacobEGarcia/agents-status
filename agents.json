@@ -1,7 +1,7 @@
 {
-  "generated_at": "Friday, September 11, 2026 at 7:43 AM CDT",
-  "generated_epoch": 1789130634,
-  "count": 12,
+  "generated_at": "Friday, September 11, 2026 at 8:14 AM CDT",
+  "generated_epoch": 1789132472,
+  "count": 11,
   "agents": [
     {
       "name": "anime girl models quality redo",
@@ -16,11 +16,6 @@
     {
       "name": "de-slop pass 4",
       "summary": "Standing quality order on live projects: remove every trace of AI-slop UI and make them feel designed - real design taste, Scandinavian reference....",
-      "kind": "build"
-    },
-    {
-      "name": "Kaggle+HF model pipeline",
-      "summary": "Work the pipeline angle between the user's Kaggle and Hugging Face accounts: find the best free path to run bigger open models than the shared HF...",
       "kind": "build"
     },
     {
@@ -60,12 +55,7 @@
     }
   ],
   "queued": {
-    "scheduled": [
-      {
-        "name": "Kaggle+HF model pipeline",
-        "fires_at": "7:44 AM"
-      }
-    ],
+    "scheduled": [],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",
@@ -197,6 +187,6 @@
       }
     ],
     "backlog_total": 32,
-    "in_progress_total": 18
+    "in_progress_total": 17
   }
 }

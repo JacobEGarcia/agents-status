@@ -1,7 +1,7 @@
 {
-  "generated_at": "Friday, September 11, 2026 at 2:37 AM CDT",
-  "generated_epoch": 1789112231,
-  "count": 18,
+  "generated_at": "Friday, September 11, 2026 at 3:07 AM CDT",
+  "generated_epoch": 1789114055,
+  "count": 15,
   "agents": [
     {
       "name": "anime girl models quality redo",
@@ -19,11 +19,6 @@
       "kind": "build"
     },
     {
-      "name": "eevee-lab rebuild",
-      "summary": "Rebuild the eevee-lab web project for Jacob (original source lost; it was an Eevee/evolution-lab themed interactive web experience). Rebuild it from...",
-      "kind": "build"
-    },
-    {
       "name": "HQ anime girl Blender",
       "summary": "Handle Jacob's latest two iMessages: build him an animated anime girl in Blender, genuinely high quality (detailed, anime-accurate proportions, clean...",
       "kind": "build"
@@ -36,11 +31,6 @@
     {
       "name": "loop: soft-body squash loop",
       "summary": "The user wants the coolest satisfying infinite-loop animations, made in Blender. Your lane: soft-body squash loop - satisfying squishy physics: a...",
-      "kind": "build"
-    },
-    {
-      "name": "Metropolis 1927 game",
-      "summary": "Handle the user's parked iMessage ask (anchor phonemsg-01M27C1GAZ94SCDAR6V4EERRJ7): a game based on Metropolis (1927, Fritz Lang - public domain)....",
       "kind": "build"
     },
     {
@@ -69,11 +59,6 @@
       "kind": "build"
     },
     {
-      "name": "turbopuffer projects",
-      "summary": "Cool projects with turbopuffer, plus the X link he sent. First identify what the post shows (x.com won't fetch directly - use fxtwitter or unrollnow...",
-      "kind": "build"
-    },
-    {
       "name": "VR mining game",
       "summary": "Build a VR mining game. WebXR playable on Quest 3 with desktop fallback, deployed to GitHub Pages like the rest of tonight's games, visually verified...",
       "kind": "build"
@@ -93,7 +78,7 @@
     "scheduled": [
       {
         "name": "Kaggle+HF model pipeline",
-        "fires_at": "2:46 AM"
+        "fires_at": "3:13 AM"
       }
     ],
     "backlog": [
@@ -210,10 +195,6 @@
         "blocked": false
       },
       {
-        "title": "Metropolis 3D film-grade rebuild (iterate to film look)",
-        "blocked": false
-      },
-      {
         "title": "Minecraft VR + Rust voxel game",
         "blocked": false
       },
@@ -230,7 +211,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 33,
-    "in_progress_total": 23
+    "backlog_total": 32,
+    "in_progress_total": 21
   }
 }

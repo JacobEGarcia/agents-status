@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mission Control</title>
+<style>
+  :root {
+    --bg: #101214;
+    --ink: #ece9e2;
+    --muted: #7d838a;
+    --line: #232629;
+    --dot: #7bc47f;
+    --queue: #d8b25c;
+    --mono: "SF Mono", "Roboto Mono", Menlo, Consolas, monospace;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { background: var(--bg); }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 28px 40px;
+    border-bottom: 1px solid var(--line);
+  }
+  .brand {
+    font-size: 12px;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--ink);
+  }
+  .host {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--muted);
+  }
+  .hero {
+    padding: 72px 40px 56px;
+    border-bottom: 1px solid var(--line);
+  }
+  .count {
+    font-size: clamp(120px, 22vw, 260px);
+    font-weight: 200;
+    line-height: 0.95;
+    letter-spacing: -0.03em;
+    font-variant-numeric: tabular-nums;
+  }
+  .count-label {
+    margin-top: 18px;
+    font-size: 15px;
+    color: var(--muted);
+    letter-spacing: 0.02em;
+  }
+  .count-label strong { color: var(--ink); font-weight: 500; }
+  main { flex: 1; padding: 8px 40px 40px; }
+  .section-label {
+    font-size: 11px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding: 32px 0 6px;
+  }
+  .sub-label {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--muted);
+    padding: 18px 0 2px;
+  }
+  .row {
+    display: grid;
+    grid-template-columns: 44px 12px minmax(180px, 300px) 1fr;
+    gap: 18px;
+    align-items: baseline;
+    padding: 15px 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .idx {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+  }
+  .dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--dot);
+    align-self: center;
+    animation: pulse 2.4s ease-in-out infinite;
+  }
+  .dot.sys { background: var(--muted); animation: none; }
+  .dot.queue { background: var(--queue); animation: none; }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.35; } }
+  .name { font-size: 15px; font-weight: 500; letter-spacing: 0.01em; }
+  .desc { font-size: 13px; color: var(--muted); line-height: 1.45; }
+  .desc .when { color: var(--queue); font-family: var(--mono); font-size: 11px; }
+  .backlog-row {
+    display: grid;
+    grid-template-columns: 44px 1fr;
+    gap: 18px;
+    padding: 9px 0;
+    border-bottom: 1px solid var(--line);
+    font-size: 13px;
+    color: var(--muted);
+    align-items: baseline;
+  }
+  .backlog-row .t { color: #b9b5ac; }
+  .backlog-row .flag { color: var(--queue); font-family: var(--mono); font-size: 10px; margin-left: 8px; }
+  footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 22px 40px;
+    border-top: 1px solid var(--line);
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--muted);
+  }
+  .err { padding: 60px 40px; color: var(--muted); font-size: 14px; }
+  @media (max-width: 720px) {
+    header, .hero, main, footer { padding-left: 20px; padding-right: 20px; }
+    .row { grid-template-columns: 30px 10px 1fr; }
+    .desc { grid-column: 3; margin-top: 4px; }
+    .backlog-row { grid-template-columns: 30px 1fr; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">Mission Control</div>
+  <div class="host">jacobegarcia.github.io/agents-status</div>
+</header>
+<section class="hero">
+  <div class="count" id="count">--</div>
+  <div class="count-label" id="countLabel">agents running right now</div>
+</section>
+<main id="list"><div class="err">Loading...</div></main>
+<footer>
+  <span id="updated">--</span>
+  <span>auto-refresh 60s</span>
+</footer>
+<script>
+function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+
+async function load() {
+  try {
+    const r = await fetch('agents.json?t=' + Date.now(), { cache: 'no-store' });
+    const d = await r.json();
+    document.getElementById('count').textContent = d.count;
+    const q = d.queued || { scheduled: [], backlog: [], backlog_total: 0 };
+    document.getElementById('countLabel').innerHTML =
+      'agents running right now <strong>&middot; ' + esc(String(q.backlog_total)) + ' queued</strong>';
+    document.getElementById('updated').textContent = 'updated ' + d.generated_at;
+    const list = document.getElementById('list');
+    list.innerHTML = '';
+
+    // QUEUED
+    if (q.scheduled.length || q.backlog.length) {
+      const ql = document.createElement('div');
+      ql.className = 'section-label';
+      ql.textContent = 'Queued';
+      list.appendChild(ql);
+
+      if (q.scheduled.length) {
+        const sl = document.createElement('div');
+        sl.className = 'sub-label';
+        sl.textContent = 'scheduled - fires next';
+        list.appendChild(sl);
+        q.scheduled.forEach((s, i) => {
+          const row = document.createElement('div');
+          row.className = 'row';
+          row.innerHTML =
+            '<span class="idx">' + String(i + 1).padStart(2, '0') + '</span>' +
+            '<span class="dot queue"></span>' +
+            '<span class="name">' + esc(s.name) + '</span>' +
+            '<span class="desc"><span class="when">' + esc(s.fires_at) + '</span></span>';
+          list.appendChild(row);
+        });
+      }
+
+      if (q.backlog.length) {
+        const bl = document.createElement('div');
+        bl.className = 'sub-label';
+        bl.textContent = 'backlog - parked ideas waiting for a lane';
+        list.appendChild(bl);
+        q.backlog.forEach((b, i) => {
+          const row = document.createElement('div');
+          row.className = 'backlog-row';
+          row.innerHTML =
+            '<span class="idx">' + String(i + 1).padStart(2, '0') + '</span>' +
+            '<span class="t">' + esc(b.title) + (b.blocked ? '<span class="flag">blocked</span>' : '') + '</span>';
+          list.appendChild(row);
+        });
+      }
+    }
+
+    // RUNNING
+    const builds = d.agents.filter(a => a.kind !== 'system');
+    const systems = d.agents.filter(a => a.kind === 'system');
+    const section = (label, arr, sys) => {
+      if (!arr.length) return;
+      const l = document.createElement('div');
+      l.className = 'section-label';
+      l.textContent = label;
+      list.appendChild(l);
+      arr.forEach((a, i) => {
+        const row = document.createElement('div');
+        row.className = 'row';
+        row.innerHTML =
+          '<span class="idx">' + String(i + 1).padStart(2, '0') + '</span>' +
+          '<span class="dot' + (sys ? ' sys' : '') + '"></span>' +
+          '<span class="name"></span>' +
+          '<span class="desc"></span>';
+        row.querySelector('.name').textContent = a.name;
+        row.querySelector('.desc').textContent = a.summary || '';
+        list.appendChild(row);
+      });
+    };
+    section('Building now', builds, false);
+    section('System', systems, true);
+  } catch (e) {
+    document.getElementById('list').innerHTML = '<div class="err">Could not load agents.json</div>';
+  }
+}
+load();
+setInterval(load, 60000);
+</script>
+</body>
+</html>

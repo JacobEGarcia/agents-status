@@ -1,0 +1,385 @@
+{
+  "generated_at": "Friday, September 11, 2026 at 12:06 AM CDT",
+  "generated_epoch": 1789103203,
+  "count": 27,
+  "agents": [
+    {
+      "name": "casted shadows v2",
+      "summary": "Make the casted shawls a project way better - he means CASTED SHADOWS, the shadow-print studio built earlier tonight, and he wants it taken way...",
+      "kind": "build"
+    },
+    {
+      "name": "causasui art",
+      "summary": "Make me art inspired by this plus the X link https://x.com/__causasui/status/2097969311612903444 he sent right after. Identify the post first (x.com...",
+      "kind": "build"
+    },
+    {
+      "name": "ciguleva game",
+      "summary": "Make a real game inspired by this plus the X link https://x.com/ciguleva/status/2097909361226268826 he sent right after. Identify the post first...",
+      "kind": "build"
+    },
+    {
+      "name": "Claude export idea mine",
+      "summary": "Mine his Claude export for projects and ideas and make them real, same treatment as the Apple Notes doc. The export is in his Drive...",
+      "kind": "build"
+    },
+    {
+      "name": "de-slop pass 1",
+      "summary": "Standing quality order on live projects: remove every trace of AI-slop UI and make them feel designed - real design taste, Scandinavian reference....",
+      "kind": "build"
+    },
+    {
+      "name": "de-slop pass 4",
+      "summary": "Standing quality order on live projects: remove every trace of AI-slop UI and make them feel designed - real design taste, Scandinavian reference....",
+      "kind": "build"
+    },
+    {
+      "name": "de-slop pass 5",
+      "summary": "Standing quality order on live projects: remove every trace of AI-slop UI and make them feel designed - real design taste, Scandinavian reference....",
+      "kind": "build"
+    },
+    {
+      "name": "deemostech build",
+      "summary": "Make this real plus the X link https://x.com/deemostech/status/2098150590719414656 he sent right after. Identify the post first (x.com won't fetch...",
+      "kind": "build"
+    },
+    {
+      "name": "imposter post build",
+      "summary": "Handle the user's latest iMessage pair: Make this + X link (_1mposter post 2098137407090729102). Identify the post (fxtwitter/unrollnow mirrors)...",
+      "kind": "build"
+    },
+    {
+      "name": "Kaggle+HF model pipeline",
+      "summary": "Work the pipeline angle between the user's Kaggle and Hugging Face accounts: find the best free path to run bigger open models than the shared HF...",
+      "kind": "build"
+    },
+    {
+      "name": "loop: soft-body squash loop",
+      "summary": "The user wants the coolest satisfying infinite-loop animations, made in Blender. Your lane: soft-body squash loop - satisfying squishy physics: a...",
+      "kind": "build"
+    },
+    {
+      "name": "Menagerie robot projects",
+      "summary": "He wants projects using real 3D robot models like the ones in MuJoCo Menagerie. Build interactive browser projects that load and animate actual...",
+      "kind": "build"
+    },
+    {
+      "name": "Minecraft in Rust",
+      "summary": "Build a Minecraft-style voxel game written in Rust - compile to WebAssembly so it runs in the browser, deployed to GitHub Pages like the rest of...",
+      "kind": "build"
+    },
+    {
+      "name": "Minecraft VR",
+      "summary": "Build Minecraft in VR. A voxel world - mine blocks, place blocks, procedurally generated terrain, WebXR on Quest 3 with desktop fallback, deployed to...",
+      "kind": "build"
+    },
+    {
+      "name": "NERV UI app suite",
+      "summary": "Handle the user's latest iMessage pair: an X link (bagusindrayana_ post 2098068198793076755) plus Make me a bunch of applications using neon genesis...",
+      "kind": "build"
+    },
+    {
+      "name": "No Mans Sky VR",
+      "summary": "Build a No Man's Sky-style game in VR. Procedural planets you can fly between - take off from a planet surface, through the atmosphere, into space...",
+      "kind": "build"
+    },
+    {
+      "name": "notes doc inventory",
+      "summary": "He has a Google Doc containing all his notes - ideas, thoughts, projects. Find it in his Google Drive, read the whole thing, and report back a...",
+      "kind": "build"
+    },
+    {
+      "name": "right place montage",
+      "summary": "A montage video of the latest and greatest tech demo clips - SpaceX, Artemis, humanoid robot demos, robotics demos, Neuralink, Boring Company - cut...",
+      "kind": "build"
+    },
+    {
+      "name": "Second Brain app",
+      "summary": "Build him a Second Brain app (the idea is in his notes as Second Brain AI app). A personal knowledge base that runs fully in the browser: capture...",
+      "kind": "build"
+    },
+    {
+      "name": "somewheresy build 2",
+      "summary": "Make this real plus the X link https://x.com/somewheresy/status/2098031774588711162?s=46 - identify what the post shows and build a working version...",
+      "kind": "build"
+    },
+    {
+      "name": "takimunk build",
+      "summary": "Make something cool with this plus the X link https://x.com/takimunk/status/2098199089267789933 he sent right before. Identify the post first (x.com...",
+      "kind": "build"
+    },
+    {
+      "name": "turbopuffer projects",
+      "summary": "Cool projects with turbopuffer, plus the X link he sent. First identify what the post shows (x.com won't fetch directly - use fxtwitter or unrollnow...",
+      "kind": "build"
+    },
+    {
+      "name": "VR mining game",
+      "summary": "Build a VR mining game. WebXR playable on Quest 3 with desktop fallback, deployed to GitHub Pages like the rest of tonight's games, visually verified...",
+      "kind": "build"
+    },
+    {
+      "name": "yungcontent build + ideas",
+      "summary": "Make this and ideas inspired by this plus the X link https://x.com/yungcontent/status/2098140729084403967 he sent right after, plus his follow-up...",
+      "kind": "build"
+    },
+    {
+      "name": "Agent mail notification manager",
+      "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill.",
+      "kind": "system"
+    },
+    {
+      "name": "Proactive value creation",
+      "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment.",
+      "kind": "system"
+    }
+  ],
+  "queued": {
+    "scheduled": [
+      {
+        "name": "causasui art",
+        "fires_at": "12:03 AM"
+      },
+      {
+        "name": "turbopuffer projects",
+        "fires_at": "12:05 AM"
+      },
+      {
+        "name": "notes doc inventory",
+        "fires_at": "12:06 AM"
+      },
+      {
+        "name": "casted shadows v2",
+        "fires_at": "12:06 AM"
+      },
+      {
+        "name": "Claude export idea mine",
+        "fires_at": "12:06 AM"
+      },
+      {
+        "name": "de-slop pass 5",
+        "fires_at": "12:06 AM"
+      },
+      {
+        "name": "de-slop pass 4",
+        "fires_at": "12:06 AM"
+      },
+      {
+        "name": "somewheresy build 2",
+        "fires_at": "12:06 AM"
+      },
+      {
+        "name": "deemostech build",
+        "fires_at": "12:07 AM"
+      },
+      {
+        "name": "Menagerie robot projects",
+        "fires_at": "12:08 AM"
+      },
+      {
+        "name": "Kaggle+HF model pipeline",
+        "fires_at": "12:10 AM"
+      },
+      {
+        "name": "imposter post build",
+        "fires_at": "12:12 AM"
+      },
+      {
+        "name": "No Mans Sky VR",
+        "fires_at": "12:12 AM"
+      },
+      {
+        "name": "ciguleva game",
+        "fires_at": "12:14 AM"
+      },
+      {
+        "name": "Kaggle+HF model pipeline",
+        "fires_at": "12:15 AM"
+      },
+      {
+        "name": "takimunk build",
+        "fires_at": "12:22 AM"
+      },
+      {
+        "name": "right place montage",
+        "fires_at": "12:25 AM"
+      },
+      {
+        "name": "NERV UI app suite",
+        "fires_at": "12:30 AM"
+      }
+    ],
+    "backlog": [
+      {
+        "title": "3D personal website styled on Peach castle (SM64)",
+        "blocked": false
+      },
+      {
+        "title": "Agent status board (live, auto-refresh)",
+        "blocked": false
+      },
+      {
+        "title": "Build a 3D survival-horror VR game",
+        "blocked": true
+      },
+      {
+        "title": "Build all 8 AI-news-inspired ideas",
+        "blocked": false
+      },
+      {
+        "title": "Build ANI companion version from Sketchfab stylized model collection",
+        "blocked": false
+      },
+      {
+        "title": "Build clemmygames X post game",
+        "blocked": false
+      },
+      {
+        "title": "Build game from suddenxfear film post",
+        "blocked": false
+      },
+      {
+        "title": "Build gleb_alexandrov post 2097968331298898239",
+        "blocked": false
+      },
+      {
+        "title": "Build horror library game",
+        "blocked": false
+      },
+      {
+        "title": "Build kevin_t_ngo X post project",
+        "blocked": false
+      },
+      {
+        "title": "Build palekirill X post scenes and clips in Blender",
+        "blocked": false
+      },
+      {
+        "title": "Build pushkar11420566 X post project",
+        "blocked": false
+      },
+      {
+        "title": "Build somewheresy X post project",
+        "blocked": false
+      },
+      {
+        "title": "Build the Taylor SNTX X post project",
+        "blocked": false
+      },
+      {
+        "title": "Build the usecrayon X post project",
+        "blocked": false
+      },
+      {
+        "title": "Code survival-horror VR game in Godot",
+        "blocked": false
+      },
+      {
+        "title": "Connect Freebuff CLI for terminal-first builds",
+        "blocked": false
+      },
+      {
+        "title": "Day of the Dead Lego-animation short film",
+        "blocked": false
+      },
+      {
+        "title": "Desktop AI buddy girl + Ani AI clone girl: more content, improve to perfect",
+        "blocked": false
+      },
+      {
+        "title": "Develop low-poly afterlife open-world game concept",
+        "blocked": false
+      },
+      {
+        "title": "Develop ROBOTUO humanoid robotics company and product line",
+        "blocked": false
+      },
+      {
+        "title": "Draft Founders Inc Blueprint application (do not submit)",
+        "blocked": false
+      },
+      {
+        "title": "e/acc media campaign",
+        "blocked": false
+      },
+      {
+        "title": "Execute the four self-emailed creative tasks",
+        "blocked": false
+      },
+      {
+        "title": "Experiment with supplied ANI models in separate companion builds",
+        "blocked": false
+      },
+      {
+        "title": "Exploded-view 3D website (Museum of Acceleration)",
+        "blocked": false
+      },
+      {
+        "title": "Fake mobile game ad -> actual playable game",
+        "blocked": false
+      },
+      {
+        "title": "Fern-style Manhattan Project video",
+        "blocked": false
+      },
+      {
+        "title": "Frostfall Godot rebuild with Blender assets",
+        "blocked": false
+      },
+      {
+        "title": "Games from @em_nomadic ideas (Blender to Godot)",
+        "blocked": false
+      },
+      {
+        "title": "Help Jacob treat two lip blisters",
+        "blocked": false
+      },
+      {
+        "title": "Jacob interactive worlds portfolio",
+        "blocked": false
+      },
+      {
+        "title": "Jacob's end-of-year plan: job, Lucky Cat, car, apartment, social life",
+        "blocked": false
+      },
+      {
+        "title": "jsuarez future fashion build",
+        "blocked": false
+      },
+      {
+        "title": "Launch Jacob creative ventures: Lucky Cat Co, The New Chicagoan, personal blog/photography",
+        "blocked": false
+      },
+      {
+        "title": "Make Lucky Cat real with Micro Center parts and Amazon shell",
+        "blocked": false
+      },
+      {
+        "title": "Metropolis 1927 game",
+        "blocked": false
+      },
+      {
+        "title": "Minecraft VR + Rust voxel game",
+        "blocked": false
+      },
+      {
+        "title": "Play with aisearchio music tool and make songs",
+        "blocked": false
+      },
+      {
+        "title": "Second Brain app",
+        "blocked": false
+      },
+      {
+        "title": "Transformers VR game",
+        "blocked": false
+      },
+      {
+        "title": "Walled City upgrade: real 3D assets + Kowloon-authentic look",
+        "blocked": false
+      }
+    ],
+    "backlog_total": 42,
+    "in_progress_total": 35
+  }
+}

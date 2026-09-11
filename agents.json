@@ -1,16 +1,21 @@
 {
-  "generated_at": "Friday, September 11, 2026 at 12:15 PM CDT",
-  "generated_epoch": 1789146900,
+  "generated_at": "Friday, September 11, 2026 at 12:56 PM CDT",
+  "generated_epoch": 1789149414,
   "count": 26,
   "agents": [
     {
-      "name": "anime girl models quality redo",
-      "summary": "Handle Jacob's follow-up: redo ALL past anime girl models so they stop looking like Roblox characters. Scope: the desktop AI buddy girl, the Ani AI...",
+      "name": "1000-enemies game",
+      "summary": "Handle the user's iMessage ask: identify the linked sebaaltonen X post (fxtwitter API if walled), then make him a browser game that handles 1000...",
       "kind": "build"
     },
     {
-      "name": "art_if_ficial X post project",
-      "summary": "Play around with this + an X link (art_if_ficial status 2098431019317657680). Identify what the post is (use the tweet syndication API if x.com...",
+      "name": "3D asset upgrade pass",
+      "summary": "Make way better assets for our 3D games using Blender or Tripo or whatever is best. Pick the best tool per asset, produce real upgraded assets for...",
+      "kind": "build"
+    },
+    {
+      "name": "baku_lab anime head girls",
+      "summary": "Handle the user's latest iMessage pair: Make anime girl characters with heads like this + the baku_lab X post link he sent right after. The linked...",
       "kind": "build"
     },
     {
@@ -19,13 +24,13 @@
       "kind": "build"
     },
     {
-      "name": "Claude export full mine",
-      "summary": "Continue mining Jacob's Claude conversation export: 24 ideas were already built and are live (taskpot, 180-engine, churning-man, appeasement...",
+      "name": "book Dark Edition restyle",
+      "summary": "Handle the user's latest steering on the Age of Research book: he linked darkeditionbooks.com/products/at-the-mountains-of-madness and wants the text...",
       "kind": "build"
     },
     {
-      "name": "de-slop 84 A-M",
-      "summary": "Handle the user's latest request: reiterate on the 84 notes-doc projects until none look AI-vibe-coded and all read as expertly human-crafted (his...",
+      "name": "Claude export full mine",
+      "summary": "Continue mining Jacob's Claude conversation export: 24 ideas were already built and are live (taskpot, 180-engine, churning-man, appeasement...",
       "kind": "build"
     },
     {
@@ -34,13 +39,23 @@
       "kind": "build"
     },
     {
-      "name": "free CAD cool things",
-      "summary": "Play around with free CAD resources and make cool things. Use genuinely free CAD tools (FreeCAD, Onshape free - note public-docs caveat, Tinkercad...",
+      "name": "FNAF animatronic build",
+      "summary": "Handle the user's iMessage ask: identify the linked michellelsun X post (fxtwitter API if walled), then make a complete FNAF-style animatronic like...",
       "kind": "build"
     },
     {
-      "name": "jakesucky X games build",
-      "summary": "Handle the user's request make beautiful games with this for the X post at https://x.com/jakesucky/status/2034368815337984022. Identify what the post...",
+      "name": "gamefromscratch free resources + builds",
+      "summary": "Handle the user's iMessage ask: scan the gamefromscratch X account (and the linked post) for cool free resources - free engines, assets, tools...",
+      "kind": "build"
+    },
+    {
+      "name": "GOTY papercraft RPG",
+      "summary": "Make an RPG Paper Maker-style game that looks so good it reads as game-of-the-year quality, and keep reiterating on assets and quality until it's...",
+      "kind": "build"
+    },
+    {
+      "name": "hcxrli X post project",
+      "summary": "Identify what the linked hcxrli X post is (use the fxtwitter API if the page is walled), then play around with it and make cool things from it - his...",
       "kind": "build"
     },
     {
@@ -54,23 +69,18 @@
       "kind": "build"
     },
     {
-      "name": "Minecraft in Rust",
-      "summary": "Build a Minecraft-style voxel game written in Rust - compile to WebAssembly so it runs in the browser, deployed to GitHub Pages like the rest of...",
-      "kind": "build"
-    },
-    {
-      "name": "Minecraft VR",
-      "summary": "Build Minecraft in VR. A voxel world - mine blocks, place blocks, procedurally generated terrain, WebXR on Quest 3 with desktop fallback, deployed to...",
-      "kind": "build"
-    },
-    {
-      "name": "Modal + Oracle signups",
-      "summary": "Apply/sign him up for Modal and Oracle Cloud Always Free. Modal: create his account (GitHub/Google sign-in with his existing identity), confirm the...",
-      "kind": "build"
-    },
-    {
       "name": "outtalk-the-boomer 3D",
       "summary": "Handle the user's latest correction: Make the boomer game 3d - he means outtalk-the-boomer, just delivered as a 2D de-slop at...",
+      "kind": "build"
+    },
+    {
+      "name": "polycount asset grab + build",
+      "summary": "Identify what the linked polycount X post is offering, get it for free (legitimately - free download, free tier, or free license; no piracy, no...",
+      "kind": "build"
+    },
+    {
+      "name": "Riffusion track harvest",
+      "summary": "He approved the Riffusion switch - Yes do riffusion instead. Context: his Suno free account hit 0 downloads left (new free-plan rule), and his 13...",
       "kind": "build"
     },
     {
@@ -79,8 +89,13 @@
       "kind": "build"
     },
     {
-      "name": "Second Brain app",
-      "summary": "Build him a Second Brain app (the idea is in his notes as Second Brain AI app). A personal knowledge base that runs fully in the browser: capture...",
+      "name": "Solarpunk VR game",
+      "summary": "Make a solarpunk VR game. He has a Meta Quest 3; browser WebXR builds on GitHub Pages have been the pattern for his VR games. Free tools only....",
+      "kind": "build"
+    },
+    {
+      "name": "student + founder program applications",
+      "summary": "Handle the user latest iMessage: apply for the GitHub Student Developer Pack, Google for Startups, Microsoft for Startups (aim for the 150K tier)...",
       "kind": "build"
     },
     {
@@ -89,33 +104,18 @@
       "kind": "build"
     },
     {
-      "name": "Suno track harvest",
-      "summary": "Make as many Suno tracks as possible and download and save them. Context: Suno's free tier now gives ~50 credits/day (~10 songs/day) but free-plan...",
-      "kind": "build"
-    },
-    {
-      "name": "unbound_io X post + SDFs",
-      "summary": "Play around with this and play around with SDFs + an X link (unbound_io status 2098106489311207537). Identify the post (tweet syndication API if...",
-      "kind": "build"
-    },
-    {
       "name": "VR Micro Center game",
       "summary": "Handle the user's request: make a VR Micro Center game. Build it as a WebXR VR experience (plays in browser on his Meta Quest 3) deployed live on the...",
       "kind": "build"
     },
     {
-      "name": "VR mining game",
-      "summary": "Build a VR mining game. WebXR playable on Quest 3 with desktop fallback, deployed to GitHub Pages like the rest of tonight's games, visually verified...",
-      "kind": "build"
-    },
-    {
-      "name": "Whose Model Is It Anyway",
-      "summary": "Build Whose Model Is It Anyway - a program and site that can test, identify, verify and differentiate exactly which AI model produced a given output...",
-      "kind": "build"
-    },
-    {
       "name": "Womp creations",
       "summary": "Handle the user's latest request: make a bunch of cool, beautiful things with Womp (https://beta.womp.com - browser 3D design tool). Use the...",
+      "kind": "build"
+    },
+    {
+      "name": "yns_fn X post in Blender",
+      "summary": "He sent an X post link (https://x.com/yns_fn/status/2098356785715515864) and said make this in Blender. Open the post, identify what it shows, and...",
       "kind": "build"
     },
     {
@@ -130,7 +130,12 @@
     }
   ],
   "queued": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "name": "yns_fn X post in Blender",
+        "fires_at": "12:58 PM"
+      }
+    ],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",
@@ -138,6 +143,18 @@
       },
       {
         "title": "Agent status board (live, auto-refresh)",
+        "blocked": false
+      },
+      {
+        "title": "Anime girl characters with baku_lab head style",
+        "blocked": false
+      },
+      {
+        "title": "Best-possible Lucky Cat 3D model matching classic reference",
+        "blocked": false
+      },
+      {
+        "title": "Blender build from yns_fn X post",
         "blocked": false
       },
       {
@@ -161,10 +178,6 @@
         "blocked": false
       },
       {
-        "title": "Build the art_if_ficial X post project",
-        "blocked": false
-      },
-      {
         "title": "Build the Taylor SNTX X post project",
         "blocked": false
       },
@@ -181,7 +194,7 @@
         "blocked": false
       },
       {
-        "title": "Cool things with free CAD resources",
+        "title": "Cute low-poly Lucky Cat model",
         "blocked": false
       },
       {
@@ -229,6 +242,10 @@
         "blocked": false
       },
       {
+        "title": "GOTY-quality papercraft RPG",
+        "blocked": false
+      },
+      {
         "title": "Help Jacob treat two lip blisters",
         "blocked": false
       },
@@ -261,6 +278,14 @@
         "blocked": false
       },
       {
+        "title": "Realistic Mara Voss profile picture",
+        "blocked": false
+      },
+      {
+        "title": "Redo past anime girl models at HQ bar",
+        "blocked": false
+      },
+      {
         "title": "Second Brain app",
         "blocked": false
       },
@@ -269,23 +294,15 @@
         "blocked": false
       },
       {
-        "title": "Suno track harvest before free downloads end",
-        "blocked": false
-      },
-      {
-        "title": "unbound_io X post + SDF explorations",
+        "title": "VR mining game",
         "blocked": false
       },
       {
         "title": "Walled City upgrade: real 3D assets + Kowloon-authentic look",
         "blocked": false
-      },
-      {
-        "title": "Whose Model Is It Anyway - AI model identifier",
-        "blocked": false
       }
     ],
-    "backlog_total": 38,
-    "in_progress_total": 25
+    "backlog_total": 41,
+    "in_progress_total": 31
   }
 }

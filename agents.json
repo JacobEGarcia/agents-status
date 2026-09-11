@@ -1,7 +1,7 @@
 {
-  "generated_at": "Friday, September 11, 2026 at 12:56 PM CDT",
-  "generated_epoch": 1789149414,
-  "count": 26,
+  "generated_at": "Friday, September 11, 2026 at 1:27 PM CDT",
+  "generated_epoch": 1789151277,
+  "count": 25,
   "agents": [
     {
       "name": "1000-enemies game",
@@ -39,8 +39,8 @@
       "kind": "build"
     },
     {
-      "name": "FNAF animatronic build",
-      "summary": "Handle the user's iMessage ask: identify the linked michellelsun X post (fxtwitter API if walled), then make a complete FNAF-style animatronic like...",
+      "name": "free certificate harvest",
+      "summary": "See how many google and LinkedIn Learning and corsea certificates you can get and get the cs50 certificate too: (the free one) - he included a Google...",
       "kind": "build"
     },
     {
@@ -56,6 +56,11 @@
     {
       "name": "hcxrli X post project",
       "summary": "Identify what the linked hcxrli X post is (use the fxtwitter API if the page is walled), then play around with it and make cool things from it - his...",
+      "kind": "build"
+    },
+    {
+      "name": "iPhone apps from his ideas",
+      "summary": "Can you code all my ideas that you think would be good apps into iPhone apps, I have a MacBook(Neo) I can run the code on. Reality frame: you can't...",
       "kind": "build"
     },
     {
@@ -84,11 +89,6 @@
       "kind": "build"
     },
     {
-      "name": "Rust limits MuJoCo lane",
-      "summary": "Handle the user's latest steering: use real MuJoCo Menagerie models and run Rust/MuJoCo robotics projects that really push Rust to its limits - take...",
-      "kind": "build"
-    },
-    {
       "name": "Solarpunk VR game",
       "summary": "Make a solarpunk VR game. He has a Meta Quest 3; browser WebXR builds on GitHub Pages have been the pattern for his VR games. Free tools only....",
       "kind": "build"
@@ -114,11 +114,6 @@
       "kind": "build"
     },
     {
-      "name": "yns_fn X post in Blender",
-      "summary": "He sent an X post link (https://x.com/yns_fn/status/2098356785715515864) and said make this in Blender. Open the post, identify what it shows, and...",
-      "kind": "build"
-    },
-    {
       "name": "Agent mail notification manager",
       "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill.",
       "kind": "system"
@@ -132,8 +127,8 @@
   "queued": {
     "scheduled": [
       {
-        "name": "yns_fn X post in Blender",
-        "fires_at": "12:58 PM"
+        "name": "Riffusion track harvest",
+        "fires_at": "1:29 PM"
       }
     ],
     "backlog": [
@@ -147,14 +142,6 @@
       },
       {
         "title": "Anime girl characters with baku_lab head style",
-        "blocked": false
-      },
-      {
-        "title": "Best-possible Lucky Cat 3D model matching classic reference",
-        "blocked": false
-      },
-      {
-        "title": "Blender build from yns_fn X post",
         "blocked": false
       },
       {
@@ -194,10 +181,6 @@
         "blocked": false
       },
       {
-        "title": "Cute low-poly Lucky Cat model",
-        "blocked": false
-      },
-      {
         "title": "Day of the Dead Lego-animation short film",
         "blocked": false
       },
@@ -234,6 +217,10 @@
         "blocked": false
       },
       {
+        "title": "FNAF animatronic v2: way better look",
+        "blocked": false
+      },
+      {
         "title": "Frostfall Godot rebuild with Blender assets",
         "blocked": false
       },
@@ -246,7 +233,15 @@
         "blocked": false
       },
       {
+        "title": "Harvest free certificates (Google, LinkedIn Learning, Coursera, CS50)",
+        "blocked": false
+      },
+      {
         "title": "Help Jacob treat two lip blisters",
+        "blocked": false
+      },
+      {
+        "title": "iPhone apps from his ideas (Xcode-ready SwiftUI)",
         "blocked": false
       },
       {
@@ -263,6 +258,10 @@
       },
       {
         "title": "Launch Jacob creative ventures: Lucky Cat Co, The New Chicagoan, personal blog/photography",
+        "blocked": false
+      },
+      {
+        "title": "Lucky Cat model: superb quality pass (v6)",
         "blocked": false
       },
       {
@@ -302,7 +301,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 41,
-    "in_progress_total": 31
+    "backlog_total": 42,
+    "in_progress_total": 29
   }
 }

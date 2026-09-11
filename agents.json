@@ -1,8 +1,23 @@
 {
-  "generated_at": "Friday, September 11, 2026 at 1:06 AM CDT",
-  "generated_epoch": 1789106810,
-  "count": 20,
+  "generated_at": "Friday, September 11, 2026 at 1:36 AM CDT",
+  "generated_epoch": 1789108614,
+  "count": 27,
   "agents": [
+    {
+      "name": "AI tuber build",
+      "summary": "Handle Jacob's latest iMessage: Make me an ai tuber + X link cla_kuro37459 status 2097948885981508076. That link plus the ask is the whole brief - no...",
+      "kind": "build"
+    },
+    {
+      "name": "anime girl models quality redo",
+      "summary": "Handle Jacob's follow-up: redo ALL past anime girl models so they stop looking like Roblox characters. Scope: the desktop AI buddy girl, the Ani AI...",
+      "kind": "build"
+    },
+    {
+      "name": "Claude export full mine",
+      "summary": "Continue mining Jacob's Claude conversation export: 24 ideas were already built and are live (taskpot, 180-engine, churning-man, appeasement...",
+      "kind": "build"
+    },
     {
       "name": "de-slop pass 4",
       "summary": "Standing quality order on live projects: remove every trace of AI-slop UI and make them feel designed - real design taste, Scandinavian reference....",
@@ -14,8 +29,33 @@
       "kind": "build"
     },
     {
+      "name": "fake ad real game",
+      "summary": "Build the parked fake mobile game ad becomes the actual playable game for Jacob (todo-01M273E80RMGMXBZSRSCG9A37E): recreate the classic fake-ad...",
+      "kind": "build"
+    },
+    {
+      "name": "gleb post build 2",
+      "summary": "Parked ask, now yours: build the X post project from gleb_alexandrov (the second gleb post ask, anchor phonemsg-01M27AKWJXPHT8C9GQP9N12744). The post...",
+      "kind": "build"
+    },
+    {
+      "name": "horror library game",
+      "summary": "Build the parked horror library game for Jacob (todo-01M272X00CCVEK7KHEA29N4VV3): browser horror game set in a library - atmospheric, dark...",
+      "kind": "build"
+    },
+    {
+      "name": "HQ anime girl Blender",
+      "summary": "Handle Jacob's latest two iMessages: build him an animated anime girl in Blender, genuinely high quality (detailed, anime-accurate proportions, clean...",
+      "kind": "build"
+    },
+    {
       "name": "Kaggle+HF model pipeline",
       "summary": "Work the pipeline angle between the user's Kaggle and Hugging Face accounts: find the best free path to run bigger open models than the shared HF...",
+      "kind": "build"
+    },
+    {
+      "name": "kiratchi X post build",
+      "summary": "Handle Jacob's latest iMessage: Make this real + X link kiratchi0328 status 2098179340756480328. Identify the post (fxtwitter/unrollnow mirror if...",
       "kind": "build"
     },
     {
@@ -24,8 +64,8 @@
       "kind": "build"
     },
     {
-      "name": "Menagerie robot projects",
-      "summary": "He wants projects using real 3D robot models like the ones in MuJoCo Menagerie. Build interactive browser projects that load and animate actual...",
+      "name": "Lovecraft game",
+      "summary": "Build the parked Lovecraft game for Jacob (todo-01M24170BN17BS805DAA4DBAM6): matches the Ray Ervian X reference he sent - identify the reference if...",
       "kind": "build"
     },
     {
@@ -44,8 +84,8 @@
       "kind": "build"
     },
     {
-      "name": "NERV UI app suite",
-      "summary": "Handle the user's latest iMessage pair: an X link (bagusindrayana_ post 2098068198793076755) plus Make me a bunch of applications using neon genesis...",
+      "name": "Museum of Acceleration",
+      "summary": "Build the parked exploded-view 3D website for Jacob (todo-01M27484EWWCEPKJ0PHYHQMBTS): Museum of Acceleration - an exploded-view 3D web experience...",
       "kind": "build"
     },
     {
@@ -54,8 +94,8 @@
       "kind": "build"
     },
     {
-      "name": "right place montage",
-      "summary": "A montage video of the latest and greatest tech demo clips - SpaceX, Artemis, humanoid robot demos, robotics demos, Neuralink, Boring Company - cut...",
+      "name": "RoboCop VR game",
+      "summary": "Build the parked RoboCop VR game for Jacob (anchor phonemsg-01M276ZHD8GM9NVF8N07K34P5R): WebXR browser game, RoboCop theme - Detroit, Auto-9 pistol...",
       "kind": "build"
     },
     {
@@ -64,18 +104,8 @@
       "kind": "build"
     },
     {
-      "name": "somewheresy build 2",
-      "summary": "Make this real plus the X link https://x.com/somewheresy/status/2098031774588711162?s=46 - identify what the post shows and build a working version...",
-      "kind": "build"
-    },
-    {
       "name": "suddenxfear film game",
       "summary": "Handle the user's parked iMessage ask: Make a game based off this film + X link (suddenxfear post 2098079631920304416, anchor...",
-      "kind": "build"
-    },
-    {
-      "name": "transformers-vr rebuild",
-      "summary": "Rebuild the Transformers VR web game for Jacob (the original source was lost): a WebXR browser game - Transformers theme, playable on Quest 3 browser...",
       "kind": "build"
     },
     {
@@ -86,6 +116,11 @@
     {
       "name": "VR mining game",
       "summary": "Build a VR mining game. WebXR playable on Quest 3 with desktop fallback, deployed to GitHub Pages like the rest of tonight's games, visually verified...",
+      "kind": "build"
+    },
+    {
+      "name": "VR slot machine casino",
+      "summary": "Build the parked VR slot machine casino game for Jacob (todo-01M2756DQQEJGPVW879X68S9HA): WebXR browser game - pull the lever in VR, casino...",
       "kind": "build"
     },
     {
@@ -102,16 +137,12 @@
   "queued": {
     "scheduled": [
       {
-        "name": "turbopuffer projects",
-        "fires_at": "1:05 AM"
-      },
-      {
         "name": "Kaggle+HF model pipeline",
-        "fires_at": "1:13 AM"
+        "fires_at": "1:40 AM"
       },
       {
-        "name": "Metropolis 1927 game",
-        "fires_at": "1:20 AM"
+        "name": "turbopuffer projects",
+        "fires_at": "1:45 AM"
       },
       {
         "name": "eevee-lab rebuild",
@@ -137,10 +168,6 @@
       },
       {
         "title": "Build ANI companion version from Sketchfab stylized model collection",
-        "blocked": false
-      },
-      {
-        "title": "Build gleb_alexandrov post 2097968331298898239",
         "blocked": false
       },
       {
@@ -264,7 +291,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 36,
-    "in_progress_total": 27
+    "backlog_total": 35,
+    "in_progress_total": 30
   }
 }

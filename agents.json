@@ -1,51 +1,16 @@
 {
-  "generated_at": "Friday, September 11, 2026 at 12:06 AM CDT",
-  "generated_epoch": 1789103203,
-  "count": 27,
+  "generated_at": "Friday, September 11, 2026 at 12:37 AM CDT",
+  "generated_epoch": 1789105025,
+  "count": 20,
   "agents": [
-    {
-      "name": "casted shadows v2",
-      "summary": "Make the casted shawls a project way better - he means CASTED SHADOWS, the shadow-print studio built earlier tonight, and he wants it taken way...",
-      "kind": "build"
-    },
-    {
-      "name": "causasui art",
-      "summary": "Make me art inspired by this plus the X link https://x.com/__causasui/status/2097969311612903444 he sent right after. Identify the post first (x.com...",
-      "kind": "build"
-    },
-    {
-      "name": "ciguleva game",
-      "summary": "Make a real game inspired by this plus the X link https://x.com/ciguleva/status/2097909361226268826 he sent right after. Identify the post first...",
-      "kind": "build"
-    },
     {
       "name": "Claude export idea mine",
       "summary": "Mine his Claude export for projects and ideas and make them real, same treatment as the Apple Notes doc. The export is in his Drive...",
       "kind": "build"
     },
     {
-      "name": "de-slop pass 1",
-      "summary": "Standing quality order on live projects: remove every trace of AI-slop UI and make them feel designed - real design taste, Scandinavian reference....",
-      "kind": "build"
-    },
-    {
       "name": "de-slop pass 4",
       "summary": "Standing quality order on live projects: remove every trace of AI-slop UI and make them feel designed - real design taste, Scandinavian reference....",
-      "kind": "build"
-    },
-    {
-      "name": "de-slop pass 5",
-      "summary": "Standing quality order on live projects: remove every trace of AI-slop UI and make them feel designed - real design taste, Scandinavian reference....",
-      "kind": "build"
-    },
-    {
-      "name": "deemostech build",
-      "summary": "Make this real plus the X link https://x.com/deemostech/status/2098150590719414656 he sent right after. Identify the post first (x.com won't fetch...",
-      "kind": "build"
-    },
-    {
-      "name": "imposter post build",
-      "summary": "Handle the user's latest iMessage pair: Make this + X link (_1mposter post 2098137407090729102). Identify the post (fxtwitter/unrollnow mirrors)...",
       "kind": "build"
     },
     {
@@ -61,6 +26,11 @@
     {
       "name": "Menagerie robot projects",
       "summary": "He wants projects using real 3D robot models like the ones in MuJoCo Menagerie. Build interactive browser projects that load and animate actual...",
+      "kind": "build"
+    },
+    {
+      "name": "Metropolis 1927 game",
+      "summary": "Handle the user's parked iMessage ask (anchor phonemsg-01M27C1GAZ94SCDAR6V4EERRJ7): a game based on Metropolis (1927, Fritz Lang - public domain)....",
       "kind": "build"
     },
     {
@@ -104,8 +74,8 @@
       "kind": "build"
     },
     {
-      "name": "takimunk build",
-      "summary": "Make something cool with this plus the X link https://x.com/takimunk/status/2098199089267789933 he sent right before. Identify the post first (x.com...",
+      "name": "suddenxfear film game",
+      "summary": "Handle the user's parked iMessage ask: Make a game based off this film + X link (suddenxfear post 2098079631920304416, anchor...",
       "kind": "build"
     },
     {
@@ -116,11 +86,6 @@
     {
       "name": "VR mining game",
       "summary": "Build a VR mining game. WebXR playable on Quest 3 with desktop fallback, deployed to GitHub Pages like the rest of tonight's games, visually verified...",
-      "kind": "build"
-    },
-    {
-      "name": "yungcontent build + ideas",
-      "summary": "Make this and ideas inspired by this plus the X link https://x.com/yungcontent/status/2098140729084403967 he sent right after, plus his follow-up...",
       "kind": "build"
     },
     {
@@ -137,76 +102,24 @@
   "queued": {
     "scheduled": [
       {
-        "name": "causasui art",
-        "fires_at": "12:03 AM"
+        "name": "Menagerie robot projects",
+        "fires_at": "12:38 AM"
       },
       {
         "name": "turbopuffer projects",
-        "fires_at": "12:05 AM"
-      },
-      {
-        "name": "notes doc inventory",
-        "fires_at": "12:06 AM"
-      },
-      {
-        "name": "casted shadows v2",
-        "fires_at": "12:06 AM"
-      },
-      {
-        "name": "Claude export idea mine",
-        "fires_at": "12:06 AM"
-      },
-      {
-        "name": "de-slop pass 5",
-        "fires_at": "12:06 AM"
-      },
-      {
-        "name": "de-slop pass 4",
-        "fires_at": "12:06 AM"
-      },
-      {
-        "name": "somewheresy build 2",
-        "fires_at": "12:06 AM"
-      },
-      {
-        "name": "deemostech build",
-        "fires_at": "12:07 AM"
-      },
-      {
-        "name": "Menagerie robot projects",
-        "fires_at": "12:08 AM"
+        "fires_at": "12:40 AM"
       },
       {
         "name": "Kaggle+HF model pipeline",
-        "fires_at": "12:10 AM"
-      },
-      {
-        "name": "imposter post build",
-        "fires_at": "12:12 AM"
-      },
-      {
-        "name": "No Mans Sky VR",
-        "fires_at": "12:12 AM"
-      },
-      {
-        "name": "ciguleva game",
-        "fires_at": "12:14 AM"
-      },
-      {
-        "name": "Kaggle+HF model pipeline",
-        "fires_at": "12:15 AM"
-      },
-      {
-        "name": "takimunk build",
-        "fires_at": "12:22 AM"
+        "fires_at": "12:43 AM"
       },
       {
         "name": "right place montage",
-        "fires_at": "12:25 AM"
+        "fires_at": "12:55 AM"
       },
       {
-        "name": "NERV UI app suite",
-        "fires_at": "12:30 AM"
+        "name": "Metropolis 1927 game",
+        "fires_at": "1:20 AM"
       }
     ],
     "backlog": [
@@ -231,14 +144,6 @@
         "blocked": false
       },
       {
-        "title": "Build clemmygames X post game",
-        "blocked": false
-      },
-      {
-        "title": "Build game from suddenxfear film post",
-        "blocked": false
-      },
-      {
         "title": "Build gleb_alexandrov post 2097968331298898239",
         "blocked": false
       },
@@ -247,15 +152,7 @@
         "blocked": false
       },
       {
-        "title": "Build kevin_t_ngo X post project",
-        "blocked": false
-      },
-      {
         "title": "Build palekirill X post scenes and clips in Blender",
-        "blocked": false
-      },
-      {
-        "title": "Build pushkar11420566 X post project",
         "blocked": false
       },
       {
@@ -355,10 +252,6 @@
         "blocked": false
       },
       {
-        "title": "Metropolis 1927 game",
-        "blocked": false
-      },
-      {
         "title": "Minecraft VR + Rust voxel game",
         "blocked": false
       },
@@ -379,7 +272,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 42,
-    "in_progress_total": 35
+    "backlog_total": 37,
+    "in_progress_total": 30
   }
 }

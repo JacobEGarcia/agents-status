@@ -1,11 +1,21 @@
 {
-  "generated_at": "Friday, September 11, 2026 at 9:47 AM CDT",
-  "generated_epoch": 1789138034,
-  "count": 11,
+  "generated_at": "Friday, September 11, 2026 at 11:32 AM CDT",
+  "generated_epoch": 1789144330,
+  "count": 27,
   "agents": [
     {
       "name": "anime girl models quality redo",
       "summary": "Handle Jacob's follow-up: redo ALL past anime girl models so they stop looking like Roblox characters. Scope: the desktop AI buddy girl, the Ani AI...",
+      "kind": "build"
+    },
+    {
+      "name": "ann_nnng X post build",
+      "summary": "Handle the user's make this X-post build. Identify what the post is/shows (fetch https://x.com/ann_nnng/status/2098353630848160192; if unreachable...",
+      "kind": "build"
+    },
+    {
+      "name": "Blender scan art",
+      "summary": "Handle the user's latest request: look up free 3D scans and make something beautiful like the KIRI post - IN BLENDER, not generated images. Source...",
       "kind": "build"
     },
     {
@@ -14,8 +24,23 @@
       "kind": "build"
     },
     {
-      "name": "de-slop pass 4",
-      "summary": "Standing quality order on live projects: remove every trace of AI-slop UI and make them feel designed - real design taste, Scandinavian reference....",
+      "name": "de-slop 84 A-M",
+      "summary": "Handle the user's latest request: reiterate on the 84 notes-doc projects until none look AI-vibe-coded and all read as expertly human-crafted (his...",
+      "kind": "build"
+    },
+    {
+      "name": "de-slop 84 N-Z",
+      "summary": "Handle the user's latest request: reiterate on the 84 notes-doc projects until none look AI-vibe-coded and all read as expertly human-crafted (his...",
+      "kind": "build"
+    },
+    {
+      "name": "jakesucky X games build",
+      "summary": "Handle the user's request make beautiful games with this for the X post at https://x.com/jakesucky/status/2034368815337984022. Identify what the post...",
+      "kind": "build"
+    },
+    {
+      "name": "kogugamedev X post build",
+      "summary": "Handle the user's make this X-post build. Identify what the post is/shows (fetch https://x.com/kogugamedev/status/2098268769693163576; if...",
       "kind": "build"
     },
     {
@@ -34,13 +59,68 @@
       "kind": "build"
     },
     {
+      "name": "outtalk-the-boomer 3D",
+      "summary": "Handle the user's latest correction: Make the boomer game 3d - he means outtalk-the-boomer, just delivered as a 2D de-slop at...",
+      "kind": "build"
+    },
+    {
+      "name": "Rust robotics projects",
+      "summary": "Handle the user's latest request: make robotics projects using Rust on real 3D robotics models - e.g. simulation/control demos built in Rust driving...",
+      "kind": "build"
+    },
+    {
       "name": "Second Brain app",
       "summary": "Build him a Second Brain app (the idea is in his notes as Second Brain AI app). A personal knowledge base that runs fully in the browser: capture...",
       "kind": "build"
     },
     {
+      "name": "SIEGFRIED + Poseidon 3D",
+      "summary": "Handle the user's two latest iMessage requests: rebuild SIEGFRIED (jacobegarcia.github.io/siegfried/, a 3-act silent-film game from Fritz Lang's DIE...",
+      "kind": "build"
+    },
+    {
+      "name": "TripoSR anime girls",
+      "summary": "Handle the user's latest request: play with TripoSR and make perfect anime girls - high-quality stylized anime-girl 3D models, iterated until they...",
+      "kind": "build"
+    },
+    {
+      "name": "VR bowling game",
+      "summary": "Handle the user's VR bowling game ask from the VR batch. Build it like the sibling VR lanes: a full web VR experience (Quest 3 + desktop fallback)...",
+      "kind": "build"
+    },
+    {
+      "name": "VR Costco horror game",
+      "summary": "Handle the user's VR Costco horror game ask from the VR batch. Build it like the sibling VR lanes: a full Godot web VR experience, deployed to GitHub...",
+      "kind": "build"
+    },
+    {
+      "name": "VR GameStop game",
+      "summary": "Handle the user's request: make a VR GameStop game. Build it as a WebXR VR experience (plays in browser on his Meta Quest 3) deployed live on the...",
+      "kind": "build"
+    },
+    {
+      "name": "VR IKEA horror game",
+      "summary": "Handle the user's VR IKEA horror game ask from the VR batch. Build it like the sibling VR lanes: a full Godot/Three.js web VR experience, deployed to...",
+      "kind": "build"
+    },
+    {
+      "name": "VR Micro Center game",
+      "summary": "Handle the user's request: make a VR Micro Center game. Build it as a WebXR VR experience (plays in browser on his Meta Quest 3) deployed live on the...",
+      "kind": "build"
+    },
+    {
+      "name": "VR Micro Center game",
+      "summary": "Handle the user's VR Micro Center game ask from the VR batch. Build it like the sibling VR lanes: a full Godot web VR experience, deployed to GitHub...",
+      "kind": "build"
+    },
+    {
       "name": "VR mining game",
       "summary": "Build a VR mining game. WebXR playable on Quest 3 with desktop fallback, deployed to GitHub Pages like the rest of tonight's games, visually verified...",
+      "kind": "build"
+    },
+    {
+      "name": "Womp creations",
+      "summary": "Handle the user's latest request: make a bunch of cool, beautiful things with Womp (https://beta.womp.com - browser 3D design tool). Use the...",
       "kind": "build"
     },
     {
@@ -55,7 +135,28 @@
     }
   ],
   "queued": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "name": "Rust robotics projects",
+        "fires_at": "11:33 AM"
+      },
+      {
+        "name": "TripoSR anime girls",
+        "fires_at": "11:33 AM"
+      },
+      {
+        "name": "de-slop 84 A-M",
+        "fires_at": "11:34 AM"
+      },
+      {
+        "name": "jakesucky X games build",
+        "fires_at": "11:35 AM"
+      },
+      {
+        "name": "VR Micro Center game",
+        "fires_at": "11:38 AM"
+      }
+    ],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",
@@ -187,6 +288,6 @@
       }
     ],
     "backlog_total": 32,
-    "in_progress_total": 17
+    "in_progress_total": 32
   }
 }

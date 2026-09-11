@@ -1,13 +1,8 @@
 {
-  "generated_at": "Friday, September 11, 2026 at 2:07 AM CDT",
-  "generated_epoch": 1789110423,
-  "count": 22,
+  "generated_at": "Friday, September 11, 2026 at 2:37 AM CDT",
+  "generated_epoch": 1789112231,
+  "count": 18,
   "agents": [
-    {
-      "name": "AI tuber build",
-      "summary": "Handle Jacob's latest iMessage: Make me an ai tuber + X link cla_kuro37459 status 2097948885981508076. That link plus the ask is the whole brief - no...",
-      "kind": "build"
-    },
     {
       "name": "anime girl models quality redo",
       "summary": "Handle Jacob's follow-up: redo ALL past anime girl models so they stop looking like Roblox characters. Scope: the desktop AI buddy girl, the Ani AI...",
@@ -26,16 +21,6 @@
     {
       "name": "eevee-lab rebuild",
       "summary": "Rebuild the eevee-lab web project for Jacob (original source lost; it was an Eevee/evolution-lab themed interactive web experience). Rebuild it from...",
-      "kind": "build"
-    },
-    {
-      "name": "gleb post build 2",
-      "summary": "Parked ask, now yours: build the X post project from gleb_alexandrov (the second gleb post ask, anchor phonemsg-01M27AKWJXPHT8C9GQP9N12744). The post...",
-      "kind": "build"
-    },
-    {
-      "name": "horror library game",
-      "summary": "Build the parked horror library game for Jacob (todo-01M272X00CCVEK7KHEA29N4VV3): browser horror game set in a library - atmospheric, dark...",
       "kind": "build"
     },
     {
@@ -74,11 +59,6 @@
       "kind": "build"
     },
     {
-      "name": "RoboCop VR game",
-      "summary": "Build the parked RoboCop VR game for Jacob (anchor phonemsg-01M276ZHD8GM9NVF8N07K34P5R): WebXR browser game, RoboCop theme - Detroit, Auto-9 pistol...",
-      "kind": "build"
-    },
-    {
       "name": "Second Brain app",
       "summary": "Build him a Second Brain app (the idea is in his notes as Second Brain AI app). A personal knowledge base that runs fully in the browser: capture...",
       "kind": "build"
@@ -113,15 +93,7 @@
     "scheduled": [
       {
         "name": "Kaggle+HF model pipeline",
-        "fires_at": "2:08 AM"
-      },
-      {
-        "name": "turbopuffer projects",
-        "fires_at": "2:10 AM"
-      },
-      {
-        "name": "eevee-lab rebuild",
-        "fires_at": "2:45 AM"
+        "fires_at": "2:46 AM"
       }
     ],
     "backlog": [
@@ -143,10 +115,6 @@
       },
       {
         "title": "Build ANI companion version from Sketchfab stylized model collection",
-        "blocked": false
-      },
-      {
-        "title": "Build horror library game",
         "blocked": false
       },
       {
@@ -262,7 +230,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 34,
-    "in_progress_total": 26
+    "backlog_total": 33,
+    "in_progress_total": 23
   }
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, September 11, 2026 at 5:07 AM CDT",
-  "generated_epoch": 1789121252,
+  "generated_at": "Friday, September 11, 2026 at 5:43 AM CDT",
+  "generated_epoch": 1789123416,
   "count": 12,
   "agents": [
     {
@@ -63,7 +63,7 @@
     "scheduled": [
       {
         "name": "Kaggle+HF model pipeline",
-        "fires_at": "5:15 AM"
+        "fires_at": "5:52 AM"
       }
     ],
     "backlog": [

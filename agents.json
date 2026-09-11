@@ -1,7 +1,7 @@
 {
-  "generated_at": "Friday, September 11, 2026 at 1:27 PM CDT",
-  "generated_epoch": 1789151277,
-  "count": 25,
+  "generated_at": "Friday, September 11, 2026 at 1:58 PM CDT",
+  "generated_epoch": 1789153087,
+  "count": 23,
   "agents": [
     {
       "name": "1000-enemies game",
@@ -14,8 +14,8 @@
       "kind": "build"
     },
     {
-      "name": "baku_lab anime head girls",
-      "summary": "Handle the user's latest iMessage pair: Make anime girl characters with heads like this + the baku_lab X post link he sent right after. The linked...",
+      "name": "3D Cabela hunting game",
+      "summary": "Build a 3D Cabela's-style outdoor game (big-box hunting/fishing sim energy: tracking, stalking, casting, trophy shots, great outdoors vistas). Web...",
       "kind": "build"
     },
     {
@@ -54,11 +54,6 @@
       "kind": "build"
     },
     {
-      "name": "hcxrli X post project",
-      "summary": "Identify what the linked hcxrli X post is (use the fxtwitter API if the page is walled), then play around with it and make cool things from it - his...",
-      "kind": "build"
-    },
-    {
       "name": "iPhone apps from his ideas",
       "summary": "Can you code all my ideas that you think would be good apps into iPhone apps, I have a MacBook(Neo) I can run the code on. Reality frame: you can't...",
       "kind": "build"
@@ -86,11 +81,6 @@
     {
       "name": "Riffusion track harvest",
       "summary": "He approved the Riffusion switch - Yes do riffusion instead. Context: his Suno free account hit 0 downloads left (new free-plan rule), and his 13...",
-      "kind": "build"
-    },
-    {
-      "name": "Solarpunk VR game",
-      "summary": "Make a solarpunk VR game. He has a Meta Quest 3; browser WebXR builds on GitHub Pages have been the pattern for his VR games. Free tools only....",
       "kind": "build"
     },
     {
@@ -127,8 +117,8 @@
   "queued": {
     "scheduled": [
       {
-        "name": "Riffusion track harvest",
-        "fires_at": "1:29 PM"
+        "name": "3D asset upgrade pass",
+        "fires_at": "1:58 PM"
       }
     ],
     "backlog": [
@@ -217,10 +207,6 @@
         "blocked": false
       },
       {
-        "title": "FNAF animatronic v2: way better look",
-        "blocked": false
-      },
-      {
         "title": "Frostfall Godot rebuild with Blender assets",
         "blocked": false
       },
@@ -301,7 +287,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 42,
-    "in_progress_total": 29
+    "backlog_total": 41,
+    "in_progress_total": 28
   }
 }

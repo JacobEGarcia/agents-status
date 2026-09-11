@@ -1,7 +1,7 @@
 {
-  "generated_at": "Friday, September 11, 2026 at 1:36 AM CDT",
-  "generated_epoch": 1789108614,
-  "count": 27,
+  "generated_at": "Friday, September 11, 2026 at 2:07 AM CDT",
+  "generated_epoch": 1789110423,
+  "count": 22,
   "agents": [
     {
       "name": "AI tuber build",
@@ -29,11 +29,6 @@
       "kind": "build"
     },
     {
-      "name": "fake ad real game",
-      "summary": "Build the parked fake mobile game ad becomes the actual playable game for Jacob (todo-01M273E80RMGMXBZSRSCG9A37E): recreate the classic fake-ad...",
-      "kind": "build"
-    },
-    {
       "name": "gleb post build 2",
       "summary": "Parked ask, now yours: build the X post project from gleb_alexandrov (the second gleb post ask, anchor phonemsg-01M27AKWJXPHT8C9GQP9N12744). The post...",
       "kind": "build"
@@ -54,18 +49,8 @@
       "kind": "build"
     },
     {
-      "name": "kiratchi X post build",
-      "summary": "Handle Jacob's latest iMessage: Make this real + X link kiratchi0328 status 2098179340756480328. Identify the post (fxtwitter/unrollnow mirror if...",
-      "kind": "build"
-    },
-    {
       "name": "loop: soft-body squash loop",
       "summary": "The user wants the coolest satisfying infinite-loop animations, made in Blender. Your lane: soft-body squash loop - satisfying squishy physics: a...",
-      "kind": "build"
-    },
-    {
-      "name": "Lovecraft game",
-      "summary": "Build the parked Lovecraft game for Jacob (todo-01M24170BN17BS805DAA4DBAM6): matches the Ray Ervian X reference he sent - identify the reference if...",
       "kind": "build"
     },
     {
@@ -81,11 +66,6 @@
     {
       "name": "Minecraft VR",
       "summary": "Build Minecraft in VR. A voxel world - mine blocks, place blocks, procedurally generated terrain, WebXR on Quest 3 with desktop fallback, deployed to...",
-      "kind": "build"
-    },
-    {
-      "name": "Museum of Acceleration",
-      "summary": "Build the parked exploded-view 3D website for Jacob (todo-01M27484EWWCEPKJ0PHYHQMBTS): Museum of Acceleration - an exploded-view 3D web experience...",
       "kind": "build"
     },
     {
@@ -119,11 +99,6 @@
       "kind": "build"
     },
     {
-      "name": "VR slot machine casino",
-      "summary": "Build the parked VR slot machine casino game for Jacob (todo-01M2756DQQEJGPVW879X68S9HA): WebXR browser game - pull the lever in VR, casino...",
-      "kind": "build"
-    },
-    {
       "name": "Agent mail notification manager",
       "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill.",
       "kind": "system"
@@ -138,11 +113,11 @@
     "scheduled": [
       {
         "name": "Kaggle+HF model pipeline",
-        "fires_at": "1:40 AM"
+        "fires_at": "2:08 AM"
       },
       {
         "name": "turbopuffer projects",
-        "fires_at": "1:45 AM"
+        "fires_at": "2:10 AM"
       },
       {
         "name": "eevee-lab rebuild",
@@ -231,14 +206,6 @@
         "blocked": false
       },
       {
-        "title": "Exploded-view 3D website (Museum of Acceleration)",
-        "blocked": false
-      },
-      {
-        "title": "Fake mobile game ad -> actual playable game",
-        "blocked": false
-      },
-      {
         "title": "Fern-style Manhattan Project video",
         "blocked": false
       },
@@ -275,6 +242,10 @@
         "blocked": false
       },
       {
+        "title": "Metropolis 3D film-grade rebuild (iterate to film look)",
+        "blocked": false
+      },
+      {
         "title": "Minecraft VR + Rust voxel game",
         "blocked": false
       },
@@ -291,7 +262,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 35,
-    "in_progress_total": 30
+    "backlog_total": 34,
+    "in_progress_total": 26
   }
 }

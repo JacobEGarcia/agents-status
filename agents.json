@@ -1,7 +1,7 @@
 {
-  "generated_at": "Friday, September 11, 2026 at 3:07 AM CDT",
-  "generated_epoch": 1789114055,
-  "count": 15,
+  "generated_at": "Friday, September 11, 2026 at 3:37 AM CDT",
+  "generated_epoch": 1789115843,
+  "count": 13,
   "agents": [
     {
       "name": "anime girl models quality redo",
@@ -16,11 +16,6 @@
     {
       "name": "de-slop pass 4",
       "summary": "Standing quality order on live projects: remove every trace of AI-slop UI and make them feel designed - real design taste, Scandinavian reference....",
-      "kind": "build"
-    },
-    {
-      "name": "HQ anime girl Blender",
-      "summary": "Handle Jacob's latest two iMessages: build him an animated anime girl in Blender, genuinely high quality (detailed, anime-accurate proportions, clean...",
       "kind": "build"
     },
     {
@@ -54,11 +49,6 @@
       "kind": "build"
     },
     {
-      "name": "suddenxfear film game",
-      "summary": "Handle the user's parked iMessage ask: Make a game based off this film + X link (suddenxfear post 2098079631920304416, anchor...",
-      "kind": "build"
-    },
-    {
       "name": "VR mining game",
       "summary": "Build a VR mining game. WebXR playable on Quest 3 with desktop fallback, deployed to GitHub Pages like the rest of tonight's games, visually verified...",
       "kind": "build"
@@ -78,7 +68,7 @@
     "scheduled": [
       {
         "name": "Kaggle+HF model pipeline",
-        "fires_at": "3:13 AM"
+        "fires_at": "3:41 AM"
       }
     ],
     "backlog": [
@@ -212,6 +202,6 @@
       }
     ],
     "backlog_total": 32,
-    "in_progress_total": 21
+    "in_progress_total": 19
   }
 }

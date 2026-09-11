@@ -1,7 +1,7 @@
 {
-  "generated_at": "Friday, September 11, 2026 at 3:37 AM CDT",
-  "generated_epoch": 1789115843,
-  "count": 13,
+  "generated_at": "Friday, September 11, 2026 at 4:07 AM CDT",
+  "generated_epoch": 1789117642,
+  "count": 12,
   "agents": [
     {
       "name": "anime girl models quality redo",
@@ -39,11 +39,6 @@
       "kind": "build"
     },
     {
-      "name": "notes doc inventory",
-      "summary": "He has a Google Doc containing all his notes - ideas, thoughts, projects. Find it in his Google Drive, read the whole thing, and report back a...",
-      "kind": "build"
-    },
-    {
       "name": "Second Brain app",
       "summary": "Build him a Second Brain app (the idea is in his notes as Second Brain AI app). A personal knowledge base that runs fully in the browser: capture...",
       "kind": "build"
@@ -68,7 +63,7 @@
     "scheduled": [
       {
         "name": "Kaggle+HF model pipeline",
-        "fires_at": "3:41 AM"
+        "fires_at": "4:09 AM"
       }
     ],
     "backlog": [
@@ -202,6 +197,6 @@
       }
     ],
     "backlog_total": 32,
-    "in_progress_total": 19
+    "in_progress_total": 18
   }
 }

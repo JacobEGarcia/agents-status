@@ -1,16 +1,16 @@
 {
-  "generated_at": "Friday, September 11, 2026 at 12:37 AM CDT",
-  "generated_epoch": 1789105025,
+  "generated_at": "Friday, September 11, 2026 at 1:06 AM CDT",
+  "generated_epoch": 1789106810,
   "count": 20,
   "agents": [
     {
-      "name": "Claude export idea mine",
-      "summary": "Mine his Claude export for projects and ideas and make them real, same treatment as the Apple Notes doc. The export is in his Drive...",
+      "name": "de-slop pass 4",
+      "summary": "Standing quality order on live projects: remove every trace of AI-slop UI and make them feel designed - real design taste, Scandinavian reference....",
       "kind": "build"
     },
     {
-      "name": "de-slop pass 4",
-      "summary": "Standing quality order on live projects: remove every trace of AI-slop UI and make them feel designed - real design taste, Scandinavian reference....",
+      "name": "eevee-lab rebuild",
+      "summary": "Rebuild the eevee-lab web project for Jacob (original source lost; it was an Eevee/evolution-lab themed interactive web experience). Rebuild it from...",
       "kind": "build"
     },
     {
@@ -49,11 +49,6 @@
       "kind": "build"
     },
     {
-      "name": "No Mans Sky VR",
-      "summary": "Build a No Man's Sky-style game in VR. Procedural planets you can fly between - take off from a planet surface, through the atmosphere, into space...",
-      "kind": "build"
-    },
-    {
       "name": "notes doc inventory",
       "summary": "He has a Google Doc containing all his notes - ideas, thoughts, projects. Find it in his Google Drive, read the whole thing, and report back a...",
       "kind": "build"
@@ -76,6 +71,11 @@
     {
       "name": "suddenxfear film game",
       "summary": "Handle the user's parked iMessage ask: Make a game based off this film + X link (suddenxfear post 2098079631920304416, anchor...",
+      "kind": "build"
+    },
+    {
+      "name": "transformers-vr rebuild",
+      "summary": "Rebuild the Transformers VR web game for Jacob (the original source was lost): a WebXR browser game - Transformers theme, playable on Quest 3 browser...",
       "kind": "build"
     },
     {
@@ -102,24 +102,20 @@
   "queued": {
     "scheduled": [
       {
-        "name": "Menagerie robot projects",
-        "fires_at": "12:38 AM"
-      },
-      {
         "name": "turbopuffer projects",
-        "fires_at": "12:40 AM"
+        "fires_at": "1:05 AM"
       },
       {
         "name": "Kaggle+HF model pipeline",
-        "fires_at": "12:43 AM"
-      },
-      {
-        "name": "right place montage",
-        "fires_at": "12:55 AM"
+        "fires_at": "1:13 AM"
       },
       {
         "name": "Metropolis 1927 game",
         "fires_at": "1:20 AM"
+      },
+      {
+        "name": "eevee-lab rebuild",
+        "fires_at": "2:45 AM"
       }
     ],
     "backlog": [
@@ -264,15 +260,11 @@
         "blocked": false
       },
       {
-        "title": "Transformers VR game",
-        "blocked": false
-      },
-      {
         "title": "Walled City upgrade: real 3D assets + Kowloon-authentic look",
         "blocked": false
       }
     ],
-    "backlog_total": 37,
-    "in_progress_total": 30
+    "backlog_total": 36,
+    "in_progress_total": 27
   }
 }

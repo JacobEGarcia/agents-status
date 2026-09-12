@@ -1,6 +1,6 @@
 {
-  "generated_at": "Saturday, September 12, 2026 at 8:07 AM CDT",
-  "generated_epoch": 1789218431,
+  "generated_at": "Saturday, September 12, 2026 at 8:37 AM CDT",
+  "generated_epoch": 1789220242,
   "count": 25,
   "agents": [
     {
@@ -125,16 +125,7 @@
     }
   ],
   "queued": {
-    "scheduled": [
-      {
-        "name": "terminal browser access",
-        "fires_at": "8:09 AM"
-      },
-      {
-        "name": "Margaux - CEO, ambient-compute fashion",
-        "fires_at": "8:30 AM"
-      }
-    ],
+    "scheduled": [],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",

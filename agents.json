@@ -1,7 +1,7 @@
 {
-  "generated_at": "Saturday, September 12, 2026 at 12:35 AM CDT",
-  "generated_epoch": 1789191339,
-  "count": 26,
+  "generated_at": "Saturday, September 12, 2026 at 1:05 AM CDT",
+  "generated_epoch": 1789193140,
+  "count": 28,
   "agents": [
     {
       "name": "1000-enemies game",
@@ -19,6 +19,11 @@
       "kind": "build"
     },
     {
+      "name": "Cancelled Valve games lead",
+      "summary": "Handle the user's latest ask: make EVERY cancelled Valve game real - each one its own complete, playable game. You are the lead for the catalog. Two...",
+      "kind": "build"
+    },
+    {
       "name": "CEO - Lucky Cat Robotics",
       "summary": "Standing role, from the user's latest iMessage: you are the CEO of Lucky Cat Robotics, always working. Lucky Cat = his maneki-neko with a voice...",
       "kind": "build"
@@ -26,11 +31,6 @@
     {
       "name": "Claude export full mine",
       "summary": "Continue mining Jacob's Claude conversation export: 24 ideas were already built and are live (taskpot, 180-engine, churning-man, appeasement...",
-      "kind": "build"
-    },
-    {
-      "name": "de-slop 84 N-Z",
-      "summary": "Handle the user's latest request: reiterate on the 84 notes-doc projects until none look AI-vibe-coded and all read as expertly human-crafted (his...",
       "kind": "build"
     },
     {
@@ -49,13 +49,18 @@
       "kind": "build"
     },
     {
-      "name": "King - DePaul Chess Club hype",
-      "summary": "You are the standing hype engine for DePaul Chess Club, per the user's latest iMessage. Own: post ideas, captions, designed stills, reels/videos...",
+      "name": "GTA 6 game lead",
+      "summary": "Handle the user's latest ask: make GTA 6 real - a complete, playable game, iterated until great. You are the lead for this game. Playbook (same as...",
       "kind": "build"
     },
     {
-      "name": "LEVEL brand + line designs",
-      "summary": "Handle the user's latest iMessage (the LEVEL fashion one). Lane: brand identity + opening fashion line designs. Context from him: his mother had a...",
+      "name": "Half-Life 3 game lead",
+      "summary": "Handle the user's latest ask: make Half-Life 3 real - a complete, playable game, iterated until great. You are the lead for this game. Playbook (same...",
+      "kind": "build"
+    },
+    {
+      "name": "King - DePaul Chess Club hype",
+      "summary": "You are the standing hype engine for DePaul Chess Club, per the user's latest iMessage. Own: post ideas, captions, designed stills, reels/videos...",
       "kind": "build"
     },
     {
@@ -69,6 +74,16 @@
       "kind": "build"
     },
     {
+      "name": "Portal 3 game lead",
+      "summary": "Handle the user's ask: make Portal 3 - a complete, playable game, iterated until great. You are the lead for this game alone. Playbook (same as Stars...",
+      "kind": "build"
+    },
+    {
+      "name": "Ravenholm game lead",
+      "summary": "You are the dedicated lead for RAVENHOLM (Arkane's cancelled Half-Life Episode Four) - build it into a complete, playable game, iterated until great....",
+      "kind": "build"
+    },
+    {
       "name": "Ribbit - eat the frog",
       "summary": "You are Jacob's eat-the-frog accountability agent, per his latest iMessage: nudge him to focus and get the hard stuff done, surface forgotten things...",
       "kind": "build"
@@ -76,11 +91,6 @@
     {
       "name": "Stars of Blood lead",
       "summary": "Make Stars of Blood real - a fully completed, polished, Valve-quality version of the cancelled Valve game. Reference: the sal_predebut 9-part...",
-      "kind": "build"
-    },
-    {
-      "name": "student + founder program applications",
-      "summary": "Handle the user latest iMessage: apply for the GitHub Student Developer Pack, Google for Startups, Microsoft for Startups (aim for the 150K tier)...",
       "kind": "build"
     },
     {
@@ -132,12 +142,24 @@
   "queued": {
     "scheduled": [
       {
-        "name": "3D asset upgrade pass",
-        "fires_at": "12:44 AM"
+        "name": "Womp e/acc monument",
+        "fires_at": "1:07 AM"
       },
       {
-        "name": "terminal browser access",
-        "fires_at": "12:48 AM"
+        "name": "3D asset upgrade pass",
+        "fires_at": "1:16 AM"
+      },
+      {
+        "name": "Womp ROBOTUO humanoid",
+        "fires_at": "1:20 AM"
+      },
+      {
+        "name": "Stars of Blood lead",
+        "fires_at": "1:22 AM"
+      },
+      {
+        "name": "Margaux - CEO, ambient-compute fashion",
+        "fires_at": "1:45 AM"
       }
     ],
     "backlog": [
@@ -183,10 +205,6 @@
       },
       {
         "title": "Code survival-horror VR game in Godot",
-        "blocked": false
-      },
-      {
-        "title": "Confirm OpenAI passkey addition was Jacob",
         "blocked": false
       },
       {
@@ -270,7 +288,27 @@
         "blocked": false
       },
       {
+        "title": "Make every cancelled Valve game real",
+        "blocked": false
+      },
+      {
+        "title": "Make GTA 6 real (complete playable game)",
+        "blocked": false
+      },
+      {
+        "title": "Make Half-Life 3 real (complete playable game)",
+        "blocked": false
+      },
+      {
         "title": "Make Lucky Cat real with Micro Center parts and Amazon shell",
+        "blocked": false
+      },
+      {
+        "title": "Make Portal 3 real (complete playable game)",
+        "blocked": false
+      },
+      {
+        "title": "Make Ravenholm real (Arkane Episode Four)",
         "blocked": false
       },
       {
@@ -314,7 +352,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 43,
+    "backlog_total": 47,
     "in_progress_total": 35
   }
 }

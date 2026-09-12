@@ -1,7 +1,7 @@
 {
-  "generated_at": "Saturday, September 12, 2026 at 2:05 AM CDT",
-  "generated_epoch": 1789196753,
-  "count": 28,
+  "generated_at": "Saturday, September 12, 2026 at 2:36 AM CDT",
+  "generated_epoch": 1789198561,
+  "count": 26,
   "agents": [
     {
       "name": "1000-enemies game",
@@ -69,11 +69,6 @@
       "kind": "build"
     },
     {
-      "name": "outtalk-the-boomer 3D",
-      "summary": "Handle the user's latest correction: Make the boomer game 3d - he means outtalk-the-boomer, just delivered as a 2D de-slop at...",
-      "kind": "build"
-    },
-    {
       "name": "Portal 3 game lead",
       "summary": "Handle the user's ask: make Portal 3 - a complete, playable game, iterated until great. You are the lead for this game alone. Playbook (same as Stars...",
       "kind": "build"
@@ -86,6 +81,11 @@
     {
       "name": "Ribbit - eat the frog",
       "summary": "You are Jacob's eat-the-frog accountability agent, per his latest iMessage: nudge him to focus and get the hard stuff done, surface forgotten things...",
+      "kind": "build"
+    },
+    {
+      "name": "SoB audio pack",
+      "summary": "You are the audio lane for STARS OF BLOOD 3D, a fan completion of Valve's cancelled space-pirate game, live at...",
       "kind": "build"
     },
     {
@@ -106,16 +106,6 @@
     {
       "name": "VR Micro Center game",
       "summary": "Handle the user's request: make a VR Micro Center game. Build it as a WebXR VR experience (plays in browser on his Meta Quest 3) deployed live on the...",
-      "kind": "build"
-    },
-    {
-      "name": "Womp creations",
-      "summary": "Handle the user's latest request: make a bunch of cool, beautiful things with Womp (https://beta.womp.com - browser 3D design tool). Use the...",
-      "kind": "build"
-    },
-    {
-      "name": "Womp e/acc monument",
-      "summary": "Build an awesome Womp project: an e/acc acceleration monument - a sculpture for effective accelerationism: rocket / ascending energy / thermodynamic...",
       "kind": "build"
     },
     {
@@ -142,12 +132,16 @@
   "queued": {
     "scheduled": [
       {
-        "name": "terminal browser access",
-        "fires_at": "2:13 AM"
+        "name": "3D asset upgrade pass",
+        "fires_at": "2:38 AM"
       },
       {
         "name": "Stars of Blood lead",
         "fires_at": "2:40 AM"
+      },
+      {
+        "name": "Margaux - CEO, ambient-compute fashion",
+        "fires_at": "8:30 AM"
       }
     ],
     "backlog": [

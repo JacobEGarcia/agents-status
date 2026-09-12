@@ -1,7 +1,7 @@
 {
-  "generated_at": "Saturday, September 12, 2026 at 9:07 AM CDT",
-  "generated_epoch": 1789222047,
-  "count": 26,
+  "generated_at": "Saturday, September 12, 2026 at 9:37 AM CDT",
+  "generated_epoch": 1789223858,
+  "count": 25,
   "agents": [
     {
       "name": "1000-enemies game",
@@ -106,11 +106,6 @@
     {
       "name": "VR Micro Center game",
       "summary": "Handle the user's request: make a VR Micro Center game. Build it as a WebXR VR experience (plays in browser on his Meta Quest 3) deployed live on the...",
-      "kind": "build"
-    },
-    {
-      "name": "wafer_ai theses little book",
-      "summary": "Handle Jacob's latest iMessage: Make theses repaired a little book plus the X link https://x.com/wafer_ai/status/2098550437364560336?s=46. Identify...",
       "kind": "build"
     },
     {
@@ -225,6 +220,10 @@
         "blocked": false
       },
       {
+        "title": "Godot stress builds (push engine + machine to limits)",
+        "blocked": false
+      },
+      {
         "title": "Harvest free certificates (Google, LinkedIn Learning, Coursera, CS50)",
         "blocked": false
       },
@@ -325,7 +324,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 48,
-    "in_progress_total": 32
+    "backlog_total": 49,
+    "in_progress_total": 31
   }
 }

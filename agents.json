@@ -1,6 +1,6 @@
 {
-  "generated_at": "Saturday, September 12, 2026 at 10:08 AM CDT",
-  "generated_epoch": 1789225687,
+  "generated_at": "Saturday, September 12, 2026 at 10:38 AM CDT",
+  "generated_epoch": 1789227530,
   "count": 26,
   "agents": [
     {
@@ -130,7 +130,12 @@
     }
   ],
   "queued": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "name": "terminal browser access",
+        "fires_at": "10:43 AM"
+      }
+    ],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",

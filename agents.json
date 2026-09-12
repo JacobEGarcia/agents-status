@@ -1,6 +1,6 @@
 {
-  "generated_at": "Saturday, September 12, 2026 at 1:05 AM CDT",
-  "generated_epoch": 1789193140,
+  "generated_at": "Saturday, September 12, 2026 at 1:35 AM CDT",
+  "generated_epoch": 1789194946,
   "count": 28,
   "agents": [
     {
@@ -29,8 +29,8 @@
       "kind": "build"
     },
     {
-      "name": "Claude export full mine",
-      "summary": "Continue mining Jacob's Claude conversation export: 24 ideas were already built and are live (taskpot, 180-engine, churning-man, appeasement...",
+      "name": "Claude export re-mine lane",
+      "summary": "Continue the Claude-export re-mine: mine the full Claude export for every remaining idea beyond the 24 already live, then build and stage deploys....",
       "kind": "build"
     },
     {
@@ -142,20 +142,8 @@
   "queued": {
     "scheduled": [
       {
-        "name": "Womp e/acc monument",
-        "fires_at": "1:07 AM"
-      },
-      {
         "name": "3D asset upgrade pass",
-        "fires_at": "1:16 AM"
-      },
-      {
-        "name": "Womp ROBOTUO humanoid",
-        "fires_at": "1:20 AM"
-      },
-      {
-        "name": "Stars of Blood lead",
-        "fires_at": "1:22 AM"
+        "fires_at": "1:44 AM"
       },
       {
         "name": "Margaux - CEO, ambient-compute fashion",
@@ -353,6 +341,6 @@
       }
     ],
     "backlog_total": 47,
-    "in_progress_total": 35
+    "in_progress_total": 33
   }
 }

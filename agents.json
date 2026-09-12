@@ -1,11 +1,11 @@
 {
-  "generated_at": "Saturday, September 12, 2026 at 7:06 AM CDT",
-  "generated_epoch": 1789214816,
-  "count": 26,
+  "generated_at": "Saturday, September 12, 2026 at 8:07 AM CDT",
+  "generated_epoch": 1789218431,
+  "count": 25,
   "agents": [
     {
       "name": "1000-enemies game",
-      "summary": "Handle the user's iMessage ask: identify the linked sebaaltonen X post (fxtwitter API if walled), then make him a browser game that handles 1000...",
+      "summary": "Build the 1000-enemies game from the sebaaltonen X post Jacob linked (anchors phonemsg-01M28RZ79A7BAMN9AZ9JK02YY1 and...",
       "kind": "build"
     },
     {
@@ -109,11 +109,6 @@
       "kind": "build"
     },
     {
-      "name": "Womp ROBOTUO humanoid",
-      "summary": "Build an awesome Womp project: a ROBOTUO humanoid robot - sleek product-design humanoid (his robotics company concept), Apple-keynote clean, standing...",
-      "kind": "build"
-    },
-    {
       "name": "Agent mail notification manager",
       "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill.",
       "kind": "system"
@@ -133,7 +128,7 @@
     "scheduled": [
       {
         "name": "terminal browser access",
-        "fires_at": "7:16 AM"
+        "fires_at": "8:09 AM"
       },
       {
         "name": "Margaux - CEO, ambient-compute fashion",
@@ -331,6 +326,6 @@
       }
     ],
     "backlog_total": 47,
-    "in_progress_total": 32
+    "in_progress_total": 31
   }
 }

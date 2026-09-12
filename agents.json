@@ -1,6 +1,6 @@
 {
-  "generated_at": "Saturday, September 12, 2026 at 3:06 AM CDT",
-  "generated_epoch": 1789200364,
+  "generated_at": "Saturday, September 12, 2026 at 3:36 AM CDT",
+  "generated_epoch": 1789202170,
   "count": 26,
   "agents": [
     {
@@ -133,11 +133,7 @@
     "scheduled": [
       {
         "name": "terminal browser access",
-        "fires_at": "3:09 AM"
-      },
-      {
-        "name": "3D asset upgrade pass",
-        "fires_at": "3:17 AM"
+        "fires_at": "3:50 AM"
       },
       {
         "name": "Margaux - CEO, ambient-compute fashion",

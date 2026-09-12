@@ -1,6 +1,6 @@
 {
-  "generated_at": "Saturday, September 12, 2026 at 2:36 AM CDT",
-  "generated_epoch": 1789198561,
+  "generated_at": "Saturday, September 12, 2026 at 3:06 AM CDT",
+  "generated_epoch": 1789200364,
   "count": 26,
   "agents": [
     {
@@ -132,12 +132,12 @@
   "queued": {
     "scheduled": [
       {
-        "name": "3D asset upgrade pass",
-        "fires_at": "2:38 AM"
+        "name": "terminal browser access",
+        "fires_at": "3:09 AM"
       },
       {
-        "name": "Stars of Blood lead",
-        "fires_at": "2:40 AM"
+        "name": "3D asset upgrade pass",
+        "fires_at": "3:17 AM"
       },
       {
         "name": "Margaux - CEO, ambient-compute fashion",

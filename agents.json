@@ -1,7 +1,7 @@
 {
-  "generated_at": "Friday, September 11, 2026 at 1:58 PM CDT",
-  "generated_epoch": 1789153087,
-  "count": 23,
+  "generated_at": "Saturday, September 12, 2026 at 12:05 AM CDT",
+  "generated_epoch": 1789189542,
+  "count": 28,
   "agents": [
     {
       "name": "1000-enemies game",
@@ -14,18 +14,13 @@
       "kind": "build"
     },
     {
-      "name": "3D Cabela hunting game",
-      "summary": "Build a 3D Cabela's-style outdoor game (big-box hunting/fishing sim energy: tracking, stalking, casting, trophy shots, great outdoors vistas). Web...",
-      "kind": "build"
-    },
-    {
       "name": "Blender scan art",
       "summary": "Handle the user's latest request: look up free 3D scans and make something beautiful like the KIRI post - IN BLENDER, not generated images. Source...",
       "kind": "build"
     },
     {
-      "name": "book Dark Edition restyle",
-      "summary": "Handle the user's latest steering on the Age of Research book: he linked darkeditionbooks.com/products/at-the-mountains-of-madness and wants the text...",
+      "name": "CEO - Lucky Cat Robotics",
+      "summary": "Standing role, from the user's latest iMessage: you are the CEO of Lucky Cat Robotics, always working. Lucky Cat = his maneki-neko with a voice...",
       "kind": "build"
     },
     {
@@ -49,8 +44,13 @@
       "kind": "build"
     },
     {
-      "name": "GOTY papercraft RPG",
-      "summary": "Make an RPG Paper Maker-style game that looks so good it reads as game-of-the-year quality, and keep reiterating on assets and quality until it's...",
+      "name": "Genie/Lucky stack engineer",
+      "summary": "Standing role from the user's latest iMessage: own the Genie lamp + Lucky Cat SOFTWARE stack end to end - building, stress testing, refining...",
+      "kind": "build"
+    },
+    {
+      "name": "GITS game scene",
+      "summary": "Make the SadlyItsBradley robotics-training photo real as a scene in a Ghost in the Shell game. Pull the photo...",
       "kind": "build"
     },
     {
@@ -59,13 +59,18 @@
       "kind": "build"
     },
     {
-      "name": "loop: soft-body squash loop",
-      "summary": "The user wants the coolest satisfying infinite-loop animations, made in Blender. Your lane: soft-body squash loop - satisfying squishy physics: a...",
+      "name": "King - DePaul Chess Club hype",
+      "summary": "You are the standing hype engine for DePaul Chess Club, per the user's latest iMessage. Own: post ideas, captions, designed stills, reels/videos...",
       "kind": "build"
     },
     {
-      "name": "Lucky Cat inspirational videos",
-      "summary": "Handle part of the user latest iMessage: make inspirational videos like the ones Founders Inc posts on Twitter - he wants (1) a 1-hour robotics to...",
+      "name": "LEVEL brand + line designs",
+      "summary": "Handle the user's latest iMessage (the LEVEL fashion one). Lane: brand identity + opening fashion line designs. Context from him: his mother had a...",
+      "kind": "build"
+    },
+    {
+      "name": "Margaux - CEO, ambient-compute fashion",
+      "summary": "Standing role, from the user's latest iMessage: you are the CEO of his ambient-computing fashion company, always working. Your persona name: Margaux...",
       "kind": "build"
     },
     {
@@ -74,13 +79,13 @@
       "kind": "build"
     },
     {
-      "name": "polycount asset grab + build",
-      "summary": "Identify what the linked polycount X post is offering, get it for free (legitimately - free download, free tier, or free license; no piracy, no...",
+      "name": "Ribbit - eat the frog",
+      "summary": "You are Jacob's eat-the-frog accountability agent, per his latest iMessage: nudge him to focus and get the hard stuff done, surface forgotten things...",
       "kind": "build"
     },
     {
-      "name": "Riffusion track harvest",
-      "summary": "He approved the Riffusion switch - Yes do riffusion instead. Context: his Suno free account hit 0 downloads left (new free-plan rule), and his 13...",
+      "name": "Stars of Blood lead",
+      "summary": "Make Stars of Blood real - a fully completed, polished, Valve-quality version of the cancelled Valve game. Reference: the sal_predebut 9-part...",
       "kind": "build"
     },
     {
@@ -94,6 +99,11 @@
       "kind": "build"
     },
     {
+      "name": "terminal browser access",
+      "summary": "Find a working way to drive a browser from the terminal in the sandbox so browser-shaped work can continue despite the cloud browser's daily cap...",
+      "kind": "build"
+    },
+    {
       "name": "VR Micro Center game",
       "summary": "Handle the user's request: make a VR Micro Center game. Build it as a WebXR VR experience (plays in browser on his Meta Quest 3) deployed live on the...",
       "kind": "build"
@@ -104,8 +114,23 @@
       "kind": "build"
     },
     {
+      "name": "Womp e/acc monument",
+      "summary": "Build an awesome Womp project: an e/acc acceleration monument - a sculpture for effective accelerationism: rocket / ascending energy / thermodynamic...",
+      "kind": "build"
+    },
+    {
+      "name": "Womp ROBOTUO humanoid",
+      "summary": "Build an awesome Womp project: a ROBOTUO humanoid robot - sleek product-design humanoid (his robotics company concept), Apple-keynote clean, standing...",
+      "kind": "build"
+    },
+    {
       "name": "Agent mail notification manager",
       "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill.",
+      "kind": "system"
+    },
+    {
+      "name": "Instinct-to-Instinct",
+      "summary": "Follow your persistent platform task assignment for your user\u2019s Instinct-to-Instinct conversations.",
       "kind": "system"
     },
     {
@@ -117,8 +142,52 @@
   "queued": {
     "scheduled": [
       {
+        "name": "terminal browser access",
+        "fires_at": "12:05 AM"
+      },
+      {
+        "name": "de-slop 84 N-Z",
+        "fires_at": "12:05 AM"
+      },
+      {
         "name": "3D asset upgrade pass",
-        "fires_at": "1:58 PM"
+        "fires_at": "12:06 AM"
+      },
+      {
+        "name": "Womp e/acc monument",
+        "fires_at": "12:06 AM"
+      },
+      {
+        "name": "Womp ROBOTUO humanoid",
+        "fires_at": "12:07 AM"
+      },
+      {
+        "name": "LEVEL brand + line designs",
+        "fires_at": "12:08 AM"
+      },
+      {
+        "name": "1000-enemies game",
+        "fires_at": "12:08 AM"
+      },
+      {
+        "name": "Womp creations",
+        "fires_at": "12:10 AM"
+      },
+      {
+        "name": "stylized 3D remakes wave 1",
+        "fires_at": "12:15 AM"
+      },
+      {
+        "name": "Claude export full mine",
+        "fires_at": "12:15 AM"
+      },
+      {
+        "name": "CEO - Lucky Cat Robotics",
+        "fires_at": "12:20 AM"
+      },
+      {
+        "name": "Margaux - CEO, ambient-compute fashion",
+        "fires_at": "12:30 AM"
       }
     ],
     "backlog": [
@@ -128,6 +197,10 @@
       },
       {
         "title": "Agent status board (live, auto-refresh)",
+        "blocked": false
+      },
+      {
+        "title": "Anduril-style animations for other miltech companies",
         "blocked": false
       },
       {
@@ -143,18 +216,6 @@
         "blocked": false
       },
       {
-        "title": "Build ANI companion version from Sketchfab stylized model collection",
-        "blocked": false
-      },
-      {
-        "title": "Build palekirill X post scenes and clips in Blender",
-        "blocked": false
-      },
-      {
-        "title": "Build somewheresy X post project",
-        "blocked": false
-      },
-      {
         "title": "Build the Taylor SNTX X post project",
         "blocked": false
       },
@@ -163,7 +224,19 @@
         "blocked": false
       },
       {
+        "title": "CatPin-style Blender addon (split + auto dowels)",
+        "blocked": false
+      },
+      {
+        "title": "Chicago 2033 Worlds Fair: vision + feasibility + concepts",
+        "blocked": false
+      },
+      {
         "title": "Code survival-horror VR game in Godot",
+        "blocked": false
+      },
+      {
+        "title": "Confirm OpenAI passkey addition was Jacob",
         "blocked": false
       },
       {
@@ -172,10 +245,6 @@
       },
       {
         "title": "Day of the Dead Lego-animation short film",
-        "blocked": false
-      },
-      {
-        "title": "Desktop AI buddy girl + Ani AI clone girl: more content, improve to perfect",
         "blocked": false
       },
       {
@@ -199,10 +268,6 @@
         "blocked": false
       },
       {
-        "title": "Experiment with supplied ANI models in separate companion builds",
-        "blocked": false
-      },
-      {
         "title": "Fern-style Manhattan Project video",
         "blocked": false
       },
@@ -215,7 +280,7 @@
         "blocked": false
       },
       {
-        "title": "GOTY-quality papercraft RPG",
+        "title": "Genie lamp shells for Lucky Cat prototype",
         "blocked": false
       },
       {
@@ -224,6 +289,10 @@
       },
       {
         "title": "Help Jacob treat two lip blisters",
+        "blocked": false
+      },
+      {
+        "title": "Humanoid butler robot: 3D model + design",
         "blocked": false
       },
       {
@@ -247,7 +316,7 @@
         "blocked": false
       },
       {
-        "title": "Lucky Cat model: superb quality pass (v6)",
+        "title": "madoi_st backpack model",
         "blocked": false
       },
       {
@@ -256,6 +325,10 @@
       },
       {
         "title": "Minecraft VR + Rust voxel game",
+        "blocked": false
+      },
+      {
+        "title": "Optical engine digital 3D model (jwt0625 post)",
         "blocked": false
       },
       {
@@ -279,6 +352,10 @@
         "blocked": false
       },
       {
+        "title": "Tripo x Astra anime girl (fe_yukichi workflow)",
+        "blocked": false
+      },
+      {
         "title": "VR mining game",
         "blocked": false
       },
@@ -287,7 +364,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 41,
-    "in_progress_total": 28
+    "backlog_total": 43,
+    "in_progress_total": 37
   }
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "Saturday, September 12, 2026 at 12:05 AM CDT",
-  "generated_epoch": 1789189542,
-  "count": 28,
+  "generated_at": "Saturday, September 12, 2026 at 12:35 AM CDT",
+  "generated_epoch": 1789191339,
+  "count": 26,
   "agents": [
     {
       "name": "1000-enemies game",
@@ -39,11 +39,6 @@
       "kind": "build"
     },
     {
-      "name": "gamefromscratch free resources + builds",
-      "summary": "Handle the user's iMessage ask: scan the gamefromscratch X account (and the linked post) for cool free resources - free engines, assets, tools...",
-      "kind": "build"
-    },
-    {
       "name": "Genie/Lucky stack engineer",
       "summary": "Standing role from the user's latest iMessage: own the Genie lamp + Lucky Cat SOFTWARE stack end to end - building, stress testing, refining...",
       "kind": "build"
@@ -51,11 +46,6 @@
     {
       "name": "GITS game scene",
       "summary": "Make the SadlyItsBradley robotics-training photo real as a scene in a Ghost in the Shell game. Pull the photo...",
-      "kind": "build"
-    },
-    {
-      "name": "iPhone apps from his ideas",
-      "summary": "Can you code all my ideas that you think would be good apps into iPhone apps, I have a MacBook(Neo) I can run the code on. Reality frame: you can't...",
       "kind": "build"
     },
     {
@@ -142,52 +132,12 @@
   "queued": {
     "scheduled": [
       {
-        "name": "terminal browser access",
-        "fires_at": "12:05 AM"
-      },
-      {
-        "name": "de-slop 84 N-Z",
-        "fires_at": "12:05 AM"
-      },
-      {
         "name": "3D asset upgrade pass",
-        "fires_at": "12:06 AM"
+        "fires_at": "12:44 AM"
       },
       {
-        "name": "Womp e/acc monument",
-        "fires_at": "12:06 AM"
-      },
-      {
-        "name": "Womp ROBOTUO humanoid",
-        "fires_at": "12:07 AM"
-      },
-      {
-        "name": "LEVEL brand + line designs",
-        "fires_at": "12:08 AM"
-      },
-      {
-        "name": "1000-enemies game",
-        "fires_at": "12:08 AM"
-      },
-      {
-        "name": "Womp creations",
-        "fires_at": "12:10 AM"
-      },
-      {
-        "name": "stylized 3D remakes wave 1",
-        "fires_at": "12:15 AM"
-      },
-      {
-        "name": "Claude export full mine",
-        "fires_at": "12:15 AM"
-      },
-      {
-        "name": "CEO - Lucky Cat Robotics",
-        "fires_at": "12:20 AM"
-      },
-      {
-        "name": "Margaux - CEO, ambient-compute fashion",
-        "fires_at": "12:30 AM"
+        "name": "terminal browser access",
+        "fires_at": "12:48 AM"
       }
     ],
     "backlog": [
@@ -365,6 +315,6 @@
       }
     ],
     "backlog_total": 43,
-    "in_progress_total": 37
+    "in_progress_total": 35
   }
 }

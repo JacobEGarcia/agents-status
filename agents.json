@@ -1,7 +1,7 @@
 {
-  "generated_at": "Saturday, September 12, 2026 at 9:37 AM CDT",
-  "generated_epoch": 1789223858,
-  "count": 25,
+  "generated_at": "Saturday, September 12, 2026 at 10:08 AM CDT",
+  "generated_epoch": 1789225687,
+  "count": 26,
   "agents": [
     {
       "name": "1000-enemies game",
@@ -96,6 +96,11 @@
     {
       "name": "stylized 3D remakes wave 1",
       "summary": "Make beautiful stylized 3D versions of the notes-doc games. Pick the strongest candidates first (games whose concept sings in 3D) and build genuinely...",
+      "kind": "build"
+    },
+    {
+      "name": "tech radar + founder programs",
+      "summary": "Handle Jacob's latest iMessage (three parts): 1. Latest tech news, demos, releases, teasers - research what's current (this week) across AI...",
       "kind": "build"
     },
     {
@@ -208,6 +213,10 @@
         "blocked": false
       },
       {
+        "title": "Founder application kit (resume, deck, videos, links)",
+        "blocked": false
+      },
+      {
         "title": "Frostfall Godot rebuild with Blender assets",
         "blocked": false
       },
@@ -217,10 +226,6 @@
       },
       {
         "title": "Genie lamp shells for Lucky Cat prototype",
-        "blocked": false
-      },
-      {
-        "title": "Godot stress builds (push engine + machine to limits)",
         "blocked": false
       },
       {
@@ -325,6 +330,6 @@
       }
     ],
     "backlog_total": 49,
-    "in_progress_total": 31
+    "in_progress_total": 32
   }
 }

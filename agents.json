@@ -1,6 +1,6 @@
 {
-  "generated_at": "Saturday, September 12, 2026 at 5:36 AM CDT",
-  "generated_epoch": 1789209398,
+  "generated_at": "Saturday, September 12, 2026 at 7:06 AM CDT",
+  "generated_epoch": 1789214816,
   "count": 26,
   "agents": [
     {
@@ -131,6 +131,10 @@
   ],
   "queued": {
     "scheduled": [
+      {
+        "name": "terminal browser access",
+        "fires_at": "7:16 AM"
+      },
       {
         "name": "Margaux - CEO, ambient-compute fashion",
         "fires_at": "8:30 AM"
@@ -327,6 +331,6 @@
       }
     ],
     "backlog_total": 47,
-    "in_progress_total": 33
+    "in_progress_total": 32
   }
 }

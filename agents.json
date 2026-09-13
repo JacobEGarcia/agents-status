@@ -1,7 +1,7 @@
 {
-  "generated_at": "Sunday, September 13, 2026 at 2:48 AM CDT",
-  "generated_epoch": 1789285734,
-  "count": 27,
+  "generated_at": "Sunday, September 13, 2026 at 3:18 AM CDT",
+  "generated_epoch": 1789287536,
+  "count": 28,
   "agents": [
     {
       "name": "1000-enemies game",
@@ -104,6 +104,11 @@
       "kind": "build"
     },
     {
+      "name": "voice brain (restaffed)",
+      "summary": "You are the Lucky Cat voice brain lane, replacing an expired agent. The program: a Python voice-assistant loop (lucky_loop for the cat, genie_loop...",
+      "kind": "build"
+    },
+    {
       "name": "VR games GOTY pass",
       "summary": "Mandate from the user's latest iMessage: make all of his VR games game-of-the-year quality in all aspects. His VR slate: the survival-horror VR game...",
       "kind": "build"
@@ -137,12 +142,8 @@
   "queued": {
     "scheduled": [
       {
-        "name": "deploy engine",
-        "fires_at": "2:54 AM"
-      },
-      {
         "name": "Stars of Blood lead",
-        "fires_at": "2:55 AM"
+        "fires_at": "3:25 AM"
       }
     ],
     "backlog": [

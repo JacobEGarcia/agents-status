@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, September 13, 2026 at 2:19 AM CDT",
-  "generated_epoch": 1789283961,
+  "generated_at": "Sunday, September 13, 2026 at 2:48 AM CDT",
+  "generated_epoch": 1789285734,
   "count": 27,
   "agents": [
     {
@@ -137,8 +137,12 @@
   "queued": {
     "scheduled": [
       {
+        "name": "deploy engine",
+        "fires_at": "2:54 AM"
+      },
+      {
         "name": "Stars of Blood lead",
-        "fires_at": "2:25 AM"
+        "fires_at": "2:55 AM"
       }
     ],
     "backlog": [

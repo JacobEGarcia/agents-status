@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, September 13, 2026 at 12:57 AM CDT",
-  "generated_epoch": 1789279030,
+  "generated_at": "Sunday, September 13, 2026 at 1:27 AM CDT",
+  "generated_epoch": 1789280840,
   "count": 28,
   "agents": [
     {
@@ -44,6 +44,11 @@
       "kind": "build"
     },
     {
+      "name": "git rename lane",
+      "summary": "You are the git lane. The deploy engine hit a hard GitHub-web constraint: index files around 3.3MB upload fine but cannot be renamed through...",
+      "kind": "build"
+    },
+    {
       "name": "GITS game lane",
       "summary": "You are the GITS web-game build lane (single-file three.js browser games, deployed via the deploy engine agent-01M2BKQGQE8M05MAWSX4D6CG7Z - send it...",
       "kind": "build"
@@ -61,11 +66,6 @@
     {
       "name": "King - DePaul Chess Club hype",
       "summary": "You are the standing hype engine for DePaul Chess Club, per the user's latest iMessage. Own: post ideas, captions, designed stills, reels/videos...",
-      "kind": "build"
-    },
-    {
-      "name": "Margaux - CEO, ambient-compute fashion",
-      "summary": "Standing role, from the user's latest iMessage: you are the CEO of his ambient-computing fashion company, always working. Your persona name: Margaux...",
       "kind": "build"
     },
     {
@@ -143,7 +143,11 @@
     "scheduled": [
       {
         "name": "Stars of Blood lead",
-        "fires_at": "1:15 AM"
+        "fires_at": "1:35 AM"
+      },
+      {
+        "name": "deploy engine",
+        "fires_at": "1:36 AM"
       }
     ],
     "backlog": [

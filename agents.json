@@ -1,7 +1,7 @@
 {
-  "generated_at": "Sunday, September 13, 2026 at 1:27 AM CDT",
-  "generated_epoch": 1789280840,
-  "count": 28,
+  "generated_at": "Sunday, September 13, 2026 at 2:18 AM CDT",
+  "generated_epoch": 1789283923,
+  "count": 27,
   "agents": [
     {
       "name": "1000-enemies game",
@@ -89,11 +89,6 @@
       "kind": "build"
     },
     {
-      "name": "SoB audio pack",
-      "summary": "You are the audio lane for STARS OF BLOOD 3D, a fan completion of Valve's cancelled space-pirate game, live at...",
-      "kind": "build"
-    },
-    {
       "name": "Stars of Blood lead",
       "summary": "Make Stars of Blood real - a fully completed, polished, Valve-quality version of the cancelled Valve game. Reference: the sal_predebut 9-part...",
       "kind": "build"
@@ -142,12 +137,12 @@
   "queued": {
     "scheduled": [
       {
-        "name": "Stars of Blood lead",
-        "fires_at": "1:35 AM"
+        "name": "deploy engine",
+        "fires_at": "2:18 AM"
       },
       {
-        "name": "deploy engine",
-        "fires_at": "1:36 AM"
+        "name": "Stars of Blood lead",
+        "fires_at": "2:25 AM"
       }
     ],
     "backlog": [

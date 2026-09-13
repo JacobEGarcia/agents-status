@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, September 13, 2026 at 12:27 AM CDT",
-  "generated_epoch": 1789277229,
+  "generated_at": "Sunday, September 13, 2026 at 12:57 AM CDT",
+  "generated_epoch": 1789279030,
   "count": 28,
   "agents": [
     {
@@ -142,20 +142,8 @@
   "queued": {
     "scheduled": [
       {
-        "name": "CEO - Lucky Cat Robotics",
-        "fires_at": "12:30 AM"
-      },
-      {
-        "name": "Ribbit - eat the frog",
-        "fires_at": "12:30 AM"
-      },
-      {
         "name": "Stars of Blood lead",
-        "fires_at": "12:40 AM"
-      },
-      {
-        "name": "Ribbit - eat the frog",
-        "fires_at": "12:45 AM"
+        "fires_at": "1:15 AM"
       }
     ],
     "backlog": [

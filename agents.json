@@ -1,7 +1,7 @@
 {
-  "generated_at": "Monday, September 14, 2026 at 12:17 PM CDT",
-  "generated_epoch": 1789406226,
-  "count": 24,
+  "generated_at": "Monday, September 14, 2026 at 2:26 PM CDT",
+  "generated_epoch": 1789414007,
+  "count": 27,
   "agents": [
     {
       "name": "3D asset upgrade pass",
@@ -26,6 +26,11 @@
     {
       "name": "deploy engine",
       "summary": "You are the deploy engine for Jacob's GitHub Pages fleet under github.com/jacobegarcia. Parent agents send you build files (index.html or zips) plus...",
+      "kind": "build"
+    },
+    {
+      "name": "Email Lucky Cat screen commands",
+      "summary": "Handle Jacob's latest iMessage: email him the exact five-line MHS 3.5-inch native piscreen DRM install block I just sent in this conversation. Send...",
       "kind": "build"
     },
     {
@@ -56,6 +61,11 @@
     {
       "name": "INSIDE sequel lead",
       "summary": "Build a complete, playable 3D spiritual sequel to Playdead's INSIDE - deeply inspired by it, looking and feeling exactly like it, but 3D....",
+      "kind": "build"
+    },
+    {
+      "name": "Install Tailscale on both Pis",
+      "summary": "Handle Jacob's latest iMessage about setting up Tailscale on his Raspberry Pis. Current state: bench is a 4GB Pi at 10.0.0.194 with Pi Connect remote...",
       "kind": "build"
     },
     {
@@ -101,6 +111,11 @@
     {
       "name": "tech radar + founder programs",
       "summary": "Handle Jacob's latest iMessage (three parts): 1. Latest tech news, demos, releases, teasers - research what's current (this week) across AI...",
+      "kind": "build"
+    },
+    {
+      "name": "Verify MHS 3.5 screen install",
+      "summary": "Handle Jacob's latest Pi bring-up messages: verify the safe current installation path for the photographed MHS-3.5inch Display, marked SPI 125MHz...",
       "kind": "build"
     },
     {

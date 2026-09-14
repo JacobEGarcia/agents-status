@@ -1,7 +1,7 @@
 {
-  "generated_at": "Monday, September 14, 2026 at 2:24 AM CDT",
-  "generated_epoch": 1789370669,
-  "count": 23,
+  "generated_at": "Monday, September 14, 2026 at 3:04 AM CDT",
+  "generated_epoch": 1789373086,
+  "count": 22,
   "agents": [
     {
       "name": "3D asset upgrade pass",
@@ -91,11 +91,6 @@
     {
       "name": "tech radar + founder programs",
       "summary": "Handle Jacob's latest iMessage (three parts): 1. Latest tech news, demos, releases, teasers - research what's current (this week) across AI...",
-      "kind": "build"
-    },
-    {
-      "name": "voice brain (restaffed)",
-      "summary": "You are the Lucky Cat voice brain lane, replacing an expired agent. The program: a Python voice-assistant loop (lucky_loop for the cat, genie_loop...",
       "kind": "build"
     },
     {

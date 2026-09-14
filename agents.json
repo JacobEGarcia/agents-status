@@ -1,7 +1,7 @@
 {
-  "generated_at": "Monday, September 14, 2026 at 10:46 AM CDT",
-  "generated_epoch": 1789400775,
-  "count": 24,
+  "generated_at": "Monday, September 14, 2026 at 11:49 AM CDT",
+  "generated_epoch": 1789404567,
+  "count": 25,
   "agents": [
     {
       "name": "3D asset upgrade pass",
@@ -104,6 +104,11 @@
       "kind": "build"
     },
     {
+      "name": "undertide three.module.js git push",
+      "summary": "Push one file to a live GitHub Pages site. Unzip the attached zip and push three.module.js (1,272,972 bytes) to the ROOT of repo...",
+      "kind": "build"
+    },
+    {
       "name": "Agent mail notification manager",
       "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill.",
       "kind": "system"
@@ -120,7 +125,12 @@
     }
   ],
   "queued": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "name": "Pi Connect driver",
+        "fires_at": "11:50 AM"
+      }
+    ],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",

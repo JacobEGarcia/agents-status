@@ -1,7 +1,7 @@
 {
-  "generated_at": "Monday, September 14, 2026 at 9:31 AM CDT",
-  "generated_epoch": 1789396309,
-  "count": 22,
+  "generated_at": "Monday, September 14, 2026 at 10:46 AM CDT",
+  "generated_epoch": 1789400775,
+  "count": 24,
   "agents": [
     {
       "name": "3D asset upgrade pass",
@@ -54,8 +54,18 @@
       "kind": "build"
     },
     {
+      "name": "INSIDE sequel lead",
+      "summary": "Build a complete, playable 3D spiritual sequel to Playdead's INSIDE - deeply inspired by it, looking and feeling exactly like it, but 3D....",
+      "kind": "build"
+    },
+    {
       "name": "King - DePaul Chess Club hype",
       "summary": "You are the standing hype engine for DePaul Chess Club, per the user's latest iMessage. Own: post ideas, captions, designed stills, reels/videos...",
+      "kind": "build"
+    },
+    {
+      "name": "Little Nightmares sequel lead",
+      "summary": "Build a complete, playable 3D spiritual sequel to the Little Nightmares games - deeply inspired by them, looking and feeling exactly like them, but...",
       "kind": "build"
     },
     {
@@ -318,6 +328,6 @@
       }
     ],
     "backlog_total": 51,
-    "in_progress_total": 42
+    "in_progress_total": 44
   }
 }

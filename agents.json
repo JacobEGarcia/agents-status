@@ -1,7 +1,7 @@
 {
-  "generated_at": "Monday, September 14, 2026 at 4:18 PM CDT",
-  "generated_epoch": 1789420689,
-  "count": 28,
+  "generated_at": "Monday, September 14, 2026 at 4:48 PM CDT",
+  "generated_epoch": 1789422496,
+  "count": 27,
   "agents": [
     {
       "name": "3D asset upgrade pass",
@@ -31,11 +31,6 @@
     {
       "name": "Email Lucky Cat screen commands",
       "summary": "Handle Jacob's latest iMessage: email him the exact five-line MHS 3.5-inch native piscreen DRM install block I just sent in this conversation. Send...",
-      "kind": "build"
-    },
-    {
-      "name": "free AI API sweep",
-      "summary": "Find free AI APIs and locate his existing Google Doc of free APIs. 1. Search his Google Drive live for the free-API doc (it exists; not in the local...",
       "kind": "build"
     },
     {

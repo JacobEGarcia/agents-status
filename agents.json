@@ -1,7 +1,7 @@
 {
-  "generated_at": "Monday, September 14, 2026 at 2:26 PM CDT",
-  "generated_epoch": 1789414007,
-  "count": 27,
+  "generated_at": "Monday, September 14, 2026 at 4:18 PM CDT",
+  "generated_epoch": 1789420689,
+  "count": 28,
   "agents": [
     {
       "name": "3D asset upgrade pass",
@@ -36,6 +36,11 @@
     {
       "name": "free AI API sweep",
       "summary": "Find free AI APIs and locate his existing Google Doc of free APIs. 1. Search his Google Drive live for the free-API doc (it exists; not in the local...",
+      "kind": "build"
+    },
+    {
+      "name": "Full desktop access over Tailscale",
+      "summary": "Jacob explicitly wants screen viewing and full desktop control on both his MacBook and Windows laptop over their existing Tailscale network....",
       "kind": "build"
     },
     {

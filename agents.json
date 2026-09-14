@@ -1,21 +1,11 @@
 {
-  "generated_at": "Sunday, September 13, 2026 at 3:18 AM CDT",
-  "generated_epoch": 1789287536,
-  "count": 28,
+  "generated_at": "Monday, September 14, 2026 at 2:24 AM CDT",
+  "generated_epoch": 1789370669,
+  "count": 23,
   "agents": [
-    {
-      "name": "1000-enemies game",
-      "summary": "Build the 1000-enemies game from the sebaaltonen X post Jacob linked (anchors phonemsg-01M28RZ79A7BAMN9AZ9JK02YY1 and...",
-      "kind": "build"
-    },
     {
       "name": "3D asset upgrade pass",
       "summary": "You are the standing 3D asset lane, replacing your predecessor which expired. You build presentation-quality 3D models in Blender and deliver GLBs +...",
-      "kind": "build"
-    },
-    {
-      "name": "beer game 3D rebuild",
-      "summary": "User directive: Also make the beer game 3d. Current game: https://jacobegarcia.github.io/beer/ - just rebuilt to GOTY bar as a 2D bartending arcade...",
       "kind": "build"
     },
     {
@@ -39,13 +29,13 @@
       "kind": "build"
     },
     {
-      "name": "Genie/Lucky stack engineer",
-      "summary": "Standing role from the user's latest iMessage: own the Genie lamp + Lucky Cat SOFTWARE stack end to end - building, stress testing, refining...",
+      "name": "free AI API sweep",
+      "summary": "Find free AI APIs and locate his existing Google Doc of free APIs. 1. Search his Google Drive live for the free-API doc (it exists; not in the local...",
       "kind": "build"
     },
     {
-      "name": "git rename lane",
-      "summary": "You are the git lane. The deploy engine hit a hard GitHub-web constraint: index files around 3.3MB upload fine but cannot be renamed through...",
+      "name": "Genie/Lucky stack engineer",
+      "summary": "Standing role from the user's latest iMessage: own the Genie lamp + Lucky Cat SOFTWARE stack end to end - building, stress testing, refining...",
       "kind": "build"
     },
     {
@@ -69,8 +59,13 @@
       "kind": "build"
     },
     {
-      "name": "paper-range GOTY upgrade",
-      "summary": "User directive: Makes paper range a game of the year game. The game is PAPER RANGE, live at https://jacobegarcia.github.io/paper-range/ (single-file...",
+      "name": "Lucky 3D World platformer",
+      "summary": "Make me super Mario 3d world but lucky cat edition. What that means in his universe: a browser 3D platformer (three.js, single index.html family like...",
+      "kind": "build"
+    },
+    {
+      "name": "Pi Connect driver",
+      "summary": "Drive the user's Raspberry Pis through Raspberry Pi Connect. Use the browser-use skill; acquire your own lease. Sign-in: connect.raspberrypi.com with...",
       "kind": "build"
     },
     {
@@ -99,28 +94,8 @@
       "kind": "build"
     },
     {
-      "name": "Undertale 3D game lead",
-      "summary": "Make a 3D Undertale game. You own this game end to end like the other named-game leads (HL3, Portal 3, GTA). Interpretation is yours: keep...",
-      "kind": "build"
-    },
-    {
       "name": "voice brain (restaffed)",
       "summary": "You are the Lucky Cat voice brain lane, replacing an expired agent. The program: a Python voice-assistant loop (lucky_loop for the cat, genie_loop...",
-      "kind": "build"
-    },
-    {
-      "name": "VR games GOTY pass",
-      "summary": "Mandate from the user's latest iMessage: make all of his VR games game-of-the-year quality in all aspects. His VR slate: the survival-horror VR game...",
-      "kind": "build"
-    },
-    {
-      "name": "Worlds Fair 2033 pavilion",
-      "summary": "Build the Chicago 2033 Worlds Fair (Next Century of Progress) as an interactive single-file 3D web experience - the piece that makes the dream...",
-      "kind": "build"
-    },
-    {
-      "name": "WW3 trailer - We Went Mad",
-      "summary": "Make him a trailer for WW3 (a World War 3 concept trailer) using real footage, real sound, and real clips. End title card: We Went Mad - with a...",
       "kind": "build"
     },
     {
@@ -140,12 +115,7 @@
     }
   ],
   "queued": {
-    "scheduled": [
-      {
-        "name": "Stars of Blood lead",
-        "fires_at": "3:25 AM"
-      }
-    ],
+    "scheduled": [],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",
@@ -176,6 +146,10 @@
         "blocked": false
       },
       {
+        "title": "Chicago 2033 Worlds Fair: vision + feasibility + concepts",
+        "blocked": false
+      },
+      {
         "title": "Code survival-horror VR game in Godot",
         "blocked": false
       },
@@ -200,6 +174,10 @@
         "blocked": false
       },
       {
+        "title": "ESP32 crash-course video",
+        "blocked": false
+      },
+      {
         "title": "Execute the four self-emailed creative tasks",
         "blocked": false
       },
@@ -221,6 +199,10 @@
       },
       {
         "title": "Genie lamp shells for Lucky Cat prototype",
+        "blocked": false
+      },
+      {
+        "title": "GITS cyberpunk surveillance game (GANGSTALK-inspired, 3D + VR)",
         "blocked": false
       },
       {
@@ -260,6 +242,14 @@
         "blocked": false
       },
       {
+        "title": "Lucky Cat exploded-internals video",
+        "blocked": false
+      },
+      {
+        "title": "Lucky Cat hype video set",
+        "blocked": false
+      },
+      {
         "title": "Make every cancelled Valve game real",
         "blocked": false
       },
@@ -296,6 +286,10 @@
         "blocked": false
       },
       {
+        "title": "Raspberry Pi crash-course video",
+        "blocked": false
+      },
+      {
         "title": "Realistic Mara Voss profile picture",
         "blocked": false
       },
@@ -318,9 +312,17 @@
       {
         "title": "VR mining game",
         "blocked": false
+      },
+      {
+        "title": "Wireframe-glow VR game (snapchat reference)",
+        "blocked": false
+      },
+      {
+        "title": "WW3 trailer v2 (modern conflicts cut)",
+        "blocked": false
       }
     ],
-    "backlog_total": 43,
+    "backlog_total": 51,
     "in_progress_total": 42
   }
 }

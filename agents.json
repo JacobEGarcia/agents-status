@@ -1,14 +1,14 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 2:33 PM CDT",
-  "generated_epoch": 1789500817,
-  "count": 26,
+  "generated_at": "Tuesday, September 15, 2026 at 4:03 PM CDT",
+  "generated_epoch": 1789506192,
+  "count": 28,
   "lucky_cat_count": 21,
   "blocked_count": 0,
-  "paused_count": 1,
+  "paused_count": 3,
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Gate: pass on the eye construction. This now reads as a black eyeball inside a gold almond socket and is...",
+      "summary": "Ear gate: pass and lock. Muzzle gate: partial pass. Scale is finally correct and the shadow pocket is gone...",
       "kind": "build",
       "lane": "working"
     },
@@ -20,7 +20,7 @@
     },
     {
       "name": "Blender art + addon lane",
-      "summary": "Two-body commercial delivered to Jacob. Hold v2 unless he steers it. For the anime AI video, I asked only... | latest: Hype post v1, attached (12.7s, 720p): all real window-room footage - wide two-cat room...",
+      "summary": "Apply the user's latest answer to the Lucky Cat anime AI video: any Google account is acceptable. | latest: Received both: commercial v2 natural-voice redo + Veo unblocked (any Google account). My...",
       "kind": "build",
       "lane": "working"
     },
@@ -133,7 +133,19 @@
       "lane": "working"
     },
     {
+      "name": "Freebuff model bench + Bolt Lucky Cat sprint",
+      "summary": "Awaiting specific Lucky Cat assignment",
+      "kind": "build",
+      "lane": "awaiting"
+    },
+    {
       "name": "Recover Pi sudo access and finish setup",
+      "summary": "Awaiting specific Lucky Cat assignment",
+      "kind": "build",
+      "lane": "awaiting"
+    },
+    {
+      "name": "Windows laptop productive lane",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting"
@@ -474,6 +486,6 @@
       }
     ],
     "backlog_total": 78,
-    "in_progress_total": 50
+    "in_progress_total": 52
   }
 }

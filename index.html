@@ -155,8 +155,10 @@ async function load() {
     const d = await r.json();
     document.getElementById('count').textContent = d.count;
     const q = d.queued || { scheduled: [], backlog: [], backlog_total: 0 };
+    const lc = d.lucky_cat_count || 0, pz = d.paused_count || 0;
     document.getElementById('countLabel').innerHTML =
-      'agents running right now <strong>&middot; ' + esc(String(q.backlog_total)) + ' queued</strong>';
+      'agents running <strong>&middot; ' + esc(String(lc)) + ' on Lucky Cat &middot; ' +
+      esc(String(pz)) + ' paused &middot; ' + esc(String(q.backlog_total)) + ' queued</strong>';
     document.getElementById('updated').textContent = 'updated ' + d.generated_at;
     const list = document.getElementById('list');
     list.innerHTML = '';
@@ -202,7 +204,9 @@ async function load() {
     }
 
     // RUNNING
-    const builds = d.agents.filter(a => a.kind !== 'system');
+    const laneOf = a => a.lane || (a.kind === 'system' ? 'system' : 'paused');
+    const lucky = d.agents.filter(a => laneOf(a) === 'luckycat');
+    const paused = d.agents.filter(a => laneOf(a) === 'paused');
     const systems = d.agents.filter(a => a.kind === 'system');
     const section = (label, arr, sys) => {
       if (!arr.length) return;
@@ -223,7 +227,8 @@ async function load() {
         list.appendChild(row);
       });
     };
-    section('Building now', builds, false);
+    section('Lucky Cat focus', lucky, false);
+    section('Paused - non-Lucky work held, ready to redeploy', paused, false);
     section('System', systems, true);
   } catch (e) {
     document.getElementById('list').innerHTML = '<div class="err">Could not load agents.json</div>';
@@ -234,3 +239,4 @@ setInterval(load, 60000);
 </script>
 </body>
 </html>
+

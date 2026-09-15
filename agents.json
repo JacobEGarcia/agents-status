@@ -1,6 +1,6 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 9:35 AM CDT",
-  "generated_epoch": 1789482928,
+  "generated_at": "Tuesday, September 15, 2026 at 10:14 AM CDT",
+  "generated_epoch": 1789485243,
   "count": 27,
   "lucky_cat_count": 22,
   "blocked_count": 1,
@@ -8,7 +8,7 @@
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Visual gate fails hard. Do not polish or deliver this version. The side-by-side proves the supposedly locked...",
+      "summary": "Gate still fails. The overlay is tracing intended guides, not proving the rendered pixels match them. In the...",
       "kind": "build",
       "lane": "working"
     },
@@ -219,6 +219,10 @@
         "blocked": false
       },
       {
+        "title": "Create Lucky Cat anime AI video",
+        "blocked": false
+      },
+      {
         "title": "Day of the Dead Lego-animation short film",
         "blocked": false
       },
@@ -280,6 +284,10 @@
       },
       {
         "title": "Humanoid butler robot: 3D model + design",
+        "blocked": false
+      },
+      {
+        "title": "Improve voices in two-cat Lucky Cat commercial",
         "blocked": false
       },
       {
@@ -395,7 +403,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 57,
+    "backlog_total": 59,
     "in_progress_total": 47
   }
 }

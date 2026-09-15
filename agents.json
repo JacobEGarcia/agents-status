@@ -1,10 +1,10 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 11:05 AM CDT",
-  "generated_epoch": 1789488351,
+  "generated_at": "Tuesday, September 15, 2026 at 11:08 AM CDT",
+  "generated_epoch": 1789488492,
   "count": 28,
-  "lucky_cat_count": 22,
+  "lucky_cat_count": 23,
   "blocked_count": 1,
-  "paused_count": 1,
+  "paused_count": 0,
   "agents": [
     {
       "name": "3D asset upgrade pass",
@@ -127,6 +127,12 @@
       "lane": "working"
     },
     {
+      "name": "Super Lucky Cat Kart",
+      "summary": "Build Super Lucky Cat Kart as a real playable 3D kart game, Mario Kart 8-level feel, GOTY bar. Latest: first playable vertical slice committed (3-lap shrine circuit, drift boosts, items, 5 AI racers, HUD, minimap) - GitHub Pages propagating, live visual verify pending.",
+      "kind": "build",
+      "lane": "working"
+    },
+    {
       "name": "tech radar + founder programs",
       "summary": "latest: LUCKY CAT ARTIFACT SHIPPED - PROOF CONSOLE Attached: - `index.html`: a complete...",
       "kind": "build",
@@ -143,12 +149,6 @@
       "summary": "Bench 4GB Pi complete: authenticated remote shell/screen, Tailscale 100.74.9.62. Luckiestcat 16GB Pi: Tailscale transport up at 100.81.200.63, interactive SSH unverified - blocked on Jacob re-authenticating Windows Chrome Remote Desktop or local Raspberry Pi Connect enrollment.",
       "kind": "build",
       "lane": "blocked"
-    },
-    {
-      "name": "Super Lucky Cat Kart",
-      "summary": "Awaiting specific Lucky Cat assignment",
-      "kind": "build",
-      "lane": "awaiting"
     },
     {
       "name": "Agent mail notification manager",

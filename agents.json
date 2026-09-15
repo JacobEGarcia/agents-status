@@ -1,6 +1,6 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 4:01 AM CDT",
-  "generated_epoch": 1789462900,
+  "generated_at": "Tuesday, September 15, 2026 at 4:31 AM CDT",
+  "generated_epoch": 1789464676,
   "count": 27,
   "lucky_cat_count": 22,
   "blocked_count": 1,
@@ -8,7 +8,7 @@
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Still gated. Pass 9 has a new major failure: the collar is effectively gone, leaving two black horizontal...",
+      "summary": "Does not pass. The left render still looks like a damaged photo projection, not a clean 3D reconstruction...",
       "kind": "build",
       "lane": "working"
     },
@@ -32,7 +32,7 @@
     },
     {
       "name": "CEO - Lucky Cat Robotics",
-      "summary": "Handle Jacob's latest iMessage as the Lucky Cat campaign lead. Build the guerrilla-marketing campaign across...",
+      "summary": "Apply Jacob's spelling clarification to the Lucky Cat marketing campaign. | latest: LUCKY - GUERRILLA MARKETING KIT v1 built on Jacob's 3:45 AM order (\\\"guerilla...",
       "kind": "build",
       "lane": "working"
     },
@@ -98,7 +98,7 @@
     },
     {
       "name": "Lucky Cat web quality director",
-      "summary": "Deploy this verified single-file Lucky Cat mini-game, \u201cFortune Falls,\u201d into the existing Lucky Cat Arcade as...",
+      "summary": "Deploy this verified single-file Lucky Cat mini-game, \u201cFortune Falls,\u201d into the existing Lucky Cat Arcade as... | latest: Fortune Falls is deployed as a new live Lucky Cat Arcade cabinet. Live game...",
       "kind": "build",
       "lane": "working"
     },

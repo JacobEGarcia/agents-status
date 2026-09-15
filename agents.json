@@ -1,6 +1,6 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 8:05 AM CDT",
-  "generated_epoch": 1789477504,
+  "generated_at": "Tuesday, September 15, 2026 at 8:35 AM CDT",
+  "generated_epoch": 1789479338,
   "count": 27,
   "lucky_cat_count": 22,
   "blocked_count": 1,
@@ -8,7 +8,7 @@
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Gate does not pass yet. Raised paw mass is now correct enough to lock. Body envelope remains locked. But the...",
+      "summary": "Geometry interpretation now passes for the body/front assembly. Lock cat_body8 as the body base and move to...",
       "kind": "build",
       "lane": "working"
     },
@@ -312,10 +312,6 @@
         "blocked": false
       },
       {
-        "title": "Lucky Cat all-agents focus until Sep 16",
-        "blocked": false
-      },
-      {
         "title": "Lucky Cat exploded-internals video",
         "blocked": false
       },
@@ -404,7 +400,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 58,
-    "in_progress_total": 46
+    "backlog_total": 57,
+    "in_progress_total": 47
   }
 }

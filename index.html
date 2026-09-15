@@ -155,9 +155,10 @@ async function load() {
     const d = await r.json();
     document.getElementById('count').textContent = d.count;
     const q = d.queued || { scheduled: [], backlog: [], backlog_total: 0 };
-    const lc = d.lucky_cat_count || 0, pz = d.paused_count || 0;
+    const lc = d.lucky_cat_count || 0, pz = d.paused_count || 0, bk = d.blocked_count || 0;
     document.getElementById('countLabel').innerHTML =
       'agents running <strong>&middot; ' + esc(String(lc)) + ' working on Lucky Cat &middot; ' +
+      (bk ? esc(String(bk)) + ' blocked &middot; ' : '') +
       esc(String(pz)) + ' awaiting assignment &middot; ' + esc(String(q.backlog_total)) + ' queued</strong>';
     document.getElementById('updated').textContent = 'updated ' + d.generated_at;
     const list = document.getElementById('list');
@@ -206,6 +207,7 @@ async function load() {
     // RUNNING
     const laneOf = a => a.lane || (a.kind === 'system' ? 'system' : 'awaiting');
     const lucky = d.agents.filter(a => laneOf(a) === 'working' || laneOf(a) === 'luckycat');
+    const blocked = d.agents.filter(a => laneOf(a) === 'blocked');
     const paused = d.agents.filter(a => laneOf(a) === 'awaiting' || laneOf(a) === 'paused');
     const systems = d.agents.filter(a => a.kind === 'system');
     const section = (label, arr, sys) => {
@@ -228,6 +230,7 @@ async function load() {
       });
     };
     section('Lucky Cat - working now', lucky, false);
+    if (blocked.length) section('Blocked - needs Jacob', blocked, false);
     section('Awaiting specific Lucky Cat assignment', paused, false);
     section('System', systems, true);
   } catch (e) {

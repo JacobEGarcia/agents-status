@@ -1,14 +1,14 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 12:41 PM CDT",
-  "generated_epoch": 1789494088,
-  "count": 28,
-  "lucky_cat_count": 24,
+  "generated_at": "Tuesday, September 15, 2026 at 2:03 PM CDT",
+  "generated_epoch": 1789498994,
+  "count": 26,
+  "lucky_cat_count": 21,
   "blocked_count": 0,
-  "paused_count": 0,
+  "paused_count": 1,
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Gate: still fail. Alertness improved, but standalone face still does not match the object. The tight crop...",
+      "summary": "Gate: fail. Curve continuity is fixed, but the monocle loops are the wrong interpretation and the eyes became... | latest: v63 one-eye proof (right eye only, not mirrored - left eye keeps the v61 construction for...",
       "kind": "build",
       "lane": "working"
     },
@@ -43,12 +43,6 @@
       "lane": "working"
     },
     {
-      "name": "Email Lucky Cat screen commands",
-      "summary": "latest: Lucky Cat reviewer-proof audit complete. I audited the live product page and build...",
-      "kind": "build",
-      "lane": "working"
-    },
-    {
       "name": "Genie/Lucky stack engineer",
       "summary": "latest: ALL-LANES LUCKY CAT FOCUS - concrete artifact from the hardware/software lane: DUET...",
       "kind": "build",
@@ -69,12 +63,6 @@
     {
       "name": "Half-Life 3 game lead",
       "summary": "latest: Lucky Cat checkpoint delivered without opening new scope: the preserved reviewer-ready...",
-      "kind": "build",
-      "lane": "working"
-    },
-    {
-      "name": "Install Tailscale on both Pis",
-      "summary": "Both Pis verified secure remote shell: bench complete; luckiestcat online at 100.81.200.63, Connect signed in, events subscribed, screen sharing and remote shell allowed, native Connect shell prompt verified. Remaining: screen-sharing server fails to start/connect - diagnosis in progress. No user action pending.",
       "kind": "build",
       "lane": "working"
     },
@@ -145,10 +133,10 @@
       "lane": "working"
     },
     {
-      "name": "Verify MHS 3.5 screen install",
-      "summary": "Lucky Cat assignment: finish and verify the 3.5-inch 480x320 touchscreen path for the Lucky Cat 16GB Pi 5... | latest: LUCKY CAT 16GB (luckiestcat, 10.0.0.47 / tailscale 100.81.200.63) - 3.5\\\" 480x320 MHS...",
+      "name": "Recover Pi sudo access and finish setup",
+      "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
-      "lane": "working"
+      "lane": "awaiting"
     },
     {
       "name": "Agent mail notification manager",
@@ -170,7 +158,12 @@
     }
   ],
   "queued": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "name": "Blender art + addon lane",
+        "fires_at": "2:04 PM"
+      }
+    ],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",
@@ -193,6 +186,10 @@
         "blocked": true
       },
       {
+        "title": "Build a modern 3D VR prefab trial game",
+        "blocked": false
+      },
+      {
         "title": "Build a Portal fan game from the sal_predebut concept art",
         "blocked": false
       },
@@ -202,6 +199,10 @@
       },
       {
         "title": "Build all 8 AI-news-inspired ideas",
+        "blocked": false
+      },
+      {
+        "title": "Build duet shelf and complete retro netplay console",
         "blocked": false
       },
       {
@@ -246,10 +247,6 @@
       },
       {
         "title": "Connect Freebuff CLI for terminal-first builds",
-        "blocked": false
-      },
-      {
-        "title": "Create Lucky Cat anime AI video",
         "blocked": false
       },
       {
@@ -385,6 +382,10 @@
         "blocked": false
       },
       {
+        "title": "Make cool things with the vctf_ X reference",
+        "blocked": false
+      },
+      {
         "title": "Make every cancelled Valve game real",
         "blocked": false
       },
@@ -406,6 +407,10 @@
       },
       {
         "title": "Make Ravenholm real (Arkane Episode Four)",
+        "blocked": false
+      },
+      {
+        "title": "Make something cool with the jintao_zhang_ X reference",
         "blocked": false
       },
       {
@@ -445,6 +450,14 @@
         "blocked": false
       },
       {
+        "title": "Update submitted Founders Inc application with new Lucky Cat progress",
+        "blocked": false
+      },
+      {
+        "title": "Use Jacob\u2019s new footage in Lucky Cat video content",
+        "blocked": false
+      },
+      {
         "title": "VR games GOTY pass (all four)",
         "blocked": false
       },
@@ -465,7 +478,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 73,
-    "in_progress_total": 49
+    "backlog_total": 78,
+    "in_progress_total": 50
   }
 }

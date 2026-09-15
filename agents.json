@@ -1,14 +1,14 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 10:38 AM CDT",
-  "generated_epoch": 1789486689,
-  "count": 27,
+  "generated_at": "Tuesday, September 15, 2026 at 11:05 AM CDT",
+  "generated_epoch": 1789488351,
+  "count": 28,
   "lucky_cat_count": 22,
   "blocked_count": 1,
-  "paused_count": 0,
+  "paused_count": 1,
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Head silhouette now passes closely enough. Face still fails because the rendered eyes do not match the...",
+      "summary": "Head silhouette now passes closely enough. Face still fails because the rendered eyes do not match the... | latest: Isolated-face pass for gate. head_render.png (512px light-bg head crop, registered)...",
       "kind": "build",
       "lane": "working"
     },
@@ -145,6 +145,12 @@
       "lane": "blocked"
     },
     {
+      "name": "Super Lucky Cat Kart",
+      "summary": "Awaiting specific Lucky Cat assignment",
+      "kind": "build",
+      "lane": "awaiting"
+    },
+    {
       "name": "Agent mail notification manager",
       "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill.",
       "kind": "system",
@@ -187,7 +193,15 @@
         "blocked": true
       },
       {
+        "title": "Build a set of projects from four X references",
+        "blocked": false
+      },
+      {
         "title": "Build all 8 AI-news-inspired ideas",
+        "blocked": false
+      },
+      {
+        "title": "Build Lucky Cat Cafe as a 3D VR game",
         "blocked": false
       },
       {
@@ -403,7 +417,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 59,
-    "in_progress_total": 47
+    "backlog_total": 61,
+    "in_progress_total": 48
   }
 }

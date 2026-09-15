@@ -1,7 +1,7 @@
 {
-  "generated_at": "Monday, September 14, 2026 at 6:18 PM CDT",
-  "generated_epoch": 1789427913,
-  "count": 27,
+  "generated_at": "Monday, September 14, 2026 at 7:48 PM CDT",
+  "generated_epoch": 1789433331,
+  "count": 28,
   "agents": [
     {
       "name": "3D asset upgrade pass",
@@ -34,11 +34,6 @@
       "kind": "build"
     },
     {
-      "name": "Full desktop access over Tailscale",
-      "summary": "Jacob explicitly wants screen viewing and full desktop control on both his MacBook and Windows laptop over their existing Tailscale network....",
-      "kind": "build"
-    },
-    {
       "name": "Genie/Lucky stack engineer",
       "summary": "Standing role from the user's latest iMessage: own the Genie lamp + Lucky Cat SOFTWARE stack end to end - building, stress testing, refining...",
       "kind": "build"
@@ -59,11 +54,6 @@
       "kind": "build"
     },
     {
-      "name": "INSIDE sequel lead",
-      "summary": "Build a complete, playable 3D spiritual sequel to Playdead's INSIDE - deeply inspired by it, looking and feeling exactly like it, but 3D....",
-      "kind": "build"
-    },
-    {
       "name": "Install Tailscale on both Pis",
       "summary": "Handle Jacob's latest iMessage about setting up Tailscale on his Raspberry Pis. Current state: bench is a 4GB Pi at 10.0.0.194 with Pi Connect remote...",
       "kind": "build"
@@ -81,6 +71,11 @@
     {
       "name": "Lucky 3D World platformer",
       "summary": "Make me super Mario 3d world but lucky cat edition. What that means in his universe: a browser 3D platformer (three.js, single index.html family like...",
+      "kind": "build"
+    },
+    {
+      "name": "Lucky Cat traction launch",
+      "summary": "Handle Jacob's latest request to build traction for Lucky Cat. Use the strongest verified real-product posters and videos from today's Gmail...",
       "kind": "build"
     },
     {
@@ -111,6 +106,16 @@
     {
       "name": "tech radar + founder programs",
       "summary": "Handle Jacob's latest iMessage (three parts): 1. Latest tech news, demos, releases, teasers - research what's current (this week) across AI...",
+      "kind": "build"
+    },
+    {
+      "name": "Upgrade Lucky Cat Forge character",
+      "summary": "Handle Jacob's latest request to make the Lucky Cat character on the deployed Forge page look way better. The existing soft generic illustration is...",
+      "kind": "build"
+    },
+    {
+      "name": "Verify Lucky Cat waitlist",
+      "summary": "Handle Jacob's latest question: verify whether the waitlist on his live GitHub-hosted Lucky Cat product site actually works end to end. Use the...",
       "kind": "build"
     },
     {
@@ -238,6 +243,10 @@
         "blocked": false
       },
       {
+        "title": "INSIDE spiritual sequel, rebuilt 3D",
+        "blocked": false
+      },
+      {
         "title": "iPhone apps from his ideas (Xcode-ready SwiftUI)",
         "blocked": false
       },
@@ -342,7 +351,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 51,
-    "in_progress_total": 44
+    "backlog_total": 52,
+    "in_progress_total": 45
   }
 }

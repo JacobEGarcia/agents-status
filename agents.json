@@ -1,147 +1,147 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 3:23 AM CDT",
-  "generated_epoch": 1789460628,
+  "generated_at": "Tuesday, September 15, 2026 at 3:34 AM CDT",
+  "generated_epoch": 1789461269,
   "count": 27,
-  "lucky_cat_count": 23,
-  "paused_count": 0,
+  "lucky_cat_count": 19,
+  "paused_count": 4,
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "On Lucky Cat push (home scope: You are the standing 3D asset lane, replacing your predecessor which expired. You build presentation-quality 3D models in Blender and deliver GLBs +...)",
+      "summary": "Do not treat pass 6 as final after the color fixes. The side-by-sides still fail Jacob's... | latest: Pass 7b done - geometry/face rebuilt against your critique. Attached: current face render...",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "Audit Lucky Cat laptop projects",
-      "summary": "On Lucky Cat push (home scope: Handle Jacob's latest request: inspect Lucky Cat projects on both his Windows laptop and MacBook Neo, including work in Codex and the Claude app. Use...)",
+      "summary": "latest: Finished a 135-line Lucky Cat source-of-truth and release-gate artifact (SHA-256...",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "Blender art + addon lane",
-      "summary": "On Lucky Cat push (home scope: You are the continuation of the Blender scan-art lane (the prior lane agent expired; this is a fresh assignment of the same standing work). Three...)",
+      "summary": "Handle Jacob's latest request: make a Lucky Cat anime animated video using AI video generation. Treat this as...",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "Cancelled Valve games lead",
-      "summary": "On Lucky Cat push (home scope: Handle the user's latest ask: make EVERY cancelled Valve game real - each one its own complete, playable game. You are the lead for the catalog. Two...)",
+      "summary": "Keep the evidence board staged and unchanged. Do not deploy it yet; Jacob's broader Day 1 publishing approval...",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "CEO - Lucky Cat Robotics",
-      "summary": "On Lucky Cat push (home scope: Standing role, from the user's latest iMessage: you are the CEO of Lucky Cat Robotics, always working. Lucky Cat = his maneki-neko with a voice...)",
+      "summary": "Incorporate the priced-intent choices into the preorder plan and site work: $49 phone-brain Mini / $199... | latest: LUCKY - two deliverables. (Note: my bash layer glitched for ~1 min at 2:49-2:50 with...",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "deploy engine",
-      "summary": "On Lucky Cat push (home scope: You are the deploy engine for Jacob's GitHub Pages fleet under github.com/jacobegarcia. Parent agents send you build files (index.html or zips) plus...)",
+      "summary": "The authenticated lane pushed Product/store commit 2b5a629. Run the promised final live QA now... | latest: Clean closeout for Product/store commit 2b5a62933f2e1b199c52c494ce228f82e579e1f9. Byte...",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "Email Lucky Cat screen commands",
-      "summary": "On Lucky Cat push (home scope: Handle Jacob's latest iMessage: email him the exact five-line MHS 3.5-inch native piscreen DRM install block I just sent in this conversation. Send...)",
+      "summary": "latest: Lucky Cat reviewer-proof audit complete. I audited the live product page and build...",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "On Lucky Cat push (home scope: Standing role from the user's latest iMessage: own the Genie lamp + Lucky Cat SOFTWARE stack end to end - building, stress testing, refining...)",
+      "summary": "latest: ALL-LANES LUCKY CAT FOCUS - concrete artifact from the hardware/software lane: DUET...",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "GITS game lane",
-      "summary": "On Lucky Cat push (home scope: You are the GITS web-game build lane (single-file three.js browser games, deployed via the deploy engine agent-01M2BKQGQE8M05MAWSX4D6CG7Z - send it...)",
+      "summary": "latest: Finished a reviewer-visible Lucky Cat founders preview and product configurator....",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "Godot + anime build lane",
-      "summary": "On Lucky Cat push (home scope: You are the continuation of the Godot/anime build lane (the prior lane agent expired mid-stream; this is a fresh assignment of the same standing...)",
+      "summary": "latest: # Retire deadline cadence; concrete requested outcome is complete.",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "Half-Life 3 game lead",
-      "summary": "On Lucky Cat push (home scope: Handle the user's latest ask: make Half-Life 3 real - a complete, playable game, iterated until great. You are the lead for this game. Playbook (same...)",
+      "summary": "latest: Lucky Cat checkpoint delivered without opening new scope: the preserved reviewer-ready...",
       "kind": "build",
-      "lane": "luckycat"
-    },
-    {
-      "name": "Install Tailscale on both Pis",
-      "summary": "On Lucky Cat push (home scope: Handle Jacob's latest iMessage about setting up Tailscale on his Raspberry Pis. Current state: bench is a 4GB Pi at 10.0.0.194 with Pi Connect remote...)",
-      "kind": "build",
-      "lane": "luckycat"
-    },
-    {
-      "name": "King - DePaul Chess Club hype",
-      "summary": "On Lucky Cat push (home scope: You are the standing hype engine for DePaul Chess Club, per the user's latest iMessage. Own: post ideas, captions, designed stills, reels/videos...)",
-      "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "Little Nightmares sequel lead",
-      "summary": "On Lucky Cat push (home scope: Build a complete, playable 3D spiritual sequel to the Little Nightmares games - deeply inspired by them, looking and feeling exactly like them, but...)",
+      "summary": "latest: Finished a second Lucky Cat artifact: a usable 480x320 touchscreen interface prototype...",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "Lucky Cat GitHub backup and privacy pass",
-      "summary": "On Lucky Cat push (home scope: Handle Jacob's latest request: back up the Lucky Cat work into clean private GitHub repositories and change unfinished public repositories to...)",
+      "summary": "Deploy this final superseding Product bundle to JacobEGarcia/luckycat main using your authenticated GitHub... | latest: Merch priced-intent bundle deployed to JacobEGarcia/luckycat main. Commit: 2b5a629 \\\"Add...",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "Lucky Cat site improvement sprint",
-      "summary": "On Lucky Cat push (home scope: Handle Jacob's latest request: use a newly free lane to improve the Lucky Cat sites into stronger proof-of-concept surfaces. Work from the corrected...)",
+      "summary": "Highest priority from the reviewer-proof audit: lead the Product page with the real 5-8 second hardware... | latest: Finished a concrete Fly Mind editorial redesign bundle, not just a brief. It replaces the...",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "Lucky Cat web quality director",
-      "summary": "On Lucky Cat push (home scope: Handle Jacob's latest request to bring the entire Lucky Cat web presence to a convincing human-made quality bar. Add the strongest real-product...)",
+      "summary": "Add the priced-intent vote to your current Product/wishlist work: \u201cWhich Lucky Cat would you actually buy?\u201d... | latest: Priced-intent vote is complete and folded into the honest merch + reviewer-path Product...",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "Portal 3 game lead",
-      "summary": "On Lucky Cat push (home scope: Handle the user's ask: make Portal 3 - a complete, playable game, iterated until great. You are the lead for this game alone. Playbook (same as Stars...)",
+      "summary": "latest: Lucky Cat focus build shipped: Bells v61 - frost on the snow card's enso, supersedes v60....",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "Ravenholm game lead",
-      "summary": "On Lucky Cat push (home scope: You are the dedicated lead for RAVENHOLM (Arkane's cancelled Half-Life Episode Four) - build it into a complete, playable game, iterated until great....)",
+      "summary": "latest: Lucky Cat reviewer-proof artifact attached: LUCKY RUNNER v185, the finished one-button...",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "Ribbit - eat the frog",
-      "summary": "On Lucky Cat push (home scope: You are Jacob's eat-the-frog accountability agent, per his latest iMessage: nudge him to focus and get the hard stuff done, surface forgotten things...)",
+      "summary": "latest: Lucky Cat focus acknowledged. In progress: (1) Act III \\\"The River Runs Backward\\\"...",
       "kind": "build",
-      "lane": "luckycat"
-    },
-    {
-      "name": "Stars of Blood lead",
-      "summary": "On Lucky Cat push (home scope: Make Stars of Blood real - a fully completed, polished, Valve-quality version of the cancelled Valve game. Reference: the sal_predebut 9-part...)",
-      "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
     },
     {
       "name": "tech radar + founder programs",
-      "summary": "On Lucky Cat push (home scope: Handle Jacob's latest iMessage (three parts): 1. Latest tech news, demos, releases, teasers - research what's current (this week) across AI...)",
+      "summary": "latest: LUCKY CAT ARTIFACT SHIPPED - PROOF CONSOLE Attached: - `index.html`: a complete...",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "working"
+    },
+    {
+      "name": "Install Tailscale on both Pis",
+      "summary": "Awaiting specific Lucky Cat assignment",
+      "kind": "build",
+      "lane": "awaiting"
+    },
+    {
+      "name": "King - DePaul Chess Club hype",
+      "summary": "Awaiting specific Lucky Cat assignment",
+      "kind": "build",
+      "lane": "awaiting"
+    },
+    {
+      "name": "Stars of Blood lead",
+      "summary": "Awaiting specific Lucky Cat assignment",
+      "kind": "build",
+      "lane": "awaiting"
     },
     {
       "name": "Verify MHS 3.5 screen install",
-      "summary": "On Lucky Cat push (home scope: Handle Jacob's latest Pi bring-up messages: verify the safe current installation path for the photographed MHS-3.5inch Display, marked SPI 125MHz...)",
+      "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
-      "lane": "luckycat"
+      "lane": "awaiting"
     },
     {
       "name": "Agent mail notification manager",
@@ -164,10 +164,6 @@
   ],
   "queued": {
     "scheduled": [
-      {
-        "name": "3D asset upgrade pass",
-        "fires_at": "3:24 AM"
-      },
       {
         "name": "Ravenholm game lead",
         "fires_at": "9:00 AM"

@@ -1,10 +1,10 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 3:41 AM CDT",
-  "generated_epoch": 1789461686,
+  "generated_at": "Tuesday, September 15, 2026 at 3:45 AM CDT",
+  "generated_epoch": 1789461926,
   "count": 27,
-  "lucky_cat_count": 19,
+  "lucky_cat_count": 22,
   "blocked_count": 1,
-  "paused_count": 3,
+  "paused_count": 0,
   "agents": [
     {
       "name": "3D asset upgrade pass",
@@ -73,6 +73,12 @@
       "lane": "working"
     },
     {
+      "name": "King - DePaul Chess Club hype",
+      "summary": "Campus-native Lucky Cat awareness campaign for DePaul students: specific content and activation assets, nothing published without Jacob approval. Latest delivered: campus flyer set and Golden Cat scavenger-hunt cards.",
+      "kind": "build",
+      "lane": "working"
+    },
+    {
       "name": "Little Nightmares sequel lead",
       "summary": "latest: Finished a second Lucky Cat artifact: a usable 480x320 touchscreen interface prototype...",
       "kind": "build",
@@ -115,8 +121,20 @@
       "lane": "working"
     },
     {
+      "name": "Stars of Blood lead",
+      "summary": "Polished playable Lucky Cat mini-game for wishlist sharing, web-first. Latest delivered: Fortune Falls single-file game, now routed for deployment.",
+      "kind": "build",
+      "lane": "working"
+    },
+    {
       "name": "tech radar + founder programs",
       "summary": "latest: LUCKY CAT ARTIFACT SHIPPED - PROOF CONSOLE Attached: - `index.html`: a complete...",
+      "kind": "build",
+      "lane": "working"
+    },
+    {
+      "name": "Verify MHS 3.5 screen install",
+      "summary": "Verify 3.5-inch 480x320 touchscreen path for Lucky Cat 16GB Pi without black-screen risk. Latest: software/driver path proven; physical orientation and tap still need one look.",
       "kind": "build",
       "lane": "working"
     },
@@ -125,24 +143,6 @@
       "summary": "Bench 4GB Pi complete: authenticated remote shell/screen, Tailscale 100.74.9.62. Luckiestcat 16GB Pi: Tailscale transport up at 100.81.200.63, interactive SSH unverified - blocked on Jacob re-authenticating Windows Chrome Remote Desktop or local Raspberry Pi Connect enrollment.",
       "kind": "build",
       "lane": "blocked"
-    },
-    {
-      "name": "King - DePaul Chess Club hype",
-      "summary": "Awaiting specific Lucky Cat assignment",
-      "kind": "build",
-      "lane": "awaiting"
-    },
-    {
-      "name": "Stars of Blood lead",
-      "summary": "Awaiting specific Lucky Cat assignment",
-      "kind": "build",
-      "lane": "awaiting"
-    },
-    {
-      "name": "Verify MHS 3.5 screen install",
-      "summary": "Awaiting specific Lucky Cat assignment",
-      "kind": "build",
-      "lane": "awaiting"
     },
     {
       "name": "Agent mail notification manager",
@@ -409,6 +409,6 @@
       }
     ],
     "backlog_total": 58,
-    "in_progress_total": 45
+    "in_progress_total": 46
   }
 }

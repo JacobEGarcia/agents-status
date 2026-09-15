@@ -1,6 +1,6 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 1:00 AM CDT",
-  "generated_epoch": 1789452042,
+  "generated_at": "Tuesday, September 15, 2026 at 2:30 AM CDT",
+  "generated_epoch": 1789457455,
   "count": 27,
   "agents": [
     {
@@ -135,12 +135,7 @@
     }
   ],
   "queued": {
-    "scheduled": [
-      {
-        "name": "CEO - Lucky Cat Robotics",
-        "fires_at": "1:50 AM"
-      }
-    ],
+    "scheduled": [],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",
@@ -155,11 +150,19 @@
         "blocked": false
       },
       {
+        "title": "Apply MrBeast playbook to Lucky Cat",
+        "blocked": false
+      },
+      {
         "title": "Build a 3D survival-horror VR game",
         "blocked": true
       },
       {
         "title": "Build all 8 AI-news-inspired ideas",
+        "blocked": false
+      },
+      {
+        "title": "Build Lucky Cat preorder plan",
         "blocked": false
       },
       {
@@ -347,6 +350,10 @@
         "blocked": false
       },
       {
+        "title": "Win a Blueprint II team slot with sustained Lucky Cat campaign",
+        "blocked": false
+      },
+      {
         "title": "Wireframe-glow VR game (snapchat reference)",
         "blocked": false
       },
@@ -355,7 +362,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 53,
+    "backlog_total": 56,
     "in_progress_total": 45
   }
 }

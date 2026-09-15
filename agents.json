@@ -1,7 +1,7 @@
 {
-  "generated_at": "Monday, September 14, 2026 at 8:18 PM CDT",
-  "generated_epoch": 1789435134,
-  "count": 28,
+  "generated_at": "Tuesday, September 15, 2026 at 12:11 AM CDT",
+  "generated_epoch": 1789449092,
+  "count": 27,
   "agents": [
     {
       "name": "3D asset upgrade pass",
@@ -74,23 +74,18 @@
       "kind": "build"
     },
     {
-      "name": "Lucky 3D World platformer",
-      "summary": "Make me super Mario 3d world but lucky cat edition. What that means in his universe: a browser 3D platformer (three.js, single index.html family like...",
+      "name": "Lucky Cat GitHub backup and privacy pass",
+      "summary": "Handle Jacob's latest request: back up the Lucky Cat work into clean private GitHub repositories and change unfinished public repositories to...",
+      "kind": "build"
+    },
+    {
+      "name": "Lucky Cat site improvement sprint",
+      "summary": "Handle Jacob's latest request: use a newly free lane to improve the Lucky Cat sites into stronger proof-of-concept surfaces. Work from the corrected...",
       "kind": "build"
     },
     {
       "name": "Lucky Cat web quality director",
       "summary": "Handle Jacob's latest request to bring the entire Lucky Cat web presence to a convincing human-made quality bar. Add the strongest real-product...",
-      "kind": "build"
-    },
-    {
-      "name": "Optimize Neo MacBook",
-      "summary": "Handle Jacob's latest request to optimize his MacBook Neo. Use the browser-use skill and the verified Chrome Remote Desktop route. Inspect current...",
-      "kind": "build"
-    },
-    {
-      "name": "Pi Connect driver",
-      "summary": "Drive the user's Raspberry Pis through Raspberry Pi Connect. Use the browser-use skill; acquire your own lease. Sign-in: connect.raspberrypi.com with...",
       "kind": "build"
     },
     {
@@ -140,12 +135,7 @@
     }
   ],
   "queued": {
-    "scheduled": [
-      {
-        "name": "Optimize Neo MacBook",
-        "fires_at": "8:20 PM"
-      }
-    ],
+    "scheduled": [],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",
@@ -340,6 +330,10 @@
         "blocked": false
       },
       {
+        "title": "Super Mario 3D World, lucky cat edition",
+        "blocked": false
+      },
+      {
         "title": "VR games GOTY pass (all four)",
         "blocked": false
       },
@@ -356,7 +350,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 52,
-    "in_progress_total": 47
+    "backlog_total": 53,
+    "in_progress_total": 45
   }
 }

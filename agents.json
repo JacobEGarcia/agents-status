@@ -1,6 +1,6 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 12:11 AM CDT",
-  "generated_epoch": 1789449092,
+  "generated_at": "Tuesday, September 15, 2026 at 1:00 AM CDT",
+  "generated_epoch": 1789452042,
   "count": 27,
   "agents": [
     {
@@ -135,7 +135,12 @@
     }
   ],
   "queued": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "name": "CEO - Lucky Cat Robotics",
+        "fires_at": "1:50 AM"
+      }
+    ],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",

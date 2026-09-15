@@ -1,6 +1,6 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 4:03 PM CDT",
-  "generated_epoch": 1789506192,
+  "generated_at": "Tuesday, September 15, 2026 at 4:37 PM CDT",
+  "generated_epoch": 1789508249,
   "count": 28,
   "lucky_cat_count": 21,
   "blocked_count": 0,
@@ -8,7 +8,7 @@
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Ear gate: pass and lock. Muzzle gate: partial pass. Scale is finally correct and the shadow pocket is gone...",
+      "summary": "Muzzle gate: fail, but the rectangular field is fixed. The new pads overshoot in the other direction: they... | latest: v93 muzzle: replaced the lofted pad tubes with a single ray-cast blister patch (13x11...",
       "kind": "build",
       "lane": "working"
     },
@@ -185,6 +185,10 @@
         "blocked": false
       },
       {
+        "title": "Apply Emmajo post to Jacob operating plan",
+        "blocked": false
+      },
+      {
         "title": "Apply MrBeast playbook to Lucky Cat",
         "blocked": false
       },
@@ -230,10 +234,6 @@
       },
       {
         "title": "Build the food_eft X post game",
-        "blocked": false
-      },
-      {
-        "title": "Build the Taylor SNTX X post project",
         "blocked": false
       },
       {

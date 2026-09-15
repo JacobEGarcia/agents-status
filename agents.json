@@ -1,6 +1,6 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 11:27 AM CDT",
-  "generated_epoch": 1789489653,
+  "generated_at": "Tuesday, September 15, 2026 at 12:41 PM CDT",
+  "generated_epoch": 1789494088,
   "count": 28,
   "lucky_cat_count": 24,
   "blocked_count": 0,
@@ -8,7 +8,7 @@
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Gate: fail. The socket depth is better, but the lids now create a sad drooping expression unlike the...",
+      "summary": "Gate: still fail. Alertness improved, but standalone face still does not match the object. The tight crop...",
       "kind": "build",
       "lane": "working"
     },
@@ -134,7 +134,7 @@
     },
     {
       "name": "Super Lucky Cat Kart",
-      "summary": "Build Super Lucky Cat Kart as a real playable 3D kart game, Mario Kart 8-level feel, GOTY bar. Latest: first playable vertical slice committed (3-lap shrine circuit, drift boosts, items, 5 AI racers, HUD, minimap) - GitHub Pages propagating, live visual verify pending.",
+      "summary": "Build Super Lucky Cat Kart as a real playable 3D kart game, Mario Kart 8-level feel, GOTY bar. Latest: speed/art pass live at jacobegarcia.github.io/super-lucky-cat-kart/ - ~240 km/h race pace, denser torii/lanterns/cat karts, exhaust + speed trails; full 3-lap QA caught and fixed a cumulative-lap rank bug.",
       "kind": "build",
       "lane": "working"
     },
@@ -193,6 +193,10 @@
         "blocked": true
       },
       {
+        "title": "Build a Portal fan game from the sal_predebut concept art",
+        "blocked": false
+      },
+      {
         "title": "Build a set of projects from four X references",
         "blocked": false
       },
@@ -209,11 +213,27 @@
         "blocked": false
       },
       {
+        "title": "Build something from the eigensteve X reference",
+        "blocked": false
+      },
+      {
+        "title": "Build the 80 Level X reference project",
+        "blocked": false
+      },
+      {
+        "title": "Build the food_eft X post game",
+        "blocked": false
+      },
+      {
         "title": "Build the Taylor SNTX X post project",
         "blocked": false
       },
       {
         "title": "Build the usecrayon X post project",
+        "blocked": false
+      },
+      {
+        "title": "Build things from the lmrn_msn2 X reference",
         "blocked": false
       },
       {
@@ -262,6 +282,10 @@
       },
       {
         "title": "Execute the four self-emailed creative tasks",
+        "blocked": false
+      },
+      {
+        "title": "Experiment with the tonysimons_ X reference",
         "blocked": false
       },
       {
@@ -334,6 +358,30 @@
       },
       {
         "title": "Lucky Cat hype video set",
+        "blocked": false
+      },
+      {
+        "title": "Make cool things with the c_valenzuelab X reference",
+        "blocked": false
+      },
+      {
+        "title": "Make cool things with the dogacel0 X reference",
+        "blocked": false
+      },
+      {
+        "title": "Make cool things with the huggingapps X reference",
+        "blocked": false
+      },
+      {
+        "title": "Make cool things with the kail_designs X reference",
+        "blocked": false
+      },
+      {
+        "title": "Make cool things with the second kail_designs X reference",
+        "blocked": false
+      },
+      {
+        "title": "Make cool things with the third kail_designs X reference",
         "blocked": false
       },
       {
@@ -417,7 +465,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 61,
-    "in_progress_total": 48
+    "backlog_total": 73,
+    "in_progress_total": 49
   }
 }

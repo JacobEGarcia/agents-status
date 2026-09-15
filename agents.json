@@ -1,14 +1,14 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 11:08 AM CDT",
-  "generated_epoch": 1789488492,
+  "generated_at": "Tuesday, September 15, 2026 at 11:27 AM CDT",
+  "generated_epoch": 1789489653,
   "count": 28,
-  "lucky_cat_count": 23,
-  "blocked_count": 1,
+  "lucky_cat_count": 24,
+  "blocked_count": 0,
   "paused_count": 0,
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Head silhouette now passes closely enough. Face still fails because the rendered eyes do not match the... | latest: Isolated-face pass for gate. head_render.png (512px light-bg head crop, registered)...",
+      "summary": "Gate: fail. The socket depth is better, but the lids now create a sad drooping expression unlike the...",
       "kind": "build",
       "lane": "working"
     },
@@ -69,6 +69,12 @@
     {
       "name": "Half-Life 3 game lead",
       "summary": "latest: Lucky Cat checkpoint delivered without opening new scope: the preserved reviewer-ready...",
+      "kind": "build",
+      "lane": "working"
+    },
+    {
+      "name": "Install Tailscale on both Pis",
+      "summary": "Both Pis verified secure remote shell: bench complete; luckiestcat online at 100.81.200.63, Connect signed in, events subscribed, screen sharing and remote shell allowed, native Connect shell prompt verified. Remaining: screen-sharing server fails to start/connect - diagnosis in progress. No user action pending.",
       "kind": "build",
       "lane": "working"
     },
@@ -143,12 +149,6 @@
       "summary": "Lucky Cat assignment: finish and verify the 3.5-inch 480x320 touchscreen path for the Lucky Cat 16GB Pi 5... | latest: LUCKY CAT 16GB (luckiestcat, 10.0.0.47 / tailscale 100.81.200.63) - 3.5\\\" 480x320 MHS...",
       "kind": "build",
       "lane": "working"
-    },
-    {
-      "name": "Install Tailscale on both Pis",
-      "summary": "Bench 4GB Pi complete: authenticated remote shell/screen, Tailscale 100.74.9.62. Luckiestcat 16GB Pi: Tailscale transport up at 100.81.200.63, interactive SSH unverified - blocked on Jacob re-authenticating Windows Chrome Remote Desktop or local Raspberry Pi Connect enrollment.",
-      "kind": "build",
-      "lane": "blocked"
     },
     {
       "name": "Agent mail notification manager",

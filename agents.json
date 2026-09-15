@@ -1,6 +1,6 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 4:37 PM CDT",
-  "generated_epoch": 1789508249,
+  "generated_at": "Tuesday, September 15, 2026 at 5:07 PM CDT",
+  "generated_epoch": 1789510061,
   "count": 28,
   "lucky_cat_count": 21,
   "blocked_count": 0,
@@ -8,7 +8,7 @@
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Muzzle gate: fail, but the rectangular field is fixed. The new pads overshoot in the other direction: they... | latest: v93 muzzle: replaced the lofted pad tubes with a single ray-cast blister patch (13x11...",
+      "summary": "v93 still fails at delivery scale. The geometry is subtler, but the muzzle now reads as a pale rectangular... | latest: v94 muzzle: blister patch mesh removed entirely - the muzzle bump is now displaced...",
       "kind": "build",
       "lane": "working"
     },
@@ -449,6 +449,10 @@
         "blocked": false
       },
       {
+        "title": "Set up 64GB microSD for R36S",
+        "blocked": false
+      },
+      {
         "title": "Sign up for Modal + Oracle free VM",
         "blocked": false
       },
@@ -485,7 +489,7 @@
         "blocked": false
       }
     ],
-    "backlog_total": 78,
+    "backlog_total": 79,
     "in_progress_total": 52
   }
 }

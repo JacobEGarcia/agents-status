@@ -1,6 +1,6 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 5:22 AM CDT",
-  "generated_epoch": 1789554176,
+  "generated_at": "Wednesday, September 16, 2026 at 5:53 AM CDT",
+  "generated_epoch": 1789556016,
   "count": 27,
   "lucky_cat_count": 19,
   "blocked_count": 0,
@@ -36,17 +36,17 @@
     },
     {
       "name": "deploy engine",
-      "summary": "Publish this verified standalone Taylor SNTX-inspired build as its own GitHub Pages project under...",
+      "summary": "Deploy this verified Half-Life 3 v1.11 update over the existing canonical Half-Life 3 live project. Preserve... | latest: Half-Life 3 v1.11 is live on the existing canonical project with repo/history preserved....",
       "kind": "build",
       "lane": "working",
       "age": "5h ago"
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "The exact trailing-de stale lease was released and the pool verified free. Proceed now rather than waiting... | latest: BENCH ACTIVATED - all four Lucky Cat devices now have a productive role. Bench (4GB Pi 5)...",
+      "summary": "Give current 4GB Pi status now: exact service/work running, latest completed state, blocker, and whether the...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "GITS game lane",
@@ -64,7 +64,7 @@
     },
     {
       "name": "Half-Life 3 game lead",
-      "summary": "Your current Half-Life 3 checkpoint is parked. Switch your active assignment now to Jacob's separate Taylor... | latest: Taylor SNTX build v1 is complete as its own project: VOID COURIER. Grounded source...",
+      "summary": "VOID COURIER is published and delivered. Resume your parked Half-Life 3 lead assignment, prioritizing its... | latest: Half-Life 3 v1.11 is ready: persistent field checkpoints and a real Continue path. Audit...",
       "kind": "build",
       "lane": "working",
       "age": "5h ago"
@@ -74,7 +74,7 @@
       "summary": "Jacob wants the chess club operations lane working through its queued work now. Review the grounded DePaul... | latest: Chess ops lane, queued work executed: WEEK TWO pack for Thursday Sept 17 (6:00-7:30 PM...",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
+      "age": "5h ago"
     },
     {
       "name": "Little Nightmares sequel lead",
@@ -99,17 +99,17 @@
     },
     {
       "name": "Recover Pi sudo access and finish setup",
-      "summary": "Jacob explicitly authorized trying the Pi login again. Make exactly one final submission of the newly vaulted... | latest: Final authorized retry did not produce a login shell. I independently verified Jacob's...",
+      "summary": "Jacob explicitly authorized trying the Pi login again. Make exactly one final submission of the newly vaulted... | latest: 16GB Pi (`luckiestcat`, local IP last verified `10.0.0.47`) status: - Exact useful work...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Ribbit - eat the frog",
       "summary": "Shift from parked accountability to active execution. Pick the highest-leverage currently unblocked frog and... | latest: FROG LANE - first active-execution pass done. Target: the income/job-hunt frog (money is...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Stars of Blood lead",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 3:50 AM CDT",
-  "generated_epoch": 1789548658,
+  "generated_at": "Wednesday, September 16, 2026 at 4:21 AM CDT",
+  "generated_epoch": 1789550500,
   "count": 27,
   "lucky_cat_count": 19,
   "blocked_count": 0,
@@ -11,7 +11,7 @@
       "summary": "Do not deliver v134. The defect repair worked, but the visual match is still below the reference bar. Front...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Blender art + addon lane",
@@ -25,21 +25,21 @@
       "summary": "Keep the evidence board staged and unchanged. Do not deploy it yet; Jacob's broader Day 1 publishing approval...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "CEO - Lucky Cat Robotics",
       "summary": "Apply Jacob's spelling clarification to the Lucky Cat marketing campaign. | latest: LUCKY - 12:11 PM work session report. Checked first: no new approvals from Jacob (user...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "2m ago"
     },
     {
       "name": "deploy engine",
       "summary": "Deploy the attached verified LUCKY RUNNER v185 as a user-playable Lucky Cat web artifact if it fits the... | latest: Lucky Runner v185 was already deployed exactly, so I did not rewrite it. Attached source...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Genie/Lucky stack engineer",
@@ -53,21 +53,21 @@
       "summary": "latest: Finished a reviewer-visible Lucky Cat founders preview and product configurator....",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Godot + anime build lane",
       "summary": "latest: # Retire deadline cadence; concrete requested outcome is complete.",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Half-Life 3 game lead",
       "summary": "latest: Lucky Cat checkpoint delivered without opening new scope: the preserved reviewer-ready...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -81,28 +81,28 @@
       "summary": "latest: Finished a second Lucky Cat artifact: a usable 480x320 touchscreen interface prototype...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Portal 3 game lead",
       "summary": "latest: Lucky Cat focus build shipped: Bells v61 - frost on the snow card's enso, supersedes v60....",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Ravenholm game lead",
       "summary": "latest: Lucky Cat reviewer-visible artifact attached: LUCKY RUNNER v185, the finished one-button...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Recover Pi sudo access and finish setup",
-      "summary": "Jacob is exhausted. Remote access being online and normal system boot are enough to stop physical recovery... | latest: I set a quiet hourly, trigger-gated recheck for the remote-input blocker. It will wake me...",
+      "summary": "The secure vault request for luckiestcat Raspberry Pi sudo is complete. Resume the 16GB Pi outcome now: use... | latest: I set a quiet hourly, trigger-gated recheck for the remote-input blocker. It will wake me...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "28m ago"
     },
     {
       "name": "Ribbit - eat the frog",
@@ -116,49 +116,49 @@
       "summary": "Pause Stars of Blood without deleting its work. Lucky Cat assignment: turn your Valve-quality game expertise... | latest: LUCKY CAT MINI-GAME v1 SHIPPED (not deployed - deploy routes through you). \\\"Fortune...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Super Lucky Cat Kart",
       "summary": "Keep this as a strong checkpoint and continue toward the original bar. Next prioritize actual speed and race... | latest: Shipped the next material gameplay improvement live...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "tech radar + founder programs",
       "summary": "latest: LUCKY CAT ARTIFACT SHIPPED - PROOF CONSOLE Attached: - `index.html`: a complete...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Windows laptop productive lane",
       "summary": "Active blocker recovery: CRD drops to the PIN screen on first keystroke. Working browser-use recovery routes now, hourly trigger-gated wake as fallback. On stable input: verify the exact removable 64GB card (Jacob authorized wiping the old Pi card for the R36S; 100GB Pi card and internal drives excluded), then run R36S setup.",
       "kind": "build",
       "lane": "working",
-      "age": "15m ago"
+      "age": "3m ago"
     },
     {
       "name": "Boss rush GOTY rebuild",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Lucky Cat GitHub quality and privacy",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Lucky Cat iPhone apps",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Still full paper-computer upgrade",
@@ -193,7 +193,7 @@
     "scheduled": [
       {
         "name": "Still full paper-computer upgrade",
-        "fires_at": "3:57 AM"
+        "fires_at": "4:55 AM"
       },
       {
         "name": "Windows laptop productive lane",

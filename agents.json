@@ -1,6 +1,6 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 4:21 AM CDT",
-  "generated_epoch": 1789550500,
+  "generated_at": "Wednesday, September 16, 2026 at 4:52 AM CDT",
+  "generated_epoch": 1789552341,
   "count": 27,
   "lucky_cat_count": 19,
   "blocked_count": 0,
@@ -18,7 +18,7 @@
       "summary": "Queue is clear and shipped cuts are delivered. Skip recurring hourly work until new user footage, Veo access... | latest: Hourly lane paused as directed: deleted the recurring 60-min wake. All outputs intact at...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Cancelled Valve games lead",
@@ -32,7 +32,7 @@
       "summary": "Apply Jacob's spelling clarification to the Lucky Cat marketing campaign. | latest: LUCKY - 12:11 PM work session report. Checked first: no new approvals from Jacob (user...",
       "kind": "build",
       "lane": "working",
-      "age": "2m ago"
+      "age": "32m ago"
     },
     {
       "name": "deploy engine",
@@ -43,10 +43,10 @@
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "I asked the board lane to release the blocking lease. Retry once it is clear and activate the 4GB bench with...",
+      "summary": "The exact trailing-de stale lease was released and the pool verified free. Proceed now rather than waiting... | latest: BENCH ACTIVATED - all four Lucky Cat devices now have a productive role. Bench (4GB Pi 5)...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "GITS game lane",
@@ -64,17 +64,17 @@
     },
     {
       "name": "Half-Life 3 game lead",
-      "summary": "latest: Lucky Cat checkpoint delivered without opening new scope: the preserved reviewer-ready...",
+      "summary": "latest: Taylor SNTX build v1 is complete as its own project: VOID COURIER. Grounded source...",
       "kind": "build",
       "lane": "working",
       "age": "4h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
-      "summary": "Pause chess-club production without deleting its work. Lucky Cat assignment: own a campus-native Lucky Cat... | latest: Build 0.5.0 \\\"NINE LIVES\\\" attached - the Lucky Cat thread, part 2, on the game lane...",
+      "summary": "Jacob wants the chess club operations lane working through its queued work now. Review the grounded DePaul... | latest: Chess ops lane, queued work executed: WEEK TWO pack for Thursday Sept 17 (6:00-7:30 PM...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Little Nightmares sequel lead",
@@ -99,17 +99,17 @@
     },
     {
       "name": "Recover Pi sudo access and finish setup",
-      "summary": "The secure vault request for luckiestcat Raspberry Pi sudo is complete. Resume the 16GB Pi outcome now: use... | latest: I set a quiet hourly, trigger-gated recheck for the remote-input blocker. It will wake me...",
+      "summary": "Jacob explicitly authorized trying the Pi login again. Make exactly one final submission of the newly vaulted...",
       "kind": "build",
       "lane": "working",
-      "age": "28m ago"
+      "age": "59m ago"
     },
     {
       "name": "Ribbit - eat the frog",
-      "summary": "latest: Lucky Cat focus acknowledged. In progress: (1) Act III \\\"The River Runs Backward\\\"...",
+      "summary": "Shift from parked accountability to active execution. Pick the highest-leverage currently unblocked frog and... | latest: FROG LANE - first active-execution pass done. Target: the income/job-hunt frog (money is...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -134,10 +134,10 @@
     },
     {
       "name": "Windows laptop productive lane",
-      "summary": "Active blocker recovery: CRD drops to the PIN screen on first keystroke. Working browser-use recovery routes now, hourly trigger-gated wake as fallback. On stable input: verify the exact removable 64GB card (Jacob authorized wiping the old Pi card for the R36S; 100GB Pi card and internal drives excluded), then run R36S setup.",
+      "summary": "Handle the user's latest iMessage request to make the Windows laptop productively active while fixing its... | latest: Windows lane is live and remote input is working again. I connected to JacobsLaptop...",
       "kind": "build",
       "lane": "working",
-      "age": "3m ago"
+      "age": "34m ago"
     },
     {
       "name": "Boss rush GOTY rebuild",
@@ -165,7 +165,7 @@
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "0m ago"
+      "age": "31m ago"
     },
     {
       "name": "Agent mail notification manager",

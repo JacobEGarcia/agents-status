@@ -1,6 +1,6 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 11:02 AM CDT",
-  "generated_epoch": 1789574560,
+  "generated_at": "Wednesday, September 16, 2026 at 11:30 AM CDT",
+  "generated_epoch": 1789576245,
   "count": 28,
   "lucky_cat_count": 22,
   "blocked_count": 0,
@@ -11,14 +11,14 @@
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: v158 backup (1 of 2): cat_visual158.blend + generator cat_visual158.py + render scripts...",
       "kind": "build",
       "lane": "working",
-      "age": "11m ago"
+      "age": "12m ago"
     },
     {
       "name": "Blender art + addon lane",
       "summary": "Cancel the 2:05 AM retry. Two bounded attempts reproduced the silent revert, so do not schedule another... | latest: New artifact, two formats of the same loop: luckygrid_anim_v1.mp4 (1080x1080, 4.1s) +...",
       "kind": "build",
       "lane": "working",
-      "age": "10h ago"
+      "age": "11h ago"
     },
     {
       "name": "Boss rush GOTY rebuild",
@@ -39,7 +39,7 @@
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: LUCKY - 12:12 AM session. Checked first: no new approvals or parent directives...",
       "kind": "build",
       "lane": "working",
-      "age": "53m ago"
+      "age": "1h ago"
     },
     {
       "name": "deploy engine",
@@ -53,7 +53,7 @@
       "summary": "Leave the game set at the verified 8 for now. Preserve OpenTyrian and tyrquake as optional future additions... | latest: Acknowledged: game set frozen at the verified 8. OpenTyrian + lr-tyrquake parked as...",
       "kind": "build",
       "lane": "working",
-      "age": "10m ago"
+      "age": "20m ago"
     },
     {
       "name": "GITS game lane",
@@ -102,46 +102,46 @@
       "summary": "Alongside current Lucky Cat visual QA, verify whether the restored browser service exposes an authoritative... | latest: Post-reset visual QA is complete and the midnight Lucky Cat work in my lane is shipped....",
       "kind": "build",
       "lane": "working",
-      "age": "10h ago"
+      "age": "11h ago"
     },
     {
       "name": "Lucky Cat iPhone apps",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Midnight reset worked and Neo is online. I connected with the saved PIN and visually...",
       "kind": "build",
       "lane": "working",
-      "age": "13m ago"
+      "age": "42m ago"
     },
     {
       "name": "Portal 3 game lead",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Midnight reset applied. Shrine stays blocked on source (still need luckyshrine-v146.zip...",
       "kind": "build",
       "lane": "working",
-      "age": "10h ago"
+      "age": "11h ago"
     },
     {
       "name": "Ravenholm game lead",
       "summary": "Canonical Lucky Runner v185 source recovered and verified. Continue the reviewer-demo pass from the attached... | latest: LUCKY RUNNER v186 reviewer-demo reliability pass is complete. Attached: single-file HTML...",
       "kind": "build",
       "lane": "working",
-      "age": "10h ago"
+      "age": "11h ago"
     },
     {
       "name": "Ribbit - eat the frog",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Second character card delivered (attached, d2099_vera_card.png, 1920x1080): VERA // FIXER...",
       "kind": "build",
       "lane": "working",
-      "age": "9h ago"
+      "age": "10h ago"
     },
     {
       "name": "Stars of Blood lead",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Fortune Falls v2 VERIFIED - midnight browser pass complete. Hash unchanged from the file...",
       "kind": "build",
       "lane": "working",
-      "age": "10h ago"
+      "age": "11h ago"
     },
     {
       "name": "Still full paper-computer upgrade",
-      "summary": "Jacob wants pics, videos, demos, and proof for Still v2. Return a visually inspected proof set... | latest: Finish the Still v2 on-device refresh on JacobsLaptop (ASUS ROG Flow Z13) via Chrome...",
+      "summary": "Add Jacob's requested local touch-friendly games to Still's Play room: a Wordle-style original word game (do... | latest: Still v2: all six requested games are in, standalone build delivered, on-device install...",
       "kind": "build",
       "lane": "working",
       "age": "0m ago"
@@ -155,24 +155,24 @@
     },
     {
       "name": "Windows laptop productive lane",
-      "summary": "Jacob asks how the uploading is going. Report the current verified cumulative backup size/file count, newest... | latest: Progress: I reconnected and identified the next small personal-media batch in Camera...",
+      "summary": "Your current Windows Storage/backup browser session expires in about 9 minutes. If work still needs it... | latest: Released the idle Windows browser lease before expiry. No unverified upload was in flight...",
       "kind": "build",
       "lane": "working",
-      "age": "-1m ago"
+      "age": "0m ago"
     },
     {
       "name": "GLM 5.3 Flash X-post project",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "58m ago"
+      "age": "1h ago"
     },
     {
       "name": "Quant playlist research test",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "55m ago"
+      "age": "1h ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -198,6 +198,10 @@
   ],
   "queued": {
     "scheduled": [
+      {
+        "name": "Windows laptop productive lane",
+        "fires_at": "11:36 AM"
+      },
       {
         "name": "Windows laptop productive lane",
         "fires_at": "12:30 PM"

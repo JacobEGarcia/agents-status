@@ -1,21 +1,21 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 7:30 AM CDT",
-  "generated_epoch": 1789561804,
+  "generated_at": "Wednesday, September 16, 2026 at 7:57 AM CDT",
+  "generated_epoch": 1789563462,
   "count": 27,
-  "lucky_cat_count": 19,
+  "lucky_cat_count": 20,
   "blocked_count": 0,
-  "paused_count": 4,
+  "paused_count": 3,
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "My current workspace does not contain verified copies of that v134 backup package or those two reference...",
+      "summary": "My current workspace does not contain verified copies of that v134 backup package or those two reference... | latest: v135 progress (interim - full evidence package follows when the render lands). All four...",
       "kind": "build",
       "lane": "working",
       "age": "6h ago"
     },
     {
       "name": "Blender art + addon lane",
-      "summary": "Add the user's latest request as a distinct workstream: make Susan Karen-inspired art and applications....",
+      "summary": "Add the user's latest request as a distinct workstream: make Susan Karen-inspired art and applications.... | latest: Susan Kare workstream (todo-01M2KVAQH1FDZQH8WBR20AHSTD), first ship. Name check first...",
       "kind": "build",
       "lane": "working",
       "age": "7h ago"
@@ -29,7 +29,7 @@
     },
     {
       "name": "CEO - Lucky Cat Robotics",
-      "summary": "Apply Jacob's spelling clarification to the Lucky Cat marketing campaign. | latest: LUCKY - 12:11 PM work session report. Checked first: no new approvals from Jacob (user...",
+      "summary": "Answer the user's latest iMessage about the single best Lucky Cat post and best publication time. Ground the... | latest: LUCKY - answer for Jacob's \\\"best post + best time\\\" (do not publish; his yes still gates...",
       "kind": "build",
       "lane": "working",
       "age": "3h ago"
@@ -46,11 +46,11 @@
       "summary": "Cancel/hold the scheduled AeolusUX R3XS write: user clarified the handheld boots default games with no SD... | latest: R36S write CANCELLED. The midnight wake (wakeschedule-01M2KKW5AS86ATPVS52E3VQ5D0) is...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "GITS game lane",
-      "summary": "Use the user's latest X link as an additional visual/design reference for the Serial Experiments...",
+      "summary": "Use the user's latest X link as an additional visual/design reference for the Serial Experiments... | latest: Finished the original Serial Experiments Lain-inspired game and incorporated the supplied...",
       "kind": "build",
       "lane": "working",
       "age": "7h ago"
@@ -74,11 +74,18 @@
       "summary": "Jacob wants the chess club operations lane working through its queued work now. Review the grounded DePaul... | latest: Chess ops lane, queued work executed: WEEK TWO pack for Thursday Sept 17 (6:00-7:30 PM...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Little Nightmares sequel lead",
       "summary": "latest: Finished a second Lucky Cat artifact: a usable 480x320 touchscreen interface prototype...",
+      "kind": "build",
+      "lane": "working",
+      "age": "7h ago"
+    },
+    {
+      "name": "Lucky Cat iPhone apps",
+      "summary": "Continue the existing request to control jacobs-macbook and build the Lucky Cat iPhone apps in Xcode.... | latest: Used the pre-midnight lane for grounded prep. I recovered the prior iPhone-app history...",
       "kind": "build",
       "lane": "working",
       "age": "7h ago"
@@ -99,14 +106,14 @@
     },
     {
       "name": "Recover Pi sudo access and finish setup",
-      "summary": "User confirms audio works on the speaker. Keep the 12:10 run narrowed to fixing and verifying the Lucky Cat... | latest: 12:10 AM audio wake narrowed. It now treats Beats Pill output as proven and will not...",
+      "summary": "User wants scheduled lanes productive until midnight. Continue non-browser Pi recovery/audio/duet preparation...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Ribbit - eat the frog",
-      "summary": "Handle the user's latest approved request: email the exact PowerShell rename command from this iMessage... | latest: Done. Emailed the exact PowerShell rename command to jacobegarcia101@gmail.com from his...",
+      "summary": "User wants scheduled lanes productive until midnight. Pull forward the highest-value queued Ribbit work that... | latest: Queued work pulled forward, three items: 1. NEW BUILD LIVE: deadline2099 is now 0.4.3...",
       "kind": "build",
       "lane": "working",
       "age": "6h ago"
@@ -134,7 +141,7 @@
     },
     {
       "name": "Windows laptop productive lane",
-      "summary": "Handle the user's latest R36S request: show him images of the most fun compatible games you can legally load... | latest: Attached real game visuals from observed sources, ready to forward. The contact sheet...",
+      "summary": "Efficiency check: keep working toward the current outcome, but avoid status-only wakes, repeated checks, or...",
       "kind": "build",
       "lane": "working",
       "age": "3h ago"
@@ -148,13 +155,6 @@
     },
     {
       "name": "Lucky Cat GitHub quality and privacy",
-      "summary": "Awaiting specific Lucky Cat assignment",
-      "kind": "build",
-      "lane": "awaiting",
-      "age": "7h ago"
-    },
-    {
-      "name": "Lucky Cat iPhone apps",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
@@ -191,10 +191,6 @@
   ],
   "queued": {
     "scheduled": [
-      {
-        "name": "Windows laptop productive lane",
-        "fires_at": "7:30 AM"
-      },
       {
         "name": "3D asset upgrade pass",
         "fires_at": "9:00 AM"

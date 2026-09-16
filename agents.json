@@ -1,17 +1,17 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 10:31 AM CDT",
-  "generated_epoch": 1789572669,
-  "count": 28,
+  "generated_at": "Wednesday, September 16, 2026 at 11:00 AM CDT",
+  "generated_epoch": 1789574404,
+  "count": 27,
   "lucky_cat_count": 21,
   "blocked_count": 0,
-  "paused_count": 3,
+  "paused_count": 2,
   "agents": [
     {
       "name": "3D asset upgrade pass",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: v158 backup (1 of 2): cat_visual158.blend + generator cat_visual158.py + render scripts...",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "8m ago"
     },
     {
       "name": "Blender art + addon lane",
@@ -39,7 +39,7 @@
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: LUCKY - 12:12 AM session. Checked first: no new approvals or parent directives...",
       "kind": "build",
       "lane": "working",
-      "age": "21m ago"
+      "age": "50m ago"
     },
     {
       "name": "deploy engine",
@@ -53,7 +53,7 @@
       "summary": "Leave the game set at the verified 8 for now. Preserve OpenTyrian and tyrquake as optional future additions... | latest: Acknowledged: game set frozen at the verified 8. OpenTyrian + lr-tyrquake parked as...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "8m ago"
     },
     {
       "name": "GITS game lane",
@@ -81,7 +81,7 @@
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Companion cut: luckycat-gameplay-teaser-square.mp4 - the 1:1 (X/Twitter) version of the...",
       "kind": "build",
       "lane": "working",
-      "age": "9h ago"
+      "age": "10h ago"
     },
     {
       "name": "Little Nightmares sequel lead",
@@ -102,7 +102,7 @@
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Midnight reset worked and Neo is online. I connected with the saved PIN and visually...",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "11m ago"
     },
     {
       "name": "Portal 3 game lead",
@@ -133,11 +133,11 @@
       "age": "10h ago"
     },
     {
-      "name": "Super Lucky Cat Kart",
-      "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Finished artifact: Super Lucky Cat Kart v6 is live and visually verified at...",
+      "name": "Still full paper-computer upgrade",
+      "summary": "Jacob wants pics, videos, demos, and proof for Still v2. Return a visually inspected proof set... | latest: Finish the Still v2 on-device refresh on JacobsLaptop (ASUS ROG Flow Z13) via Chrome...",
       "kind": "build",
       "lane": "working",
-      "age": "10h ago"
+      "age": "0m ago"
     },
     {
       "name": "tech radar + founder programs",
@@ -148,31 +148,24 @@
     },
     {
       "name": "Windows laptop productive lane",
-      "summary": "Jacob wants to know what else could be deleted. Build a read-only cleanup inventory ranked by recoverable GB.... | latest: Clarification applied. Cleanup inventory will label every item: - Delete after...",
+      "summary": "Jacob asks how the uploading is going. Report the current verified cumulative backup size/file count, newest... | latest: Current verified backup: 4 files totaling 1,690 bytes. The newest completed batch is the...",
       "kind": "build",
       "lane": "working",
-      "age": "4m ago"
+      "age": "12m ago"
     },
     {
       "name": "GLM 5.3 Flash X-post project",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "27m ago"
+      "age": "56m ago"
     },
     {
       "name": "Quant playlist research test",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "23m ago"
-    },
-    {
-      "name": "Still full paper-computer upgrade",
-      "summary": "Awaiting specific Lucky Cat assignment",
-      "kind": "build",
-      "lane": "awaiting",
-      "age": "0m ago"
+      "age": "52m ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -200,7 +193,7 @@
     "scheduled": [
       {
         "name": "Windows laptop productive lane",
-        "fires_at": "10:41 AM"
+        "fires_at": "11:02 AM"
       },
       {
         "name": "Windows laptop productive lane",

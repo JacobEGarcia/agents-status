@@ -1,6 +1,6 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 12:01 PM CDT",
-  "generated_epoch": 1789578117,
+  "generated_at": "Wednesday, September 16, 2026 at 12:07 PM CDT",
+  "generated_epoch": 1789578423,
   "count": 27,
   "lucky_cat_count": 20,
   "blocked_count": 0,
@@ -53,28 +53,28 @@
       "summary": "Leave the game set at the verified 8 for now. Preserve OpenTyrian and tyrquake as optional future additions... | latest: Acknowledged: game set frozen at the verified 8. OpenTyrian + lr-tyrquake parked as...",
       "kind": "build",
       "lane": "working",
-      "age": "51m ago"
+      "age": "56m ago"
     },
     {
       "name": "GITS game lane",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Midnight Lucky Cat ship from the game/UI lane: I took ownership of a circuit-routing...",
       "kind": "build",
       "lane": "working",
-      "age": "11h ago"
+      "age": "12h ago"
     },
     {
       "name": "Godot + anime build lane",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: ,\"timeout\":45}",
       "kind": "build",
       "lane": "working",
-      "age": "11h ago"
+      "age": "12h ago"
     },
     {
       "name": "Half-Life 3 game lead",
       "summary": "Canonical Lucky Village 3D v2.93 source recovered and verified. Continue the Lucky Cat improvement from the...",
       "kind": "build",
       "lane": "working",
-      "age": "11h ago"
+      "age": "12h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -109,14 +109,14 @@
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Midnight reset applied. Shrine stays blocked on source (still need luckyshrine-v146.zip...",
       "kind": "build",
       "lane": "working",
-      "age": "11h ago"
+      "age": "12h ago"
     },
     {
       "name": "Ravenholm game lead",
       "summary": "Canonical Lucky Runner v185 source recovered and verified. Continue the reviewer-demo pass from the attached... | latest: LUCKY RUNNER v186 reviewer-demo reliability pass is complete. Attached: single-file HTML...",
       "kind": "build",
       "lane": "working",
-      "age": "11h ago"
+      "age": "12h ago"
     },
     {
       "name": "Ribbit - eat the frog",
@@ -151,7 +151,7 @@
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Quant playlist research test",
@@ -191,10 +191,6 @@
   ],
   "queued": {
     "scheduled": [
-      {
-        "name": "3D asset upgrade pass",
-        "fires_at": "12:03 PM"
-      },
       {
         "name": "Windows laptop productive lane",
         "fires_at": "12:30 PM"

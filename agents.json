@@ -1,6 +1,6 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 5:53 AM CDT",
-  "generated_epoch": 1789556016,
+  "generated_at": "Wednesday, September 16, 2026 at 6:24 AM CDT",
+  "generated_epoch": 1789557854,
   "count": 27,
   "lucky_cat_count": 19,
   "blocked_count": 0,
@@ -11,39 +11,39 @@
       "summary": "Do not deliver v134. The defect repair worked, but the visual match is still below the reference bar. Front...",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
+      "age": "5h ago"
     },
     {
       "name": "Blender art + addon lane",
       "summary": "Queue is clear and shipped cuts are delivered. Skip recurring hourly work until new user footage, Veo access... | latest: Hourly lane paused as directed: deleted the recurring 60-min wake. All outputs intact at...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "Cancelled Valve games lead",
       "summary": "Keep the evidence board staged and unchanged. Do not deploy it yet; Jacob's broader Day 1 publishing approval...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "CEO - Lucky Cat Robotics",
       "summary": "Apply Jacob's spelling clarification to the Lucky Cat marketing campaign. | latest: LUCKY - 12:11 PM work session report. Checked first: no new approvals from Jacob (user...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "deploy engine",
       "summary": "Deploy this verified Half-Life 3 v1.11 update over the existing canonical Half-Life 3 live project. Preserve... | latest: Half-Life 3 v1.11 is live on the existing canonical project with repo/history preserved....",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Give current 4GB Pi status now: exact service/work running, latest completed state, blocker, and whether the...",
+      "summary": "Give current 4GB Pi status now: exact service/work running, latest completed state, blocker, and whether the... | latest: 4GB Pi (bench) status, verified LIVE just now at 17:04 CDT via Pi Connect remote shell...",
       "kind": "build",
       "lane": "working",
       "age": "4h ago"
@@ -53,21 +53,21 @@
       "summary": "latest: Finished a reviewer-visible Lucky Cat founders preview and product configurator....",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "Godot + anime build lane",
       "summary": "latest: # Retire deadline cadence; concrete requested outcome is complete.",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "Half-Life 3 game lead",
       "summary": "VOID COURIER is published and delivered. Resume your parked Half-Life 3 lead assignment, prioritizing its... | latest: Half-Life 3 v1.11 is ready: persistent field checkpoints and a real Continue path. Audit...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -81,32 +81,32 @@
       "summary": "latest: Finished a second Lucky Cat artifact: a usable 480x320 touchscreen interface prototype...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "Portal 3 game lead",
       "summary": "latest: Lucky Cat focus build shipped: Bells v61 - frost on the snow card's enso, supersedes v60....",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "Ravenholm game lead",
       "summary": "latest: Lucky Cat reviewer-visible artifact attached: LUCKY RUNNER v185, the finished one-button...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "Recover Pi sudo access and finish setup",
-      "summary": "Jacob explicitly authorized trying the Pi login again. Make exactly one final submission of the newly vaulted... | latest: 16GB Pi (`luckiestcat`, local IP last verified `10.0.0.47`) status: - Exact useful work...",
+      "summary": "Create a one-shot task wake for 12:10 AM CDT, threshold 30 minutes: after browser reset, connect the... | latest: One-shot scheduled: wakeschedule-01M2KJV9BX49JBD7RYS9KCE6YK, Wednesday September 16 at...",
       "kind": "build",
       "lane": "working",
       "age": "2h ago"
     },
     {
       "name": "Ribbit - eat the frog",
-      "summary": "Shift from parked accountability to active execution. Pick the highest-leverage currently unblocked frog and... | latest: FROG LANE - first active-execution pass done. Target: the income/job-hunt frog (money is...",
+      "summary": "Handle the user's latest approved email request. Send the exact Raspberry Pi audio-test command from the...",
       "kind": "build",
       "lane": "working",
       "age": "4h ago"
@@ -116,56 +116,56 @@
       "summary": "Pause Stars of Blood without deleting its work. Lucky Cat assignment: turn your Valve-quality game expertise... | latest: LUCKY CAT MINI-GAME v1 SHIPPED (not deployed - deploy routes through you). \\\"Fortune...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "Super Lucky Cat Kart",
       "summary": "Keep this as a strong checkpoint and continue toward the original bar. Next prioritize actual speed and race... | latest: Shipped the next material gameplay improvement live...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "tech radar + founder programs",
       "summary": "Read Jacob's new source https://x.com/emmajo/status/2099887211575648705?s=46 and apply it to Jacob and our... | latest: EMMAJO ARTICLE APPLIED - GROUNDED OPERATING PLAN ATTACHED Source: Emma Jo's full X...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "Windows laptop productive lane",
-      "summary": "Handle the user's latest iMessage request to make the Windows laptop productively active while fixing its... | latest: Windows lane is live and remote input is working again. I connected to JacobsLaptop...",
+      "summary": "Live menu photo shows EMUELEC ES V4.7, No Internet, with EMUELEC SETTINGS and SYSTEM SETTINGS. Identify next... | latest: One correction before scheduling: EmuELEC's documented layout is `/roms/emuelecroms`...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Boss rush GOTY rebuild",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "Lucky Cat GitHub quality and privacy",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "Lucky Cat iPhone apps",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "Still full paper-computer upgrade",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "0m ago"
+      "age": "17m ago"
     },
     {
       "name": "Agent mail notification manager",

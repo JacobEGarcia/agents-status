@@ -1,24 +1,24 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 3:20 AM CDT",
-  "generated_epoch": 1789546821,
-  "count": 26,
+  "generated_at": "Wednesday, September 16, 2026 at 3:50 AM CDT",
+  "generated_epoch": 1789548658,
+  "count": 27,
   "lucky_cat_count": 19,
   "blocked_count": 0,
-  "paused_count": 3,
+  "paused_count": 4,
   "agents": [
     {
       "name": "3D asset upgrade pass",
       "summary": "Do not deliver v134. The defect repair worked, but the visual match is still below the reference bar. Front...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Blender art + addon lane",
-      "summary": "Proceed off-browser and ship the strongest 26-second anime cut with the verified Veo shot, real-footage... | latest: Replacement for the hype v2 I just sent: same 17.3s vertical cut, but the opening voice...",
+      "summary": "Queue is clear and shipped cuts are delivered. Skip recurring hourly work until new user footage, Veo access... | latest: Hourly lane paused as directed: deleted the recurring 60-min wake. All outputs intact at...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Cancelled Valve games lead",
@@ -43,10 +43,10 @@
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Jacob asks for exact 4GB Pi progress. Report what is packaged versus actually installed, current... | latest: 4GB PI (bench) - EXACT STATUS, for Jacob. PACKAGED (done, verified, in your hands since...",
+      "summary": "I asked the board lane to release the blocking lease. Retry once it is clear and activate the 4GB bench with...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "GITS game lane",
@@ -74,7 +74,7 @@
       "summary": "Pause chess-club production without deleting its work. Lucky Cat assignment: own a campus-native Lucky Cat... | latest: Build 0.5.0 \\\"NINE LIVES\\\" attached - the Lucky Cat thread, part 2, on the game lane...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Little Nightmares sequel lead",
@@ -99,7 +99,7 @@
     },
     {
       "name": "Recover Pi sudo access and finish setup",
-      "summary": "Jacob is exhausted. Remote access being online and normal system boot are enough to stop physical recovery...",
+      "summary": "Jacob is exhausted. Remote access being online and normal system boot are enough to stop physical recovery... | latest: I set a quiet hourly, trigger-gated recheck for the remote-input blocker. It will wake me...",
       "kind": "build",
       "lane": "working",
       "age": "3h ago"
@@ -109,7 +109,7 @@
       "summary": "latest: Lucky Cat focus acknowledged. In progress: (1) Act III \\\"The River Runs Backward\\\"...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -137,7 +137,7 @@
       "summary": "Active blocker recovery: CRD drops to the PIN screen on first keystroke. Working browser-use recovery routes now, hourly trigger-gated wake as fallback. On stable input: verify the exact removable 64GB card (Jacob authorized wiping the old Pi card for the R36S; 100GB Pi card and internal drives excluded), then run R36S setup.",
       "kind": "build",
       "lane": "working",
-      "age": "9m ago"
+      "age": "15m ago"
     },
     {
       "name": "Boss rush GOTY rebuild",
@@ -159,6 +159,13 @@
       "kind": "build",
       "lane": "awaiting",
       "age": "3h ago"
+    },
+    {
+      "name": "Still full paper-computer upgrade",
+      "summary": "Awaiting specific Lucky Cat assignment",
+      "kind": "build",
+      "lane": "awaiting",
+      "age": "0m ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -184,6 +191,10 @@
   ],
   "queued": {
     "scheduled": [
+      {
+        "name": "Still full paper-computer upgrade",
+        "fires_at": "3:57 AM"
+      },
       {
         "name": "Windows laptop productive lane",
         "fires_at": "7:30 AM"
@@ -447,6 +458,10 @@
         "blocked": false
       },
       {
+        "title": "Prepare and test CSC 301 HW2",
+        "blocked": false
+      },
+      {
         "title": "Raspberry Pi crash-course video",
         "blocked": false
       },
@@ -507,8 +522,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 78,
-    "unique_total": 101,
-    "in_progress_total": 60
+    "backlog_total": 79,
+    "unique_total": 102,
+    "in_progress_total": 61
   }
 }

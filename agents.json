@@ -1,8 +1,8 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 2:19 AM CDT",
-  "generated_epoch": 1789543144,
-  "count": 28,
-  "lucky_cat_count": 20,
+  "generated_at": "Wednesday, September 16, 2026 at 2:49 AM CDT",
+  "generated_epoch": 1789544988,
+  "count": 27,
+  "lucky_cat_count": 19,
   "blocked_count": 0,
   "paused_count": 4,
   "agents": [
@@ -11,14 +11,14 @@
       "summary": "Do not deliver v134. The defect repair worked, but the visual match is still below the reference bar. Front...",
       "kind": "build",
       "lane": "working",
-      "age": "57m ago"
+      "age": "1h ago"
     },
     {
       "name": "Blender art + addon lane",
       "summary": "Proceed off-browser and ship the strongest 26-second anime cut with the verified Veo shot, real-footage... | latest: Replacement for the hype v2 I just sent: same 17.3s vertical cut, but the opening voice...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Cancelled Valve games lead",
@@ -42,18 +42,11 @@
       "age": "2h ago"
     },
     {
-      "name": "Freebuff model bench + Bolt Lucky Cat sprint",
-      "summary": "Jacob asks whether any useful Freebuff models/uses have been found yet. Report a concise grounded interim... | latest: Bolt's exact free allowance, read live from bolt.new -> Account menu -> Settings ->...",
-      "kind": "build",
-      "lane": "working",
-      "age": "56m ago"
-    },
-    {
       "name": "Genie/Lucky stack engineer",
       "summary": "Jacob asks for exact 4GB Pi progress. Report what is packaged versus actually installed, current... | latest: 4GB PI (bench) - EXACT STATUS, for Jacob. PACKAGED (done, verified, in your hands since...",
       "kind": "build",
       "lane": "working",
-      "age": "32m ago"
+      "age": "1h ago"
     },
     {
       "name": "GITS game lane",
@@ -81,7 +74,7 @@
       "summary": "Pause chess-club production without deleting its work. Lucky Cat assignment: own a campus-native Lucky Cat... | latest: Build 0.5.0 \\\"NINE LIVES\\\" attached - the Lucky Cat thread, part 2, on the game lane...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Little Nightmares sequel lead",
@@ -106,7 +99,7 @@
     },
     {
       "name": "Recover Pi sudo access and finish setup",
-      "summary": "Backup is verified by pixel evidence: D:\\cmdline.txt and D:\\cmdline-backup.txt both exist at 214 bytes, same...",
+      "summary": "Backup is verified by pixel evidence: D:\\cmdline.txt and D:\\cmdline-backup.txt both exist at 214 bytes, same... | latest: Exact local PowerShell command, one line: `$c=(Get-Content -Raw D:\\\\cmdline.txt).Trim()...",
       "kind": "build",
       "lane": "working",
       "age": "2h ago"
@@ -116,7 +109,7 @@
       "summary": "latest: Lucky Cat focus acknowledged. In progress: (1) Act III \\\"The River Runs Backward\\\"...",
       "kind": "build",
       "lane": "working",
-      "age": "52m ago"
+      "age": "1h ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -144,7 +137,7 @@
       "summary": "Active blocker recovery: CRD drops to the PIN screen on first keystroke. Working browser-use recovery routes now, hourly trigger-gated wake as fallback. On stable input: verify the exact removable 64GB card (Jacob authorized wiping the old Pi card for the R36S; 100GB Pi card and internal drives excluded), then run R36S setup.",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "9m ago"
     },
     {
       "name": "Boss rush GOTY rebuild",
@@ -154,7 +147,7 @@
       "age": "2h ago"
     },
     {
-      "name": "D2L quiz due yesterday",
+      "name": "D2L HW1 and lecture summaries",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
@@ -200,11 +193,7 @@
     "scheduled": [
       {
         "name": "Windows laptop productive lane",
-        "fires_at": "2:33 AM"
-      },
-      {
-        "name": "Freebuff model bench + Bolt Lucky Cat sprint",
-        "fires_at": "2:45 AM"
+        "fires_at": "2:54 AM"
       }
     ],
     "backlog": [
@@ -497,6 +486,10 @@
         "blocked": false
       },
       {
+        "title": "Use Freebuff models and maximize Bolt free usage for Lucky Cat",
+        "blocked": false
+      },
+      {
         "title": "Use Jacob\u2019s new footage in Lucky Cat video content",
         "blocked": false
       },
@@ -517,8 +510,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 77,
-    "unique_total": 100,
+    "backlog_total": 78,
+    "unique_total": 101,
     "in_progress_total": 62
   }
 }

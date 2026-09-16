@@ -1,17 +1,17 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 9:33 AM CDT",
-  "generated_epoch": 1789569233,
-  "count": 27,
-  "lucky_cat_count": 22,
+  "generated_at": "Wednesday, September 16, 2026 at 10:00 AM CDT",
+  "generated_epoch": 1789570826,
+  "count": 28,
+  "lucky_cat_count": 21,
   "blocked_count": 0,
-  "paused_count": 1,
+  "paused_count": 3,
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free...",
+      "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: v158 backup (1 of 2): cat_visual158.blend + generator cat_visual158.py + render scripts...",
       "kind": "build",
       "lane": "working",
-      "age": "8m ago"
+      "age": "2m ago"
     },
     {
       "name": "Blender art + addon lane",
@@ -50,10 +50,10 @@
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "The Bench jacob sudo credential was refreshed through the vault. Re-acquire the browser session, verify sudo... | latest: Correction to my \\\"install launched\\\" note: the first launch froze at 00:18:38. Cause: I...",
+      "summary": "Apply the one-line fix to the canonical pack source too, then replace or version the broken Drive ZIP so a... | latest: Retro console build on bench: COMPLETE with named gaps. Proof attached (4 shots...",
       "kind": "build",
       "lane": "working",
-      "age": "7h ago"
+      "age": "8h ago"
     },
     {
       "name": "GITS game lane",
@@ -78,10 +78,10 @@
     },
     {
       "name": "King - DePaul Chess Club hype",
-      "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Lucky Cat deliverable #4 (motion teaser lane): REAL-GAMEPLAY ARCADE TEASER - 18.6s...",
+      "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Companion cut: luckycat-gameplay-teaser-square.mp4 - the 1:1 (X/Twitter) version of the...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "9h ago"
     },
     {
       "name": "Little Nightmares sequel lead",
@@ -119,15 +119,8 @@
       "age": "9h ago"
     },
     {
-      "name": "Recover Pi sudo access and finish setup",
-      "summary": "Bench host is fixed and listening on 10.0.0.194:5052 since 00:09:56 CDT. Produce the fresh two-Pi duet... | latest: Fresh two-Pi Lucky Cat duet and generated-audio proof passed. Live evidence at 12:12 AM...",
-      "kind": "build",
-      "lane": "working",
-      "age": "5h ago"
-    },
-    {
       "name": "Ribbit - eat the frog",
-      "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free...",
+      "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Second character card delivered (attached, d2099_vera_card.png, 1920x1080): VERA // FIXER...",
       "kind": "build",
       "lane": "working",
       "age": "8h ago"
@@ -155,17 +148,31 @@
     },
     {
       "name": "Windows laptop productive lane",
-      "summary": "The user directed the staged Windows backup to keep going until complete. Continue autonomously across...",
+      "summary": "Delete only the confirmed accidental Drive wallpaper upload, verify it is gone, and continue the backup. Do... | latest: Saved credential succeeded. I used vault entry \\\"Chrome Remote Desktop - JacobsLaptop\\\"...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "22m ago"
+    },
+    {
+      "name": "GLM 5.3 Flash X-post project",
+      "summary": "Awaiting specific Lucky Cat assignment",
+      "kind": "build",
+      "lane": "awaiting",
+      "age": "0m ago"
+    },
+    {
+      "name": "Quant playlist research test",
+      "summary": "Awaiting specific Lucky Cat assignment",
+      "kind": "build",
+      "lane": "awaiting",
+      "age": "0m ago"
     },
     {
       "name": "Still full paper-computer upgrade",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "3h ago"
+      "age": "0m ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -191,6 +198,10 @@
   ],
   "queued": {
     "scheduled": [
+      {
+        "name": "Still full paper-computer upgrade",
+        "fires_at": "10:09 AM"
+      },
       {
         "name": "Windows laptop productive lane",
         "fires_at": "12:30 PM"
@@ -239,6 +250,10 @@
       },
       {
         "title": "Build Lucky Cat Cafe as a 3D VR game",
+        "blocked": false
+      },
+      {
+        "title": "Build separate GLM 5.3 Flash project from 0xsero post",
         "blocked": false
       },
       {
@@ -514,8 +529,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 79,
-    "unique_total": 102,
-    "in_progress_total": 61
+    "backlog_total": 80,
+    "unique_total": 103,
+    "in_progress_total": 62
   }
 }

@@ -1,176 +1,221 @@
 {
-  "generated_at": "Tuesday, September 15, 2026 at 5:07 PM CDT",
-  "generated_epoch": 1789510061,
-  "count": 28,
-  "lucky_cat_count": 21,
+  "generated_at": "Wednesday, September 16, 2026 at 12:14 AM CDT",
+  "generated_epoch": 1789535664,
+  "count": 27,
+  "lucky_cat_count": 20,
   "blocked_count": 0,
   "paused_count": 3,
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "v93 still fails at delivery scale. The geometry is subtler, but the muzzle now reads as a pale rectangular... | latest: v94 muzzle: blister patch mesh removed entirely - the muzzle bump is now displaced...",
+      "summary": "Do not deliver v134. The defect repair worked, but the visual match is still below the reference bar. Front...",
       "kind": "build",
-      "lane": "working"
-    },
-    {
-      "name": "Audit Lucky Cat laptop projects",
-      "summary": "latest: Finished a 135-line Lucky Cat source-of-truth and release-gate artifact (SHA-256...",
-      "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "8m ago"
     },
     {
       "name": "Blender art + addon lane",
-      "summary": "Apply the user's latest answer to the Lucky Cat anime AI video: any Google account is acceptable. | latest: Received both: commercial v2 natural-voice redo + Veo unblocked (any Google account). My...",
+      "summary": "Add Jacob's second new clip to the same Lucky Cat footage batch. Inspect it independently, then use the... | latest: Veo run started: cloud browser on the Gemini app was signed out, so I'm signing in with...",
       "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "0m ago"
     },
     {
       "name": "Cancelled Valve games lead",
       "summary": "Keep the evidence board staged and unchanged. Do not deploy it yet; Jacob's broader Day 1 publishing approval...",
       "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "12m ago"
     },
     {
       "name": "CEO - Lucky Cat Robotics",
-      "summary": "Apply Jacob's spelling clarification to the Lucky Cat marketing campaign. | latest: LUCKY - GUERRILLA MARKETING KIT v1 built on Jacob's 3:45 AM order (\\\"guerilla...",
+      "summary": "Apply Jacob's spelling clarification to the Lucky Cat marketing campaign. | latest: LUCKY - 12:11 PM work session report. Checked first: no new approvals from Jacob (user...",
       "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "1m ago"
     },
     {
       "name": "deploy engine",
-      "summary": "The authenticated lane pushed Product/store commit 2b5a629. Run the promised final live QA now... | latest: Clean closeout for Product/store commit 2b5a62933f2e1b199c52c494ce228f82e579e1f9. Byte...",
+      "summary": "Deploy the attached verified LUCKY RUNNER v185 as a user-playable Lucky Cat web artifact if it fits the... | latest: Lucky Runner v185 was already deployed exactly, so I did not rewrite it. Attached source...",
       "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "12m ago"
+    },
+    {
+      "name": "Freebuff model bench + Bolt Lucky Cat sprint",
+      "summary": "Bolt daily cap exhausted (0/300K today, 700K/1M monthly left) - Pachinko project preserved with a reset watch, no paid usage. Active now: free AI bench - z.ai GLM guest benchmark running, Qwen free tier approved by Jacob (tapped 36), DeepSeek + Kimi next; Doubao/Yuanbao skipped (need +86 phone).",
+      "kind": "build",
+      "lane": "working",
+      "age": "3m ago"
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "latest: ALL-LANES LUCKY CAT FOCUS - concrete artifact from the hardware/software lane: DUET...",
+      "summary": "Jacob approved projects #1 and #2. Build the duet shelf and complete the GAME5 retro netplay console. For #2... | latest: SHELF + RETRO PACK built and verified as far as the sandbox allows...",
       "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "0m ago"
     },
     {
       "name": "GITS game lane",
       "summary": "latest: Finished a reviewer-visible Lucky Cat founders preview and product configurator....",
       "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "12m ago"
     },
     {
       "name": "Godot + anime build lane",
       "summary": "latest: # Retire deadline cadence; concrete requested outcome is complete.",
       "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "12m ago"
     },
     {
       "name": "Half-Life 3 game lead",
       "summary": "latest: Lucky Cat checkpoint delivered without opening new scope: the preserved reviewer-ready...",
       "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "12m ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
-      "summary": "Pause chess-club production without deleting its work. Lucky Cat assignment: own a campus-native Lucky Cat... | latest: Batch 2 of 2: the Golden Cat hunt cards - the activation with legs. Five gold-marked...",
+      "summary": "Pause chess-club production without deleting its work. Lucky Cat assignment: own a campus-native Lucky Cat... | latest: Build 0.5.0 \\\"NINE LIVES\\\" attached - the Lucky Cat thread, part 2, on the game lane...",
       "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "12m ago"
     },
     {
       "name": "Little Nightmares sequel lead",
       "summary": "latest: Finished a second Lucky Cat artifact: a usable 480x320 touchscreen interface prototype...",
       "kind": "build",
-      "lane": "working"
-    },
-    {
-      "name": "Lucky Cat GitHub backup and privacy pass",
-      "summary": "Deploy this final superseding Product bundle to JacobEGarcia/luckycat main using your authenticated GitHub... | latest: Merch priced-intent bundle deployed to JacobEGarcia/luckycat main. Commit: 2b5a629 \\\"Add...",
-      "kind": "build",
-      "lane": "working"
-    },
-    {
-      "name": "Lucky Cat site improvement sprint",
-      "summary": "Highest priority from the reviewer-proof audit: lead the Product page with the real 5-8 second hardware... | latest: Finished a concrete Fly Mind editorial redesign bundle, not just a brief. It replaces the...",
-      "kind": "build",
-      "lane": "working"
-    },
-    {
-      "name": "Lucky Cat web quality director",
-      "summary": "Deploy this verified single-file Lucky Cat mini-game, \u201cFortune Falls,\u201d into the existing Lucky Cat Arcade as... | latest: Fortune Falls is deployed as a new live Lucky Cat Arcade cabinet. Live game...",
-      "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "12m ago"
     },
     {
       "name": "Portal 3 game lead",
       "summary": "latest: Lucky Cat focus build shipped: Bells v61 - frost on the snow card's enso, supersedes v60....",
       "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "10m ago"
     },
     {
       "name": "Ravenholm game lead",
-      "summary": "latest: Lucky Cat reviewer-proof artifact attached: LUCKY RUNNER v185, the finished one-button...",
+      "summary": "latest: Lucky Cat reviewer-visible artifact attached: LUCKY RUNNER v185, the finished one-button...",
       "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "11m ago"
+    },
+    {
+      "name": "Recover Pi sudo access and finish setup",
+      "summary": "Jacob's photo confirms the candidate failed: `sudo: 3 incorrect password attempts`, prompt returned. Prepare...",
+      "kind": "build",
+      "lane": "working",
+      "age": "1m ago"
     },
     {
       "name": "Ribbit - eat the frog",
       "summary": "latest: Lucky Cat focus acknowledged. In progress: (1) Act III \\\"The River Runs Backward\\\"...",
       "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "13m ago"
     },
     {
       "name": "Stars of Blood lead",
       "summary": "Pause Stars of Blood without deleting its work. Lucky Cat assignment: turn your Valve-quality game expertise... | latest: LUCKY CAT MINI-GAME v1 SHIPPED (not deployed - deploy routes through you). \\\"Fortune...",
       "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "13m ago"
     },
     {
       "name": "Super Lucky Cat Kart",
-      "summary": "Build Super Lucky Cat Kart as a real playable 3D kart game, Mario Kart 8-level feel, GOTY bar. Latest: speed/art pass live at jacobegarcia.github.io/super-lucky-cat-kart/ - ~240 km/h race pace, denser torii/lanterns/cat karts, exhaust + speed trails; full 3-lap QA caught and fixed a cumulative-lap rank bug.",
+      "summary": "Keep this as a strong checkpoint and continue toward the original bar. Next prioritize actual speed and race... | latest: Shipped the next material gameplay improvement live...",
       "kind": "build",
-      "lane": "working"
+      "lane": "working",
+      "age": "12m ago"
     },
     {
       "name": "tech radar + founder programs",
       "summary": "latest: LUCKY CAT ARTIFACT SHIPPED - PROOF CONSOLE Attached: - `index.html`: a complete...",
       "kind": "build",
-      "lane": "working"
-    },
-    {
-      "name": "Freebuff model bench + Bolt Lucky Cat sprint",
-      "summary": "Awaiting specific Lucky Cat assignment",
-      "kind": "build",
-      "lane": "awaiting"
-    },
-    {
-      "name": "Recover Pi sudo access and finish setup",
-      "summary": "Awaiting specific Lucky Cat assignment",
-      "kind": "build",
-      "lane": "awaiting"
+      "lane": "working",
+      "age": "12m ago"
     },
     {
       "name": "Windows laptop productive lane",
+      "summary": "Active blocker recovery: CRD drops to the PIN screen on first keystroke. Working browser-use recovery routes now, hourly trigger-gated wake as fallback. On stable input: verify the exact removable 64GB card (Jacob authorized wiping the old Pi card for the R36S; 100GB Pi card and internal drives excluded), then run R36S setup.",
+      "kind": "build",
+      "lane": "working",
+      "age": "6m ago"
+    },
+    {
+      "name": "Boss rush GOTY rebuild",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
-      "lane": "awaiting"
+      "lane": "awaiting",
+      "age": "12m ago"
+    },
+    {
+      "name": "Lucky Cat GitHub quality and privacy",
+      "summary": "Awaiting specific Lucky Cat assignment",
+      "kind": "build",
+      "lane": "awaiting",
+      "age": "1m ago"
+    },
+    {
+      "name": "Lucky Cat iPhone apps",
+      "summary": "Awaiting specific Lucky Cat assignment",
+      "kind": "build",
+      "lane": "awaiting",
+      "age": "6m ago"
     },
     {
       "name": "Agent mail notification manager",
       "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill.",
       "kind": "system",
-      "lane": "system"
+      "lane": "system",
+      "age": ""
     },
     {
       "name": "Instinct-to-Instinct",
       "summary": "Follow your persistent platform task assignment for your user\u2019s Instinct-to-Instinct conversations.",
       "kind": "system",
-      "lane": "system"
+      "lane": "system",
+      "age": ""
     },
     {
       "name": "Proactive value creation",
       "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment.",
       "kind": "system",
-      "lane": "system"
+      "lane": "system",
+      "age": ""
     }
   ],
   "queued": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "name": "King - DePaul Chess Club hype",
+        "fires_at": "12:10 AM"
+      },
+      {
+        "name": "Ribbit - eat the frog",
+        "fires_at": "12:15 AM"
+      },
+      {
+        "name": "3D asset upgrade pass",
+        "fires_at": "12:19 AM"
+      },
+      {
+        "name": "Windows laptop productive lane",
+        "fires_at": "12:20 AM"
+      },
+      {
+        "name": "Blender art + addon lane",
+        "fires_at": "12:20 AM"
+      },
+      {
+        "name": "Freebuff model bench + Bolt Lucky Cat sprint",
+        "fires_at": "2:45 AM"
+      }
+    ],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",
@@ -186,10 +231,6 @@
       },
       {
         "title": "Apply Emmajo post to Jacob operating plan",
-        "blocked": false
-      },
-      {
-        "title": "Apply MrBeast playbook to Lucky Cat",
         "blocked": false
       },
       {
@@ -218,10 +259,6 @@
       },
       {
         "title": "Build Lucky Cat Cafe as a 3D VR game",
-        "blocked": false
-      },
-      {
-        "title": "Build Lucky Cat preorder plan",
         "blocked": false
       },
       {
@@ -266,10 +303,6 @@
       },
       {
         "title": "Deadline 2099 - Cyberpunk sequel in 2099 Chicago (GOTY bar)",
-        "blocked": false
-      },
-      {
-        "title": "Design Lucky Cat loss-leader business model",
         "blocked": false
       },
       {
@@ -465,6 +498,10 @@
         "blocked": false
       },
       {
+        "title": "Upgrade Jacob boss-rush game to GOTY quality",
+        "blocked": false
+      },
+      {
         "title": "Use Jacob\u2019s new footage in Lucky Cat video content",
         "blocked": false
       },
@@ -477,10 +514,6 @@
         "blocked": false
       },
       {
-        "title": "Win a Blueprint II team slot with sustained Lucky Cat campaign",
-        "blocked": false
-      },
-      {
         "title": "Wireframe-glow VR game (snapchat reference)",
         "blocked": false
       },
@@ -489,7 +522,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 79,
-    "in_progress_total": 52
+    "backlog_total": 76,
+    "unique_total": 99,
+    "in_progress_total": 61
   }
 }

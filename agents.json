@@ -1,6 +1,6 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 6:24 AM CDT",
-  "generated_epoch": 1789557854,
+  "generated_at": "Wednesday, September 16, 2026 at 6:58 AM CDT",
+  "generated_epoch": 1789559932,
   "count": 27,
   "lucky_cat_count": 19,
   "blocked_count": 0,
@@ -43,10 +43,10 @@
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Give current 4GB Pi status now: exact service/work running, latest completed state, blocker, and whether the... | latest: 4GB Pi (bench) status, verified LIVE just now at 17:04 CDT via Pi Connect remote shell...",
+      "summary": "Cancel/hold the scheduled AeolusUX R3XS write: user clarified the handheld boots default games with no SD... | latest: R36S write CANCELLED. The midnight wake (wakeschedule-01M2KKW5AS86ATPVS52E3VQ5D0) is...",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
+      "age": "5h ago"
     },
     {
       "name": "GITS game lane",
@@ -74,7 +74,7 @@
       "summary": "Jacob wants the chess club operations lane working through its queued work now. Review the grounded DePaul... | latest: Chess ops lane, queued work executed: WEEK TWO pack for Thursday Sept 17 (6:00-7:30 PM...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "Little Nightmares sequel lead",
@@ -99,17 +99,17 @@
     },
     {
       "name": "Recover Pi sudo access and finish setup",
-      "summary": "Create a one-shot task wake for 12:10 AM CDT, threshold 30 minutes: after browser reset, connect the... | latest: One-shot scheduled: wakeschedule-01M2KJV9BX49JBD7RYS9KCE6YK, Wednesday September 16 at...",
+      "summary": "User confirms audio works on the speaker. Keep the 12:10 run narrowed to fixing and verifying the Lucky Cat... | latest: 12:10 AM audio wake narrowed. It now treats Beats Pill output as proven and will not...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Ribbit - eat the frog",
-      "summary": "Handle the user's latest approved email request. Send the exact Raspberry Pi audio-test command from the...",
+      "summary": "Handle the user's latest approved request: email the exact PowerShell rename command from this iMessage... | latest: Done. Emailed the exact PowerShell rename command to jacobegarcia101@gmail.com from his...",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
+      "age": "5h ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -134,7 +134,7 @@
     },
     {
       "name": "Windows laptop productive lane",
-      "summary": "Live menu photo shows EMUELEC ES V4.7, No Internet, with EMUELEC SETTINGS and SYSTEM SETTINGS. Identify next... | latest: One correction before scheduling: EmuELEC's documented layout is `/roms/emuelecroms`...",
+      "summary": "Expand the user's R36S library request to cover the best compatible legal games across 3D, 2.5D, and 2D.... | latest: I deleted the obsolete 12:15 AM card-prep wake (wakeschedule-01M2KM9BGRRZN68DV6GGMHTPD6)....",
       "kind": "build",
       "lane": "working",
       "age": "2h ago"
@@ -165,7 +165,7 @@
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "17m ago"
+      "age": "52m ago"
     },
     {
       "name": "Agent mail notification manager",

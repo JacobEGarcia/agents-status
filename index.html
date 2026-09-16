@@ -223,10 +223,9 @@ async function load() {
         row.innerHTML =
           '<span class="idx">' + String(i + 1).padStart(2, '0') + '</span>' +
           '<span class="dot' + (sys ? ' sys' : '') + '"></span>' +
-          '<span class="name"></span><span class="age"></span>' +
+          '<span class="name"></span>' +
           '<span class="desc"></span>';
-        row.querySelector('.name').textContent = a.name;
-        row.querySelector('.age').textContent = a.age || '';
+        row.querySelector('.name').innerHTML = esc(a.name) + (a.age ? '<span class="age">' + esc(a.age) + '</span>' : '');
         row.querySelector('.desc').textContent = a.summary || '';
         list.appendChild(row);
       });
@@ -244,5 +243,6 @@ setInterval(load, 60000);
 </script>
 </body>
 </html>
+
 
 

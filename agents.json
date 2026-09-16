@@ -1,6 +1,6 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 6:58 AM CDT",
-  "generated_epoch": 1789559932,
+  "generated_at": "Wednesday, September 16, 2026 at 7:30 AM CDT",
+  "generated_epoch": 1789561804,
   "count": 27,
   "lucky_cat_count": 19,
   "blocked_count": 0,
@@ -8,38 +8,38 @@
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Do not deliver v134. The defect repair worked, but the visual match is still below the reference bar. Front...",
-      "kind": "build",
-      "lane": "working",
-      "age": "5h ago"
-    },
-    {
-      "name": "Blender art + addon lane",
-      "summary": "Queue is clear and shipped cuts are delivered. Skip recurring hourly work until new user footage, Veo access... | latest: Hourly lane paused as directed: deleted the recurring 60-min wake. All outputs intact at...",
+      "summary": "My current workspace does not contain verified copies of that v134 backup package or those two reference...",
       "kind": "build",
       "lane": "working",
       "age": "6h ago"
+    },
+    {
+      "name": "Blender art + addon lane",
+      "summary": "Add the user's latest request as a distinct workstream: make Susan Karen-inspired art and applications....",
+      "kind": "build",
+      "lane": "working",
+      "age": "7h ago"
     },
     {
       "name": "Cancelled Valve games lead",
       "summary": "Keep the evidence board staged and unchanged. Do not deploy it yet; Jacob's broader Day 1 publishing approval...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "CEO - Lucky Cat Robotics",
       "summary": "Apply Jacob's spelling clarification to the Lucky Cat marketing campaign. | latest: LUCKY - 12:11 PM work session report. Checked first: no new approvals from Jacob (user...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "deploy engine",
       "summary": "Deploy this verified Half-Life 3 v1.11 update over the existing canonical Half-Life 3 live project. Preserve... | latest: Half-Life 3 v1.11 is live on the existing canonical project with repo/history preserved....",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Genie/Lucky stack engineer",
@@ -50,24 +50,24 @@
     },
     {
       "name": "GITS game lane",
-      "summary": "latest: Finished a reviewer-visible Lucky Cat founders preview and product configurator....",
+      "summary": "Use the user's latest X link as an additional visual/design reference for the Serial Experiments...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Godot + anime build lane",
       "summary": "latest: # Retire deadline cadence; concrete requested outcome is complete.",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Half-Life 3 game lead",
       "summary": "VOID COURIER is published and delivered. Resume your parked Half-Life 3 lead assignment, prioritizing its... | latest: Half-Life 3 v1.11 is ready: persistent field checkpoints and a real Continue path. Audit...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -81,21 +81,21 @@
       "summary": "latest: Finished a second Lucky Cat artifact: a usable 480x320 touchscreen interface prototype...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Portal 3 game lead",
       "summary": "latest: Lucky Cat focus build shipped: Bells v61 - frost on the snow card's enso, supersedes v60....",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Ravenholm game lead",
       "summary": "latest: Lucky Cat reviewer-visible artifact attached: LUCKY RUNNER v185, the finished one-button...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Recover Pi sudo access and finish setup",
@@ -109,63 +109,63 @@
       "summary": "Handle the user's latest approved request: email the exact PowerShell rename command from this iMessage... | latest: Done. Emailed the exact PowerShell rename command to jacobegarcia101@gmail.com from his...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "Stars of Blood lead",
       "summary": "Pause Stars of Blood without deleting its work. Lucky Cat assignment: turn your Valve-quality game expertise... | latest: LUCKY CAT MINI-GAME v1 SHIPPED (not deployed - deploy routes through you). \\\"Fortune...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Super Lucky Cat Kart",
       "summary": "Keep this as a strong checkpoint and continue toward the original bar. Next prioritize actual speed and race... | latest: Shipped the next material gameplay improvement live...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "tech radar + founder programs",
       "summary": "Read Jacob's new source https://x.com/emmajo/status/2099887211575648705?s=46 and apply it to Jacob and our... | latest: EMMAJO ARTICLE APPLIED - GROUNDED OPERATING PLAN ATTACHED Source: Emma Jo's full X...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Windows laptop productive lane",
-      "summary": "Expand the user's R36S library request to cover the best compatible legal games across 3D, 2.5D, and 2D.... | latest: I deleted the obsolete 12:15 AM card-prep wake (wakeschedule-01M2KM9BGRRZN68DV6GGMHTPD6)....",
+      "summary": "Handle the user's latest R36S request: show him images of the most fun compatible games you can legally load... | latest: Attached real game visuals from observed sources, ready to forward. The contact sheet...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Boss rush GOTY rebuild",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Lucky Cat GitHub quality and privacy",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Lucky Cat iPhone apps",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Still full paper-computer upgrade",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "52m ago"
+      "age": "1h ago"
     },
     {
       "name": "Agent mail notification manager",

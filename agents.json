@@ -1,21 +1,21 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 1:30 PM CDT",
-  "generated_epoch": 1789583446,
-  "count": 25,
-  "lucky_cat_count": 20,
+  "generated_at": "Wednesday, September 16, 2026 at 1:42 PM CDT",
+  "generated_epoch": 1789584152,
+  "count": 26,
+  "lucky_cat_count": 21,
   "blocked_count": 0,
   "paused_count": 1,
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "No platform blob-fetch-by-hash action is available to me. Do not keep polling every 20 minutes for an index... | latest: Recon branch status (per your 9:45 order): the v157-final generator is fully reassembled...",
+      "summary": "Do not ship this candidate. It fails the visual gate against the supplied cat: eyes are too small and glossy...",
       "kind": "build",
       "lane": "working",
-      "age": "4m ago"
+      "age": "2m ago"
     },
     {
       "name": "Blender art + addon lane",
-      "summary": "Cancel the 2:05 AM retry. Two bounded attempts reproduced the silent revert, so do not schedule another... | latest: New artifact, two formats of the same loop: luckygrid_anim_v1.mp4 (1080x1080, 4.1s) +...",
+      "summary": "Cancel the 2:05 AM retry. Two bounded attempts reproduced the silent revert, so do not schedule another... | latest: luckycat_anime_v1_fixed.mp4 \u2014 the anime re-cut with corrected end card (\\\"the cat talks...",
       "kind": "build",
       "lane": "working",
       "age": "1h ago"
@@ -25,28 +25,28 @@
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Midnight Lucky Cat ship from this lane: Voice Runtime v3, a runnable stateful offline...",
       "kind": "build",
       "lane": "working",
-      "age": "32m ago"
+      "age": "43m ago"
     },
     {
       "name": "Cancelled Valve games lead",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Midnight lane ownership: I am building a staged Lucky Cat Launch Ritual, a short guided...",
       "kind": "build",
       "lane": "working",
-      "age": "37m ago"
+      "age": "49m ago"
     },
     {
       "name": "CEO - Lucky Cat Robotics",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: LUCKY - 12:12 AM session. Checked first: no new approvals or parent directives...",
       "kind": "build",
       "lane": "working",
-      "age": "35m ago"
+      "age": "46m ago"
     },
     {
       "name": "deploy engine",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Resolved two status-board blockers without generating duplicates: recovered and packaged...",
       "kind": "build",
       "lane": "working",
-      "age": "19m ago"
+      "age": "30m ago"
     },
     {
       "name": "Genie/Lucky stack engineer",
@@ -60,49 +60,49 @@
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Midnight Lucky Cat ship from the game/UI lane: I took ownership of a circuit-routing...",
       "kind": "build",
       "lane": "working",
-      "age": "32m ago"
+      "age": "44m ago"
     },
     {
       "name": "Godot + anime build lane",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: ,\"timeout\":45}",
       "kind": "build",
       "lane": "working",
-      "age": "31m ago"
+      "age": "43m ago"
     },
     {
       "name": "Half-Life 3 game lead",
       "summary": "Canonical Lucky Village 3D v2.93 source recovered and verified. Continue the Lucky Cat improvement from the...",
       "kind": "build",
       "lane": "working",
-      "age": "30m ago"
+      "age": "42m ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Companion cut: luckycat-gameplay-teaser-square.mp4 - the 1:1 (X/Twitter) version of the...",
       "kind": "build",
       "lane": "working",
-      "age": "39m ago"
+      "age": "51m ago"
     },
     {
       "name": "Little Nightmares sequel lead",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Midnight conversion shipped: I owned the missing bridge between Lucky Cat Touch v3 and...",
       "kind": "build",
       "lane": "working",
-      "age": "24m ago"
+      "age": "36m ago"
     },
     {
       "name": "Lucky Cat GitHub quality and privacy",
       "summary": "Alongside current Lucky Cat visual QA, verify whether the restored browser service exposes an authoritative... | latest: Post-reset visual QA is complete and the midnight Lucky Cat work in my lane is shipped....",
       "kind": "build",
       "lane": "working",
-      "age": "55m ago"
+      "age": "1h ago"
     },
     {
       "name": "Portal 3 game lead",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Midnight reset applied. Shrine stays blocked on source (still need luckyshrine-v146.zip...",
       "kind": "build",
       "lane": "working",
-      "age": "34m ago"
+      "age": "46m ago"
     },
     {
       "name": "Quant playlist research test",
@@ -116,7 +116,7 @@
       "summary": "Canonical Lucky Runner v185 source recovered and verified. Continue the reviewer-demo pass from the attached... | latest: LUCKY RUNNER v186 reviewer-demo reliability pass is complete. Attached: single-file HTML...",
       "kind": "build",
       "lane": "working",
-      "age": "32m ago"
+      "age": "44m ago"
     },
     {
       "name": "Ribbit - eat the frog",
@@ -130,7 +130,14 @@
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Fortune Falls v2 VERIFIED - midnight browser pass complete. Hash unchanged from the file...",
       "kind": "build",
       "lane": "working",
-      "age": "29m ago"
+      "age": "41m ago"
+    },
+    {
+      "name": "Still Orange and Anthropic themes",
+      "summary": "latest: Done: Still now has two new switchable themes, built on the delivered v4 source, tested...",
+      "kind": "build",
+      "lane": "working",
+      "age": "1h ago"
     },
     {
       "name": "tech radar + founder programs",
@@ -141,17 +148,17 @@
     },
     {
       "name": "Windows laptop productive lane",
-      "summary": "Jacob approved closing tabs that are clearly not being used. Apply that only after the Still lane restores...",
+      "summary": "Expand the active Windows optimization per Jacob's latest request: make it faster, stronger, and free...",
       "kind": "build",
       "lane": "working",
-      "age": "20m ago"
+      "age": "0m ago"
     },
     {
-      "name": "Still Orange and Anthropic themes",
+      "name": "Neo MacBook optimization audit",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "1h ago"
+      "age": "0m ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -176,12 +183,7 @@
     }
   ],
   "queued": {
-    "scheduled": [
-      {
-        "name": "3D asset upgrade pass",
-        "fires_at": "1:37 PM"
-      }
-    ],
+    "scheduled": [],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",

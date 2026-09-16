@@ -1,8 +1,8 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 11:00 AM CDT",
-  "generated_epoch": 1789574404,
-  "count": 27,
-  "lucky_cat_count": 21,
+  "generated_at": "Wednesday, September 16, 2026 at 11:02 AM CDT",
+  "generated_epoch": 1789574560,
+  "count": 28,
+  "lucky_cat_count": 22,
   "blocked_count": 0,
   "paused_count": 2,
   "agents": [
@@ -11,7 +11,7 @@
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: v158 backup (1 of 2): cat_visual158.blend + generator cat_visual158.py + render scripts...",
       "kind": "build",
       "lane": "working",
-      "age": "8m ago"
+      "age": "11m ago"
     },
     {
       "name": "Blender art + addon lane",
@@ -25,56 +25,56 @@
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Midnight Lucky Cat ship from this lane: Voice Runtime v3, a runnable stateful offline...",
       "kind": "build",
       "lane": "working",
-      "age": "10h ago"
+      "age": "11h ago"
     },
     {
       "name": "Cancelled Valve games lead",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Midnight lane ownership: I am building a staged Lucky Cat Launch Ritual, a short guided...",
       "kind": "build",
       "lane": "working",
-      "age": "10h ago"
+      "age": "11h ago"
     },
     {
       "name": "CEO - Lucky Cat Robotics",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: LUCKY - 12:12 AM session. Checked first: no new approvals or parent directives...",
       "kind": "build",
       "lane": "working",
-      "age": "50m ago"
+      "age": "53m ago"
     },
     {
       "name": "deploy engine",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Resolved two status-board blockers without generating duplicates: recovered and packaged...",
       "kind": "build",
       "lane": "working",
-      "age": "10h ago"
+      "age": "11h ago"
     },
     {
       "name": "Genie/Lucky stack engineer",
       "summary": "Leave the game set at the verified 8 for now. Preserve OpenTyrian and tyrquake as optional future additions... | latest: Acknowledged: game set frozen at the verified 8. OpenTyrian + lr-tyrquake parked as...",
       "kind": "build",
       "lane": "working",
-      "age": "8m ago"
+      "age": "10m ago"
     },
     {
       "name": "GITS game lane",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Midnight Lucky Cat ship from the game/UI lane: I took ownership of a circuit-routing...",
       "kind": "build",
       "lane": "working",
-      "age": "10h ago"
+      "age": "11h ago"
     },
     {
       "name": "Godot + anime build lane",
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: ,\"timeout\":45}",
       "kind": "build",
       "lane": "working",
-      "age": "10h ago"
+      "age": "11h ago"
     },
     {
       "name": "Half-Life 3 game lead",
       "summary": "Canonical Lucky Village 3D v2.93 source recovered and verified. Continue the Lucky Cat improvement from the...",
       "kind": "build",
       "lane": "working",
-      "age": "10h ago"
+      "age": "11h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -88,7 +88,14 @@
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Midnight conversion shipped: I owned the missing bridge between Lucky Cat Touch v3 and...",
       "kind": "build",
       "lane": "working",
-      "age": "10h ago"
+      "age": "11h ago"
+    },
+    {
+      "name": "Lucky Cat Cafe VR build",
+      "summary": "Build the Lucky Cat Cafe VR game (queue head todo, assigned by parent 11:02 AM).",
+      "kind": "build",
+      "lane": "working",
+      "age": "0m ago"
     },
     {
       "name": "Lucky Cat GitHub quality and privacy",
@@ -102,7 +109,7 @@
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Midnight reset worked and Neo is online. I connected with the saved PIN and visually...",
       "kind": "build",
       "lane": "working",
-      "age": "11m ago"
+      "age": "13m ago"
     },
     {
       "name": "Portal 3 game lead",
@@ -144,28 +151,28 @@
       "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: MIDNIGHT LUCKY CAT SHIP - REVIEWER UPDATE ROOM Attached: - `index.html`: complete...",
       "kind": "build",
       "lane": "working",
-      "age": "10h ago"
+      "age": "11h ago"
     },
     {
       "name": "Windows laptop productive lane",
-      "summary": "Jacob asks how the uploading is going. Report the current verified cumulative backup size/file count, newest... | latest: Current verified backup: 4 files totaling 1,690 bytes. The newest completed batch is the...",
+      "summary": "Jacob asks how the uploading is going. Report the current verified cumulative backup size/file count, newest... | latest: Progress: I reconnected and identified the next small personal-media batch in Camera...",
       "kind": "build",
       "lane": "working",
-      "age": "12m ago"
+      "age": "-1m ago"
     },
     {
       "name": "GLM 5.3 Flash X-post project",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "56m ago"
+      "age": "58m ago"
     },
     {
       "name": "Quant playlist research test",
       "summary": "Awaiting specific Lucky Cat assignment",
       "kind": "build",
       "lane": "awaiting",
-      "age": "52m ago"
+      "age": "55m ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -191,10 +198,6 @@
   ],
   "queued": {
     "scheduled": [
-      {
-        "name": "Windows laptop productive lane",
-        "fires_at": "11:02 AM"
-      },
       {
         "name": "Windows laptop productive lane",
         "fires_at": "12:30 PM"
@@ -239,10 +242,6 @@
       },
       {
         "title": "Build duet shelf and complete retro netplay console",
-        "blocked": false
-      },
-      {
-        "title": "Build Lucky Cat Cafe as a 3D VR game",
         "blocked": false
       },
       {
@@ -522,8 +521,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 80,
-    "unique_total": 103,
+    "backlog_total": 79,
+    "unique_total": 102,
     "in_progress_total": 63
   }
 }

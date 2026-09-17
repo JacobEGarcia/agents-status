@@ -1,6 +1,6 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 5:40 AM CDT",
-  "generated_epoch": 1789641642,
+  "generated_at": "Thursday, September 17, 2026 at 6:10 AM CDT",
+  "generated_epoch": 1789643459,
   "count": 28,
   "lucky_cat_count": 24,
   "blocked_count": 0,
@@ -11,7 +11,7 @@
       "summary": "Gate verdict: reject v173d for user delivery. The reconstruction is still visibly far below the reference and... | latest: Ack on the v173d rejection. v174 correction pass is in build now, targeting the dominant...",
       "kind": "build",
       "lane": "working",
-      "age": "25m ago"
+      "age": "8m ago"
     },
     {
       "name": "Apple Watch game studio",
@@ -36,10 +36,10 @@
     },
     {
       "name": "CEO - Lucky Cat Robotics",
-      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the... | latest: LUCKY - 12:13 AM session. The 7:15 PM bash-outage work was lost with a sandbox rebuild...",
+      "summary": "The Sep 16 all-agents Lucky Cat focus window ended, and the user's newer direction is to work the full... | latest: LUCKY - acknowledged. The Sep 16 focus-window todo is closed on my side too; its...",
       "kind": "build",
       "lane": "working",
-      "age": "29m ago"
+      "age": "1h ago"
     },
     {
       "name": "Chicago social events tomorrow",
@@ -64,10 +64,10 @@
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Your persist browser lease for Pi/SSD work is at its expiration edge. Finish the 16GB inode work through the... | latest: ESCALATION - 16GB inode exhaustion now ~50 minutes out. Fresh reading 5:15:52 AM CDT: 87%...",
+      "summary": "Prevent the imminent inode wall without deleting anything: stop catloop-guest now so stub creation halts.... | latest: Inode wall prevented - nothing deleted. Exact state, verified live on the 16GB...",
       "kind": "build",
       "lane": "working",
-      "age": "24m ago"
+      "age": "14m ago"
     },
     {
       "name": "GITS game lane",
@@ -109,7 +109,7 @@
       "summary": "Audit Neo MacBook optimization state for Jacob. | latest: Neo verified not previously optimized; preserved the live Xcode Lucky Cat build, full pass queued for a clean window.",
       "kind": "build",
       "lane": "working",
-      "age": "23m ago"
+      "age": "54m ago"
     },
     {
       "name": "Portal 3 game lead",
@@ -123,7 +123,7 @@
       "summary": "Add the user's newest separate X-reference request: inspect... | latest: The three Jonas references are one demonstrated series, \u201ccool internet things\u201d parts 13...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Quant playlist research test",
@@ -158,21 +158,21 @@
       "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the... | latest: Still v5 (Daylight + Anthropic themes) is now live on Jacob's laptop. Midnight CRD run...",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
+      "age": "5h ago"
     },
     {
       "name": "tech radar + founder programs",
       "summary": "Efficiency check: keep the daily cadence only for currently live founder/newsletter outcomes; use... | latest: Techstars cleanup is still live. Event subscriptions currently cover Gmail but not Agent...",
       "kind": "build",
       "lane": "working",
-      "age": "23m ago"
+      "age": "53m ago"
     },
     {
       "name": "turn off Bluetooth everywhere",
       "summary": "Handle the user's latest iMessage: their Beats Pill does not turn off with its power button, and they want... | latest: Official Beats correction: this Pill model turns off by pressing the top power button for...",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
+      "age": "5h ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -199,12 +199,8 @@
   "queued": {
     "scheduled": [
       {
-        "name": "Genie/Lucky stack engineer",
-        "fires_at": "5:45 AM"
-      },
-      {
         "name": "3D asset upgrade pass",
-        "fires_at": "5:55 AM"
+        "fires_at": "7:05 AM"
       }
     ],
     "backlog": [
@@ -571,6 +567,6 @@
     ],
     "backlog_total": 90,
     "unique_total": 113,
-    "in_progress_total": 71
+    "in_progress_total": 70
   }
 }

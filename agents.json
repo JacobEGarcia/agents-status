@@ -1,6 +1,6 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 2:40 PM CDT",
-  "generated_epoch": 1789674019,
+  "generated_at": "Thursday, September 17, 2026 at 3:10 PM CDT",
+  "generated_epoch": 1789675831,
   "count": 26,
   "lucky_cat_count": 22,
   "blocked_count": 0,
@@ -11,7 +11,7 @@
       "summary": "Continue. Fix the top comma grazing the left tangent and push bib sparkle contrast/density until it survives... | latest: Exploded-internals previews round 4 (contact sheet: frames 1 / 70 / 90 / 120 of 120)....",
       "kind": "build",
       "lane": "working",
-      "age": "57m ago"
+      "age": "22m ago"
     },
     {
       "name": "Apple Watch game studio",
@@ -25,7 +25,7 @@
       "summary": "All 15 requested Lucky FM voice segments are generated and attached as one ZIP, with filenames matching your... | latest: LUCKY FM 99.9 - Jacob's lawful custom GTA-style radio station is done. 15:00 continuous...",
       "kind": "build",
       "lane": "working",
-      "age": "22m ago"
+      "age": "52m ago"
     },
     {
       "name": "Cancelled Valve games lead",
@@ -53,7 +53,7 @@
       "summary": "Efficiency audit: stay quiet when no build clears the deploy gate. Prefer event-driven handoffs from build...",
       "kind": "build",
       "lane": "working",
-      "age": "4m ago"
+      "age": "34m ago"
     },
     {
       "name": "Drive female and remake games",
@@ -64,10 +64,10 @@
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Start CopyTrans now per Jacob's explicit instruction. Use official installer, preserve existing library, one... | latest: LUCKY FM staged on the laptop: routed my /downloads copy through Jacob's own Drive...",
+      "summary": "Jacob reiterates full authorization: do every safe, free-first project you can on both Pis. Keep both...",
       "kind": "build",
       "lane": "working",
-      "age": "2m ago"
+      "age": "0m ago"
     },
     {
       "name": "GITS game lane",
@@ -81,7 +81,7 @@
       "summary": "Efficiency audit: avoid idle/progress wakes and keep work artifact-driven. Reuse shared Godot/3D setup across...",
       "kind": "build",
       "lane": "working",
-      "age": "4m ago"
+      "age": "34m ago"
     },
     {
       "name": "Half-Life 3 game lead",
@@ -95,7 +95,7 @@
       "summary": "Jacob authorizes additive music upload now while preserving all existing music. Support the live execution... | latest: Live additive gate checklist for the executing agent: BEFORE - Record current On My...",
       "kind": "build",
       "lane": "working",
-      "age": "52m ago"
+      "age": "1h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -109,21 +109,21 @@
       "summary": "Efficiency audit: avoid progress-only runs while the fidelity gate remains unchanged. Batch visual iteration... | latest: Specific blocker needing a decision: the current deliverable is a self-contained Three.js...",
       "kind": "build",
       "lane": "working",
-      "age": "2m ago"
+      "age": "32m ago"
     },
     {
       "name": "Portal 3 game lead",
       "summary": "Send the exact completed, boot-verified Gauntlet v2 ZIP as an attachment directly to deploy engine... | latest: Blocked on routing: the platform rejects agent_message sends from me to anyone but you...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "psdwizzard reference build",
       "summary": "Efficiency audit: avoid idle/progress wakes and keep work artifact-driven. Batch related reference-build work...",
       "kind": "build",
       "lane": "working",
-      "age": "4m ago"
+      "age": "34m ago"
     },
     {
       "name": "Ravenholm game lead",
@@ -137,7 +137,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch is live. Baseline (verified just now, signed-in read check): - Video Game...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "11m ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -151,7 +151,7 @@
       "summary": "Efficiency audit: keep the daily cadence, but add source/event filters or triggers wherever available so...",
       "kind": "build",
       "lane": "working",
-      "age": "4m ago"
+      "age": "34m ago"
     },
     {
       "name": "turn off Bluetooth everywhere",
@@ -183,12 +183,7 @@
     }
   ],
   "queued": {
-    "scheduled": [
-      {
-        "name": "3D asset upgrade pass",
-        "fires_at": "2:40 PM"
-      }
-    ],
+    "scheduled": [],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",

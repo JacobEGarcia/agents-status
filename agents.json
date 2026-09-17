@@ -1,6 +1,6 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 10:08 AM CDT",
-  "generated_epoch": 1789657708,
+  "generated_at": "Thursday, September 17, 2026 at 10:52 AM CDT",
+  "generated_epoch": 1789660379,
   "count": 27,
   "lucky_cat_count": 23,
   "blocked_count": 0,
@@ -8,17 +8,17 @@
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Gate verdict: reject v173d for user delivery. The reconstruction is still visibly far below the reference and... | latest: GATE SUBMISSION v179 part 2 of 2: paw closeup (solid maroon claws vs ref's slashes+dots...",
+      "summary": "Continue. Fix the top comma grazing the left tangent and push bib sparkle contrast/density until it survives... | latest: Favicon handoff - full-body variant per your pick. Attached: 180/64/48/32px transparent...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "6m ago"
     },
     {
       "name": "Apple Watch game studio",
-      "summary": "Add the user's latest request to the Apple Watch program: make brain games for Apple Watch, including a... | latest: WatchBrain3D.zip - the 3D brain-games pack (md5 26c67be30b7cf4e765752a0fd923f238). Second...",
+      "summary": "Do not duplicate WatchCubeWell. Take the next distinct pending Apple Watch queue item that is not already... | latest: WatchDemakes2 is built, self-reviewed, previewed, and ready to hand Jacob. Attached...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "24m ago"
     },
     {
       "name": "Blender art + addon lane",
@@ -29,24 +29,24 @@
     },
     {
       "name": "Cancelled Valve games lead",
-      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the...",
+      "summary": "Keep Frostfall open. Do not treat a 2.4 KB untested scaffold as completion. Continue by coordinating a... | latest: Frostfall remains open. I removed the engine blocker directly by installing current Godot...",
       "kind": "build",
       "lane": "working",
-      "age": ""
+      "age": "22m ago"
     },
     {
       "name": "CEO - Lucky Cat Robotics",
-      "summary": "The Sep 16 all-agents Lucky Cat focus window ended, and the user's newer direction is to work the full... | latest: LUCKY - acknowledged. The Sep 16 focus-window todo is closed on my side too; its...",
+      "summary": "Route the pending Freebuff CLI terminal-first connection into your infra/deploy work after current caught-up... | latest: LUCKY - Freebuff CLI work routed in, with one access boundary you should know about....",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
+      "age": "27m ago"
     },
     {
       "name": "Chicago social events tomorrow",
-      "summary": "Apply the user's correction to the social-events search: they mean today, Thursday, September 17, 2026, after... | latest: Verified Thursday, September 17. Best designed plan around Jacob's standing Chess Club...",
+      "summary": "Resume productive work from Jacob's pending queue: develop the Chicago 2033 World's Fair vision, feasibility... | latest: Built and attached a sourced 1,927-word Chicago 2033 feasibility and vision brief. The...",
       "kind": "build",
       "lane": "working",
-      "age": "9h ago"
+      "age": "25m ago"
     },
     {
       "name": "deploy engine",
@@ -60,77 +60,77 @@
       "summary": "The user asks for the exact titles of the 12 original female-led games in your standing 112-game program.... | latest: The exact 12 original female-led games from the current program brief are: 1. Ashen...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "9h ago"
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Apply Jacob's latest approval to the 16GB Pi disposable-stub cleanup and restore the duet. | latest: DUET RESTORED on the 16GB - no need to wait for the multi-hour deletion. What changed at...",
+      "summary": "Expand the Windows classical library beyond the initial 13-track Musopen-Libre set. Jacob wants a much larger...",
       "kind": "build",
       "lane": "working",
-      "age": "28m ago"
+      "age": "0m ago"
     },
     {
       "name": "GITS game lane",
       "summary": "Resume queued work now on your assigned remake/demake tranche 076-100. Continue from the next unbuilt... | latest: Continued 076\u2013100 with the next unbuilt playable, kept separate and rights-clean. #077...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "9h ago"
     },
     {
       "name": "Godot + anime build lane",
       "summary": "Resume queued work now on your assigned remake/demake tranche 101-112. Continue turning the existing build... | latest: Second tranche playable landed: #102 Cargo Ghost v1. Index md5...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "9h ago"
     },
     {
       "name": "Half-Life 3 game lead",
       "summary": "Resume queued work now on your assigned tranche 001-025 and the complete Half-Life 3 playable outcome.... | latest: Advanced the next grounded tranche step: #003 Wilds in Color v0.1 is playable. Source...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "9h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
       "summary": "Apply the user's latest update to the Chess Club Instagram contact-info check. Re-check the available... | latest: Rechecked the cloud browser after Jacob's \\\"I'm logged in\\\": instagram.com still shows...",
       "kind": "build",
       "lane": "working",
-      "age": "9h ago"
+      "age": "10h ago"
     },
     {
       "name": "Little Nightmares sequel lead",
-      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the... | latest: THE UNDERTIDE v13 is ready for review, not deployed. I used the queued v12 touch-control...",
+      "summary": "Continue the lane. Next pass should replace the older secondary enemy/NPC models, enrich Dormitory and the...",
       "kind": "build",
       "lane": "working",
-      "age": ""
+      "age": "0m ago"
     },
     {
       "name": "Neo MacBook optimization audit",
       "summary": "Audit Neo MacBook optimization state for Jacob. | latest: Neo verified not previously optimized; preserved the live Xcode Lucky Cat build, full pass queued for a clean window.",
       "kind": "build",
       "lane": "working",
-      "age": "1m ago"
+      "age": "23m ago"
     },
     {
       "name": "Portal 3 game lead",
-      "summary": "Resume queued Portal 3 work now. Continue Aperture 1998 from v6 into chamber 07, keeping the playable and... | latest: SHIPPED: Portal Aperture 1998 v8 - chamber 08 \\\"Escape\\\", the finale. 026 IS NOW...",
+      "summary": "Resume productive work from Jacob's pending queue: upgrade Jacob's boss-rush game to GOTY quality. Preserve... | latest: THE GAUNTLET - GOTY upgrade shipped as v2 (zip attached; NOT deployed - the live site...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "14m ago"
     },
     {
       "name": "psdwizzard reference build",
-      "summary": "Handle Jacob's latest X-reference build: make the referenced game/experience for AI agents to play or use.... | latest: Built Agent Habitat and attached the playable ZIP plus a directly inspected 1440x900...",
+      "summary": "Use Jacob's latest X link as the source reference for the game he just requested. Inspect the actual post and...",
       "kind": "build",
       "lane": "working",
-      "age": "57m ago"
+      "age": "0m ago"
     },
     {
       "name": "Ravenholm game lead",
       "summary": "Resume queued work now on your assigned tranche 051-075 and Ravenholm outcome. Continue from the next unbuilt... | latest: Continued from the next unbuilt playable in tranche 051-075: #074 is now a distinct...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "9h ago"
     },
     {
       "name": "Ribbit - eat the frog",
@@ -141,31 +141,31 @@
     },
     {
       "name": "Stars of Blood lead",
-      "summary": "Handle Jacob's latest shinboson X-reference request. Identify what the post shows, then build the real... | latest: SHINBOSON X-REFERENCE BUILD shipped (not deployed). What the post...",
+      "summary": "Handle Jacob's latest X-reference request: build a real VR game matching the visual and interaction style of... | latest: Lofi Orbit VR is built and verified - a playable WebXR game matching the taylor_sntx...",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "23m ago"
     },
     {
       "name": "Still Orange and Anthropic themes",
-      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the... | latest: Still v5 (Daylight + Anthropic themes) is now live on Jacob's laptop. Midnight CRD run...",
+      "summary": "Use this real integration source for the Second Brain command-center expansion. Primary live JSON...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "0m ago"
     },
     {
       "name": "tech radar + founder programs",
       "summary": "Efficiency check: keep the daily cadence only for currently live founder/newsletter outcomes; use... | latest: Techstars cleanup is still live. Event subscriptions currently cover Gmail but not Agent...",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
+      "age": "5h ago"
     },
     {
       "name": "turn off Bluetooth everywhere",
-      "summary": "Handle the user's latest iMessage: their Beats Pill does not turn off with its power button, and they want... | latest: Official Beats correction: this Pill model turns off by pressing the top power button for...",
+      "summary": "Apply Jacob's latest direction: source and download lawful free classical-music recordings onto the Windows... | latest: Please route this immediate download job to Genie/Lucky stack engineer...",
       "kind": "build",
       "lane": "working",
-      "age": "9h ago"
+      "age": "22m ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -193,7 +193,7 @@
     "scheduled": [
       {
         "name": "3D asset upgrade pass",
-        "fires_at": "10:20 AM"
+        "fires_at": "11:05 AM"
       }
     ],
     "backlog": [
@@ -243,10 +243,6 @@
       },
       {
         "title": "Build AI interface from winglee X reference",
-        "blocked": false
-      },
-      {
-        "title": "Build all 8 AI-news-inspired ideas",
         "blocked": false
       },
       {
@@ -510,19 +506,11 @@
         "blocked": false
       },
       {
-        "title": "Second Brain app",
-        "blocked": false
-      },
-      {
         "title": "Sign up for Modal + Oracle free VM",
         "blocked": false
       },
       {
         "title": "Super Mario 3D World, lucky cat edition",
-        "blocked": false
-      },
-      {
-        "title": "Test Jacob\u2019s quant capability from two YouTube playlists",
         "blocked": false
       },
       {
@@ -558,8 +546,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 90,
-    "unique_total": 113,
-    "in_progress_total": 70
+    "backlog_total": 87,
+    "unique_total": 110,
+    "in_progress_total": 72
   }
 }

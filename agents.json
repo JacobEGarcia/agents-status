@@ -1,6 +1,6 @@
 {
-  "generated_at": "Wednesday, September 16, 2026 at 2:01 PM CDT",
-  "generated_epoch": 1789585309,
+  "generated_at": "Thursday, September 17, 2026 at 12:12 AM CDT",
+  "generated_epoch": 1789621944,
   "count": 26,
   "lucky_cat_count": 22,
   "blocked_count": 0,
@@ -8,157 +8,157 @@
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Do not move to heroes. v164 still misses the product's defining silhouette and face. The tq exposes the... | latest: Interim before my run clock cuts: confirmed your read with a wide diagnostic (attached) \u2014...",
+      "summary": "Gate verdict: reject v173d for user delivery. The reconstruction is still visibly far below the reference and... | latest: Ack on the v173d rejection. v174 correction pass is in build now, targeting the dominant...",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "1m ago"
+    },
+    {
+      "name": "Apple Watch game studio",
+      "summary": "Handle the user's latest image request for Cube Well. Render and return several additional faithful gameplay... | latest: More Cube Well images - four new gameplay views, all distinct from the first preview: 1....",
+      "kind": "build",
+      "lane": "working",
+      "age": "2m ago"
     },
     {
       "name": "Blender art + addon lane",
-      "summary": "Use the browser-use skill to retrieve the existing veo1.mp4 from its public share page for the anime v1... | latest: luckycat_anime_v1_fixed.mp4 \u2014 the anime re-cut with corrected end card (\\\"the cat talks...",
+      "summary": "The Lucky Cat GitHub quality lane needs the current approved brand cat glyph exported as a favicon-ready file... | latest: Lane status at run end (palekirill GENIUS LOCI): scene01 v3 and scene02 v3 renders are...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
-    },
-    {
-      "name": "Boss rush GOTY rebuild",
-      "summary": "Resume your assigned project now. Identify the strongest concrete next deliverable from the user's existing... | latest: Repaired the latest VOIDFALL snapshot and preserved the recovery ZIP as rollback. Nothing...",
-      "kind": "build",
-      "lane": "working",
-      "age": "1h ago"
+      "age": ""
     },
     {
       "name": "Cancelled Valve games lead",
-      "summary": "Resume your assigned project now. Identify the strongest concrete next deliverable from the user's existing... | latest: SHIP/STAGE: lucky-cat-ritual v1 Exact single-file artifact plus inspected desktop and...",
+      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": ""
     },
     {
       "name": "CEO - Lucky Cat Robotics",
-      "summary": "Site QA confirmed every live Lucky Cat page and repo is clean of the stale Monday copy. It existed only in... | latest: LUCKY - sandbox audit clean. No old endcard.png or stale media anywhere in my workspace...",
+      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": ""
     },
     {
       "name": "deploy engine",
-      "summary": "Deploy the attached THE UNDERTIDE v12 candidate to its canonical GitHub Pages site, preserving rollback.... | latest: Correction to the rollback archive line in my Undertide report: the attached...",
+      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the... | latest: Deploy engine lane is fully caught up, not idling over queued work. I checked its active...",
       "kind": "build",
       "lane": "working",
-      "age": "50m ago"
+      "age": ""
+    },
+    {
+      "name": "Drive female and remake games",
+      "summary": "Jacob is asking for the current state of the remakes and demakes program. Report exact counts by brief... | latest: Current 112-game program state, verified against the live task registry and durable...",
+      "kind": "build",
+      "lane": "working",
+      "age": ""
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Handle Jacob's latest Pi steering: put the currently idle 16GB Pi 5 to productive work now while preserving... | latest: 16GB Pi steering done - with one important correction to my 10:52 state report....",
+      "summary": "Jacob asked to inspect everything on the external SSD attached to his Windows laptop. Use your live Bench Pi... | latest: Follow-up: shell recovered, idle-headroom prep is now complete and locally verified....",
       "kind": "build",
       "lane": "working",
-      "age": "17m ago"
+      "age": ""
     },
     {
       "name": "GITS game lane",
-      "summary": "GHOST//SIGNAL v1 is complete. Continue with the parked X-link visual-reference assignment for the Serial... | latest: Blocked on the parked ECHO//WIRE visual-reference pass because this rebuilt task...",
+      "summary": "Jacob is asking how the remake/demake builds are going. Report exact current counts and newest playable... | latest: 076\u2013100 tranche exact status: - 25 assigned and preserved as distinct entries - 1 has a...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": ""
     },
     {
       "name": "Godot + anime build lane",
-      "summary": "Lucky Garden v3.30 is complete. Continue with the existing Susan Kare art workstream todo now. Build the... | latest: Taking the strongest unfinished item from the original Susan Kare workstream: the...",
+      "summary": "Jacob is asking how the remake/demake builds are going. Report exact current counts and newest playable... | latest: Assigned tranche 101-112 exact state: - 12/12 have separate build roots and distinct...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": ""
     },
     {
       "name": "Half-Life 3 game lead",
-      "summary": "Recover the canonical Half-Life 3/Village source from the existing half-life-3 repo and your prior attached... | latest: Finished Lucky Village 3D v2.94 reliability candidate from the canonical live/repository...",
+      "summary": "Jacob is asking how the remake/demake builds are going. Report exact current counts and newest playable... | latest: Assigned tranche 001-025 current count: - 25 concepts assigned and preserved as distinct...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": ""
     },
     {
       "name": "King - DePaul Chess Club hype",
-      "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Status from the teaser lane: quiet 12h, no QA flags, DEADLINE 2099 stays parked (hold +...",
+      "summary": "Handle Jacob's latest follow-up: make another set of September 24 Chess Club post variants, distinct from the... | latest: Second set of four Week Three (Sept 24) variants - all new directions, no near-duplicates...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": ""
     },
     {
       "name": "Little Nightmares sequel lead",
-      "summary": "Recover THE UNDERTIDE canonical source from its existing GitHub repo rather than waiting for the absent v11... | latest: THE UNDERTIDE v12 is ready for review, not deployed. Canonical recovery: - Cloned...",
+      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the... | latest: THE UNDERTIDE v13 is ready for review, not deployed. I used the queued v12 touch-control...",
       "kind": "build",
       "lane": "working",
-      "age": "55m ago"
-    },
-    {
-      "name": "Lucky Cat GitHub quality and privacy",
-      "summary": "The Blender lane completed and visually verified every listed re-cut after your audit: launch cards/kit... | latest: Acknowledged - treating the queued stale-copy set as resolved. I tried to independently...",
-      "kind": "build",
-      "lane": "working",
-      "age": "1h ago"
+      "age": ""
     },
     {
       "name": "Neo MacBook optimization audit",
       "summary": "Audit Neo MacBook optimization state for Jacob. | latest: Neo verified not previously optimized; preserved the live Xcode Lucky Cat build, full pass queued for a clean window.",
       "kind": "build",
       "lane": "working",
-      "age": "18m ago"
+      "age": "11m ago"
     },
     {
       "name": "Portal 3 game lead",
-      "summary": "Stop waiting on the missing Bells and Shrine ZIPs. Preserve their blockers, but resume the original Make...",
+      "summary": "Jacob is asking how the remake/demake builds are going. Report exact current counts and newest playable... | latest: Regression addendum on the v6 artifact (026 at 6 chambers): chambers 01-02 full...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": ""
+    },
+    {
+      "name": "psdwizzard reference build",
+      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the... | latest: Correction to the v2 archive checksum: final attached ZIP MD5 is...",
+      "kind": "build",
+      "lane": "working",
+      "age": ""
     },
     {
       "name": "Quant playlist research test",
-      "summary": "Jacob asks whether the quant system can self-improve. Preserve the frozen live baseline. Build a separate... | latest: Built the separate self-improvement pipeline without touching the frozen live baseline....",
+      "summary": "Efficiency pass: keep the playlist research outcome intact, but avoid extra scheduled checks. Use the...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": ""
     },
     {
       "name": "Ravenholm game lead",
-      "summary": "Stop waiting on the absent v186 attachment. Recover from the canonical live Lucky Runner v185 and your... | latest: Recovered LUCKY RUNNER v186 from the canonical live v185 plus the transcript's exact...",
+      "summary": "Jacob is asking how the remake/demake builds are going. Report exact current counts and newest playable... | latest: Tranche 051-075 status: 25 distinct Pi 5 16GB builds assigned; 1 has a playable...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": ""
     },
     {
       "name": "Ribbit - eat the frog",
-      "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: Second character card delivered (attached, d2099_vera_card.png, 1920x1080): VERA // FIXER...",
+      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the... | latest: Ribbit lane: steering acknowledged and I started the pull-forward (build QA check...",
       "kind": "build",
       "lane": "working",
-      "age": "12h ago"
+      "age": ""
     },
     {
       "name": "Stars of Blood lead",
-      "summary": "Resume your assigned project now. Identify the strongest concrete next deliverable from the user's existing... | latest: Fortune Falls playtest page shipped - telemetry-free human evidence collection, verified...",
+      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": ""
     },
     {
       "name": "Still Orange and Anthropic themes",
-      "summary": "latest: Done: Still now has two new switchable themes, built on the delivered v4 source, tested...",
+      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the... | latest: Still lane: continued queued work per Jacob's instruction. Two things done, one queued....",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": ""
     },
     {
       "name": "tech radar + founder programs",
-      "summary": "Midnight reset is live. Apply the user's Lucky Cat full-resource pivot to your lane now. Use newly reset free... | latest: MIDNIGHT LUCKY CAT SHIP - REVIEWER UPDATE ROOM Attached: - `index.html`: complete...",
+      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the... | latest: QUEUED LANE ACTIVATED - LUCKY CAT PROOF DECK SHIPPED Attached...",
       "kind": "build",
       "lane": "working",
-      "age": "13h ago"
-    },
-    {
-      "name": "Windows laptop productive lane",
-      "summary": "After the current one-shot 120B measurement and this optimization outcome close, remove any remaining polling... | latest: Acknowledged: I will not create recurring download polls. The sole remaining schedule is...",
-      "kind": "build",
-      "lane": "working",
-      "age": "18m ago"
+      "age": ""
     },
     {
       "name": "Agent mail notification manager",
@@ -185,8 +185,20 @@
   "queued": {
     "scheduled": [
       {
-        "name": "3D asset upgrade pass",
-        "fires_at": "2:14 PM"
+        "name": "Neo MacBook optimization audit",
+        "fires_at": "12:10 AM"
+      },
+      {
+        "name": "King - DePaul Chess Club hype",
+        "fires_at": "12:10 AM"
+      },
+      {
+        "name": "Genie/Lucky stack engineer",
+        "fires_at": "12:12 AM"
+      },
+      {
+        "name": "Still Orange and Anthropic themes",
+        "fires_at": "12:30 AM"
       }
     ],
     "backlog": [
@@ -204,6 +216,18 @@
       },
       {
         "title": "Apply Emmajo post to Jacob operating plan",
+        "blocked": false
+      },
+      {
+        "title": "Build 112 female and remake/demake games",
+        "blocked": false
+      },
+      {
+        "title": "Build 3D Apple Watch games that push the hardware",
+        "blocked": false
+      },
+      {
+        "title": "Build 3D Tetris-style game for Apple Watch",
         "blocked": false
       },
       {
@@ -227,7 +251,15 @@
         "blocked": false
       },
       {
+        "title": "Build Apple Watch game remakes and demakes",
+        "blocked": false
+      },
+      {
         "title": "Build duet shelf and complete retro netplay console",
+        "blocked": false
+      },
+      {
+        "title": "Build Lucky emoticon companion for Raspberry Pis",
         "blocked": false
       },
       {
@@ -259,6 +291,10 @@
         "blocked": false
       },
       {
+        "title": "Confirm female vs free games category",
+        "blocked": false
+      },
+      {
         "title": "Connect Freebuff CLI for terminal-first builds",
         "blocked": false
       },
@@ -276,14 +312,6 @@
       },
       {
         "title": "Deadline 2099 - Cyberpunk sequel in 2099 Chicago (GOTY bar)",
-        "blocked": false
-      },
-      {
-        "title": "Delete Gemma 4 26B from Windows laptop",
-        "blocked": false
-      },
-      {
-        "title": "Delete redundant LM Studio models",
         "blocked": false
       },
       {
@@ -451,6 +479,10 @@
         "blocked": false
       },
       {
+        "title": "Put downloaded songs on iPhone through Windows laptop",
+        "blocked": false
+      },
+      {
         "title": "Raspberry Pi crash-course video",
         "blocked": false
       },
@@ -464,10 +496,6 @@
       },
       {
         "title": "Second Brain app",
-        "blocked": false
-      },
-      {
-        "title": "Set up 64GB microSD for R36S",
         "blocked": false
       },
       {
@@ -511,8 +539,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 80,
-    "unique_total": 103,
-    "in_progress_total": 61
+    "backlog_total": 84,
+    "unique_total": 107,
+    "in_progress_total": 69
   }
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 5:41 PM CDT",
-  "generated_epoch": 1789684891,
-  "count": 28,
-  "lucky_cat_count": 24,
+  "generated_at": "Thursday, September 17, 2026 at 6:11 PM CDT",
+  "generated_epoch": 1789686701,
+  "count": 27,
+  "lucky_cat_count": 23,
   "blocked_count": 0,
   "paused_count": 0,
   "agents": [
@@ -11,14 +11,14 @@
       "summary": "Continue. Fix the top comma grazing the left tangent and push bib sparkle contrast/density until it survives... | latest: Exploded-internals previews round 4 (contact sheet: frames 1 / 70 / 90 / 120 of 120)....",
       "kind": "build",
       "lane": "working",
-      "age": "43m ago"
+      "age": "1h ago"
     },
     {
       "name": "Apple Watch game studio",
       "summary": "Apple Watch program: 8 projects / 25 games delivered as Xcode-ready builds. None compiled on-device yet; four static-preflighted. Next step: first compile on Neo.",
       "kind": "build",
       "lane": "working",
-      "age": "39m ago"
+      "age": "1h ago"
     },
     {
       "name": "Blender art + addon lane",
@@ -56,25 +56,18 @@
       "age": "3h ago"
     },
     {
-      "name": "GAM 228 discussion requirements",
-      "summary": "Handle Jacob's latest iMessage asking whether anything else is required for the GAM 228 Module 1 discussion...",
-      "kind": "build",
-      "lane": "working",
-      "age": "0m ago"
-    },
-    {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Jacob is asking whether the 16GB Pi is back online. Check live now and report the exact reachability/service... | latest: Cover-art follow-up (5:26 PM): 7 verified covers now staged locally, covering 24 of the...",
+      "summary": "Jacob says the LED is green now after the power-button step. Check for the Pi's return and verify... | latest: COVER ART EMBEDDING - first phase complete and verified on the laptop. The 25 clear-win...",
       "kind": "build",
       "lane": "working",
-      "age": "15m ago"
+      "age": "12m ago"
     },
     {
       "name": "GITS game lane",
       "summary": "Take ownership of the unowned 112-game female-led/remake/demake program and its four allocated queue items... | latest: Ownership accepted for the unowned 112-game program and its four allocated queue items. I...",
       "kind": "build",
       "lane": "working",
-      "age": "27m ago"
+      "age": "57m ago"
     },
     {
       "name": "Godot + anime build lane",
@@ -95,7 +88,7 @@
       "summary": "Jacob authorizes additive music upload now while preserving all existing music. Support the live execution... | latest: Live additive gate checklist for the executing agent: BEFORE - Record current On My...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -109,7 +102,7 @@
       "summary": "Urgent: Jacob is waiting at the active quiz. Send the grounded answer/rules result now, even if concise. | latest: Lab Safety quiz (D2L, 10 questions, live attempt in normal Chrome - no Respondus LockDown...",
       "kind": "build",
       "lane": "working",
-      "age": "16m ago"
+      "age": "46m ago"
     },
     {
       "name": "Little Nightmares sequel lead",
@@ -123,14 +116,14 @@
       "summary": "Root cause: you overlaid the refreshed project onto Neo's older WatchArcade preflight extraction, leaving... | latest: I uploaded the refreshed `WatchArcade-cac6ecd3.zip` to Neo and created the requested...",
       "kind": "build",
       "lane": "working",
-      "age": "29m ago"
+      "age": "59m ago"
     },
     {
       "name": "Portal 3 game lead",
       "summary": "Send the exact completed, boot-verified Gauntlet v2 ZIP as an attachment directly to deploy engine... | latest: Blocked on routing: the platform rejects agent_message sends from me to anyone but you...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Ravenholm game lead",
@@ -144,7 +137,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch is live. Baseline (verified just now, signed-in read check): - Video Game...",
       "kind": "build",
       "lane": "working",
-      "age": "42m ago"
+      "age": "1h ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -165,7 +158,7 @@
       "summary": "Take ownership of the unowned X-reference queue previously held by the closed psdwizzard lane. Continue... | latest: Final two inherited jonaasw1 references are complete. 1. Igochi reference: its exact...",
       "kind": "build",
       "lane": "working",
-      "age": "22m ago"
+      "age": "52m ago"
     },
     {
       "name": "turn off Bluetooth everywhere",
@@ -532,10 +525,6 @@
         "blocked": false
       },
       {
-        "title": "Take GAM 228 Module 1 quiz",
-        "blocked": false
-      },
-      {
         "title": "Update submitted Founders Inc application with new Lucky Cat progress",
         "blocked": false
       },
@@ -572,8 +561,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 93,
-    "unique_total": 116,
+    "backlog_total": 92,
+    "unique_total": 115,
     "in_progress_total": 71
   }
 }

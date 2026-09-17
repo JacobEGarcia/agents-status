@@ -1,8 +1,8 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 5:11 PM CDT",
-  "generated_epoch": 1789683078,
-  "count": 26,
-  "lucky_cat_count": 22,
+  "generated_at": "Thursday, September 17, 2026 at 5:41 PM CDT",
+  "generated_epoch": 1789684891,
+  "count": 28,
+  "lucky_cat_count": 24,
   "blocked_count": 0,
   "paused_count": 0,
   "agents": [
@@ -11,77 +11,84 @@
       "summary": "Continue. Fix the top comma grazing the left tangent and push bib sparkle contrast/density until it survives... | latest: Exploded-internals previews round 4 (contact sheet: frames 1 / 70 / 90 / 120 of 120)....",
       "kind": "build",
       "lane": "working",
-      "age": "12m ago"
+      "age": "43m ago"
     },
     {
       "name": "Apple Watch game studio",
       "summary": "Apple Watch program: 8 projects / 25 games delivered as Xcode-ready builds. None compiled on-device yet; four static-preflighted. Next step: first compile on Neo.",
       "kind": "build",
       "lane": "working",
-      "age": "9m ago"
+      "age": "39m ago"
     },
     {
       "name": "Blender art + addon lane",
       "summary": "All 15 requested Lucky FM voice segments are generated and attached as one ZIP, with filenames matching your... | latest: LUCKY FM 99.9 - Jacob's lawful custom GTA-style radio station is done. 15:00 continuous...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Cancelled Valve games lead",
       "summary": "Keep Frostfall open. Do not treat a 2.4 KB untested scaffold as completion. Continue by coordinating a... | latest: Frostfall remains open. I removed the engine blocker directly by installing current Godot...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "CEO - Lucky Cat Robotics",
       "summary": "Route the pending Freebuff CLI terminal-first connection into your infra/deploy work after current caught-up... | latest: Work session 12:13 PM Sep 17 - status + verified capital update. LIVE CHECKS (all clean)...",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
+      "age": "5h ago"
     },
     {
       "name": "Chicago social events tomorrow",
       "summary": "Resume productive work from Jacob's pending queue: develop the Chicago 2033 World's Fair vision, feasibility... | latest: Built and attached a sourced 1,927-word Chicago 2033 feasibility and vision brief. The...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "deploy engine",
       "summary": "Efficiency audit: stay quiet when no build clears the deploy gate. Prefer event-driven handoffs from build...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
+    },
+    {
+      "name": "GAM 228 discussion requirements",
+      "summary": "Handle Jacob's latest iMessage asking whether anything else is required for the GAM 228 Module 1 discussion...",
+      "kind": "build",
+      "lane": "working",
+      "age": "0m ago"
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Jacob is asking whether the 16GB Pi is back online. Check live now and report the exact reachability/service... | latest: Live check for Jacob's \\\"Is it back on\\\": NO, the 16GB (luckiestcat) is still offline....",
+      "summary": "Jacob is asking whether the 16GB Pi is back online. Check live now and report the exact reachability/service... | latest: Cover-art follow-up (5:26 PM): 7 verified covers now staged locally, covering 24 of the...",
       "kind": "build",
       "lane": "working",
-      "age": "5m ago"
+      "age": "15m ago"
     },
     {
       "name": "GITS game lane",
-      "summary": "Jacob wants Verdant Dice VR upgraded to game-of-the-year quality and to rival Skyrim. Treat the current... | latest: Verdant Dice VR GOTY upgrade has started as a staged expansion, with prototype zero...",
+      "summary": "Take ownership of the unowned 112-game female-led/remake/demake program and its four allocated queue items... | latest: Ownership accepted for the unowned 112-game program and its four allocated queue items. I...",
       "kind": "build",
       "lane": "working",
-      "age": "21m ago"
+      "age": "27m ago"
     },
     {
       "name": "Godot + anime build lane",
       "summary": "Efficiency audit: avoid idle/progress wakes and keep work artifact-driven. Reuse shared Godot/3D setup across...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Half-Life 3 game lead",
       "summary": "Resume queued work now on your assigned tranche 001-025 and the complete Half-Life 3 playable outcome.... | latest: Advanced the next grounded tranche step: #003 Wilds in Color v0.1 is playable. Source...",
       "kind": "build",
       "lane": "working",
-      "age": "15h ago"
+      "age": "16h ago"
     },
     {
       "name": "iPhone 4 backup and music compatibility",
@@ -95,21 +102,28 @@
       "summary": "Apply the user's latest update to the Chess Club Instagram contact-info check. Re-check the available... | latest: Rechecked the cloud browser after Jacob's \\\"I'm logged in\\\": instagram.com still shows...",
       "kind": "build",
       "lane": "working",
-      "age": "16h ago"
+      "age": "17h ago"
+    },
+    {
+      "name": "Lab Safety quiz review",
+      "summary": "Urgent: Jacob is waiting at the active quiz. Send the grounded answer/rules result now, even if concise. | latest: Lab Safety quiz (D2L, 10 questions, live attempt in normal Chrome - no Respondus LockDown...",
+      "kind": "build",
+      "lane": "working",
+      "age": "16m ago"
     },
     {
       "name": "Little Nightmares sequel lead",
       "summary": "Efficiency audit: avoid progress-only runs while the fidelity gate remains unchanged. Batch visual iteration... | latest: Specific blocker needing a decision: the current deliverable is a self-contained Three.js...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Neo PDF book game",
-      "summary": "Root cause: you overlaid the refreshed project onto Neo's older WatchArcade preflight extraction, leaving...",
+      "summary": "Root cause: you overlaid the refreshed project onto Neo's older WatchArcade preflight extraction, leaving... | latest: I uploaded the refreshed `WatchArcade-cac6ecd3.zip` to Neo and created the requested...",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "29m ago"
     },
     {
       "name": "Portal 3 game lead",
@@ -123,42 +137,42 @@
       "summary": "Resume queued work now on your assigned tranche 051-075 and Ravenholm outcome. Continue from the next unbuilt... | latest: Continued from the next unbuilt playable in tranche 051-075: #074 is now a distinct...",
       "kind": "build",
       "lane": "working",
-      "age": "15h ago"
+      "age": "16h ago"
     },
     {
       "name": "Ribbit - eat the frog",
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch is live. Baseline (verified just now, signed-in read check): - Video Game...",
       "kind": "build",
       "lane": "working",
-      "age": "11m ago"
+      "age": "42m ago"
     },
     {
       "name": "Stars of Blood lead",
       "summary": "Handle Jacob's latest X-reference request: build a real VR game matching the visual and interaction style of... | latest: Lofi Orbit VR is built and verified - a playable WebXR game matching the taylor_sntx...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "tech radar + founder programs",
       "summary": "Efficiency audit: keep the daily cadence, but add source/event filters or triggers wherever available so...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "threejsresource reference builds",
-      "summary": "Handle Jacob's latest X-reference request: make cool stuff from the supplied threejsresource post. Inspect... | latest: Built and visually verified Gobkit Field Lab from Jacob's exact X reference. - Inspected...",
+      "summary": "Take ownership of the unowned X-reference queue previously held by the closed psdwizzard lane. Continue... | latest: Final two inherited jonaasw1 references are complete. 1. Igochi reference: its exact...",
       "kind": "build",
       "lane": "working",
-      "age": "29m ago"
+      "age": "22m ago"
     },
     {
       "name": "turn off Bluetooth everywhere",
       "summary": "Apply Jacob's latest direction: source and download lawful free classical-music recordings onto the Windows... | latest: Please route this immediate download job to Genie/Lucky stack engineer...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -183,12 +197,7 @@
     }
   ],
   "queued": {
-    "scheduled": [
-      {
-        "name": "Genie/Lucky stack engineer",
-        "fires_at": "5:13 PM"
-      }
-    ],
+    "scheduled": [],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",
@@ -212,10 +221,6 @@
       },
       {
         "title": "Audit files on attached laptop SSD",
-        "blocked": false
-      },
-      {
-        "title": "Build 112 female and remake/demake games",
         "blocked": false
       },
       {
@@ -243,10 +248,6 @@
         "blocked": false
       },
       {
-        "title": "Build AI interface from winglee X reference",
-        "blocked": false
-      },
-      {
         "title": "Build an original kart-racing VR game",
         "blocked": false
       },
@@ -256,22 +257,6 @@
       },
       {
         "title": "Build Apple Watch game remakes and demakes",
-        "blocked": false
-      },
-      {
-        "title": "Build artifacts inspired by jonaasw1 X reference",
-        "blocked": false
-      },
-      {
-        "title": "Build artifacts inspired by second jonaasw1 X reference",
-        "blocked": false
-      },
-      {
-        "title": "Build artifacts inspired by third jonaasw1 X reference",
-        "blocked": false
-      },
-      {
-        "title": "Build female-led and remake games from Google Drive",
         "blocked": false
       },
       {
@@ -296,10 +281,6 @@
       },
       {
         "title": "Build the food_eft X post game",
-        "blocked": false
-      },
-      {
-        "title": "Build the psdwizzard X reference project",
         "blocked": false
       },
       {
@@ -591,8 +572,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 100,
-    "unique_total": 123,
-    "in_progress_total": 69
+    "backlog_total": 93,
+    "unique_total": 116,
+    "in_progress_total": 71
   }
 }

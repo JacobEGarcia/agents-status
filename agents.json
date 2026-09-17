@@ -1,6 +1,6 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 11:39 AM CDT",
-  "generated_epoch": 1789663164,
+  "generated_at": "Thursday, September 17, 2026 at 11:55 AM CDT",
+  "generated_epoch": 1789664133,
   "count": 27,
   "lucky_cat_count": 23,
   "blocked_count": 0,
@@ -11,7 +11,7 @@
       "summary": "Continue. Fix the top comma grazing the left tangent and push bib sparkle contrast/density until it survives... | latest: Favicon handoff - full-body variant per your pick. Attached: 180/64/48/32px transparent...",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "12m ago"
     },
     {
       "name": "Apple Watch game studio",
@@ -25,7 +25,7 @@
       "summary": "Wrong recipient - do not apply this. The user's latest message is intended for Ribit, not your Blender/video...",
       "kind": "build",
       "lane": "working",
-      "age": "42m ago"
+      "age": "58m ago"
     },
     {
       "name": "Cancelled Valve games lead",
@@ -39,7 +39,7 @@
       "summary": "Route the pending Freebuff CLI terminal-first connection into your infra/deploy work after current caught-up... | latest: LUCKY - Freebuff CLI work routed in, with one access boundary you should know about....",
       "kind": "build",
       "lane": "working",
-      "age": "24m ago"
+      "age": "41m ago"
     },
     {
       "name": "Chicago social events tomorrow",
@@ -50,10 +50,10 @@
     },
     {
       "name": "deploy engine",
-      "summary": "Replace the current live Grand Thrift Auto v1 at canonical repo/slug grand-thrift-auto with this tested 3D...",
+      "summary": "Replace the current live Grand Thrift Auto v1 at canonical repo/slug grand-thrift-auto with this tested 3D... | latest: Additional Grand Thrift Auto v2 evidence: attached is the live THE EXCHANGE resale-entry...",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "15m ago"
     },
     {
       "name": "Drive female and remake games",
@@ -64,7 +64,7 @@
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Handle Jacob's latest request to look through all files on the SSD attached to the laptop. Ground which... | latest: Open relaunch - VERIFIED SUCCESS. After Jacob's approval I closed the 4 old Open.exe...",
+      "summary": "Handle Jacob's latest request to look through all files on the SSD attached to the laptop. Ground which... | latest: Second Brain v2.1 - INSTALLED AND FULLY TESTED on JacobsLaptop. Install: 7 Drive parts...",
       "kind": "build",
       "lane": "working",
       "age": "0m ago"
@@ -81,7 +81,7 @@
       "summary": "Do not deliver INWARD CAMERA v2. The side-by-side proves it does not meet Jacob's \"look exactly like the... | latest: 3D rebuild progress only, not delivery: actual three.js/WebGL source now exists and runs...",
       "kind": "build",
       "lane": "working",
-      "age": "37m ago"
+      "age": "53m ago"
     },
     {
       "name": "Half-Life 3 game lead",
@@ -102,7 +102,7 @@
       "summary": "Keep v15 internal. The proofs are still visibly far below Jacob's stated Little Nightmares fidelity bar... | latest: Internal progress only, not a gate: I built and visually inspected a v16 direction with...",
       "kind": "build",
       "lane": "working",
-      "age": "36m ago"
+      "age": "52m ago"
     },
     {
       "name": "Neo MacBook optimization audit",
@@ -116,14 +116,14 @@
       "summary": "Send the exact completed, boot-verified Gauntlet v2 ZIP as an attachment directly to deploy engine... | latest: Blocked on routing: the platform rejects agent_message sends from me to anyone but you...",
       "kind": "build",
       "lane": "working",
-      "age": "33m ago"
+      "age": "49m ago"
     },
     {
       "name": "psdwizzard reference build",
       "summary": "Poster C replacement is accepted and delivered. Continue only the Whole System Library repair from my last... | latest: Hash correction for the replacement game artifact just sent: the actual...",
       "kind": "build",
       "lane": "working",
-      "age": "39m ago"
+      "age": "55m ago"
     },
     {
       "name": "Ravenholm game lead",
@@ -137,7 +137,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch is live. Baseline (verified just now, signed-in read check): - Video Game...",
       "kind": "build",
       "lane": "working",
-      "age": "24m ago"
+      "age": "41m ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -151,14 +151,14 @@
       "summary": "Continue with a readability pass on the 152-node graph: clustering, focus/filter controls, labels that do not... | latest: SECOND BRAIN v2.1 - graph readability pass shipped. Command deck and all v2 integration...",
       "kind": "build",
       "lane": "working",
-      "age": "38m ago"
+      "age": "54m ago"
     },
     {
       "name": "tech radar + founder programs",
       "summary": "Ignore this routing check; no task change.",
       "kind": "build",
       "lane": "working",
-      "age": "29m ago"
+      "age": "45m ago"
     },
     {
       "name": "turn off Bluetooth everywhere",
@@ -190,7 +190,12 @@
     }
   ],
   "queued": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "name": "3D asset upgrade pass",
+        "fires_at": "12:10 PM"
+      }
+    ],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",

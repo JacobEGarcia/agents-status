@@ -1,6 +1,6 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 1:39 AM CDT",
-  "generated_epoch": 1789627144,
+  "generated_at": "Thursday, September 17, 2026 at 2:09 AM CDT",
+  "generated_epoch": 1789628959,
   "count": 28,
   "lucky_cat_count": 24,
   "blocked_count": 0,
@@ -11,14 +11,14 @@
       "summary": "Gate verdict: reject v173d for user delivery. The reconstruction is still visibly far below the reference and... | latest: Ack on the v173d rejection. v174 correction pass is in build now, targeting the dominant...",
       "kind": "build",
       "lane": "working",
-      "age": "2m ago"
+      "age": "32m ago"
     },
     {
       "name": "Apple Watch game studio",
       "summary": "Add the user's latest request to the Apple Watch program: make brain games for Apple Watch, including a... | latest: WatchBrain3D.zip - the 3D brain-games pack (md5 26c67be30b7cf4e765752a0fd923f238). Second...",
       "kind": "build",
       "lane": "working",
-      "age": "1m ago"
+      "age": "31m ago"
     },
     {
       "name": "Blender art + addon lane",
@@ -60,35 +60,35 @@
       "summary": "The user asks for the exact titles of the 12 original female-led games in your standing 112-game program.... | latest: The exact 12 original female-led games from the current program brief are: 1. Ashen...",
       "kind": "build",
       "lane": "working",
-      "age": "16m ago"
+      "age": "46m ago"
     },
     {
       "name": "Genie/Lucky stack engineer",
       "summary": "The user asks which third case to return: he has two screen cases and one NES retro case for two Pis.... | latest: Case recommendation, grounded in the hardware record: Return ONE of the two screen cases...",
       "kind": "build",
       "lane": "working",
-      "age": "11m ago"
+      "age": "0m ago"
     },
     {
       "name": "GITS game lane",
       "summary": "Resume queued work now on your assigned remake/demake tranche 076-100. Continue from the next unbuilt... | latest: Continued 076\u2013100 with the next unbuilt playable, kept separate and rights-clean. #077...",
       "kind": "build",
       "lane": "working",
-      "age": "19m ago"
+      "age": "49m ago"
     },
     {
       "name": "Godot + anime build lane",
       "summary": "Resume queued work now on your assigned remake/demake tranche 101-112. Continue turning the existing build... | latest: Second tranche playable landed: #102 Cargo Ghost v1. Index md5...",
       "kind": "build",
       "lane": "working",
-      "age": "19m ago"
+      "age": "49m ago"
     },
     {
       "name": "Half-Life 3 game lead",
       "summary": "Resume queued work now on your assigned tranche 001-025 and the complete Half-Life 3 playable outcome.... | latest: Advanced the next grounded tranche step: #003 Wilds in Color v0.1 is playable. Source...",
       "kind": "build",
       "lane": "working",
-      "age": "19m ago"
+      "age": "50m ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -109,21 +109,21 @@
       "summary": "Audit Neo MacBook optimization state for Jacob. | latest: Neo verified not previously optimized; preserved the live Xcode Lucky Cat build, full pass queued for a clean window.",
       "kind": "build",
       "lane": "working",
-      "age": "19m ago"
+      "age": "50m ago"
     },
     {
       "name": "Portal 3 game lead",
       "summary": "Resume queued Portal 3 work now. Continue Aperture 1998 from v6 into chamber 07, keeping the playable and... | latest: SHIPPED: Portal Aperture 1998 v8 - chamber 08 \\\"Escape\\\", the finale. 026 IS NOW...",
       "kind": "build",
       "lane": "working",
-      "age": "2m ago"
+      "age": "32m ago"
     },
     {
       "name": "psdwizzard reference build",
-      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the... | latest: Correction to the v2 archive checksum: final attached ZIP MD5 is...",
+      "summary": "Add the user's newest separate X-reference request: inspect... | latest: The three Jonas references are one demonstrated series, \u201ccool internet things\u201d parts 13...",
       "kind": "build",
       "lane": "working",
-      "age": ""
+      "age": "25m ago"
     },
     {
       "name": "Quant playlist research test",
@@ -137,7 +137,7 @@
       "summary": "Resume queued work now on your assigned tranche 051-075 and Ravenholm outcome. Continue from the next unbuilt... | latest: Continued from the next unbuilt playable in tranche 051-075: #074 is now a distinct...",
       "kind": "build",
       "lane": "working",
-      "age": "19m ago"
+      "age": "49m ago"
     },
     {
       "name": "Ribbit - eat the frog",
@@ -158,21 +158,21 @@
       "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the... | latest: Still v5 (Daylight + Anthropic themes) is now live on Jacob's laptop. Midnight CRD run...",
       "kind": "build",
       "lane": "working",
-      "age": "28m ago"
+      "age": "59m ago"
     },
     {
       "name": "tech radar + founder programs",
-      "summary": "Apply the user's latest approval to the dedicated Agent Mail research inbox: subscribe it to all five...",
+      "summary": "Add the user's latest approved subscriptions to the dedicated Agent Mail research inbox: subscribe... | latest: 1871 is subscribed successfully using jacobgarcia@mail.instinct.com. I verified the...",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "15m ago"
     },
     {
       "name": "turn off Bluetooth everywhere",
       "summary": "Handle the user's latest iMessage: their Beats Pill does not turn off with its power button, and they want... | latest: Official Beats correction: this Pill model turns off by pressing the top power button for...",
       "kind": "build",
       "lane": "working",
-      "age": "49m ago"
+      "age": "1h ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -198,10 +198,6 @@
   ],
   "queued": {
     "scheduled": [
-      {
-        "name": "Genie/Lucky stack engineer",
-        "fires_at": "1:45 AM"
-      },
       {
         "name": "3D asset upgrade pass",
         "fires_at": "2:30 AM"
@@ -253,6 +249,10 @@
         "blocked": false
       },
       {
+        "title": "Build AI interface from winglee X reference",
+        "blocked": false
+      },
+      {
         "title": "Build all 8 AI-news-inspired ideas",
         "blocked": false
       },
@@ -262,6 +262,18 @@
       },
       {
         "title": "Build Apple Watch game remakes and demakes",
+        "blocked": false
+      },
+      {
+        "title": "Build artifacts inspired by jonaasw1 X reference",
+        "blocked": false
+      },
+      {
+        "title": "Build artifacts inspired by second jonaasw1 X reference",
+        "blocked": false
+      },
+      {
+        "title": "Build artifacts inspired by third jonaasw1 X reference",
         "blocked": false
       },
       {
@@ -553,8 +565,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 86,
-    "unique_total": 109,
+    "backlog_total": 90,
+    "unique_total": 113,
     "in_progress_total": 71
   }
 }

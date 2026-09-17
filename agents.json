@@ -1,8 +1,8 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 12:12 AM CDT",
-  "generated_epoch": 1789621944,
-  "count": 26,
-  "lucky_cat_count": 22,
+  "generated_at": "Thursday, September 17, 2026 at 12:38 AM CDT",
+  "generated_epoch": 1789623518,
+  "count": 27,
+  "lucky_cat_count": 23,
   "blocked_count": 0,
   "paused_count": 0,
   "agents": [
@@ -11,14 +11,14 @@
       "summary": "Gate verdict: reject v173d for user delivery. The reconstruction is still visibly far below the reference and... | latest: Ack on the v173d rejection. v174 correction pass is in build now, targeting the dominant...",
       "kind": "build",
       "lane": "working",
-      "age": "1m ago"
+      "age": "22m ago"
     },
     {
       "name": "Apple Watch game studio",
-      "summary": "Handle the user's latest image request for Cube Well. Render and return several additional faithful gameplay... | latest: More Cube Well images - four new gameplay views, all distinct from the first preview: 1....",
+      "summary": "Build the user's latest request as a separate playable watchOS game: a Q*bert-style isometric hopping game.... | latest: Peak Hop is built - Jacob's Q*bert-style game as its own Xcode project, WatchPeakHop.zip...",
       "kind": "build",
       "lane": "working",
-      "age": "2m ago"
+      "age": "21m ago"
     },
     {
       "name": "Blender art + addon lane",
@@ -36,10 +36,17 @@
     },
     {
       "name": "CEO - Lucky Cat Robotics",
-      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the...",
+      "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the... | latest: LUCKY - 12:13 AM session. The 7:15 PM bash-outage work was lost with a sandbox rebuild...",
       "kind": "build",
       "lane": "working",
-      "age": ""
+      "age": "23m ago"
+    },
+    {
+      "name": "Chicago social events tomorrow",
+      "summary": "Apply the user's correction to the social-events search: they mean today, Thursday, September 17, 2026, after... | latest: Verified Thursday, September 17. Best designed plan around Jacob's standing Chess Club...",
+      "kind": "build",
+      "lane": "working",
+      "age": "3m ago"
     },
     {
       "name": "deploy engine",
@@ -57,10 +64,10 @@
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Jacob asked to inspect everything on the external SSD attached to his Windows laptop. Use your live Bench Pi... | latest: Follow-up: shell recovered, idle-headroom prep is now complete and locally verified....",
+      "summary": "Jacob asked to inspect everything on the external SSD attached to his Windows laptop. Use your live Bench Pi... | latest: BENCH EMERGENCY - DIAGNOSIS COMPLETE (12:35 AM). The midnight batch is partially blocked...",
       "kind": "build",
       "lane": "working",
-      "age": ""
+      "age": "0m ago"
     },
     {
       "name": "GITS game lane",
@@ -85,10 +92,10 @@
     },
     {
       "name": "King - DePaul Chess Club hype",
-      "summary": "Handle Jacob's latest follow-up: make another set of September 24 Chess Club post variants, distinct from the... | latest: Second set of four Week Three (Sept 24) variants - all new directions, no near-duplicates...",
+      "summary": "Apply the user's latest update to the Chess Club Instagram contact-info check. Re-check the available... | latest: Rechecked the cloud browser after Jacob's \\\"I'm logged in\\\": instagram.com still shows...",
       "kind": "build",
       "lane": "working",
-      "age": ""
+      "age": "16m ago"
     },
     {
       "name": "Little Nightmares sequel lead",
@@ -102,7 +109,7 @@
       "summary": "Audit Neo MacBook optimization state for Jacob. | latest: Neo verified not previously optimized; preserved the live Xcode Lucky Cat build, full pass queued for a clean window.",
       "kind": "build",
       "lane": "working",
-      "age": "11m ago"
+      "age": "0m ago"
     },
     {
       "name": "Portal 3 game lead",
@@ -185,20 +192,8 @@
   "queued": {
     "scheduled": [
       {
-        "name": "Neo MacBook optimization audit",
-        "fires_at": "12:10 AM"
-      },
-      {
-        "name": "King - DePaul Chess Club hype",
-        "fires_at": "12:10 AM"
-      },
-      {
-        "name": "Genie/Lucky stack engineer",
-        "fires_at": "12:12 AM"
-      },
-      {
-        "name": "Still Orange and Anthropic themes",
-        "fires_at": "12:30 AM"
+        "name": "3D asset upgrade pass",
+        "fires_at": "12:40 AM"
       }
     ],
     "backlog": [
@@ -260,6 +255,10 @@
       },
       {
         "title": "Build Lucky emoticon companion for Raspberry Pis",
+        "blocked": false
+      },
+      {
+        "title": "Build Q*bert-style Apple Watch game",
         "blocked": false
       },
       {
@@ -539,8 +538,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 84,
-    "unique_total": 107,
-    "in_progress_total": 69
+    "backlog_total": 85,
+    "unique_total": 108,
+    "in_progress_total": 70
   }
 }

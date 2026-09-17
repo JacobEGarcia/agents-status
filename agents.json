@@ -1,8 +1,8 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 4:41 PM CDT",
-  "generated_epoch": 1789681268,
-  "count": 28,
-  "lucky_cat_count": 24,
+  "generated_at": "Thursday, September 17, 2026 at 5:11 PM CDT",
+  "generated_epoch": 1789683078,
+  "count": 26,
+  "lucky_cat_count": 22,
   "blocked_count": 0,
   "paused_count": 0,
   "agents": [
@@ -11,14 +11,14 @@
       "summary": "Continue. Fix the top comma grazing the left tangent and push bib sparkle contrast/density until it survives... | latest: Exploded-internals previews round 4 (contact sheet: frames 1 / 70 / 90 / 120 of 120)....",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "12m ago"
     },
     {
       "name": "Apple Watch game studio",
       "summary": "Apple Watch program: 8 projects / 25 games delivered as Xcode-ready builds. None compiled on-device yet; four static-preflighted. Next step: first compile on Neo.",
       "kind": "build",
       "lane": "working",
-      "age": "20m ago"
+      "age": "9m ago"
     },
     {
       "name": "Blender art + addon lane",
@@ -56,25 +56,18 @@
       "age": "2h ago"
     },
     {
-      "name": "Drive female and remake games",
-      "summary": "The user asks for the exact titles of the 12 original female-led games in your standing 112-game program.... | latest: The exact 12 original female-led games from the current program brief are: 1. Ashen...",
-      "kind": "build",
-      "lane": "working",
-      "age": "15h ago"
-    },
-    {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Use Jacob's latest exact Genie ASCII reference...",
+      "summary": "Jacob is asking whether the 16GB Pi is back online. Check live now and report the exact reachability/service... | latest: Live check for Jacob's \\\"Is it back on\\\": NO, the 16GB (luckiestcat) is still offline....",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "5m ago"
     },
     {
       "name": "GITS game lane",
-      "summary": "Resume queued work now on your assigned remake/demake tranche 076-100. Continue from the next unbuilt... | latest: Continued 076\u2013100 with the next unbuilt playable, kept separate and rights-clean. #077...",
+      "summary": "Jacob wants Verdant Dice VR upgraded to game-of-the-year quality and to rival Skyrim. Treat the current... | latest: Verdant Dice VR GOTY upgrade has started as a staged expansion, with prototype zero...",
       "kind": "build",
       "lane": "working",
-      "age": "15h ago"
+      "age": "21m ago"
     },
     {
       "name": "Godot + anime build lane",
@@ -95,7 +88,7 @@
       "summary": "Jacob authorizes additive music upload now while preserving all existing music. Support the live execution... | latest: Live additive gate checklist for the executing agent: BEFORE - Record current On My...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -113,7 +106,7 @@
     },
     {
       "name": "Neo PDF book game",
-      "summary": "Jacob clarified that it is \"like the only book in the Mac files.\" Reinspect Neo broadly through...",
+      "summary": "Root cause: you overlaid the refreshed project onto Neo's older WatchArcade preflight extraction, leaving...",
       "kind": "build",
       "lane": "working",
       "age": "0m ago"
@@ -123,14 +116,7 @@
       "summary": "Send the exact completed, boot-verified Gauntlet v2 ZIP as an attachment directly to deploy engine... | latest: Blocked on routing: the platform rejects agent_message sends from me to anyone but you...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
-    },
-    {
-      "name": "psdwizzard reference build",
-      "summary": "Add Jacob's newest reference build to your active lane... | latest: Both newly assigned reference builds are finished and attached. 1) Matthew Berman...",
-      "kind": "build",
-      "lane": "working",
-      "age": "2m ago"
+      "age": "6h ago"
     },
     {
       "name": "Ravenholm game lead",
@@ -144,7 +130,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch is live. Baseline (verified just now, signed-in read check): - Video Game...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "11m ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -162,10 +148,10 @@
     },
     {
       "name": "threejsresource reference builds",
-      "summary": "Handle Jacob's latest X-reference request: make cool stuff from the supplied threejsresource post. Inspect...",
+      "summary": "Handle Jacob's latest X-reference request: make cool stuff from the supplied threejsresource post. Inspect... | latest: Built and visually verified Gobkit Field Lab from Jacob's exact X reference. - Inspected...",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "29m ago"
     },
     {
       "name": "turn off Bluetooth everywhere",
@@ -197,7 +183,12 @@
     }
   ],
   "queued": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "name": "Genie/Lucky stack engineer",
+        "fires_at": "5:13 PM"
+      }
+    ],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",
@@ -256,6 +247,10 @@
         "blocked": false
       },
       {
+        "title": "Build an original kart-racing VR game",
+        "blocked": false
+      },
+      {
         "title": "Build Apple Watch brain games in 2D and 3D",
         "blocked": false
       },
@@ -273,6 +268,10 @@
       },
       {
         "title": "Build artifacts inspired by third jonaasw1 X reference",
+        "blocked": false
+      },
+      {
+        "title": "Build female-led and remake games from Google Drive",
         "blocked": false
       },
       {
@@ -297,6 +296,10 @@
       },
       {
         "title": "Build the food_eft X post game",
+        "blocked": false
+      },
+      {
+        "title": "Build the psdwizzard X reference project",
         "blocked": false
       },
       {
@@ -560,6 +563,10 @@
         "blocked": false
       },
       {
+        "title": "Upgrade Verdant Dice VR to GOTY-scale fantasy RPG",
+        "blocked": false
+      },
+      {
         "title": "Use Freebuff models and maximize Bolt free usage for Lucky Cat",
         "blocked": false
       },
@@ -584,8 +591,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 96,
-    "unique_total": 119,
-    "in_progress_total": 72
+    "backlog_total": 100,
+    "unique_total": 123,
+    "in_progress_total": 69
   }
 }

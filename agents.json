@@ -1,6 +1,6 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 2:09 AM CDT",
-  "generated_epoch": 1789628959,
+  "generated_at": "Thursday, September 17, 2026 at 2:39 AM CDT",
+  "generated_epoch": 1789630767,
   "count": 28,
   "lucky_cat_count": 24,
   "blocked_count": 0,
@@ -11,14 +11,14 @@
       "summary": "Gate verdict: reject v173d for user delivery. The reconstruction is still visibly far below the reference and... | latest: Ack on the v173d rejection. v174 correction pass is in build now, targeting the dominant...",
       "kind": "build",
       "lane": "working",
-      "age": "32m ago"
+      "age": "6m ago"
     },
     {
       "name": "Apple Watch game studio",
       "summary": "Add the user's latest request to the Apple Watch program: make brain games for Apple Watch, including a... | latest: WatchBrain3D.zip - the 3D brain-games pack (md5 26c67be30b7cf4e765752a0fd923f238). Second...",
       "kind": "build",
       "lane": "working",
-      "age": "31m ago"
+      "age": "1h ago"
     },
     {
       "name": "Blender art + addon lane",
@@ -39,14 +39,14 @@
       "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the... | latest: LUCKY - 12:13 AM session. The 7:15 PM bash-outage work was lost with a sandbox rebuild...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Chicago social events tomorrow",
       "summary": "Apply the user's correction to the social-events search: they mean today, Thursday, September 17, 2026, after... | latest: Verified Thursday, September 17. Best designed plan around Jacob's standing Chess Club...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "deploy engine",
@@ -60,42 +60,42 @@
       "summary": "The user asks for the exact titles of the 12 original female-led games in your standing 112-game program.... | latest: The exact 12 original female-led games from the current program brief are: 1. Ashen...",
       "kind": "build",
       "lane": "working",
-      "age": "46m ago"
+      "age": "1h ago"
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "The user asks which third case to return: he has two screen cases and one NES retro case for two Pis.... | latest: Case recommendation, grounded in the hardware record: Return ONE of the two screen cases...",
+      "summary": "The user asks which third case to return: he has two screen cases and one NES retro case for two Pis.... | latest: 1:45 WAKE WORK COMPLETE - cleanup verified, prevention installed, services restored, Task...",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "20m ago"
     },
     {
       "name": "GITS game lane",
       "summary": "Resume queued work now on your assigned remake/demake tranche 076-100. Continue from the next unbuilt... | latest: Continued 076\u2013100 with the next unbuilt playable, kept separate and rights-clean. #077...",
       "kind": "build",
       "lane": "working",
-      "age": "49m ago"
+      "age": "1h ago"
     },
     {
       "name": "Godot + anime build lane",
       "summary": "Resume queued work now on your assigned remake/demake tranche 101-112. Continue turning the existing build... | latest: Second tranche playable landed: #102 Cargo Ghost v1. Index md5...",
       "kind": "build",
       "lane": "working",
-      "age": "49m ago"
+      "age": "1h ago"
     },
     {
       "name": "Half-Life 3 game lead",
       "summary": "Resume queued work now on your assigned tranche 001-025 and the complete Half-Life 3 playable outcome.... | latest: Advanced the next grounded tranche step: #003 Wilds in Color v0.1 is playable. Source...",
       "kind": "build",
       "lane": "working",
-      "age": "50m ago"
+      "age": "1h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
       "summary": "Apply the user's latest update to the Chess Club Instagram contact-info check. Re-check the available... | latest: Rechecked the cloud browser after Jacob's \\\"I'm logged in\\\": instagram.com still shows...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Little Nightmares sequel lead",
@@ -109,21 +109,21 @@
       "summary": "Audit Neo MacBook optimization state for Jacob. | latest: Neo verified not previously optimized; preserved the live Xcode Lucky Cat build, full pass queued for a clean window.",
       "kind": "build",
       "lane": "working",
-      "age": "50m ago"
+      "age": "1h ago"
     },
     {
       "name": "Portal 3 game lead",
       "summary": "Resume queued Portal 3 work now. Continue Aperture 1998 from v6 into chamber 07, keeping the playable and... | latest: SHIPPED: Portal Aperture 1998 v8 - chamber 08 \\\"Escape\\\", the finale. 026 IS NOW...",
       "kind": "build",
       "lane": "working",
-      "age": "32m ago"
+      "age": "1h ago"
     },
     {
       "name": "psdwizzard reference build",
       "summary": "Add the user's newest separate X-reference request: inspect... | latest: The three Jonas references are one demonstrated series, \u201ccool internet things\u201d parts 13...",
       "kind": "build",
       "lane": "working",
-      "age": "25m ago"
+      "age": "55m ago"
     },
     {
       "name": "Quant playlist research test",
@@ -137,7 +137,7 @@
       "summary": "Resume queued work now on your assigned tranche 051-075 and Ravenholm outcome. Continue from the next unbuilt... | latest: Continued from the next unbuilt playable in tranche 051-075: #074 is now a distinct...",
       "kind": "build",
       "lane": "working",
-      "age": "49m ago"
+      "age": "1h ago"
     },
     {
       "name": "Ribbit - eat the frog",
@@ -158,14 +158,14 @@
       "summary": "Apply Jacob's latest instruction to your existing lane: use idle headroom now and actively continue the... | latest: Still v5 (Daylight + Anthropic themes) is now live on Jacob's laptop. Midnight CRD run...",
       "kind": "build",
       "lane": "working",
-      "age": "59m ago"
+      "age": "1h ago"
     },
     {
       "name": "tech radar + founder programs",
       "summary": "Add the user's latest approved subscriptions to the dedicated Agent Mail research inbox: subscribe... | latest: 1871 is subscribed successfully using jacobgarcia@mail.instinct.com. I verified the...",
       "kind": "build",
       "lane": "working",
-      "age": "15m ago"
+      "age": "16m ago"
     },
     {
       "name": "turn off Bluetooth everywhere",
@@ -199,8 +199,12 @@
   "queued": {
     "scheduled": [
       {
+        "name": "Genie/Lucky stack engineer",
+        "fires_at": "2:55 AM"
+      },
+      {
         "name": "3D asset upgrade pass",
-        "fires_at": "2:30 AM"
+        "fires_at": "3:25 AM"
       }
     ],
     "backlog": [

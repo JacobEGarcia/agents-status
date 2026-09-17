@@ -1,6 +1,6 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 2:39 AM CDT",
-  "generated_epoch": 1789630767,
+  "generated_at": "Thursday, September 17, 2026 at 3:09 AM CDT",
+  "generated_epoch": 1789632582,
   "count": 28,
   "lucky_cat_count": 24,
   "blocked_count": 0,
@@ -11,7 +11,7 @@
       "summary": "Gate verdict: reject v173d for user delivery. The reconstruction is still visibly far below the reference and... | latest: Ack on the v173d rejection. v174 correction pass is in build now, targeting the dominant...",
       "kind": "build",
       "lane": "working",
-      "age": "6m ago"
+      "age": "36m ago"
     },
     {
       "name": "Apple Watch game studio",
@@ -64,10 +64,10 @@
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "The user asks which third case to return: he has two screen cases and one NES retro case for two Pis.... | latest: 1:45 WAKE WORK COMPLETE - cleanup verified, prevention installed, services restored, Task...",
+      "summary": "Run a read-only sweep of the 16GB Pi's 52% inode use and identify the owning paths/file pattern. Do not...",
       "kind": "build",
       "lane": "working",
-      "age": "20m ago"
+      "age": "1m ago"
     },
     {
       "name": "GITS game lane",
@@ -123,7 +123,7 @@
       "summary": "Add the user's newest separate X-reference request: inspect... | latest: The three Jonas references are one demonstrated series, \u201ccool internet things\u201d parts 13...",
       "kind": "build",
       "lane": "working",
-      "age": "55m ago"
+      "age": "1h ago"
     },
     {
       "name": "Quant playlist research test",
@@ -172,7 +172,7 @@
       "summary": "Handle the user's latest iMessage: their Beats Pill does not turn off with its power button, and they want... | latest: Official Beats correction: this Pill model turns off by pressing the top power button for...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -198,10 +198,6 @@
   ],
   "queued": {
     "scheduled": [
-      {
-        "name": "Genie/Lucky stack engineer",
-        "fires_at": "2:55 AM"
-      },
       {
         "name": "3D asset upgrade pass",
         "fires_at": "3:25 AM"

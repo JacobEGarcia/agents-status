@@ -1,31 +1,31 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 1:40 PM CDT",
-  "generated_epoch": 1789670400,
-  "count": 27,
-  "lucky_cat_count": 23,
+  "generated_at": "Thursday, September 17, 2026 at 2:10 PM CDT",
+  "generated_epoch": 1789672207,
+  "count": 26,
+  "lucky_cat_count": 22,
   "blocked_count": 0,
   "paused_count": 0,
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Continue. Fix the top comma grazing the left tangent and push bib sparkle contrast/density until it survives... | latest: Lucky Cat v189 gate package (part 1 of 2) - five comps attached, all pixel-inspected...",
+      "summary": "Continue. Fix the top comma grazing the left tangent and push bib sparkle contrast/density until it survives... | latest: Exploded-internals previews round 4 (contact sheet: frames 1 / 70 / 90 / 120 of 120)....",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "27m ago"
     },
     {
       "name": "Apple Watch game studio",
       "summary": "Apple Watch program: 8 projects / 25 games delivered as Xcode-ready builds. None compiled on-device yet; four static-preflighted. Next step: first compile on Neo.",
       "kind": "build",
       "lane": "working",
-      "age": "24m ago"
+      "age": "54m ago"
     },
     {
       "name": "Blender art + addon lane",
-      "summary": "Wrong recipient - do not apply this. The user's latest message is intended for Ribit, not your Blender/video...",
+      "summary": "Build Jacob's approved lawful custom GTA-style radio station: use verified free/licensed tracks from the...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "0m ago"
     },
     {
       "name": "Cancelled Valve games lead",
@@ -64,7 +64,7 @@
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Jacob confirms the 4GB Pi is on. Verify connectivity now and start the approved iPhone Photos & Camera backup...",
+      "summary": "Jacob asks for immediate live status: are the old images/videos being deleted and songs being uploaded?... | latest: Live status, no guesses (2:08 PM): PHASE = DELETION IN PROGRESS. The delete job launched...",
       "kind": "build",
       "lane": "working",
       "age": "0m ago"
@@ -92,10 +92,10 @@
     },
     {
       "name": "iPhone 4 backup and music compatibility",
-      "summary": "Jacob asks how much storage the SSD photo/video backup-and-delete route would free. Inspect the live mounted... | latest: Blocked on the new SSD reclaim question: this task's tool surface has no...",
+      "summary": "Jacob authorizes additive music upload now while preserving all existing music. Support the live execution... | latest: Live additive gate checklist for the executing agent: BEFORE - Record current On My...",
       "kind": "build",
       "lane": "working",
-      "age": "15m ago"
+      "age": "22m ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -109,21 +109,14 @@
       "summary": "Keep v15 internal. The proofs are still visibly far below Jacob's stated Little Nightmares fidelity bar... | latest: Internal progress only, not a gate: I built and visually inspected a v16 direction with...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
-    },
-    {
-      "name": "Neo MacBook optimization audit",
-      "summary": "DePaul priority lane: study/research artifacts delivered (GAM discussion draft, Module 1 study guide, CSC 373 HW1, Lab Safety guide). CSC 301 HW2 tracked as Jacob's own implementation with permitted study/debug help only - course rules exclude generative AI, no AI-authored model answer is coursework-usable. NET 365 evidence capture on the Windows route. Nothing submitted.",
-      "kind": "build",
-      "lane": "working",
-      "age": "24m ago"
+      "age": "3h ago"
     },
     {
       "name": "Portal 3 game lead",
       "summary": "Send the exact completed, boot-verified Gauntlet v2 ZIP as an attachment directly to deploy engine... | latest: Blocked on routing: the platform rejects agent_message sends from me to anyone but you...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "psdwizzard reference build",
@@ -144,7 +137,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch is live. Baseline (verified just now, signed-in read check): - Video Game...",
       "kind": "build",
       "lane": "working",
-      "age": "41m ago"
+      "age": "1h ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -158,7 +151,7 @@
       "summary": "Ignore this routing check; no task change.",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "turn off Bluetooth everywhere",
@@ -190,7 +183,12 @@
     }
   ],
   "queued": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "name": "3D asset upgrade pass",
+        "fires_at": "2:40 PM"
+      }
+    ],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",
@@ -306,6 +304,10 @@
       },
       {
         "title": "Code survival-horror VR game in Godot",
+        "blocked": false
+      },
+      {
+        "title": "Complete accessible DePaul assignments for Jacob review",
         "blocked": false
       },
       {
@@ -517,6 +519,14 @@
         "blocked": false
       },
       {
+        "title": "Review and post GAM 228 Module 1 discussion",
+        "blocked": false
+      },
+      {
+        "title": "Set up terminal-first remote access to Neo",
+        "blocked": false
+      },
+      {
         "title": "Sign up for Modal + Oracle free VM",
         "blocked": false
       },
@@ -526,6 +536,10 @@
       },
       {
         "title": "Super Mario 3D World, lucky cat edition",
+        "blocked": false
+      },
+      {
+        "title": "Take GAM 228 Module 1 quiz",
         "blocked": false
       },
       {
@@ -561,8 +575,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 92,
-    "unique_total": 115,
-    "in_progress_total": 71
+    "backlog_total": 96,
+    "unique_total": 119,
+    "in_progress_total": 70
   }
 }

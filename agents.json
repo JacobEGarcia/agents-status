@@ -1,8 +1,8 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 12:39 PM CDT",
-  "generated_epoch": 1789666772,
-  "count": 27,
-  "lucky_cat_count": 23,
+  "generated_at": "Thursday, September 17, 2026 at 1:09 PM CDT",
+  "generated_epoch": 1789668588,
+  "count": 26,
+  "lucky_cat_count": 22,
   "blocked_count": 0,
   "paused_count": 0,
   "agents": [
@@ -11,21 +11,21 @@
       "summary": "Continue. Fix the top comma grazing the left tangent and push bib sparkle contrast/density until it survives... | latest: Favicon handoff - full-body variant per your pick. Attached: 180/64/48/32px transparent...",
       "kind": "build",
       "lane": "working",
-      "age": "20m ago"
+      "age": "3m ago"
     },
     {
       "name": "Apple Watch game studio",
       "summary": "Apple Watch program: 8 projects / 25 games delivered as Xcode-ready builds. None compiled on-device yet; four static-preflighted. Next step: first compile on Neo.",
       "kind": "build",
       "lane": "working",
-      "age": "43m ago"
+      "age": "1h ago"
     },
     {
       "name": "Blender art + addon lane",
       "summary": "Wrong recipient - do not apply this. The user's latest message is intended for Ribit, not your Blender/video...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Cancelled Valve games lead",
@@ -39,7 +39,7 @@
       "summary": "Route the pending Freebuff CLI terminal-first connection into your infra/deploy work after current caught-up... | latest: Work session 12:13 PM Sep 17 - status + verified capital update. LIVE CHECKS (all clean)...",
       "kind": "build",
       "lane": "working",
-      "age": "24m ago"
+      "age": "54m ago"
     },
     {
       "name": "Chicago social events tomorrow",
@@ -53,7 +53,7 @@
       "summary": "Replace the current live Grand Thrift Auto v1 at canonical repo/slug grand-thrift-auto with this tested 3D... | latest: Additional Grand Thrift Auto v2 evidence: attached is the live THE EXCHANGE resale-entry...",
       "kind": "build",
       "lane": "working",
-      "age": "59m ago"
+      "age": "1h ago"
     },
     {
       "name": "Drive female and remake games",
@@ -64,10 +64,10 @@
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Jacob asks what exact stack made the two Lucky Cats talk to each other, specifically whether it was Kokoro...",
+      "summary": "Jacob asks what exact stack made the two Lucky Cats talk to each other, specifically whether it was Kokoro... | latest: LO-FI/JAZZ/1940s EXPANSION - DONE AND VERIFIED. DL3 finished 421/421 with zero failures...",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "25m ago"
     },
     {
       "name": "GITS game lane",
@@ -81,7 +81,7 @@
       "summary": "Handle Jacob's new IndieGameJoe X reference game request. Inspect the exact linked post and media using the... | latest: Built Jacob's IndieGameJoe reference as an original playable game: MEMBRANE//8....",
       "kind": "build",
       "lane": "working",
-      "age": "11m ago"
+      "age": "41m ago"
     },
     {
       "name": "Half-Life 3 game lead",
@@ -102,35 +102,28 @@
       "summary": "Keep v15 internal. The proofs are still visibly far below Jacob's stated Little Nightmares fidelity bar... | latest: Internal progress only, not a gate: I built and visually inspected a v16 direction with...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Neo MacBook optimization audit",
       "summary": "DePaul priority lane: study/research artifacts delivered (GAM discussion draft, Module 1 study guide, CSC 373 HW1, Lab Safety guide). CSC 301 HW2 tracked as Jacob's own implementation with permitted study/debug help only - course rules exclude generative AI, no AI-authored model answer is coursework-usable. NET 365 evidence capture on the Windows route. Nothing submitted.",
       "kind": "build",
       "lane": "working",
-      "age": "40m ago"
-    },
-    {
-      "name": "newsletter subscriptions",
-      "summary": "Three more authorized signup confirmations arrived: Owl Posting ref...",
-      "kind": "build",
-      "lane": "working",
-      "age": "0m ago"
+      "age": "1h ago"
     },
     {
       "name": "Portal 3 game lead",
       "summary": "Send the exact completed, boot-verified Gauntlet v2 ZIP as an attachment directly to deploy engine... | latest: Blocked on routing: the platform rejects agent_message sends from me to anyone but you...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "psdwizzard reference build",
       "summary": "Handle Jacob's new 80 Level X reference game request. Inspect the exact linked post and media using the... | latest: Hash correction: the actual attached Deadline-Between-Tides-Windows.zip MD5 is...",
       "kind": "build",
       "lane": "working",
-      "age": "11m ago"
+      "age": "41m ago"
     },
     {
       "name": "Ravenholm game lead",
@@ -144,7 +137,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch is live. Baseline (verified just now, signed-in read check): - Video Game...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "11m ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -193,7 +186,7 @@
     "scheduled": [
       {
         "name": "3D asset upgrade pass",
-        "fires_at": "12:45 PM"
+        "fires_at": "1:35 PM"
       }
     ],
     "backlog": [
@@ -526,6 +519,10 @@
         "blocked": false
       },
       {
+        "title": "Subscribe Instinct email to selected newsletters",
+        "blocked": false
+      },
+      {
         "title": "Super Mario 3D World, lucky cat edition",
         "blocked": false
       },
@@ -562,8 +559,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 91,
-    "unique_total": 114,
-    "in_progress_total": 70
+    "backlog_total": 92,
+    "unique_total": 115,
+    "in_progress_total": 69
   }
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 8:37 AM CDT",
-  "generated_epoch": 1789652271,
+  "generated_at": "Thursday, September 17, 2026 at 9:08 AM CDT",
+  "generated_epoch": 1789654087,
   "count": 28,
   "lucky_cat_count": 24,
   "blocked_count": 0,
@@ -11,7 +11,7 @@
       "summary": "Gate verdict: reject v173d for user delivery. The reconstruction is still visibly far below the reference and... | latest: GATE SUBMISSION v179 part 2 of 2: paw closeup (solid maroon claws vs ref's slashes+dots...",
       "kind": "build",
       "lane": "working",
-      "age": "36m ago"
+      "age": "29m ago"
     },
     {
       "name": "Apple Watch game studio",
@@ -64,10 +64,10 @@
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Released your persist lease for the finished 16GB inode deadline check. The duet remains safely stopped...",
+      "summary": "Apply Jacob's latest approval to the 16GB Pi disposable-stub cleanup and restore the duet. | latest: 16GB cleanup started under Jacob's 'Delete' approval (9:00:46 AM, verified in your...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3m ago"
     },
     {
       "name": "GITS game lane",
@@ -123,7 +123,7 @@
       "summary": "Add the user's newest separate X-reference request: inspect... | latest: The three Jonas references are one demonstrated series, \u201ccool internet things\u201d parts 13...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Quant playlist research test",
@@ -172,7 +172,7 @@
       "summary": "Handle the user's latest iMessage: their Beats Pill does not turn off with its power button, and they want... | latest: Official Beats correction: this Pill model turns off by pressing the top power button for...",
       "kind": "build",
       "lane": "working",
-      "age": "7h ago"
+      "age": "8h ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -197,7 +197,12 @@
     }
   ],
   "queued": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "name": "3D asset upgrade pass",
+        "fires_at": "9:05 AM"
+      }
+    ],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",
@@ -269,10 +274,6 @@
       },
       {
         "title": "Build artifacts inspired by third jonaasw1 X reference",
-        "blocked": false
-      },
-      {
-        "title": "Build duet shelf and complete retro netplay console",
         "blocked": false
       },
       {
@@ -560,8 +561,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 90,
-    "unique_total": 113,
-    "in_progress_total": 70
+    "backlog_total": 89,
+    "unique_total": 112,
+    "in_progress_total": 71
   }
 }

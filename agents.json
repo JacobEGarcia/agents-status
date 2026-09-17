@@ -1,8 +1,8 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 9:38 AM CDT",
-  "generated_epoch": 1789655901,
-  "count": 28,
-  "lucky_cat_count": 24,
+  "generated_at": "Thursday, September 17, 2026 at 10:08 AM CDT",
+  "generated_epoch": 1789657708,
+  "count": 27,
+  "lucky_cat_count": 23,
   "blocked_count": 0,
   "paused_count": 0,
   "agents": [
@@ -67,7 +67,7 @@
       "summary": "Apply Jacob's latest approval to the 16GB Pi disposable-stub cleanup and restore the duet. | latest: DUET RESTORED on the 16GB - no need to wait for the multi-hour deletion. What changed at...",
       "kind": "build",
       "lane": "working",
-      "age": "26m ago"
+      "age": "28m ago"
     },
     {
       "name": "GITS game lane",
@@ -109,7 +109,7 @@
       "summary": "Audit Neo MacBook optimization state for Jacob. | latest: Neo verified not previously optimized; preserved the live Xcode Lucky Cat build, full pass queued for a clean window.",
       "kind": "build",
       "lane": "working",
-      "age": "5m ago"
+      "age": "1m ago"
     },
     {
       "name": "Portal 3 game lead",
@@ -123,14 +123,7 @@
       "summary": "Handle Jacob's latest X-reference build: make the referenced game/experience for AI agents to play or use.... | latest: Built Agent Habitat and attached the playable ZIP plus a directly inspected 1440x900...",
       "kind": "build",
       "lane": "working",
-      "age": "26m ago"
-    },
-    {
-      "name": "Quant playlist research test",
-      "summary": "Efficiency pass: keep the playlist research outcome intact, but avoid extra scheduled checks. Use the...",
-      "kind": "build",
-      "lane": "working",
-      "age": ""
+      "age": "57m ago"
     },
     {
       "name": "Ravenholm game lead",
@@ -151,7 +144,7 @@
       "summary": "Handle Jacob's latest shinboson X-reference request. Identify what the post shows, then build the real... | latest: SHINBOSON X-REFERENCE BUILD shipped (not deployed). What the post...",
       "kind": "build",
       "lane": "working",
-      "age": "12m ago"
+      "age": "0m ago"
     },
     {
       "name": "Still Orange and Anthropic themes",
@@ -172,7 +165,7 @@
       "summary": "Handle the user's latest iMessage: their Beats Pill does not turn off with its power button, and they want... | latest: Official Beats correction: this Pill model turns off by pressing the top power button for...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "9h ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -200,7 +193,7 @@
     "scheduled": [
       {
         "name": "3D asset upgrade pass",
-        "fires_at": "9:40 AM"
+        "fires_at": "10:20 AM"
       }
     ],
     "backlog": [
@@ -529,6 +522,10 @@
         "blocked": false
       },
       {
+        "title": "Test Jacob\u2019s quant capability from two YouTube playlists",
+        "blocked": false
+      },
+      {
         "title": "Update submitted Founders Inc application with new Lucky Cat progress",
         "blocked": false
       },
@@ -561,8 +558,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 89,
-    "unique_total": 112,
-    "in_progress_total": 71
+    "backlog_total": 90,
+    "unique_total": 113,
+    "in_progress_total": 70
   }
 }

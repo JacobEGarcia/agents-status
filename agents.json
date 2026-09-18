@@ -1,24 +1,24 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 6:41 PM CDT",
-  "generated_epoch": 1789688503,
-  "count": 27,
+  "generated_at": "Thursday, September 17, 2026 at 7:08 PM CDT",
+  "generated_epoch": 1789690119,
+  "count": 28,
   "lucky_cat_count": 23,
   "blocked_count": 0,
-  "paused_count": 0,
+  "paused_count": 1,
   "agents": [
     {
       "name": "3D asset upgrade pass",
       "summary": "Continue. Fix the top comma grazing the left tangent and push bib sparkle contrast/density until it survives... | latest: Exploded-internals previews round 4 (contact sheet: frames 1 / 70 / 90 / 120 of 120)....",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Apple Watch game studio",
       "summary": "Apple Watch program: 8 projects / 25 games delivered as Xcode-ready builds. None compiled on-device yet; four static-preflighted. Next step: first compile on Neo.",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Blender art + addon lane",
@@ -39,7 +39,7 @@
       "summary": "Route the pending Freebuff CLI terminal-first connection into your infra/deploy work after current caught-up... | latest: Work session 12:13 PM Sep 17 - status + verified capital update. LIVE CHECKS (all clean)...",
       "kind": "build",
       "lane": "working",
-      "age": "24m ago"
+      "age": "51m ago"
     },
     {
       "name": "Chicago social events tomorrow",
@@ -60,7 +60,7 @@
       "summary": "Jacob asks for the current status of all four devices. Check each device live now and report a compact... | latest: COVER ART PHASE 2 complete and verified by re-audit. Tally is now 279/506 tracks with art...",
       "kind": "build",
       "lane": "working",
-      "age": "15m ago"
+      "age": "18m ago"
     },
     {
       "name": "GITS game lane",
@@ -88,7 +88,7 @@
       "summary": "Jacob authorizes additive music upload now while preserving all existing music. Support the live execution... | latest: Live additive gate checklist for the executing agent: BEFORE - Record current On My...",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
+      "age": "5h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -123,7 +123,7 @@
       "summary": "Send the exact completed, boot-verified Gauntlet v2 ZIP as an attachment directly to deploy engine... | latest: Blocked on routing: the platform rejects agent_message sends from me to anyone but you...",
       "kind": "build",
       "lane": "working",
-      "age": "7h ago"
+      "age": "8h ago"
     },
     {
       "name": "Ravenholm game lead",
@@ -137,7 +137,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch is live. Baseline (verified just now, signed-in read check): - Video Game...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "8m ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -168,6 +168,13 @@
       "age": "8h ago"
     },
     {
+      "name": "Build from cactuscompute X reference",
+      "summary": "Awaiting specific Lucky Cat assignment",
+      "kind": "build",
+      "lane": "awaiting",
+      "age": "0m ago"
+    },
+    {
       "name": "Agent mail notification manager",
       "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill.",
       "kind": "system",
@@ -186,7 +193,7 @@
       "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment.",
       "kind": "system",
       "lane": "system",
-      "age": ""
+      "age": "13m ago"
     }
   ],
   "queued": {

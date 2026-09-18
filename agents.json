@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, September 18, 2026 at 1:44 AM CDT",
-  "generated_epoch": 1789713872,
+  "generated_at": "Friday, September 18, 2026 at 3:15 AM CDT",
+  "generated_epoch": 1789719312,
   "count": 21,
   "lucky_cat_count": 17,
   "blocked_count": 0,
@@ -109,7 +109,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch note (no match found - operational update only): 1) This cycle's result: VGA...",
       "kind": "build",
       "lane": "working",
-      "age": "43m ago"
+      "age": "12m ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -148,7 +148,12 @@
     }
   ],
   "queued": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "name": "Ribbit - eat the frog",
+        "fires_at": "9:00 AM"
+      }
+    ],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",

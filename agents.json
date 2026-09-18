@@ -1,6 +1,6 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 7:42 PM CDT",
-  "generated_epoch": 1789692132,
+  "generated_at": "Thursday, September 17, 2026 at 8:08 PM CDT",
+  "generated_epoch": 1789693691,
   "count": 25,
   "lucky_cat_count": 21,
   "blocked_count": 0,
@@ -11,14 +11,14 @@
       "summary": "Continue. Fix the top comma grazing the left tangent and push bib sparkle contrast/density until it survives... | latest: Exploded-internals previews round 4 (contact sheet: frames 1 / 70 / 90 / 120 of 120)....",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Apple Watch game studio",
       "summary": "Apple Watch program: 8 projects / 25 games delivered as Xcode-ready builds. None compiled on-device yet; four static-preflighted. Next step: first compile on Neo.",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Blender art + addon lane",
@@ -53,14 +53,14 @@
       "summary": "Deploy THE GAUNTLET v2 to the canonical repo/slug `the-gauntlet`, replacing the live v1 index.html at... | latest: No-op duplicate handoff: THE GAUNTLET v2 is already the canonical live build from my...",
       "kind": "build",
       "lane": "working",
-      "age": "30m ago"
+      "age": "56m ago"
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Jacob picked B, the red Lucky logo, as the final LUCKY FM cover. Finalize and embed that exact... | latest: LUCKY FM cover DONE. Jacob's pick B (red Lucky logo) is now embedded in \\\"LUCKY FM 99.9...",
+      "summary": "Jacob asks for current Raspberry Pi project progress. Check both Pis live now and return a compact RUNNING /... | latest: Both Pis checked live at 7:59-8:00 PM: RUNNING - 4GB Pi (bench): up 6h22m, 78.5C. All...",
       "kind": "build",
       "lane": "working",
-      "age": "19m ago"
+      "age": "7m ago"
     },
     {
       "name": "GITS game lane",
@@ -88,7 +88,7 @@
       "summary": "Jacob authorizes additive music upload now while preserving all existing music. Support the live execution... | latest: Live additive gate checklist for the executing agent: BEFORE - Record current On My...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -116,7 +116,7 @@
       "summary": "Your Portal 3 Gauntlet v2 ZIP handoff to the deploy engine was blocked. Send me the artifact as a real... | latest: Re-sending as requested: THE GAUNTLET v2 zip attached as a real file...",
       "kind": "build",
       "lane": "working",
-      "age": "31m ago"
+      "age": "57m ago"
     },
     {
       "name": "Ravenholm game lead",
@@ -130,7 +130,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch is live. Baseline (verified just now, signed-in read check): - Video Game...",
       "kind": "build",
       "lane": "working",
-      "age": "42m ago"
+      "age": "1h ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -144,7 +144,7 @@
       "summary": "Add Jacob's latest Bend request to your technical build lane: inspect bend-lang.com and current official... | latest: Bend pack complete and attached. I inspected the current official site and repo, reviewed...",
       "kind": "build",
       "lane": "working",
-      "age": "19m ago"
+      "age": "45m ago"
     },
     {
       "name": "turn off Bluetooth everywhere",
@@ -172,11 +172,16 @@
       "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment.",
       "kind": "system",
       "lane": "system",
-      "age": "46m ago"
+      "age": "1h ago"
     }
   ],
   "queued": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "name": "Proactive value creation",
+        "fires_at": "9:30 PM"
+      }
+    ],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",

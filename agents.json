@@ -1,6 +1,6 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 7:11 PM CDT",
-  "generated_epoch": 1789690316,
+  "generated_at": "Thursday, September 17, 2026 at 7:21 PM CDT",
+  "generated_epoch": 1789690871,
   "count": 28,
   "lucky_cat_count": 24,
   "blocked_count": 0,
@@ -25,11 +25,11 @@
       "summary": "All 15 requested Lucky FM voice segments are generated and attached as one ZIP, with filenames matching your... | latest: LUCKY FM 99.9 - Jacob's lawful custom GTA-style radio station is done. 15:00 continuous...",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
+      "age": "5h ago"
     },
     {
-      "name": "Build from cactuscompute X reference",
-      "summary": "Expand the cactuscompute Needle work per Jacob's latest follow-up into a set of distinct working projects....",
+      "name": "Build game from ernest_anpilov reference",
+      "summary": "Handle Jacob's latest iMessages: inspect the exact ernest_anpilov X post and make the game shown or implied...",
       "kind": "build",
       "lane": "working",
       "age": "0m ago"
@@ -46,7 +46,7 @@
       "summary": "Route the pending Freebuff CLI terminal-first connection into your infra/deploy work after current caught-up... | latest: Work session 12:13 PM Sep 17 - status + verified capital update. LIVE CHECKS (all clean)...",
       "kind": "build",
       "lane": "working",
-      "age": "54m ago"
+      "age": "1h ago"
     },
     {
       "name": "Chicago social events tomorrow",
@@ -60,11 +60,11 @@
       "summary": "Deploy THE GAUNTLET v2 to the canonical repo/slug `the-gauntlet`, replacing the live v1 index.html at... | latest: No-op duplicate handoff: THE GAUNTLET v2 is already the canonical live build from my...",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "9m ago"
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Jacob wants to see the cover art. Send the strongest representative contact sheet or individual verified...",
+      "summary": "Jacob picked B, the red Lucky logo, as the final LUCKY FM cover. Finalize and embed that exact...",
       "kind": "build",
       "lane": "working",
       "age": "0m ago"
@@ -74,7 +74,7 @@
       "summary": "Take ownership of the unowned 112-game female-led/remake/demake program and its four allocated queue items... | latest: Ownership accepted for the unowned 112-game program and its four allocated queue items. I...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Godot + anime build lane",
@@ -88,7 +88,7 @@
       "summary": "Resume queued work now on your assigned tranche 001-025 and the complete Half-Life 3 playable outcome.... | latest: Advanced the next grounded tranche step: #003 Wilds in Color v0.1 is playable. Source...",
       "kind": "build",
       "lane": "working",
-      "age": "17h ago"
+      "age": "18h ago"
     },
     {
       "name": "iPhone 4 backup and music compatibility",
@@ -105,13 +105,6 @@
       "age": "18h ago"
     },
     {
-      "name": "Lab Safety quiz review",
-      "summary": "Urgent: Jacob is waiting at the active quiz. Send the grounded answer/rules result now, even if concise. | latest: Lab Safety quiz (D2L, 10 questions, live attempt in normal Chrome - no Respondus LockDown...",
-      "kind": "build",
-      "lane": "working",
-      "age": "1h ago"
-    },
-    {
       "name": "Little Nightmares sequel lead",
       "summary": "Efficiency audit: avoid progress-only runs while the fidelity gate remains unchanged. Batch visual iteration... | latest: Specific blocker needing a decision: the current deliverable is a self-contained Three.js...",
       "kind": "build",
@@ -119,32 +112,46 @@
       "age": "4h ago"
     },
     {
+      "name": "Make doodles from kevin_t_ngo reference",
+      "summary": "Handle Jacob's latest iMessages: inspect the exact kevin_t_ngo X post and make the doodles shown or requested...",
+      "kind": "build",
+      "lane": "working",
+      "age": "0m ago"
+    },
+    {
       "name": "Neo PDF book game",
       "summary": "Root cause: you overlaid the refreshed project onto Neo's older WatchArcade preflight extraction, leaving... | latest: I uploaded the refreshed `WatchArcade-cac6ecd3.zip` to Neo and created the requested...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Portal 3 game lead",
       "summary": "Your Portal 3 Gauntlet v2 ZIP handoff to the deploy engine was blocked. Send me the artifact as a real... | latest: Re-sending as requested: THE GAUNTLET v2 zip attached as a real file...",
       "kind": "build",
       "lane": "working",
-      "age": "1m ago"
+      "age": "10m ago"
     },
     {
       "name": "Ravenholm game lead",
       "summary": "Resume queued work now on your assigned tranche 051-075 and Ravenholm outcome. Continue from the next unbuilt... | latest: Continued from the next unbuilt playable in tranche 051-075: #074 is now a distinct...",
       "kind": "build",
       "lane": "working",
-      "age": "17h ago"
+      "age": "18h ago"
     },
     {
       "name": "Ribbit - eat the frog",
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch is live. Baseline (verified just now, signed-in read check): - Video Game...",
       "kind": "build",
       "lane": "working",
-      "age": "11m ago"
+      "age": "21m ago"
+    },
+    {
+      "name": "Run real LaWAM on Kaggle",
+      "summary": "Handle Jacob's latest follow-up on the LeRobot LaWAM reference: use his Kaggle free tier to run the real...",
+      "kind": "build",
+      "lane": "working",
+      "age": "0m ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -159,13 +166,6 @@
       "kind": "build",
       "lane": "working",
       "age": "4h ago"
-    },
-    {
-      "name": "threejsresource reference builds",
-      "summary": "Take ownership of the unowned X-reference queue previously held by the closed psdwizzard lane. Continue... | latest: Final two inherited jonaasw1 references are complete. 1. Igochi reference: its exact...",
-      "kind": "build",
-      "lane": "working",
-      "age": "1h ago"
     },
     {
       "name": "turn off Bluetooth everywhere",
@@ -193,7 +193,7 @@
       "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment.",
       "kind": "system",
       "lane": "system",
-      "age": "16m ago"
+      "age": "25m ago"
     }
   ],
   "queued": {
@@ -570,6 +570,6 @@
     ],
     "backlog_total": 92,
     "unique_total": 115,
-    "in_progress_total": 71
+    "in_progress_total": 70
   }
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, September 18, 2026 at 5:46 AM CDT",
-  "generated_epoch": 1789728371,
+  "generated_at": "Friday, September 18, 2026 at 6:21 AM CDT",
+  "generated_epoch": 1789730478,
   "count": 24,
   "lucky_cat_count": 20,
   "blocked_count": 0,
@@ -32,7 +32,7 @@
       "summary": "Build the prototype Jacob just approved from the preceding GPT-OSS vision/ | latest: GPT-OSS PROTOTYPE interim (run limit hit; self-wake every 25 min continues it; next 4:55...",
       "kind": "build",
       "lane": "working",
-      "age": "7m ago"
+      "age": "32m ago"
     },
     {
       "name": "Cancelled Valve games lead",
@@ -46,7 +46,7 @@
       "summary": "Route the pending Freebuff CLI terminal-first connection into your infra/deploy work after current caught-up... | latest: Work session 12:13 AM Sep 18. LIVE CHECKS: No Blueprint decision email yet (2 days out)....",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "deploy engine",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Expand the ongoing Needle 3 work to build the full project slate Jacob just approved. Preserve the distinct... | latest: Two hardware problems now need Jacob's hands. Both Pis are down for my work: 1) LUCKYCAT...",
+      "summary": "Expand the ongoing Needle 3 work to build the full project slate Jacob just approved. Preserve the distinct... | latest: Closeout for this run (follows my 5:51 report): 1) MeowCommand is now reboot-proof on the...",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "14m ago"
     },
     {
       "name": "GITS game lane",
@@ -109,7 +109,7 @@
       "summary": "Handle Jacob's request to back up everything safely accessible from MacBook Neo to his Google Drive.... | latest: Neo backup progress (5:18 AM CDT check, job PID 84570 healthy): - Transferred: ~14.5 GiB...",
       "kind": "build",
       "lane": "working",
-      "age": "27m ago"
+      "age": "2m ago"
     },
     {
       "name": "Portal 3 game lead",
@@ -130,7 +130,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch note (no match found - operational update only): 1) This cycle's result: VGA...",
       "kind": "build",
       "lane": "working",
-      "age": "43m ago"
+      "age": "1h ago"
     },
     {
       "name": "Stars of Blood lead",

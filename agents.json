@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, September 18, 2026 at 6:21 AM CDT",
-  "generated_epoch": 1789730478,
+  "generated_at": "Friday, September 18, 2026 at 6:46 AM CDT",
+  "generated_epoch": 1789731998,
   "count": 24,
   "lucky_cat_count": 20,
   "blocked_count": 0,
@@ -25,14 +25,14 @@
       "summary": "Upgrade Jacob's boss-rush game toward GOTY quality with a playable artifact and visual verification. Todo...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Build GPT-OSS vision tools prototype",
-      "summary": "Build the prototype Jacob just approved from the preceding GPT-OSS vision/ | latest: GPT-OSS PROTOTYPE interim (run limit hit; self-wake every 25 min continues it; next 4:55...",
+      "summary": "Add Jacob's latest request to the active GPT-OSS vision prototype work: produce a real screen-recorded video... | latest: Status on the video deliverable: blocked on luckiestcat. The 16GB Pi (my only shell route...",
       "kind": "build",
       "lane": "working",
-      "age": "32m ago"
+      "age": "3m ago"
     },
     {
       "name": "Cancelled Valve games lead",
@@ -60,21 +60,21 @@
       "summary": "Expand the ongoing Needle 3 work to build the full project slate Jacob just approved. Preserve the distinct... | latest: Closeout for this run (follows my 5:51 report): 1) MeowCommand is now reboot-proof on the...",
       "kind": "build",
       "lane": "working",
-      "age": "14m ago"
+      "age": "12m ago"
     },
     {
       "name": "GITS game lane",
       "summary": "Add Jacob's latest request as a separate outcome from the non-VR build: create an original polished 3D... | latest: The first supplied YouTube-reference game is identified and playable. Exact reference...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Godot + anime build lane",
       "summary": "Add Jacob's latest request as a distinct game outcome: identify the supplied YouTube video and build a... | latest: Finished the distinct 3D Cuphead-format outcome: PUNCHBOWL! 3D. Reference identified and...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Half-Life 3 game lead",
@@ -85,10 +85,10 @@
     },
     {
       "name": "iPhone 4 backup and music compatibility",
-      "summary": "Jacob authorizes additive music upload now while preserving all existing music. Support the live execution... | latest: Live additive gate checklist for the executing agent: BEFORE - Record current On My...",
+      "summary": "Apply Jacob's latest V-Disc artwork decision to the iPhone/music work: use real scans where available and... | latest: V-Disc artwork rule is now locked for the music lane: - Use the real historical V-Disc...",
       "kind": "build",
       "lane": "working",
-      "age": ""
+      "age": "22m ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -109,7 +109,7 @@
       "summary": "Handle Jacob's request to back up everything safely accessible from MacBook Neo to his Google Drive.... | latest: Neo backup progress (5:18 AM CDT check, job PID 84570 healthy): - Transferred: ~14.5 GiB...",
       "kind": "build",
       "lane": "working",
-      "age": "2m ago"
+      "age": "28m ago"
     },
     {
       "name": "Portal 3 game lead",
@@ -170,6 +170,10 @@
   ],
   "queued": {
     "scheduled": [
+      {
+        "name": "Build GPT-OSS vision tools prototype",
+        "fires_at": "6:58 AM"
+      },
       {
         "name": "Ribbit - eat the frog",
         "fires_at": "9:00 AM"
@@ -262,10 +266,6 @@
       },
       {
         "title": "Build the full Needle Actions project suite",
-        "blocked": false
-      },
-      {
-        "title": "Build the usecrayon X post project",
         "blocked": false
       },
       {
@@ -549,8 +549,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 93,
-    "unique_total": 116,
+    "backlog_total": 92,
+    "unique_total": 115,
     "in_progress_total": 73
   }
 }

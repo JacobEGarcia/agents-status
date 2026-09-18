@@ -1,8 +1,8 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 8:12 PM CDT",
-  "generated_epoch": 1789693943,
-  "count": 26,
-  "lucky_cat_count": 22,
+  "generated_at": "Friday, September 18, 2026 at 12:13 AM CDT",
+  "generated_epoch": 1789708436,
+  "count": 23,
+  "lucky_cat_count": 19,
   "blocked_count": 0,
   "paused_count": 0,
   "agents": [
@@ -11,154 +11,133 @@
       "summary": "Continue. Fix the top comma grazing the left tangent and push bib sparkle contrast/density until it survives... | latest: Exploded-internals previews round 4 (contact sheet: frames 1 / 70 / 90 / 120 of 120)....",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
-    },
-    {
-      "name": "Apple Watch game studio",
-      "summary": "Apple Watch program: 8 projects / 25 games delivered as Xcode-ready builds. None compiled on-device yet; four static-preflighted. Next step: first compile on Neo.",
-      "kind": "build",
-      "lane": "working",
-      "age": "3h ago"
+      "age": ""
     },
     {
       "name": "Blender art + addon lane",
       "summary": "All 15 requested Lucky FM voice segments are generated and attached as one ZIP, with filenames matching your... | latest: LUCKY FM 99.9 - Jacob's lawful custom GTA-style radio station is done. 15:00 continuous...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": ""
     },
     {
       "name": "Cancelled Valve games lead",
       "summary": "Keep Frostfall open. Do not treat a 2.4 KB untested scaffold as completion. Continue by coordinating a... | latest: Frostfall remains open. I removed the engine blocker directly by installing current Godot...",
       "kind": "build",
       "lane": "working",
-      "age": "9h ago"
+      "age": ""
     },
     {
       "name": "CEO - Lucky Cat Robotics",
       "summary": "Route the pending Freebuff CLI terminal-first connection into your infra/deploy work after current caught-up... | latest: Work session 12:13 PM Sep 17 - status + verified capital update. LIVE CHECKS (all clean)...",
       "kind": "build",
       "lane": "working",
-      "age": "2m ago"
+      "age": ""
     },
     {
       "name": "Chicago social events tomorrow",
       "summary": "Resume productive work from Jacob's pending queue: develop the Chicago 2033 World's Fair vision, feasibility... | latest: Built and attached a sourced 1,927-word Chicago 2033 feasibility and vision brief. The...",
       "kind": "build",
       "lane": "working",
-      "age": "9h ago"
+      "age": ""
     },
     {
       "name": "deploy engine",
       "summary": "Deploy THE GAUNTLET v2 to the canonical repo/slug `the-gauntlet`, replacing the live v1 index.html at... | latest: No-op duplicate handoff: THE GAUNTLET v2 is already the canonical live build from my...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": ""
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Run Jacob's latest GPT-OSS 120B laptop stress-test request using your approved Windows terminal route. Exact...",
+      "summary": "Urgent steering: Jacob says the correct discussion is already open on JacobsLaptop and explicitly says press... | latest: SUBMITTED - GAM 228 Module 1 discussion post is live. Proof screenshot attached. What...",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": ""
     },
     {
       "name": "GITS game lane",
       "summary": "Take ownership of the unowned 112-game female-led/remake/demake program and its four allocated queue items... | latest: Ownership accepted for the unowned 112-game program and its four allocated queue items. I...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": ""
     },
     {
       "name": "Godot + anime build lane",
       "summary": "Efficiency audit: avoid idle/progress wakes and keep work artifact-driven. Reuse shared Godot/3D setup across...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": ""
     },
     {
       "name": "Half-Life 3 game lead",
       "summary": "Resume queued work now on your assigned tranche 001-025 and the complete Half-Life 3 playable outcome.... | latest: Advanced the next grounded tranche step: #003 Wilds in Color v0.1 is playable. Source...",
       "kind": "build",
       "lane": "working",
-      "age": "18h ago"
+      "age": ""
     },
     {
       "name": "iPhone 4 backup and music compatibility",
       "summary": "Jacob authorizes additive music upload now while preserving all existing music. Support the live execution... | latest: Live additive gate checklist for the executing agent: BEFORE - Record current On My...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": ""
     },
     {
       "name": "King - DePaul Chess Club hype",
       "summary": "Apply the user's latest update to the Chess Club Instagram contact-info check. Re-check the available... | latest: Rechecked the cloud browser after Jacob's \\\"I'm logged in\\\": instagram.com still shows...",
       "kind": "build",
       "lane": "working",
-      "age": "19h ago"
+      "age": ""
     },
     {
       "name": "Little Nightmares sequel lead",
       "summary": "Efficiency audit: avoid progress-only runs while the fidelity gate remains unchanged. Batch visual iteration... | latest: Specific blocker needing a decision: the current deliverable is a self-contained Three.js...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
-    },
-    {
-      "name": "Neo PDF book game",
-      "summary": "Root cause: you overlaid the refreshed project onto Neo's older WatchArcade preflight extraction, leaving... | latest: I uploaded the refreshed `WatchArcade-cac6ecd3.zip` to Neo and created the requested...",
-      "kind": "build",
-      "lane": "working",
-      "age": "3h ago"
+      "age": ""
     },
     {
       "name": "Portal 3 game lead",
       "summary": "Your Portal 3 Gauntlet v2 ZIP handoff to the deploy engine was blocked. Send me the artifact as a real... | latest: Re-sending as requested: THE GAUNTLET v2 zip attached as a real file...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
-    },
-    {
-      "name": "Push JacobsLaptop with GPT-OSS 120B",
-      "summary": "Handle Jacob's latest iMessage: he wants to push JacobsLaptop to its limits and try \"gpt os 120b\" on it now.... | latest: Fresh live baseline at 8:10 PM: AMD Ryzen AI Max+ 395, 16C/32T, Radeon 8060S, 123.6 GB...",
-      "kind": "build",
-      "lane": "working",
-      "age": "0m ago"
+      "age": ""
     },
     {
       "name": "Ravenholm game lead",
       "summary": "Resume queued work now on your assigned tranche 051-075 and Ravenholm outcome. Continue from the next unbuilt... | latest: Continued from the next unbuilt playable in tranche 051-075: #074 is now a distinct...",
       "kind": "build",
       "lane": "working",
-      "age": "18h ago"
+      "age": ""
     },
     {
       "name": "Ribbit - eat the frog",
-      "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch is live. Baseline (verified just now, signed-in read check): - Video Game...",
+      "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch note (no match found - operational update only): 1) This cycle's result: VGA...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": ""
     },
     {
       "name": "Stars of Blood lead",
       "summary": "Handle Jacob's latest X-reference request: build a real VR game matching the visual and interaction style of... | latest: Lofi Orbit VR is built and verified - a playable WebXR game matching the taylor_sntx...",
       "kind": "build",
       "lane": "working",
-      "age": "9h ago"
+      "age": ""
     },
     {
       "name": "tech radar + founder programs",
       "summary": "Add Jacob's latest Bend request to your technical build lane: inspect bend-lang.com and current official... | latest: Bend pack complete and attached. I inspected the current official site and repo, reviewed...",
       "kind": "build",
       "lane": "working",
-      "age": "49m ago"
+      "age": ""
     },
     {
       "name": "turn off Bluetooth everywhere",
       "summary": "Apply Jacob's latest direction: source and download lawful free classical-music recordings onto the Windows... | latest: Please route this immediate download job to Genie/Lucky stack engineer...",
       "kind": "build",
       "lane": "working",
-      "age": "9h ago"
+      "age": ""
     },
     {
       "name": "Agent mail notification manager",
@@ -179,16 +158,11 @@
       "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment.",
       "kind": "system",
       "lane": "system",
-      "age": "1h ago"
+      "age": ""
     }
   ],
   "queued": {
-    "scheduled": [
-      {
-        "name": "Proactive value creation",
-        "fires_at": "9:30 PM"
-      }
-    ],
+    "scheduled": [],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",
@@ -503,10 +477,6 @@
         "blocked": false
       },
       {
-        "title": "Review and post GAM 228 Module 1 discussion",
-        "blocked": false
-      },
-      {
         "title": "Set up terminal-first remote access to Neo",
         "blocked": false
       },
@@ -559,8 +529,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 92,
-    "unique_total": 115,
+    "backlog_total": 91,
+    "unique_total": 114,
     "in_progress_total": 70
   }
 }

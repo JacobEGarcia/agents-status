@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, September 18, 2026 at 6:46 AM CDT",
-  "generated_epoch": 1789731998,
+  "generated_at": "Friday, September 18, 2026 at 7:38 AM CDT",
+  "generated_epoch": 1789735092,
   "count": 24,
   "lucky_cat_count": 20,
   "blocked_count": 0,
@@ -29,10 +29,10 @@
     },
     {
       "name": "Build GPT-OSS vision tools prototype",
-      "summary": "Add Jacob's latest request to the active GPT-OSS vision prototype work: produce a real screen-recorded video... | latest: Status on the video deliverable: blocked on luckiestcat. The 16GB Pi (my only shell route...",
+      "summary": "Add Jacob's latest request to the active GPT-OSS vision prototype work: produce a real screen-recorded video... | latest: Update: luckiestcat is still unreachable (7:18 AM retry). It came up once at ~6:58 for...",
       "kind": "build",
       "lane": "working",
-      "age": "3m ago"
+      "age": "19m ago"
     },
     {
       "name": "Cancelled Valve games lead",
@@ -46,7 +46,7 @@
       "summary": "Route the pending Freebuff CLI terminal-first connection into your infra/deploy work after current caught-up... | latest: Work session 12:13 AM Sep 18. LIVE CHECKS: No Blueprint decision email yet (2 days out)....",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
+      "age": "5h ago"
     },
     {
       "name": "deploy engine",
@@ -60,7 +60,7 @@
       "summary": "Expand the ongoing Needle 3 work to build the full project slate Jacob just approved. Preserve the distinct... | latest: Closeout for this run (follows my 5:51 report): 1) MeowCommand is now reboot-proof on the...",
       "kind": "build",
       "lane": "working",
-      "age": "12m ago"
+      "age": "28m ago"
     },
     {
       "name": "GITS game lane",
@@ -88,7 +88,7 @@
       "summary": "Apply Jacob's latest V-Disc artwork decision to the iPhone/music work: use real scans where available and... | latest: V-Disc artwork rule is now locked for the music lane: - Use the real historical V-Disc...",
       "kind": "build",
       "lane": "working",
-      "age": "22m ago"
+      "age": "1h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -106,10 +106,10 @@
     },
     {
       "name": "MacBook Neo full Google Drive backup",
-      "summary": "Handle Jacob's request to back up everything safely accessible from MacBook Neo to his Google Drive.... | latest: Neo backup progress (5:18 AM CDT check, job PID 84570 healthy): - Transferred: ~14.5 GiB...",
+      "summary": "Handle Jacob's request to back up everything safely accessible from MacBook Neo to his Google Drive.... | latest: Neo backup 7:18 AM CDT check (job 84570 alive, zero errors): - Progress: 26.7 GiB copied...",
       "kind": "build",
       "lane": "working",
-      "age": "28m ago"
+      "age": "19m ago"
     },
     {
       "name": "Portal 3 game lead",
@@ -130,7 +130,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch note (no match found - operational update only): 1) This cycle's result: VGA...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "34m ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -170,10 +170,6 @@
   ],
   "queued": {
     "scheduled": [
-      {
-        "name": "Build GPT-OSS vision tools prototype",
-        "fires_at": "6:58 AM"
-      },
       {
         "name": "Ribbit - eat the frog",
         "fires_at": "9:00 AM"

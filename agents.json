@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, September 18, 2026 at 10:40 AM CDT",
-  "generated_epoch": 1789746048,
+  "generated_at": "Friday, September 18, 2026 at 11:16 AM CDT",
+  "generated_epoch": 1789748201,
   "count": 24,
   "lucky_cat_count": 20,
   "blocked_count": 0,
@@ -8,10 +8,10 @@
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "Keep the muted mauve ear grading from the front reference; treat the redder frame as lighting variation....",
+      "summary": "The v192b fixes are directionally right, but the model still misses the reference's softened, rounded face...",
       "kind": "build",
       "lane": "working",
-      "age": "1m ago"
+      "age": "15m ago"
     },
     {
       "name": "Blender art + addon lane",
@@ -32,7 +32,7 @@
       "summary": "Add Jacob's latest request to the active GPT-OSS vision prototype work: produce a real screen-recorded video... | latest: Update: luckiestcat is still unreachable (7:18 AM retry). It came up once at ~6:58 for...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Cancelled Valve games lead",
@@ -46,7 +46,7 @@
       "summary": "Route the pending Freebuff CLI terminal-first connection into your infra/deploy work after current caught-up... | latest: Work session 12:13 AM Sep 18. LIVE CHECKS: No Blueprint decision email yet (2 days out)....",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "deploy engine",
@@ -60,21 +60,21 @@
       "summary": "Expand the ongoing Needle 3 work to build the full project slate Jacob just approved. Preserve the distinct... | latest: Closeout for this run (follows my 5:51 report): 1) MeowCommand is now reboot-proof on the...",
       "kind": "build",
       "lane": "working",
-      "age": "14m ago"
+      "age": "21m ago"
     },
     {
       "name": "GITS game lane",
       "summary": "Add Jacob's latest request as a separate outcome from the non-VR build: create an original polished 3D... | latest: The first supplied YouTube-reference game is identified and playable. Exact reference...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Godot + anime build lane",
       "summary": "Add Jacob's latest request as a distinct game outcome: identify the supplied YouTube video and build a... | latest: Finished the distinct 3D Cuphead-format outcome: PUNCHBOWL! 3D. Reference identified and...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Half-Life 3 game lead",
@@ -109,7 +109,7 @@
       "summary": "Handle Jacob's request to back up everything safely accessible from MacBook Neo to his Google Drive.... | latest: Neo backup 10:20 AM CDT update - honest revision plus a speedup I just applied...",
       "kind": "build",
       "lane": "working",
-      "age": "20m ago"
+      "age": "55m ago"
     },
     {
       "name": "Portal 3 game lead",
@@ -130,7 +130,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch note (no match found - operational update only): 1) This cycle's result: VGA...",
       "kind": "build",
       "lane": "working",
-      "age": "23m ago"
+      "age": "58m ago"
     },
     {
       "name": "Stars of Blood lead",

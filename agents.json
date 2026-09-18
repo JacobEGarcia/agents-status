@@ -1,10 +1,10 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 7:08 PM CDT",
-  "generated_epoch": 1789690119,
+  "generated_at": "Thursday, September 17, 2026 at 7:11 PM CDT",
+  "generated_epoch": 1789690316,
   "count": 28,
-  "lucky_cat_count": 23,
+  "lucky_cat_count": 24,
   "blocked_count": 0,
-  "paused_count": 1,
+  "paused_count": 0,
   "agents": [
     {
       "name": "3D asset upgrade pass",
@@ -28,6 +28,13 @@
       "age": "4h ago"
     },
     {
+      "name": "Build from cactuscompute X reference",
+      "summary": "Expand the cactuscompute Needle work per Jacob's latest follow-up into a set of distinct working projects....",
+      "kind": "build",
+      "lane": "working",
+      "age": "0m ago"
+    },
+    {
       "name": "Cancelled Valve games lead",
       "summary": "Keep Frostfall open. Do not treat a 2.4 KB untested scaffold as completion. Continue by coordinating a... | latest: Frostfall remains open. I removed the engine blocker directly by installing current Godot...",
       "kind": "build",
@@ -39,7 +46,7 @@
       "summary": "Route the pending Freebuff CLI terminal-first connection into your infra/deploy work after current caught-up... | latest: Work session 12:13 PM Sep 17 - status + verified capital update. LIVE CHECKS (all clean)...",
       "kind": "build",
       "lane": "working",
-      "age": "51m ago"
+      "age": "54m ago"
     },
     {
       "name": "Chicago social events tomorrow",
@@ -50,17 +57,17 @@
     },
     {
       "name": "deploy engine",
-      "summary": "Efficiency audit: stay quiet when no build clears the deploy gate. Prefer event-driven handoffs from build...",
+      "summary": "Deploy THE GAUNTLET v2 to the canonical repo/slug `the-gauntlet`, replacing the live v1 index.html at... | latest: No-op duplicate handoff: THE GAUNTLET v2 is already the canonical live build from my...",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
+      "age": "0m ago"
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Jacob asks for the current status of all four devices. Check each device live now and report a compact... | latest: COVER ART PHASE 2 complete and verified by re-audit. Tally is now 279/506 tracks with art...",
+      "summary": "Jacob wants to see the cover art. Send the strongest representative contact sheet or individual verified...",
       "kind": "build",
       "lane": "working",
-      "age": "18m ago"
+      "age": "0m ago"
     },
     {
       "name": "GITS game lane",
@@ -120,10 +127,10 @@
     },
     {
       "name": "Portal 3 game lead",
-      "summary": "Send the exact completed, boot-verified Gauntlet v2 ZIP as an attachment directly to deploy engine... | latest: Blocked on routing: the platform rejects agent_message sends from me to anyone but you...",
+      "summary": "Your Portal 3 Gauntlet v2 ZIP handoff to the deploy engine was blocked. Send me the artifact as a real... | latest: Re-sending as requested: THE GAUNTLET v2 zip attached as a real file...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "1m ago"
     },
     {
       "name": "Ravenholm game lead",
@@ -137,7 +144,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch is live. Baseline (verified just now, signed-in read check): - Video Game...",
       "kind": "build",
       "lane": "working",
-      "age": "8m ago"
+      "age": "11m ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -168,13 +175,6 @@
       "age": "8h ago"
     },
     {
-      "name": "Build from cactuscompute X reference",
-      "summary": "Awaiting specific Lucky Cat assignment",
-      "kind": "build",
-      "lane": "awaiting",
-      "age": "0m ago"
-    },
-    {
       "name": "Agent mail notification manager",
       "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill.",
       "kind": "system",
@@ -193,7 +193,7 @@
       "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment.",
       "kind": "system",
       "lane": "system",
-      "age": "13m ago"
+      "age": "16m ago"
     }
   ],
   "queued": {

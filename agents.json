@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, September 18, 2026 at 1:14 AM CDT",
-  "generated_epoch": 1789712061,
+  "generated_at": "Friday, September 18, 2026 at 1:44 AM CDT",
+  "generated_epoch": 1789713872,
   "count": 21,
   "lucky_cat_count": 17,
   "blocked_count": 0,
@@ -32,7 +32,7 @@
       "summary": "Route the pending Freebuff CLI terminal-first connection into your infra/deploy work after current caught-up... | latest: Work session 12:13 AM Sep 18. LIVE CHECKS: No Blueprint decision email yet (2 days out)....",
       "kind": "build",
       "lane": "working",
-      "age": "59m ago"
+      "age": "1h ago"
     },
     {
       "name": "deploy engine",
@@ -109,7 +109,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch note (no match found - operational update only): 1) This cycle's result: VGA...",
       "kind": "build",
       "lane": "working",
-      "age": "13m ago"
+      "age": "43m ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -517,6 +517,6 @@
     ],
     "backlog_total": 91,
     "unique_total": 114,
-    "in_progress_total": 69
+    "in_progress_total": 68
   }
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, September 18, 2026 at 5:15 AM CDT",
-  "generated_epoch": 1789726556,
+  "generated_at": "Friday, September 18, 2026 at 5:46 AM CDT",
+  "generated_epoch": 1789728371,
   "count": 24,
   "lucky_cat_count": 20,
   "blocked_count": 0,
@@ -25,14 +25,14 @@
       "summary": "Upgrade Jacob's boss-rush game toward GOTY quality with a playable artifact and visual verification. Todo...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Build GPT-OSS vision tools prototype",
       "summary": "Build the prototype Jacob just approved from the preceding GPT-OSS vision/ | latest: GPT-OSS PROTOTYPE interim (run limit hit; self-wake every 25 min continues it; next 4:55...",
       "kind": "build",
       "lane": "working",
-      "age": "18m ago"
+      "age": "7m ago"
     },
     {
       "name": "Cancelled Valve games lead",
@@ -60,21 +60,21 @@
       "summary": "Expand the ongoing Needle 3 work to build the full project slate Jacob just approved. Preserve the distinct... | latest: Two hardware problems now need Jacob's hands. Both Pis are down for my work: 1) LUCKYCAT...",
       "kind": "build",
       "lane": "working",
-      "age": "9m ago"
+      "age": "0m ago"
     },
     {
       "name": "GITS game lane",
       "summary": "Add Jacob's latest request as a separate outcome from the non-VR build: create an original polished 3D... | latest: The first supplied YouTube-reference game is identified and playable. Exact reference...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Godot + anime build lane",
       "summary": "Add Jacob's latest request as a distinct game outcome: identify the supplied YouTube video and build a... | latest: Finished the distinct 3D Cuphead-format outcome: PUNCHBOWL! 3D. Reference identified and...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Half-Life 3 game lead",
@@ -106,10 +106,10 @@
     },
     {
       "name": "MacBook Neo full Google Drive backup",
-      "summary": "Handle Jacob's request to back up everything safely accessible from MacBook Neo to his Google Drive.... | latest: Correction to my 3:54 AM report (caught during verification): the running job briefly...",
+      "summary": "Handle Jacob's request to back up everything safely accessible from MacBook Neo to his Google Drive.... | latest: Neo backup progress (5:18 AM CDT check, job PID 84570 healthy): - Transferred: ~14.5 GiB...",
       "kind": "build",
       "lane": "working",
-      "age": "57m ago"
+      "age": "27m ago"
     },
     {
       "name": "Portal 3 game lead",
@@ -130,7 +130,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch note (no match found - operational update only): 1) This cycle's result: VGA...",
       "kind": "build",
       "lane": "working",
-      "age": "13m ago"
+      "age": "43m ago"
     },
     {
       "name": "Stars of Blood lead",

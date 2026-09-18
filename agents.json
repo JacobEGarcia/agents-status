@@ -1,8 +1,8 @@
 {
-  "generated_at": "Friday, September 18, 2026 at 3:31 AM CDT",
-  "generated_epoch": 1789720274,
-  "count": 21,
-  "lucky_cat_count": 17,
+  "generated_at": "Friday, September 18, 2026 at 3:45 AM CDT",
+  "generated_epoch": 1789721124,
+  "count": 27,
+  "lucky_cat_count": 23,
   "blocked_count": 0,
   "paused_count": 0,
   "agents": [
@@ -19,6 +19,13 @@
       "kind": "build",
       "lane": "working",
       "age": ""
+    },
+    {
+      "name": "Boss rush GOTY upgrade",
+      "summary": "Upgrade Jacob's boss-rush game toward GOTY quality with a playable artifact and visual verification. Todo...",
+      "kind": "build",
+      "lane": "working",
+      "age": "7m ago"
     },
     {
       "name": "Cancelled Valve games lead",
@@ -42,25 +49,39 @@
       "age": ""
     },
     {
-      "name": "Genie/Lucky stack engineer",
-      "summary": "Urgent steering: Jacob says the correct discussion is already open on JacobsLaptop and explicitly says press... | latest: SUBMITTED - GAM 228 Module 1 discussion post is live. Proof screenshot attached. What...",
+      "name": "DesignerTom project set",
+      "summary": "Handle Jacob's latest paired iMessages: identify the actual DesignerTom X post and turn it into multiple...",
       "kind": "build",
       "lane": "working",
-      "age": "2m ago"
+      "age": "0m ago"
+    },
+    {
+      "name": "Genie lamp shell prototypes",
+      "summary": "Advance the queued Genie lamp shells for the Lucky Cat prototype into polished, fabrication-ready designs and...",
+      "kind": "build",
+      "lane": "working",
+      "age": "1m ago"
+    },
+    {
+      "name": "Genie/Lucky stack engineer",
+      "summary": "Handle Jacob's latest request: film a real visual demo of GPT-OSS 120B running on JacobsLaptop, including a...",
+      "kind": "build",
+      "lane": "working",
+      "age": "0m ago"
     },
     {
       "name": "GITS game lane",
-      "summary": "Take ownership of the unowned 112-game female-led/remake/demake program and its four allocated queue items... | latest: Ownership accepted for the unowned 112-game program and its four allocated queue items. I...",
+      "summary": "Add Jacob's latest request as a separate outcome from the non-VR build: create an original polished 3D... | latest: The first supplied YouTube-reference game is identified and playable. Exact reference...",
       "kind": "build",
       "lane": "working",
-      "age": ""
+      "age": "0m ago"
     },
     {
       "name": "Godot + anime build lane",
-      "summary": "Efficiency audit: avoid idle/progress wakes and keep work artifact-driven. Reuse shared Godot/3D setup across...",
+      "summary": "Add Jacob's latest request as a distinct game outcome: identify the supplied YouTube video and build a...",
       "kind": "build",
       "lane": "working",
-      "age": ""
+      "age": "0m ago"
     },
     {
       "name": "Half-Life 3 game lead",
@@ -91,6 +112,20 @@
       "age": ""
     },
     {
+      "name": "Lucky Cat true 3D World redo",
+      "summary": "Redo the Lucky Cat 3D World project from Jacob's latest correction. The delivered side-scrolling 2D browser...",
+      "kind": "build",
+      "lane": "working",
+      "age": "1m ago"
+    },
+    {
+      "name": "MacBook Neo full Google Drive backup",
+      "summary": "Handle Jacob's request to back up everything safely accessible from MacBook Neo to his Google Drive....",
+      "kind": "build",
+      "lane": "working",
+      "age": "0m ago"
+    },
+    {
       "name": "Portal 3 game lead",
       "summary": "Your Portal 3 Gauntlet v2 ZIP handoff to the deploy engine was blocked. Send me the artifact as a real... | latest: Re-sending as requested: THE GAUNTLET v2 zip attached as a real file...",
       "kind": "build",
@@ -109,7 +144,7 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch note (no match found - operational update only): 1) This cycle's result: VGA...",
       "kind": "build",
       "lane": "working",
-      "age": "28m ago"
+      "age": "43m ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -124,6 +159,13 @@
       "kind": "build",
       "lane": "working",
       "age": ""
+    },
+    {
+      "name": "Wireframe glow VR",
+      "summary": "Build the wireframe-glow VR game from Jacob's saved Snapchat reference into a polished playable artifact with...",
+      "kind": "build",
+      "lane": "working",
+      "age": "0m ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -328,6 +370,10 @@
         "blocked": false
       },
       {
+        "title": "Harvest free certificates",
+        "blocked": false
+      },
+      {
         "title": "Harvest free certificates (Google, LinkedIn Learning, Coursera, CS50)",
         "blocked": false
       },
@@ -520,8 +566,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 91,
-    "unique_total": 114,
-    "in_progress_total": 69
+    "backlog_total": 92,
+    "unique_total": 115,
+    "in_progress_total": 77
   }
 }

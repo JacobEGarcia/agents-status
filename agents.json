@@ -1,8 +1,8 @@
 {
-  "generated_at": "Thursday, September 17, 2026 at 7:21 PM CDT",
-  "generated_epoch": 1789690871,
-  "count": 28,
-  "lucky_cat_count": 24,
+  "generated_at": "Thursday, September 17, 2026 at 7:42 PM CDT",
+  "generated_epoch": 1789692132,
+  "count": 25,
+  "lucky_cat_count": 21,
   "blocked_count": 0,
   "paused_count": 0,
   "agents": [
@@ -28,18 +28,11 @@
       "age": "5h ago"
     },
     {
-      "name": "Build game from ernest_anpilov reference",
-      "summary": "Handle Jacob's latest iMessages: inspect the exact ernest_anpilov X post and make the game shown or implied...",
-      "kind": "build",
-      "lane": "working",
-      "age": "0m ago"
-    },
-    {
       "name": "Cancelled Valve games lead",
       "summary": "Keep Frostfall open. Do not treat a 2.4 KB untested scaffold as completion. Continue by coordinating a... | latest: Frostfall remains open. I removed the engine blocker directly by installing current Godot...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "9h ago"
     },
     {
       "name": "CEO - Lucky Cat Robotics",
@@ -53,21 +46,21 @@
       "summary": "Resume productive work from Jacob's pending queue: develop the Chicago 2033 World's Fair vision, feasibility... | latest: Built and attached a sourced 1,927-word Chicago 2033 feasibility and vision brief. The...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "9h ago"
     },
     {
       "name": "deploy engine",
       "summary": "Deploy THE GAUNTLET v2 to the canonical repo/slug `the-gauntlet`, replacing the live v1 index.html at... | latest: No-op duplicate handoff: THE GAUNTLET v2 is already the canonical live build from my...",
       "kind": "build",
       "lane": "working",
-      "age": "9m ago"
+      "age": "30m ago"
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Jacob picked B, the red Lucky logo, as the final LUCKY FM cover. Finalize and embed that exact...",
+      "summary": "Jacob picked B, the red Lucky logo, as the final LUCKY FM cover. Finalize and embed that exact... | latest: LUCKY FM cover DONE. Jacob's pick B (red Lucky logo) is now embedded in \\\"LUCKY FM 99.9...",
       "kind": "build",
       "lane": "working",
-      "age": "0m ago"
+      "age": "19m ago"
     },
     {
       "name": "GITS game lane",
@@ -81,7 +74,7 @@
       "summary": "Efficiency audit: avoid idle/progress wakes and keep work artifact-driven. Reuse shared Godot/3D setup across...",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
+      "age": "5h ago"
     },
     {
       "name": "Half-Life 3 game lead",
@@ -102,21 +95,14 @@
       "summary": "Apply the user's latest update to the Chess Club Instagram contact-info check. Re-check the available... | latest: Rechecked the cloud browser after Jacob's \\\"I'm logged in\\\": instagram.com still shows...",
       "kind": "build",
       "lane": "working",
-      "age": "18h ago"
+      "age": "19h ago"
     },
     {
       "name": "Little Nightmares sequel lead",
       "summary": "Efficiency audit: avoid progress-only runs while the fidelity gate remains unchanged. Batch visual iteration... | latest: Specific blocker needing a decision: the current deliverable is a self-contained Three.js...",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
-    },
-    {
-      "name": "Make doodles from kevin_t_ngo reference",
-      "summary": "Handle Jacob's latest iMessages: inspect the exact kevin_t_ngo X post and make the doodles shown or requested...",
-      "kind": "build",
-      "lane": "working",
-      "age": "0m ago"
+      "age": "5h ago"
     },
     {
       "name": "Neo PDF book game",
@@ -130,7 +116,7 @@
       "summary": "Your Portal 3 Gauntlet v2 ZIP handoff to the deploy engine was blocked. Send me the artifact as a real... | latest: Re-sending as requested: THE GAUNTLET v2 zip attached as a real file...",
       "kind": "build",
       "lane": "working",
-      "age": "10m ago"
+      "age": "31m ago"
     },
     {
       "name": "Ravenholm game lead",
@@ -144,35 +130,28 @@
       "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch is live. Baseline (verified just now, signed-in read check): - Video Game...",
       "kind": "build",
       "lane": "working",
-      "age": "21m ago"
-    },
-    {
-      "name": "Run real LaWAM on Kaggle",
-      "summary": "Handle Jacob's latest follow-up on the LeRobot LaWAM reference: use his Kaggle free tier to run the real...",
-      "kind": "build",
-      "lane": "working",
-      "age": "0m ago"
+      "age": "42m ago"
     },
     {
       "name": "Stars of Blood lead",
       "summary": "Handle Jacob's latest X-reference request: build a real VR game matching the visual and interaction style of... | latest: Lofi Orbit VR is built and verified - a playable WebXR game matching the taylor_sntx...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "9h ago"
     },
     {
       "name": "tech radar + founder programs",
-      "summary": "Efficiency audit: keep the daily cadence, but add source/event filters or triggers wherever available so...",
+      "summary": "Add Jacob's latest Bend request to your technical build lane: inspect bend-lang.com and current official... | latest: Bend pack complete and attached. I inspected the current official site and repo, reviewed...",
       "kind": "build",
       "lane": "working",
-      "age": "4h ago"
+      "age": "19m ago"
     },
     {
       "name": "turn off Bluetooth everywhere",
       "summary": "Apply Jacob's latest direction: source and download lawful free classical-music recordings onto the Windows... | latest: Please route this immediate download job to Genie/Lucky stack engineer...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "9h ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -193,7 +172,7 @@
       "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment.",
       "kind": "system",
       "lane": "system",
-      "age": "25m ago"
+      "age": "46m ago"
     }
   ],
   "queued": {

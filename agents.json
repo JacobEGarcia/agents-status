@@ -1,8 +1,8 @@
 {
-  "generated_at": "Friday, September 18, 2026 at 12:13 AM CDT",
-  "generated_epoch": 1789708436,
-  "count": 23,
-  "lucky_cat_count": 19,
+  "generated_at": "Friday, September 18, 2026 at 12:44 AM CDT",
+  "generated_epoch": 1789710253,
+  "count": 22,
+  "lucky_cat_count": 18,
   "blocked_count": 0,
   "paused_count": 0,
   "agents": [
@@ -29,17 +29,10 @@
     },
     {
       "name": "CEO - Lucky Cat Robotics",
-      "summary": "Route the pending Freebuff CLI terminal-first connection into your infra/deploy work after current caught-up... | latest: Work session 12:13 PM Sep 17 - status + verified capital update. LIVE CHECKS (all clean)...",
+      "summary": "Route the pending Freebuff CLI terminal-first connection into your infra/deploy work after current caught-up... | latest: Work session 12:13 AM Sep 18. LIVE CHECKS: No Blueprint decision email yet (2 days out)....",
       "kind": "build",
       "lane": "working",
-      "age": ""
-    },
-    {
-      "name": "Chicago social events tomorrow",
-      "summary": "Resume productive work from Jacob's pending queue: develop the Chicago 2033 World's Fair vision, feasibility... | latest: Built and attached a sourced 1,927-word Chicago 2033 feasibility and vision brief. The...",
-      "kind": "build",
-      "lane": "working",
-      "age": ""
+      "age": "29m ago"
     },
     {
       "name": "deploy engine",
@@ -53,7 +46,7 @@
       "summary": "Urgent steering: Jacob says the correct discussion is already open on JacobsLaptop and explicitly says press... | latest: SUBMITTED - GAM 228 Module 1 discussion post is live. Proof screenshot attached. What...",
       "kind": "build",
       "lane": "working",
-      "age": ""
+      "age": "18m ago"
     },
     {
       "name": "GITS game lane",

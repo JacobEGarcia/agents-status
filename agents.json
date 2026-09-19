@@ -1,6 +1,6 @@
 {
-  "generated_at": "Saturday, September 19, 2026 at 3:51 AM CDT",
-  "generated_epoch": 1789807893,
+  "generated_at": "Saturday, September 19, 2026 at 5:28 AM CDT",
+  "generated_epoch": 1789813728,
   "count": 26,
   "lucky_cat_count": 22,
   "blocked_count": 0,
@@ -18,7 +18,7 @@
       "summary": "Jacob wants ongoing new animation, feature, product and R&D iteration for Genie and Lucky Cat. Continue... | latest: Batch 3 follow-up: genie-luckycat-collection.png - labeled 12-panel sheet of every...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "4h ago"
     },
     {
       "name": "Art Institute 4K TV collection",
@@ -32,7 +32,7 @@
       "summary": "Expand the September 24 Latine Film Gang outcome with Jacob's latest direction: make the strongest shorts... | latest: Latine identity films: 4 films rendering now (de aqu\u00ed / mexican american / no sabo / para...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "3h ago"
     },
     {
       "name": "Cancelled Valve games lead",
@@ -46,14 +46,14 @@
       "summary": "Expand Jacob's latest direction into the Lucky Cat standing roadmap: continuously generate and execute strong... | latest: Gmail wake fired at ~1:54 AM - FALSE POSITIVE for the Formspree trigger (payload was the...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "deploy engine",
       "summary": "Hold the verified artifact without publishing. No existing URL is grounded, so I will ask Jacob in the...",
       "kind": "build",
       "lane": "working",
-      "age": "32m ago"
+      "age": "2h ago"
     },
     {
       "name": "Free certificate harvest",
@@ -64,10 +64,10 @@
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Keep the local lucky-brain files and benchmark. Revert the new TCP 11435 firewall rule and portproxy now... | latest: Follow-up on lucky-brain (per your instructions): REVERTED (verified): netsh portproxy...",
+      "summary": "Your inactive Lucky Cat stack browser lease was released at expiry. If live browser work remains, acquire a...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "4h ago"
     },
     {
       "name": "GITS game lane",
@@ -88,7 +88,7 @@
       "summary": "Revise INK BRIDGE from Jacob's latest correction: visual fidelity to the original CypressDahlia/Flower Story... | latest: 12:25 AM CDT recovery recheck completed after the remote-screen quota reset: the 16GB Pi...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "5h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -102,7 +102,7 @@
       "summary": "Keep this task parked and resume the personalized LinkedIn recommendations review after the browser allowance... | latest: Completed the signed-in LinkedIn personalized Recommended Jobs review. I used Jacob's...",
       "kind": "build",
       "lane": "working",
-      "age": "3h ago"
+      "age": "4h ago"
     },
     {
       "name": "Little Nightmares sequel lead",
@@ -148,17 +148,17 @@
     },
     {
       "name": "tech radar + founder programs",
-      "summary": "Apply Jacob's latest answer to the Kognitos application availability end-date field. | latest: TinyFish hands-on test is complete. The account/key were already created by Jacob, Google...",
+      "summary": "Your browser lease L-krn-32zvonx7rx6juflvxjsoufp4zm was near expiry and is being extended by 60 minutes so... | latest: Closeout on the three job forms: - Kognitos is at final review, fully prepared, not...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "1h ago"
     },
     {
       "name": "Zipline applications and frontier lab roles",
       "summary": "Standing user preference: use terminal Playwright first for public role verification, application-requirement... | latest: Midnight continuation is temporarily blocked by the browser's single-writer limit. A...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "4h ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -219,6 +219,10 @@
       },
       {
         "title": "Back up attached Windows flash drive",
+        "blocked": false
+      },
+      {
+        "title": "Back up SSD, Windows laptop and MacBook to Google Drive",
         "blocked": false
       },
       {
@@ -570,6 +574,10 @@
         "blocked": false
       },
       {
+        "title": "Upgrade Jacob boss-rush game to GOTY quality",
+        "blocked": false
+      },
+      {
         "title": "Upgrade Verdant Dice VR to GOTY-scale fantasy RPG",
         "blocked": false
       },
@@ -598,8 +606,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 103,
-    "unique_total": 126,
-    "in_progress_total": 85
+    "backlog_total": 105,
+    "unique_total": 128,
+    "in_progress_total": 82
   }
 }

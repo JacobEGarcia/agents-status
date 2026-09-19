@@ -1,6 +1,6 @@
 {
-  "generated_at": "Saturday, September 19, 2026 at 9:29 AM CDT",
-  "generated_epoch": 1789828173,
+  "generated_at": "Saturday, September 19, 2026 at 10:55 AM CDT",
+  "generated_epoch": 1789833359,
   "count": 26,
   "lucky_cat_count": 22,
   "blocked_count": 0,
@@ -11,14 +11,14 @@
       "summary": "Status check: your Lucky Cat hero v193b render chain appears silent for 17.5 hours after r2, with the Sept 20... | latest: Status: the render was never hung - the workspace was frozen overnight and resumed on...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "4h ago"
     },
     {
       "name": "Animated Genie ASCII collection",
       "summary": "Jacob wants ongoing new animation, feature, product and R&D iteration for Genie and Lucky Cat. Continue... | latest: Batch 3 follow-up: genie-luckycat-collection.png - labeled 12-panel sheet of every...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "10h ago"
     },
     {
       "name": "Art Institute 4K TV collection",
@@ -32,7 +32,7 @@
       "summary": "Expand the September 24 Latine Film Gang outcome with Jacob's latest direction: make the strongest shorts... | latest: Latine identity films: 4 films rendering now (de aqu\u00ed / mexican american / no sabo / para...",
       "kind": "build",
       "lane": "working",
-      "age": "7h ago"
+      "age": "8h ago"
     },
     {
       "name": "Cancelled Valve games lead",
@@ -46,14 +46,14 @@
       "summary": "Expand Jacob's latest direction into the Lucky Cat standing roadmap: continuously generate and execute strong... | latest: Gmail wake fired at ~1:54 AM - FALSE POSITIVE for the Formspree trigger (payload was the...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "8h ago"
     },
     {
       "name": "deploy engine",
       "summary": "Hold the verified artifact without publishing. No existing URL is grounded, so I will ask Jacob in the...",
       "kind": "build",
       "lane": "working",
-      "age": "6h ago"
+      "age": "7h ago"
     },
     {
       "name": "Free certificate harvest",
@@ -67,7 +67,7 @@
       "summary": "Your inactive Lucky Cat stack browser lease was released at expiry. If live browser work remains, acquire a...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "9h ago"
     },
     {
       "name": "GITS game lane",
@@ -88,7 +88,7 @@
       "summary": "Revise INK BRIDGE from Jacob's latest correction: visual fidelity to the original CypressDahlia/Flower Story... | latest: 12:25 AM CDT recovery recheck completed after the remote-screen quota reset: the 16GB Pi...",
       "kind": "build",
       "lane": "working",
-      "age": "9h ago"
+      "age": "10h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -102,7 +102,7 @@
       "summary": "Keep this task parked and resume the personalized LinkedIn recommendations review after the browser allowance... | latest: Completed the signed-in LinkedIn personalized Recommended Jobs review. I used Jacob's...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "10h ago"
     },
     {
       "name": "Little Nightmares sequel lead",
@@ -137,28 +137,28 @@
       "summary": "Inspect Jacob's latest public Snapchat profile link and give me a respectful, concrete visual read sufficient... | latest: The public Snapchat profile (snapchat.com/add/windycitysyd) exposes one real photo via...",
       "kind": "build",
       "lane": "working",
-      "age": "46m ago"
+      "age": "2h ago"
     },
     {
       "name": "Stars of Blood lead",
       "summary": "3D lane recovered on ping; workspace had frozen overnight, then resumed. v193b finished but was correctly...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "3h ago"
     },
     {
       "name": "tech radar + founder programs",
       "summary": "Your browser lease L-krn-32zvonx7rx6juflvxjsoufp4zm was near expiry and is being extended by 60 minutes so... | latest: Closeout on the three job forms: - Kognitos is at final review, fully prepared, not...",
       "kind": "build",
       "lane": "working",
-      "age": "5h ago"
+      "age": "6h ago"
     },
     {
       "name": "Zipline applications and frontier lab roles",
       "summary": "Standing user preference: use terminal Playwright first for public role verification, application-requirement... | latest: Midnight continuation is temporarily blocked by the browser's single-writer limit. A...",
       "kind": "build",
       "lane": "working",
-      "age": "8h ago"
+      "age": "10h ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -608,6 +608,6 @@
     ],
     "backlog_total": 105,
     "unique_total": 128,
-    "in_progress_total": 82
+    "in_progress_total": 81
   }
 }

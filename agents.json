@@ -1,8 +1,8 @@
 {
-  "generated_at": "Saturday, September 19, 2026 at 2:51 AM CDT",
-  "generated_epoch": 1789804270,
-  "count": 28,
-  "lucky_cat_count": 24,
+  "generated_at": "Saturday, September 19, 2026 at 3:51 AM CDT",
+  "generated_epoch": 1789807893,
+  "count": 26,
+  "lucky_cat_count": 22,
   "blocked_count": 0,
   "paused_count": 0,
   "agents": [
@@ -18,7 +18,7 @@
       "summary": "Jacob wants ongoing new animation, feature, product and R&D iteration for Genie and Lucky Cat. Continue... | latest: Batch 3 follow-up: genie-luckycat-collection.png - labeled 12-panel sheet of every...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Art Institute 4K TV collection",
@@ -30,13 +30,6 @@
     {
       "name": "Blender art + addon lane",
       "summary": "Expand the September 24 Latine Film Gang outcome with Jacob's latest direction: make the strongest shorts... | latest: Latine identity films: 4 films rendering now (de aqu\u00ed / mexican american / no sabo / para...",
-      "kind": "build",
-      "lane": "working",
-      "age": "27m ago"
-    },
-    {
-      "name": "Boss rush GOTY upgrade",
-      "summary": "Handle Jacob's latest question as an active game build: inspect the exact IndieGameJoe X post he just linked... | latest: LCD KNIGHT is built, playable, and verified - a real game from the IndieGameJoe post...",
       "kind": "build",
       "lane": "working",
       "age": "1h ago"
@@ -53,14 +46,14 @@
       "summary": "Expand Jacob's latest direction into the Lucky Cat standing roadmap: continuously generate and execute strong... | latest: Gmail wake fired at ~1:54 AM - FALSE POSITIVE for the Formspree trigger (payload was the...",
       "kind": "build",
       "lane": "working",
-      "age": "18m ago"
+      "age": "1h ago"
     },
     {
       "name": "deploy engine",
-      "summary": "Ribbit finished and visually verified both Lucky founder-path fixes. Use these review-only Drive artifacts... | latest: Lucky founder-path patch is live and QA'd. MINAMO was untouched. Wishlist conversion...",
+      "summary": "Hold the verified artifact without publishing. No existing URL is grounded, so I will ask Jacob in the...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "32m ago"
     },
     {
       "name": "Free certificate harvest",
@@ -74,7 +67,7 @@
       "summary": "Keep the local lucky-brain files and benchmark. Revert the new TCP 11435 firewall rule and portproxy now... | latest: Follow-up on lucky-brain (per your instructions): REVERTED (verified): netsh portproxy...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "GITS game lane",
@@ -95,7 +88,7 @@
       "summary": "Revise INK BRIDGE from Jacob's latest correction: visual fidelity to the original CypressDahlia/Flower Story... | latest: 12:25 AM CDT recovery recheck completed after the remote-screen quota reset: the 16GB Pi...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
@@ -109,7 +102,7 @@
       "summary": "Keep this task parked and resume the personalized LinkedIn recommendations review after the browser allowance... | latest: Completed the signed-in LinkedIn personalized Recommended Jobs review. I used Jacob's...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "3h ago"
     },
     {
       "name": "Little Nightmares sequel lead",
@@ -124,13 +117,6 @@
       "kind": "build",
       "lane": "working",
       "age": ""
-    },
-    {
-      "name": "MacBook Neo full Google Drive backup",
-      "summary": "The Neo backup browser lease is no longer active. Check the backup through your available source and... | latest: Backup status change (12:19 AM): browser budget reset worked (new lease acquired), but...",
-      "kind": "build",
-      "lane": "working",
-      "age": "33m ago"
     },
     {
       "name": "Portal 3 game lead",
@@ -151,7 +137,7 @@
       "summary": "Inspect Jacob's latest public Snapchat profile link and give me a respectful, concrete visual read sufficient... | latest: The public Snapchat profile (snapchat.com/add/windycitysyd) exposes one real photo via...",
       "kind": "build",
       "lane": "working",
-      "age": "35m ago"
+      "age": "1h ago"
     },
     {
       "name": "Stars of Blood lead",
@@ -165,14 +151,14 @@
       "summary": "Apply Jacob's latest answer to the Kognitos application availability end-date field. | latest: TinyFish hands-on test is complete. The account/key were already created by Jacob, Google...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Zipline applications and frontier lab roles",
       "summary": "Standing user preference: use terminal Playwright first for public role verification, application-requirement... | latest: Midnight continuation is temporarily blocked by the browser's single-writer limit. A...",
       "kind": "build",
       "lane": "working",
-      "age": "1h ago"
+      "age": "2h ago"
     },
     {
       "name": "Agent mail notification manager",
@@ -614,6 +600,6 @@
     ],
     "backlog_total": 103,
     "unique_total": 126,
-    "in_progress_total": 86
+    "in_progress_total": 85
   }
 }

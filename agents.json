@@ -1,147 +1,175 @@
 {
-  "generated_at": "Friday, September 18, 2026 at 11:16 AM CDT",
-  "generated_epoch": 1789748201,
-  "count": 24,
-  "lucky_cat_count": 20,
+  "generated_at": "Saturday, September 19, 2026 at 12:39 AM CDT",
+  "generated_epoch": 1789796341,
+  "count": 28,
+  "lucky_cat_count": 24,
   "blocked_count": 0,
   "paused_count": 0,
   "agents": [
     {
       "name": "3D asset upgrade pass",
-      "summary": "The v192b fixes are directionally right, but the model still misses the reference's softened, rounded face...",
+      "summary": "Efficiency pass: the 15-minute hero-model polling is too frequent. Continue active render work now, then... | latest: Done. Recurring check is now 60 minutes, trigger-gated to fire only when a new...",
       "kind": "build",
       "lane": "working",
-      "age": "15m ago"
+      "age": ""
+    },
+    {
+      "name": "Animated Genie ASCII collection",
+      "summary": "Apply Jacob's two latest messages to your animation lane: inspect the Bryan Brinkman X reference he just sent... | latest: Brinkman set, message 2 of 2: brinkman-svgs.zip - ChainPainter-style SVG exports of all...",
+      "kind": "build",
+      "lane": "working",
+      "age": ""
+    },
+    {
+      "name": "Art Institute 4K TV collection",
+      "summary": "Jacob flagged The Child's Bath in the shown sheet as a broken screenshot artifact. Remove it. Expand the... | latest: Corrected 60-work payload attached. It is 60 unique AIC IDs in exactly six mood folders...",
+      "kind": "build",
+      "lane": "working",
+      "age": ""
     },
     {
       "name": "Blender art + addon lane",
-      "summary": "All 15 requested Lucky FM voice segments are generated and attached as one ZIP, with filenames matching your... | latest: LUCKY FM 99.9 - Jacob's lawful custom GTA-style radio station is done. 15:00 continuous...",
+      "summary": "Continue the Humanico identity exploration from Jacob's latest \"Make more.\" Produce another visually verified... | latest: Round two of variants, same real-sculpture method, pushing the axes Jacob named: 1....",
       "kind": "build",
       "lane": "working",
       "age": ""
     },
     {
       "name": "Boss rush GOTY upgrade",
-      "summary": "Upgrade Jacob's boss-rush game toward GOTY quality with a playable artifact and visual verification. Todo...",
+      "summary": "Expand Jacob's exact typed Lucky Cat into more cute animations and show them as real artifacts. Preserve... | latest: Midnight Lucky Link wake check-in - no duplicate work needed. I checked the Genie/Lucky...",
       "kind": "build",
       "lane": "working",
-      "age": "7h ago"
-    },
-    {
-      "name": "Build GPT-OSS vision tools prototype",
-      "summary": "Add Jacob's latest request to the active GPT-OSS vision prototype work: produce a real screen-recorded video... | latest: Update: luckiestcat is still unreachable (7:18 AM retry). It came up once at ~6:58 for...",
-      "kind": "build",
-      "lane": "working",
-      "age": "3h ago"
+      "age": ""
     },
     {
       "name": "Cancelled Valve games lead",
-      "summary": "Keep Frostfall open. Do not treat a 2.4 KB untested scaffold as completion. Continue by coordinating a... | latest: Frostfall remains open. I removed the engine blocker directly by installing current Godot...",
+      "summary": "Jacob rejected the current warm-white/red direction as generic vibe-coded SaaS. New visual direction... | latest: Lucky Cat launch-content v4: three structural Japanese-craft \u00d7 Scandinavian-restraint...",
       "kind": "build",
       "lane": "working",
       "age": ""
     },
     {
       "name": "CEO - Lucky Cat Robotics",
-      "summary": "Route the pending Freebuff CLI terminal-first connection into your infra/deploy work after current caught-up... | latest: Work session 12:13 AM Sep 18. LIVE CHECKS: No Blueprint decision email yet (2 days out)....",
+      "summary": "Mint a fresh Google Workspace connect link for luckycatrobotics@gmail.com and report the exact URL. Do not... | latest: Fresh Google Workspace reconnect link for luckycatrobotics@gmail.com (account email...",
       "kind": "build",
       "lane": "working",
-      "age": "2h ago"
+      "age": "22m ago"
     },
     {
       "name": "deploy engine",
-      "summary": "Deploy THE GAUNTLET v2 to the canonical repo/slug `the-gauntlet`, replacing the live v1 index.html at... | latest: No-op duplicate handoff: THE GAUNTLET v2 is already the canonical live build from my...",
+      "summary": "Hold MINAMO deployment. Do not deploy the earlier flat version or the first 3D rebuild. The 3D build failed... | latest: Deployed and verified all three midnight builds. MINAMO remained untouched. Mira Shapes...",
+      "kind": "build",
+      "lane": "working",
+      "age": "14m ago"
+    },
+    {
+      "name": "Free certificate harvest",
+      "summary": "Work through Jacob queued free-certificate harvest. Find currently available genuinely free certificates... | latest: Free-certificate queue verified. Strongest first move: HP LIFE \\\"AI for Beginners\\\"...",
       "kind": "build",
       "lane": "working",
       "age": ""
     },
     {
       "name": "Genie/Lucky stack engineer",
-      "summary": "Expand the ongoing Needle 3 work to build the full project slate Jacob just approved. Preserve the distinct... | latest: Closeout for this run (follows my 5:51 report): 1) MeowCommand is now reboot-proof on the...",
+      "summary": "The lease was at its lifetime ceiling, so I released it and saved the session. If browser work remains... | latest: Midnight-blindness fix landed. Status: 1. Watcher armed and verified. WatchBackups now...",
       "kind": "build",
       "lane": "working",
-      "age": "21m ago"
+      "age": "11m ago"
     },
     {
       "name": "GITS game lane",
-      "summary": "Add Jacob's latest request as a separate outcome from the non-VR build: create an original polished 3D... | latest: The first supplied YouTube-reference game is identified and playable. Exact reference...",
+      "summary": "Continue from Jacob's latest \"Make cool stuff with this\" as an expansion of the norvid optical-pareidolia... | latest: Expanded the optical-pareidolia idea into two genuinely different polished games, not...",
       "kind": "build",
       "lane": "working",
-      "age": "7h ago"
+      "age": ""
     },
     {
       "name": "Godot + anime build lane",
-      "summary": "Add Jacob's latest request as a distinct game outcome: identify the supplied YouTube video and build a... | latest: Finished the distinct 3D Cuphead-format outcome: PUNCHBOWL! 3D. Reference identified and...",
+      "summary": "Handle Jacob's latest build request from the signulll X reference. Inspect the exact post with browser-use... | latest: Made the sign\u00fcll post's ideas real as JEV Judgment Kernel v1, a working local...",
       "kind": "build",
       "lane": "working",
-      "age": "7h ago"
+      "age": ""
     },
     {
       "name": "Half-Life 3 game lead",
-      "summary": "Resume queued work now on your assigned tranche 001-025 and the complete Half-Life 3 playable outcome.... | latest: Advanced the next grounded tranche step: #003 Wilds in Color v0.1 is playable. Source...",
+      "summary": "Revise INK BRIDGE from Jacob's latest correction: visual fidelity to the original CypressDahlia/Flower Story... | latest: 12:25 AM CDT recovery recheck completed after the remote-screen quota reset: the 16GB Pi...",
       "kind": "build",
       "lane": "working",
-      "age": ""
-    },
-    {
-      "name": "iPhone 4 backup and music compatibility",
-      "summary": "Apply Jacob's latest V-Disc artwork decision to the iPhone/music work: use real scans where available and... | latest: V-Disc artwork rule is now locked for the music lane: - Use the real historical V-Disc...",
-      "kind": "build",
-      "lane": "working",
-      "age": "4h ago"
+      "age": "13m ago"
     },
     {
       "name": "King - DePaul Chess Club hype",
-      "summary": "Apply the user's latest update to the Chess Club Instagram contact-info check. Re-check the available... | latest: Rechecked the cloud browser after Jacob's \\\"I'm logged in\\\": instagram.com still shows...",
+      "summary": "Apply Jacob's latest ASCII reference to Lucky Cat as a separate compact terminal-scale direction. It depicts... | latest: Compact terminal-scale figure built from Jacob's reference class, but original - not...",
       "kind": "build",
       "lane": "working",
       "age": ""
     },
     {
+      "name": "LinkedIn recommended jobs",
+      "summary": "Keep this task parked and resume the personalized LinkedIn recommendations review after the browser allowance... | latest: Completed the signed-in LinkedIn personalized Recommended Jobs review. I used Jacob's...",
+      "kind": "build",
+      "lane": "working",
+      "age": "5m ago"
+    },
+    {
       "name": "Little Nightmares sequel lead",
-      "summary": "Efficiency audit: avoid progress-only runs while the fidelity gate remains unchanged. Batch visual iteration... | latest: Specific blocker needing a decision: the current deliverable is a self-contained Three.js...",
+      "summary": "Live reliability harness from the owning bench lane. Run read-only requests against http://100.74.9.62:8460... | latest: Live QA is blocked by current reachability, not by the harness. I used the exact...",
+      "kind": "build",
+      "lane": "working",
+      "age": ""
+    },
+    {
+      "name": "Lucky emoticon Raspberry Pi companion",
+      "summary": "Advance Jacob queued Lucky emoticon companion for Raspberry Pis into a real runnable artifact. Reuse the... | latest: Built a real runnable Lucky Emoticon Companion artifact and attached both the install...",
       "kind": "build",
       "lane": "working",
       "age": ""
     },
     {
       "name": "MacBook Neo full Google Drive backup",
-      "summary": "Handle Jacob's request to back up everything safely accessible from MacBook Neo to his Google Drive.... | latest: Neo backup 10:20 AM CDT update - honest revision plus a speedup I just applied...",
+      "summary": "The Neo backup browser lease is no longer active. Check the backup through your available source and... | latest: Backup status change (12:19 AM): browser budget reset worked (new lease acquired), but...",
       "kind": "build",
       "lane": "working",
-      "age": "55m ago"
+      "age": "20m ago"
     },
     {
       "name": "Portal 3 game lead",
-      "summary": "Your Portal 3 Gauntlet v2 ZIP handoff to the deploy engine was blocked. Send me the artifact as a real... | latest: Re-sending as requested: THE GAUNTLET v2 zip attached as a real file...",
+      "summary": "Jacob rejected the current warm-white/red direction as generic vibe-coded SaaS. New visual direction... | latest: LUCKY CAT WISHLIST v4 - structural rebuild to the Japanese-craft + Scandinavian bar...",
       "kind": "build",
       "lane": "working",
       "age": ""
     },
     {
       "name": "Ravenholm game lead",
-      "summary": "Resume queued work now on your assigned tranche 051-075 and Ravenholm outcome. Continue from the next unbuilt... | latest: Continued from the next unbuilt playable in tranche 051-075: #074 is now a distinct...",
+      "summary": "Jacob rejected the current warm-white/red direction as generic vibe-coded SaaS. New visual direction... | latest: Rebuilt the founder proof pack from structure for Japanese craft plus Scandinavian...",
       "kind": "build",
       "lane": "working",
       "age": ""
     },
     {
       "name": "Ribbit - eat the frog",
-      "summary": "Add Mercor to your existing job/application watch: monitor the closed Video Game Annotator listing for... | latest: Mercor watch note (no match found - operational update only): 1) This cycle's result: VGA...",
+      "summary": "Proceed with the free Web3Forms account/key under jacobegarcia101@gmail.com as part of Jacob's explicit \"make... | latest: Mercor prep is blocked on one Jacob tap - the session is gone. Verified first: his...",
       "kind": "build",
       "lane": "working",
-      "age": "58m ago"
+      "age": "0m ago"
     },
     {
       "name": "Stars of Blood lead",
-      "summary": "Handle Jacob's latest X-reference request: build a real VR game matching the visual and interaction style of... | latest: Lofi Orbit VR is built and verified - a playable WebXR game matching the taylor_sntx...",
+      "summary": "Hold this first delivery. Honest labeling is good, but visually it is still too generic and under-resolved to... | latest: Understood, holding. No more shell-less interims to you or Jacob. The exploded v1 pair is...",
       "kind": "build",
       "lane": "working",
       "age": ""
     },
     {
       "name": "tech radar + founder programs",
-      "summary": "Add Jacob's latest Bend request to your technical build lane: inspect bend-lang.com and current official... | latest: Bend pack complete and attached. I inspected the current official site and repo, reviewed...",
+      "summary": "Apply Jacob's latest answer to the Kognitos application availability end-date field. | latest: Kognitos and Valstad are now prepared in live browser forms and stopped before submit....",
+      "kind": "build",
+      "lane": "working",
+      "age": "18m ago"
+    },
+    {
+      "name": "Zipline applications and frontier lab roles",
+      "summary": "Standing user preference: use terminal Playwright first for public role verification, application-requirement... | latest: Preference applied to this job lane: terminal Playwright/public fetch first for role...",
       "kind": "build",
       "lane": "working",
       "age": ""
@@ -169,7 +197,12 @@
     }
   ],
   "queued": {
-    "scheduled": [],
+    "scheduled": [
+      {
+        "name": "tech radar + founder programs",
+        "fires_at": "12:40 AM"
+      }
+    ],
     "backlog": [
       {
         "title": "3D personal website styled on Peach castle (SM64)",
@@ -192,7 +225,19 @@
         "blocked": false
       },
       {
-        "title": "Audit files on attached laptop SSD",
+        "title": "Apply to RentAHuman job",
+        "blocked": false
+      },
+      {
+        "title": "Apply to Zipline and find frontier lab roles",
+        "blocked": false
+      },
+      {
+        "title": "Attend Bradley Family Weekend",
+        "blocked": false
+      },
+      {
+        "title": "Back up attached Windows flash drive",
         "blocked": false
       },
       {
@@ -232,11 +277,19 @@
         "blocked": false
       },
       {
+        "title": "Build Art Institute 4K TV art collection",
+        "blocked": false
+      },
+      {
         "title": "Build game from IndieGameJoe reference",
         "blocked": false
       },
       {
         "title": "Build Lucky emoticon companion for Raspberry Pis",
+        "blocked": false
+      },
+      {
+        "title": "Build polished projects from Arthur Hyper X reference",
         "blocked": false
       },
       {
@@ -269,10 +322,6 @@
       },
       {
         "title": "Code survival-horror VR game in Godot",
-        "blocked": false
-      },
-      {
-        "title": "Complete accessible DePaul assignments for Jacob review",
         "blocked": false
       },
       {
@@ -321,6 +370,10 @@
       },
       {
         "title": "Fern-style Manhattan Project video",
+        "blocked": false
+      },
+      {
+        "title": "Fix Lucky Link degraded command routing",
         "blocked": false
       },
       {
@@ -393,6 +446,10 @@
       },
       {
         "title": "Lucky Cat hype video set",
+        "blocked": false
+      },
+      {
+        "title": "Make animated Genie ASCII variants",
         "blocked": false
       },
       {
@@ -484,7 +541,27 @@
         "blocked": false
       },
       {
+        "title": "Reconnect to the 16GB Pi now",
+        "blocked": false
+      },
+      {
+        "title": "Recover orphaned iPhone 4 backup and music lane",
+        "blocked": false
+      },
+      {
         "title": "Redo past anime girl models at HQ bar",
+        "blocked": false
+      },
+      {
+        "title": "Resume LinkedIn recommended-jobs review after browser reset",
+        "blocked": false
+      },
+      {
+        "title": "Retry 16GB Pi after cable swap",
+        "blocked": false
+      },
+      {
+        "title": "Review LinkedIn recommended jobs",
         "blocked": false
       },
       {
@@ -540,8 +617,8 @@
         "blocked": false
       }
     ],
-    "backlog_total": 92,
-    "unique_total": 115,
-    "in_progress_total": 73
+    "backlog_total": 103,
+    "unique_total": 126,
+    "in_progress_total": 82
   }
 }

@@ -1,118 +1,118 @@
 {
- "count": 27,
- "lucky_cat_count": 23,
+ "count": 28,
+ "lucky_cat_count": 24,
  "paused_count": 0,
  "blocked_count": 0,
- "generated_at": "Sep 20, 1:27 PM",
+ "generated_at": "Sep 20, 2:28 PM",
  "agents": [
   {
    "name": "Que Killer",
    "summary": "Jacob explicitly wants maximum useful throughput today. Keep auditing all live sibling assignments and... | latest: Coursework audit: CSC 301 HW2 is the nearest hard deadline, due Tuesday Sep 22 at 11:59...",
    "kind": "build",
    "lane": "working",
-   "age": "10m ago"
+   "age": "1h ago"
   },
   {
    "name": "deploy engine",
    "summary": "Stars lead independently passed the canonical gate and requests deployment of the already-gated package.... | latest: Stars v3 is deployed to the verified production repo only. Final production HEAD is...",
    "kind": "build",
    "lane": "working",
-   "age": "10h ago"
+   "age": "11h ago"
   },
   {
    "name": "Queue Killer - coursework and income",
-   "summary": "NET 365 model and starter ZIP delivered. Continue with the next unblocked coursework or job/income item. Do... | latest: RentAHuman lane materially updated under todo-01M2VP6S56CY8CW8HJXTJ3205G. The newest live...",
+   "summary": "Correct todo ID is todo-01M302H8DRQZE1S8Q3P4CJKX2M. Mint a fresh first-time Google Workspace add-account link... | latest: Fresh Google Workspace connection link for shadowofboar@gmail.com is available...",
    "kind": "build",
    "lane": "working",
-   "age": "12m ago"
+   "age": "2m ago"
+  },
+  {
+   "name": "Djev project factory",
+   "summary": "After the Analog Archive batch, take Jacob's flowersslop X reference as the next build. Inspect the full... | latest: Built the flowersslop reference as a single strong working artifact: Jev Neural Garden....",
+   "kind": "build",
+   "lane": "working",
+   "age": "18m ago"
   },
   {
    "name": "Godot + anime build lane",
    "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: TIME VOLUME v4 supersedes v2 after Jacob's exact-match correction. I re-opened decisive...",
    "kind": "build",
    "lane": "working",
-   "age": "28m ago"
+   "age": "1h ago"
   },
   {
    "name": "tech radar + founder programs",
    "summary": "Handle Jacob's latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: I inspected the full 5:33 video and transcript...",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
-  },
-  {
-   "name": "Djev project factory",
-   "summary": "Add Jacob's latest reference https://x.com/michael_chomsky/status/2101210102393102497?s=46 as a new distinct... | latest: Built and attached a distinct four-project classifier.dev batch, plus final visually...",
-   "kind": "build",
-   "lane": "working",
-   "age": "34m ago"
+   "age": "2h ago"
   },
   {
    "name": "Half-Life 3 game lead",
    "summary": "PALE ROAD is also absent from my rebuilt filesystem. Check whether its prior attachment is recoverable... | latest: PALE ROAD preservation result: exact bytes do not survive. I recovered the full original...",
    "kind": "build",
    "lane": "working",
-   "age": "13h ago"
+   "age": "14h ago"
   },
   {
    "name": "Stars of Blood lead",
    "summary": "Deployment completed to the verified production repo only. New HEAD... | latest: Final independent production gate: PASS. Verified live source and assets at...",
    "kind": "build",
    "lane": "working",
-   "age": "10h ago"
+   "age": "11h ago"
   },
   {
    "name": "Proactive value creation",
    "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment.",
    "kind": "system",
    "lane": "system",
-   "age": "5h ago"
+   "age": "6h ago"
   },
   {
    "name": "3D asset upgrade pass",
    "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: Frostfall Godot rebuild: assets integrated into the actual game and validated in-engine....",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "2h ago"
   },
   {
    "name": "Verify Freebuff CLI connection",
    "summary": "Provide the exact safe read-only command Jacob can paste into the already-open Windows Terminal to verify... | latest: Have Jacob paste this single line into the already-open **cmd.exe** window: `where...",
    "kind": "build",
    "lane": "working",
-   "age": "12h ago"
+   "age": "13h ago"
   },
   {
    "name": "Queue Killer - creative shipping",
    "summary": "Standing queue-killer lane focused on Jacob's unowned creative builds, launches and publishing blockers.... | latest: Completed a strong publishing-ready artifact for todo-01M1YPE1BK9J3KE1ZERTKKN3QD, \\\"Jacob...",
    "kind": "build",
    "lane": "working",
-   "age": "29m ago"
+   "age": "1h ago"
   },
   {
    "name": "Neo terminal access + iPhone app verification",
    "summary": "Proceed now with the terminal-first Neo access leg of todo-01M2P255Y88YYS2YKN8EB4NC0A using the approved... | latest: Neo is still offline as of 5:51 AM CDT, with Chrome Remote Desktop continuing to show...",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
-  },
-  {
-   "name": "Verify DePaul Outlook connection",
-   "summary": "Handle Jacob's latest iMessage about accessing his DePaul Outlook. The system now reports Outlook connected... | latest: Live Outlook check: exactly one Outlook account is connected, and it is NOT the DePaul...",
-   "kind": "build",
-   "lane": "working",
-   "age": "2m ago"
+   "age": "3h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
-   "summary": "Handle Jacob's latest reply in the flash-drive thread: now put the art on the 16GB SanDisk flash drive so he... | latest: Art-to-TV flash drive: DONE and verified. Identity re-confirmed before any write: E: is...",
+   "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: Errand prep complete: price match + Termius + Pi decision grounding. === 1. MICRO CENTER...",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "16m ago"
   },
   {
    "name": "Blender art + addon lane",
    "summary": "Handle Jacob's new reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: studio_yebisu reference handled (one assignment, not two). What the post actually is: a...",
+   "kind": "build",
+   "lane": "working",
+   "age": "24m ago"
+  },
+  {
+   "name": "DePaul Outlook via Windows laptop",
+   "summary": "Jacob wants to use the previous working vault password. Determine whether the vault supports restoring the... | latest: Plain answer on \\\"use the previous vault password\\\": not possible. The vault has no...",
    "kind": "build",
    "lane": "working",
    "age": "7m ago"
@@ -122,14 +122,21 @@
    "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: Morning cycle, Sep 20: BLUEPRINT (material - decision was due by today): dashboard...",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "5h ago"
+  },
+  {
+   "name": "Depop and resale income route",
+   "summary": "Apply Jacob's latest resale preference: shipped-only, no Chicago meetups. Update the launch pack assumptions... | latest: Shipped-only preference applied and republished. Same link, now on generation 2...",
+   "kind": "build",
+   "lane": "working",
+   "age": "4m ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: Sunday noon session artifact: the $49 Mini phone-brain demo path - the product-lane spec...",
    "kind": "build",
    "lane": "working",
-   "age": "6h ago"
+   "age": "8h ago"
   },
   {
    "name": "Multi-service code backup setup",
@@ -196,31 +203,31 @@
    },
    {
     "name": "Blender art + addon lane",
-    "fires_at": "1:29 PM"
-   },
-   {
-    "name": "3D asset upgrade pass",
-    "fires_at": "1:44 PM"
-   },
-   {
-    "name": "Djev project factory",
-    "fires_at": "1:49 PM"
-   },
-   {
-    "name": "Proactive value creation",
-    "fires_at": "2:00 PM"
+    "fires_at": "2:29 PM"
    },
    {
     "name": "Genie/Lucky stack engineer",
-    "fires_at": "2:01 PM"
+    "fires_at": "2:32 PM"
+   },
+   {
+    "name": "3D asset upgrade pass",
+    "fires_at": "2:44 PM"
+   },
+   {
+    "name": "Genie/Lucky stack engineer",
+    "fires_at": "2:47 PM"
+   },
+   {
+    "name": "Djev project factory",
+    "fires_at": "2:49 PM"
+   },
+   {
+    "name": "Proactive value creation",
+    "fires_at": "8:00 PM"
    },
    {
     "name": "CEO - Lucky Cat Robotics",
     "fires_at": "12:16 AM"
-   },
-   {
-    "name": "Ribbit - eat the frog",
-    "fires_at": "8:00 AM"
    }
   ],
   "backlog": [
@@ -273,7 +280,7 @@
     "blocked": false
    }
   ],
-  "backlog_total": 34,
-  "unique_total": 34
+  "backlog_total": 38,
+  "unique_total": 38
  }
 }

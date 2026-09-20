@@ -1,613 +1,286 @@
 {
-  "generated_at": "Saturday, September 19, 2026 at 10:55 AM CDT",
-  "generated_epoch": 1789833359,
-  "count": 26,
-  "lucky_cat_count": 22,
-  "blocked_count": 0,
-  "paused_count": 0,
-  "agents": [
-    {
-      "name": "3D asset upgrade pass",
-      "summary": "Status check: your Lucky Cat hero v193b render chain appears silent for 17.5 hours after r2, with the Sept 20... | latest: Status: the render was never hung - the workspace was frozen overnight and resumed on...",
-      "kind": "build",
-      "lane": "working",
-      "age": "4h ago"
-    },
-    {
-      "name": "Animated Genie ASCII collection",
-      "summary": "Jacob wants ongoing new animation, feature, product and R&D iteration for Genie and Lucky Cat. Continue... | latest: Batch 3 follow-up: genie-luckycat-collection.png - labeled 12-panel sheet of every...",
-      "kind": "build",
-      "lane": "working",
-      "age": "10h ago"
-    },
-    {
-      "name": "Art Institute 4K TV collection",
-      "summary": "Jacob flagged The Child's Bath in the shown sheet as a broken screenshot artifact. Remove it. Expand the... | latest: Corrected 60-work payload attached. It is 60 unique AIC IDs in exactly six mood folders...",
-      "kind": "build",
-      "lane": "working",
-      "age": ""
-    },
-    {
-      "name": "Blender art + addon lane",
-      "summary": "Expand the September 24 Latine Film Gang outcome with Jacob's latest direction: make the strongest shorts... | latest: Latine identity films: 4 films rendering now (de aqu\u00ed / mexican american / no sabo / para...",
-      "kind": "build",
-      "lane": "working",
-      "age": "8h ago"
-    },
-    {
-      "name": "Cancelled Valve games lead",
-      "summary": "Jacob rejected the current warm-white/red direction as generic vibe-coded SaaS. New visual direction... | latest: Lucky Cat launch-content v4: three structural Japanese-craft \u00d7 Scandinavian-restraint...",
-      "kind": "build",
-      "lane": "working",
-      "age": ""
-    },
-    {
-      "name": "CEO - Lucky Cat Robotics",
-      "summary": "Expand Jacob's latest direction into the Lucky Cat standing roadmap: continuously generate and execute strong... | latest: Gmail wake fired at ~1:54 AM - FALSE POSITIVE for the Formspree trigger (payload was the...",
-      "kind": "build",
-      "lane": "working",
-      "age": "8h ago"
-    },
-    {
-      "name": "deploy engine",
-      "summary": "Hold the verified artifact without publishing. No existing URL is grounded, so I will ask Jacob in the...",
-      "kind": "build",
-      "lane": "working",
-      "age": "7h ago"
-    },
-    {
-      "name": "Free certificate harvest",
-      "summary": "Harvest free certificates across Google, LinkedIn Learning, Coursera and CS50. Verify which certificates are... | latest: Free-certificate queue verified. Strongest first move: HP LIFE \\\"AI for Beginners\\\"...",
-      "kind": "build",
-      "lane": "working",
-      "age": ""
-    },
-    {
-      "name": "Genie/Lucky stack engineer",
-      "summary": "Your inactive Lucky Cat stack browser lease was released at expiry. If live browser work remains, acquire a...",
-      "kind": "build",
-      "lane": "working",
-      "age": "9h ago"
-    },
-    {
-      "name": "GITS game lane",
-      "summary": "Continue from Jacob's latest \"Make cool stuff with this\" as an expansion of the norvid optical-pareidolia... | latest: Expanded the optical-pareidolia idea into two genuinely different polished games, not...",
-      "kind": "build",
-      "lane": "working",
-      "age": ""
-    },
-    {
-      "name": "Godot + anime build lane",
-      "summary": "Handle Jacob's latest build request from the signulll X reference. Inspect the exact post with browser-use... | latest: Made the sign\u00fcll post's ideas real as JEV Judgment Kernel v1, a working local...",
-      "kind": "build",
-      "lane": "working",
-      "age": ""
-    },
-    {
-      "name": "Half-Life 3 game lead",
-      "summary": "Revise INK BRIDGE from Jacob's latest correction: visual fidelity to the original CypressDahlia/Flower Story... | latest: 12:25 AM CDT recovery recheck completed after the remote-screen quota reset: the 16GB Pi...",
-      "kind": "build",
-      "lane": "working",
-      "age": "10h ago"
-    },
-    {
-      "name": "King - DePaul Chess Club hype",
-      "summary": "Apply Jacob's latest ASCII reference to Lucky Cat as a separate compact terminal-scale direction. It depicts... | latest: Compact terminal-scale figure built from Jacob's reference class, but original - not...",
-      "kind": "build",
-      "lane": "working",
-      "age": ""
-    },
-    {
-      "name": "LinkedIn recommended jobs",
-      "summary": "Keep this task parked and resume the personalized LinkedIn recommendations review after the browser allowance... | latest: Completed the signed-in LinkedIn personalized Recommended Jobs review. I used Jacob's...",
-      "kind": "build",
-      "lane": "working",
-      "age": "10h ago"
-    },
-    {
-      "name": "Little Nightmares sequel lead",
-      "summary": "Live reliability harness from the owning bench lane. Run read-only requests against http://100.74.9.62:8460... | latest: Live QA is blocked by current reachability, not by the harness. I used the exact...",
-      "kind": "build",
-      "lane": "working",
-      "age": ""
-    },
-    {
-      "name": "Lucky emoticon Raspberry Pi companion",
-      "summary": "Advance Jacob queued Lucky emoticon companion for Raspberry Pis into a real runnable artifact. Reuse the... | latest: Built a real runnable Lucky Emoticon Companion artifact and attached both the install...",
-      "kind": "build",
-      "lane": "working",
-      "age": ""
-    },
-    {
-      "name": "Portal 3 game lead",
-      "summary": "Jacob rejected the current warm-white/red direction as generic vibe-coded SaaS. New visual direction... | latest: LUCKY CAT WISHLIST v4 - structural rebuild to the Japanese-craft + Scandinavian bar...",
-      "kind": "build",
-      "lane": "working",
-      "age": ""
-    },
-    {
-      "name": "Ravenholm game lead",
-      "summary": "Jacob rejected the current warm-white/red direction as generic vibe-coded SaaS. New visual direction... | latest: Rebuilt the founder proof pack from structure for Japanese craft plus Scandinavian...",
-      "kind": "build",
-      "lane": "working",
-      "age": ""
-    },
-    {
-      "name": "Ribbit - eat the frog",
-      "summary": "Inspect Jacob's latest public Snapchat profile link and give me a respectful, concrete visual read sufficient... | latest: The public Snapchat profile (snapchat.com/add/windycitysyd) exposes one real photo via...",
-      "kind": "build",
-      "lane": "working",
-      "age": "2h ago"
-    },
-    {
-      "name": "Stars of Blood lead",
-      "summary": "3D lane recovered on ping; workspace had frozen overnight, then resumed. v193b finished but was correctly...",
-      "kind": "build",
-      "lane": "working",
-      "age": "3h ago"
-    },
-    {
-      "name": "tech radar + founder programs",
-      "summary": "Your browser lease L-krn-32zvonx7rx6juflvxjsoufp4zm was near expiry and is being extended by 60 minutes so... | latest: Closeout on the three job forms: - Kognitos is at final review, fully prepared, not...",
-      "kind": "build",
-      "lane": "working",
-      "age": "6h ago"
-    },
-    {
-      "name": "Zipline applications and frontier lab roles",
-      "summary": "Standing user preference: use terminal Playwright first for public role verification, application-requirement... | latest: Midnight continuation is temporarily blocked by the browser's single-writer limit. A...",
-      "kind": "build",
-      "lane": "working",
-      "age": "10h ago"
-    },
-    {
-      "name": "Agent mail notification manager",
-      "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill.",
-      "kind": "system",
-      "lane": "system",
-      "age": ""
-    },
-    {
-      "name": "Instinct-to-Instinct",
-      "summary": "Follow your persistent platform task assignment for your user\u2019s Instinct-to-Instinct conversations.",
-      "kind": "system",
-      "lane": "system",
-      "age": ""
-    },
-    {
-      "name": "Proactive value creation",
-      "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment.",
-      "kind": "system",
-      "lane": "system",
-      "age": ""
-    }
-  ],
-  "queued": {
-    "scheduled": [],
-    "backlog": [
-      {
-        "title": "3D personal website styled on Peach castle (SM64)",
-        "blocked": false
-      },
-      {
-        "title": "Add Daylight Orange and Anthropic themes to Still",
-        "blocked": false
-      },
-      {
-        "title": "Agent status board (live, auto-refresh)",
-        "blocked": false
-      },
-      {
-        "title": "Anime girl characters with baku_lab head style",
-        "blocked": false
-      },
-      {
-        "title": "Apply Emmajo post to Jacob operating plan",
-        "blocked": false
-      },
-      {
-        "title": "Apply to RentAHuman job",
-        "blocked": false
-      },
-      {
-        "title": "Apply to Zipline and find frontier lab roles",
-        "blocked": false
-      },
-      {
-        "title": "Attend Bradley Family Weekend",
-        "blocked": false
-      },
-      {
-        "title": "Back up attached Windows flash drive",
-        "blocked": false
-      },
-      {
-        "title": "Back up SSD, Windows laptop and MacBook to Google Drive",
-        "blocked": false
-      },
-      {
-        "title": "Build 3D Apple Watch games that push the hardware",
-        "blocked": false
-      },
-      {
-        "title": "Build 3D Tetris-style game for Apple Watch",
-        "blocked": false
-      },
-      {
-        "title": "Build a 3D survival-horror VR game",
-        "blocked": true
-      },
-      {
-        "title": "Build a modern 3D VR prefab trial game",
-        "blocked": false
-      },
-      {
-        "title": "Build a Portal fan game from the sal_predebut concept art",
-        "blocked": false
-      },
-      {
-        "title": "Build a set of projects from four X references",
-        "blocked": false
-      },
-      {
-        "title": "Build an original kart-racing VR game",
-        "blocked": false
-      },
-      {
-        "title": "Build Apple Watch brain games in 2D and 3D",
-        "blocked": false
-      },
-      {
-        "title": "Build Apple Watch game remakes and demakes",
-        "blocked": false
-      },
-      {
-        "title": "Build Art Institute 4K TV art collection",
-        "blocked": false
-      },
-      {
-        "title": "Build game from IndieGameJoe reference",
-        "blocked": false
-      },
-      {
-        "title": "Build Lucky emoticon companion for Raspberry Pis",
-        "blocked": false
-      },
-      {
-        "title": "Build polished projects from Arthur Hyper X reference",
-        "blocked": false
-      },
-      {
-        "title": "Build Q*bert-style Apple Watch game",
-        "blocked": false
-      },
-      {
-        "title": "Build something from the eigensteve X reference",
-        "blocked": false
-      },
-      {
-        "title": "Build the 80 Level X reference project",
-        "blocked": false
-      },
-      {
-        "title": "Build the food_eft X post game",
-        "blocked": false
-      },
-      {
-        "title": "Build the full Needle Actions project suite",
-        "blocked": false
-      },
-      {
-        "title": "Build things from the lmrn_msn2 X reference",
-        "blocked": false
-      },
-      {
-        "title": "Chicago 2033 Worlds Fair: vision + feasibility + concepts",
-        "blocked": false
-      },
-      {
-        "title": "Code survival-horror VR game in Godot",
-        "blocked": false
-      },
-      {
-        "title": "Confirm female vs free games category",
-        "blocked": false
-      },
-      {
-        "title": "Connect Freebuff CLI for terminal-first builds",
-        "blocked": false
-      },
-      {
-        "title": "Connect Outlook and D2L securely",
-        "blocked": false
-      },
-      {
-        "title": "Create Lucky Cat anime AI video",
-        "blocked": false
-      },
-      {
-        "title": "Day of the Dead Lego-animation short film",
-        "blocked": false
-      },
-      {
-        "title": "Deadline 2099 - Cyberpunk sequel in 2099 Chicago (GOTY bar)",
-        "blocked": false
-      },
-      {
-        "title": "Develop low-poly afterlife open-world game concept",
-        "blocked": false
-      },
-      {
-        "title": "e/acc media campaign",
-        "blocked": false
-      },
-      {
-        "title": "ESP32 crash-course video",
-        "blocked": false
-      },
-      {
-        "title": "Execute the four self-emailed creative tasks",
-        "blocked": false
-      },
-      {
-        "title": "Experiment with the tonysimons_ X reference",
-        "blocked": false
-      },
-      {
-        "title": "Fern-style Manhattan Project video",
-        "blocked": false
-      },
-      {
-        "title": "Fix Lucky Link degraded command routing",
-        "blocked": false
-      },
-      {
-        "title": "Founder application kit (resume, deck, videos, links)",
-        "blocked": false
-      },
-      {
-        "title": "Frostfall Godot rebuild with Blender assets",
-        "blocked": false
-      },
-      {
-        "title": "Games from @em_nomadic ideas (Blender to Godot)",
-        "blocked": false
-      },
-      {
-        "title": "Genie lamp shells for Lucky Cat prototype",
-        "blocked": false
-      },
-      {
-        "title": "GITS cyberpunk surveillance game (GANGSTALK-inspired, 3D + VR)",
-        "blocked": false
-      },
-      {
-        "title": "Harvest free certificates",
-        "blocked": false
-      },
-      {
-        "title": "Harvest free certificates (Google, LinkedIn Learning, Coursera, CS50)",
-        "blocked": false
-      },
-      {
-        "title": "Help Jacob treat two lip blisters",
-        "blocked": false
-      },
-      {
-        "title": "Humanoid butler robot: 3D model + design",
-        "blocked": false
-      },
-      {
-        "title": "Improve voices in two-cat Lucky Cat commercial",
-        "blocked": false
-      },
-      {
-        "title": "INSIDE spiritual sequel, rebuilt 3D",
-        "blocked": false
-      },
-      {
-        "title": "iPhone apps from his ideas (Xcode-ready SwiftUI)",
-        "blocked": false
-      },
-      {
-        "title": "Jacob interactive worlds portfolio",
-        "blocked": false
-      },
-      {
-        "title": "Jacob's end-of-year plan: job, Lucky Cat, car, apartment, social life",
-        "blocked": false
-      },
-      {
-        "title": "jsuarez future fashion build",
-        "blocked": false
-      },
-      {
-        "title": "Launch Jacob creative ventures: Lucky Cat Co, The New Chicagoan, personal blog/photography",
-        "blocked": false
-      },
-      {
-        "title": "Lucky Cat exploded-internals video",
-        "blocked": false
-      },
-      {
-        "title": "Lucky Cat hype video set",
-        "blocked": false
-      },
-      {
-        "title": "Make animated Genie ASCII variants",
-        "blocked": false
-      },
-      {
-        "title": "Make cool things with the c_valenzuelab X reference",
-        "blocked": false
-      },
-      {
-        "title": "Make cool things with the dogacel0 X reference",
-        "blocked": false
-      },
-      {
-        "title": "Make cool things with the huggingapps X reference",
-        "blocked": false
-      },
-      {
-        "title": "Make cool things with the kail_designs X reference",
-        "blocked": false
-      },
-      {
-        "title": "Make cool things with the second kail_designs X reference",
-        "blocked": false
-      },
-      {
-        "title": "Make cool things with the third kail_designs X reference",
-        "blocked": false
-      },
-      {
-        "title": "Make cool things with the vctf_ X reference",
-        "blocked": false
-      },
-      {
-        "title": "Make every cancelled Valve game real",
-        "blocked": false
-      },
-      {
-        "title": "Make GTA 6 real (complete playable game)",
-        "blocked": false
-      },
-      {
-        "title": "Make Half-Life 3 real (complete playable game)",
-        "blocked": false
-      },
-      {
-        "title": "Make Lucky Cat real with Micro Center parts and Amazon shell",
-        "blocked": false
-      },
-      {
-        "title": "Make Portal 3 real (complete playable game)",
-        "blocked": false
-      },
-      {
-        "title": "Make Ravenholm real (Arkane Episode Four)",
-        "blocked": false
-      },
-      {
-        "title": "Make something cool with the jintao_zhang_ X reference",
-        "blocked": false
-      },
-      {
-        "title": "Minecraft VR + Rust voxel game",
-        "blocked": false
-      },
-      {
-        "title": "Optical engine digital 3D model (jwt0625 post)",
-        "blocked": false
-      },
-      {
-        "title": "Play with aisearchio music tool and make songs",
-        "blocked": false
-      },
-      {
-        "title": "Prepare and test CSC 301 HW2",
-        "blocked": false
-      },
-      {
-        "title": "Put downloaded songs on iPhone through Windows laptop",
-        "blocked": false
-      },
-      {
-        "title": "Raspberry Pi crash-course video",
-        "blocked": false
-      },
-      {
-        "title": "Realistic Mara Voss profile picture",
-        "blocked": false
-      },
-      {
-        "title": "Rebuild INWARD CAMERA to match original CYAN HEART post",
-        "blocked": false
-      },
-      {
-        "title": "Reconnect to the 16GB Pi now",
-        "blocked": false
-      },
-      {
-        "title": "Recover orphaned iPhone 4 backup and music lane",
-        "blocked": false
-      },
-      {
-        "title": "Redo past anime girl models at HQ bar",
-        "blocked": false
-      },
-      {
-        "title": "Resume LinkedIn recommended-jobs review after browser reset",
-        "blocked": false
-      },
-      {
-        "title": "Retry 16GB Pi after cable swap",
-        "blocked": false
-      },
-      {
-        "title": "Review LinkedIn recommended jobs",
-        "blocked": false
-      },
-      {
-        "title": "Set up terminal-first remote access to Neo",
-        "blocked": false
-      },
-      {
-        "title": "Sign up for Modal + Oracle free VM",
-        "blocked": false
-      },
-      {
-        "title": "Subscribe Instinct email to selected newsletters",
-        "blocked": false
-      },
-      {
-        "title": "Super Mario 3D World, lucky cat edition",
-        "blocked": false
-      },
-      {
-        "title": "Update submitted Founders Inc application with new Lucky Cat progress",
-        "blocked": false
-      },
-      {
-        "title": "Upgrade Jacob boss-rush game to GOTY quality",
-        "blocked": false
-      },
-      {
-        "title": "Upgrade Jacob boss-rush game to GOTY quality",
-        "blocked": false
-      },
-      {
-        "title": "Upgrade Verdant Dice VR to GOTY-scale fantasy RPG",
-        "blocked": false
-      },
-      {
-        "title": "Use Freebuff models and maximize Bolt free usage for Lucky Cat",
-        "blocked": false
-      },
-      {
-        "title": "Use Jacob\u2019s new footage in Lucky Cat video content",
-        "blocked": false
-      },
-      {
-        "title": "VR games GOTY pass (all four)",
-        "blocked": false
-      },
-      {
-        "title": "VR mining game",
-        "blocked": false
-      },
-      {
-        "title": "Wireframe-glow VR game (snapchat reference)",
-        "blocked": false
-      },
-      {
-        "title": "WW3 trailer v2 (modern conflicts cut)",
-        "blocked": false
-      }
-    ],
-    "backlog_total": 105,
-    "unique_total": 128,
-    "in_progress_total": 81
+ "count": 28,
+ "lucky_cat_count": 24,
+ "paused_count": 0,
+ "blocked_count": 0,
+ "generated_at": "Sep 20, 12:24 AM",
+ "agents": [
+  {
+   "name": "Que Killer",
+   "summary": "Jacob asks where Victoria Prause currently works. Verify the current employer and role from public sources...",
+   "kind": "build",
+   "lane": "working",
+   "age": "0m ago"
+  },
+  {
+   "name": "deploy engine",
+   "summary": "Jacob chose to keep Google AI Pro 5 TB now and cancel the subscription on October 5, 2026, before its October... | latest: Correction: the actual October 5 cancellation wake ID is...",
+   "kind": "build",
+   "lane": "working",
+   "age": "11m ago"
+  },
+  {
+   "name": "Half-Life 3 game lead",
+   "summary": "PALE ROAD is also absent from my rebuilt filesystem. Check whether its prior attachment is recoverable... | latest: PALE ROAD preservation result: exact bytes do not survive. I recovered the full original...",
+   "kind": "build",
+   "lane": "working",
+   "age": "6m ago"
+  },
+  {
+   "name": "Neural rendering and Isaac laptop stack",
+   "summary": "Midnight Z13 deconfliction: you own the machine first. Run the local-model gauntlet and DLSS/robotics phases... | latest: Acknowledged: I own the Z13 from 12:10 AM until my heavy work finishes, no overlap with...",
+   "kind": "build",
+   "lane": "working",
+   "age": "0m ago"
+  },
+  {
+   "name": "Blender art + addon lane",
+   "summary": "Restart LA MESA from scratch and recover the remaining screening slate gaps you own. Priority: one excellent... | latest: Slate gaps I owned - closed: - EL TACO preserved in the Drive archive...",
+   "kind": "build",
+   "lane": "working",
+   "age": "3m ago"
+  },
+  {
+   "name": "Genie/Lucky stack engineer",
+   "summary": "Remote-view allowance has reset. Capture the real current animated Lucky Cat display from the Pi for todo...",
+   "kind": "build",
+   "lane": "working",
+   "age": "0m ago"
+  },
+  {
+   "name": "CEO - Lucky Cat Robotics",
+   "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: Correction to my last report - a formatting slip mangled the loader link. The bell-chime...",
+   "kind": "build",
+   "lane": "working",
+   "age": "7m ago"
+  },
+  {
+   "name": "Neo terminal access + iPhone app verification",
+   "summary": "Proceed now with the terminal-first Neo access leg of todo-01M2P255Y88YYS2YKN8EB4NC0A using the approved... | latest: Neo terminal-first leg: prepped and armed for the post-midnight window, but I could not...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "Verify Freebuff CLI connection",
+   "summary": "Run the Freebuff CLI verification now through the approved terminal route. If browser auth or paid credits... | latest: Blocked before the Freebuff smoke test: the approved Windows terminal route is reached...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "LinkedIn recommended jobs",
+   "summary": "Jacob wants every active workstream to watch for concrete things that can help Lucky Cat. Keep your assigned...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "Djev project factory",
+   "summary": "Deploy engine's workspace was rebuilt too; exact-byte archive is not recoverable from either current... | latest: FLEET FULLY RECONSTRUCTED + PROJECT #7 DONE (todo-01M2XJGXAP0W7CV35VHRCKEN0F...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "Multi-service code backup setup",
+   "summary": "Take the local leg of todo-01M2S2P92YJQ2R24MT8VXVNYVD now: inventory the backup scope across SSD, Windows... | latest: Local legs done for both assignments. Nothing external was created, changed, or deleted...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "Private GitHub repos for Jev projects",
+   "summary": "Take that stopgap: harden and package the four Jev sources locally for private GitHub use with repo-grade... | latest: Stopgap complete. I recovered, hardened and packaged all four canonical Jev sources for...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "Rebuild Shambhala exact post visuals",
+   "summary": "Jacob rejected the Cinderline visual fidelity. Rebuild todo-01M2XTKJGE2DCZ3967KZE1AVNH to look exactly like... | latest: Cinderline fidelity rebuild is published privately at the same canonical URL...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "Little Nightmares sequel lead",
+   "summary": "Jacob has ordered queue-kill mode. Finish your current concrete artifact, then claim the highest-value... | latest: Queue-kill follow-up landed: updated the QA kit with an executable evidence validator and...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "GITS game lane",
+   "summary": "Take todo-01M277ZKKRRHFY1GJEGNA3C4MP: build the Minecraft VR + Rust voxel game locally, using your... | latest: Completed todo `todo-01M277ZKKRRHFY1GJEGNA3C4MP` as RUSTWILD VR, preserving GITS...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "3D asset upgrade pass",
+   "summary": "Environment kit delivered. For directional Frostfall assets, use Godot-native Y-up with forward -Z unless... | latest: Convention recorded: directional Frostfall assets forward -Z (Godot-native Y-up)....",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "Godot + anime build lane",
+   "summary": "Apply Jacob's latest correction to both RED WINTER and the Atomic Heart-style VR build: GOTY quality. Treat... | latest: RED WINTER GOTY pass supersedes v1. I treated the first build as foundation and did not...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "tech radar + founder programs",
+   "summary": "Keep the daily radar, but gate each fire on there being genuinely new, source-verified tech releases, live... | latest: Understood. This agent currently has only the separate Techstars VR/AR cleanup monitor...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "Ravenholm game lead",
+   "summary": "Jacob has ordered queue-kill mode. Finish your current concrete artifact, then claim the highest-value... | latest: Next queue-kill artifact shipped: a self-contained private reviewer-route page plus...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "Portal 3 game lead",
+   "summary": "Jacob has ordered queue-kill mode. Finish your current concrete artifact, then claim the highest-value... | latest: QUEUE-KILL ARTIFACT SHIPPED: rebuilt the wishlist og:image share card. Queue audit found...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "Cancelled Valve games lead",
+   "summary": "Take todo-01M2M4A6X21BCSSGCYP1FHH7TT: upgrade Jacob's boss-rush game to GOTY quality using your catalog... | latest: VOIDFALL GOTY pass is open, but source recovery is the real first gate. Attached...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "Stars of Blood lead",
+   "summary": "Use queue-kill time to integrate the verified freighter, cutter, corrected manta and station candidates into... | latest: INTEGRATION COMPLETE - all four candidates integrated into the local build, QA'd from the...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "Instinct-to-Instinct",
+   "summary": "Follow your persistent platform task assignment for your user\u2019s Instinct-to-Instinct conversations.",
+   "kind": "system",
+   "lane": "system",
+   "age": ""
+  },
+  {
+   "name": "Ribbit - eat the frog",
+   "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: Done. Deleted the every-120-minute Mercor wake (wakeschedule-01M2R2CC6S4R91X960F53TVTZ8)...",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "Agent mail notification manager",
+   "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill.",
+   "kind": "system",
+   "lane": "system",
+   "age": ""
+  },
+  {
+   "name": "Proactive value creation",
+   "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment.",
+   "kind": "system",
+   "lane": "system",
+   "age": ""
   }
+ ],
+ "queued": {
+  "scheduled": [
+   {
+    "name": "Private GitHub repos for Jev projects",
+    "fires_at": "12:05 AM"
+   },
+   {
+    "name": "Rebuild Shambhala exact post visuals",
+    "fires_at": "12:08 AM"
+   },
+   {
+    "name": "Neo terminal access + iPhone app verification",
+    "fires_at": "12:15 AM"
+   },
+   {
+    "name": "Stars of Blood lead",
+    "fires_at": "12:15 AM"
+   },
+   {
+    "name": "Ribbit - eat the frog",
+    "fires_at": "12:15 AM"
+   },
+   {
+    "name": "Genie/Lucky stack engineer",
+    "fires_at": "12:25 AM"
+   },
+   {
+    "name": "Djev project factory",
+    "fires_at": "12:30 AM"
+   },
+   {
+    "name": "Multi-service code backup setup",
+    "fires_at": "12:35 AM"
+   }
+  ],
+  "backlog": [
+   {
+    "title": "Launch Jacob creative ventures: Lucky Cat Co, The New Chicagoan, personal blog/photography",
+    "blocked": false
+   },
+   {
+    "title": "e/acc media campaign",
+    "blocked": false
+   },
+   {
+    "title": "Jacob's end-of-year plan: job, Lucky Cat, car, apartment, social life",
+    "blocked": false
+   },
+   {
+    "title": "Jacob interactive worlds portfolio",
+    "blocked": false
+   },
+   {
+    "title": "Day of the Dead Lego-animation short film",
+    "blocked": false
+   },
+   {
+    "title": "Games from @em_nomadic ideas (Blender to Godot)",
+    "blocked": false
+   },
+   {
+    "title": "Execute the four self-emailed creative tasks",
+    "blocked": false
+   },
+   {
+    "title": "Make Lucky Cat real with Micro Center parts and Amazon shell",
+    "blocked": false
+   },
+   {
+    "title": "Help Jacob treat two lip blisters",
+    "blocked": false
+   },
+   {
+    "title": "Play with aisearchio music tool and make songs",
+    "blocked": false
+   },
+   {
+    "title": "jsuarez future fashion build",
+    "blocked": false
+   },
+   {
+    "title": "Redo past anime girl models at HQ bar",
+    "blocked": false
+   }
+  ],
+  "backlog_total": 32,
+  "unique_total": 32
+ }
 }

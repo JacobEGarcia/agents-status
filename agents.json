@@ -1,58 +1,65 @@
 {
- "count": 28,
- "lucky_cat_count": 24,
- "paused_count": 1,
+ "count": 27,
+ "lucky_cat_count": 23,
+ "paused_count": 0,
  "blocked_count": 0,
- "generated_at": "Sep 20, 11:30 AM",
+ "generated_at": "Sep 20, 12:25 PM",
  "agents": [
   {
    "name": "Que Killer",
    "summary": "Config-b write lease is free now. Proceed with inspection of the submitted Founders Inc application. Confirm... | latest: Founders Inc inspection complete. Editing is live at...",
    "kind": "build",
    "lane": "working",
-   "age": "10h ago"
+   "age": "11h ago"
   },
   {
    "name": "deploy engine",
    "summary": "Stars lead independently passed the canonical gate and requests deployment of the already-gated package.... | latest: Stars v3 is deployed to the verified production repo only. Final production HEAD is...",
    "kind": "build",
    "lane": "working",
-   "age": "8h ago"
+   "age": "9h ago"
   },
   {
    "name": "Private GitHub repos for Jev projects",
    "summary": "The exact four earlier hardened archives are also absent from my rebuilt filesystem. These two reconstructed... | latest: Completed the four private GitHub repositories and independently verified each through...",
    "kind": "build",
    "lane": "working",
-   "age": "10h ago"
+   "age": "11h ago"
+  },
+  {
+   "name": "tech radar + founder programs",
+   "summary": "Handle Jacob's latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: I inspected the full 5:33 video and transcript...",
+   "kind": "build",
+   "lane": "working",
+   "age": "42m ago"
   },
   {
    "name": "Rebuild Shambhala exact post visuals",
    "summary": "Browser allowance has reset. Run full live desktop and phone pixel/gameplay QA on the rebuilt Ashes of... | latest: Scheduled live QA finished for both private games. Ink Armada...",
    "kind": "build",
    "lane": "working",
-   "age": "10h ago"
+   "age": "11h ago"
   },
   {
    "name": "Half-Life 3 game lead",
    "summary": "PALE ROAD is also absent from my rebuilt filesystem. Check whether its prior attachment is recoverable... | latest: PALE ROAD preservation result: exact bytes do not survive. I recovered the full original...",
    "kind": "build",
    "lane": "working",
-   "age": "11h ago"
-  },
-  {
-   "name": "tech radar + founder programs",
-   "summary": "Keep the daily radar, but gate each fire on there being genuinely new, source-verified tech releases, live... | latest: Techstars cleanup complete. The new VR/AR issue came from `vr-ar@startupdigest.com` with...",
-   "kind": "build",
-   "lane": "working",
-   "age": "9m ago"
+   "age": "12h ago"
   },
   {
    "name": "Stars of Blood lead",
    "summary": "Deployment completed to the verified production repo only. New HEAD... | latest: Final independent production gate: PASS. Verified live source and assets at...",
    "kind": "build",
    "lane": "working",
-   "age": "8h ago"
+   "age": "9h ago"
+  },
+  {
+   "name": "Godot + anime build lane",
+   "summary": "Handle Jacob's latest game request tied to https://x.com/cypressdahlia/status/2101442713358905798?s=46: make... | latest: Built the referenced game artifact: RIVER INK VILLAGE v2. I inspected the full 2:05 X...",
+   "kind": "build",
+   "lane": "working",
+   "age": "31m ago"
   },
   {
    "name": "Proactive value creation",
@@ -66,28 +73,35 @@
    "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: Frostfall Godot rebuild: assets integrated into the actual game and validated in-engine....",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "38m ago"
+  },
+  {
+   "name": "Djev project factory",
+   "summary": "Handle Jacob's latest request tied to https://x.com/jpthor/status/2101546647071412279?s=46: make this and... | latest: Built and attached the first four polished Laya-MLX projects, plus their visually...",
+   "kind": "build",
+   "lane": "working",
+   "age": "29m ago"
   },
   {
    "name": "Verify Freebuff CLI connection",
    "summary": "Provide the exact safe read-only command Jacob can paste into the already-open Windows Terminal to verify... | latest: Have Jacob paste this single line into the already-open **cmd.exe** window: `where...",
    "kind": "build",
    "lane": "working",
-   "age": "10h ago"
+   "age": "11h ago"
   },
   {
    "name": "Neo terminal access + iPhone app verification",
    "summary": "Proceed now with the terminal-first Neo access leg of todo-01M2P255Y88YYS2YKN8EB4NC0A using the approved... | latest: Neo is still offline as of 5:51 AM CDT, with Chrome Remote Desktop continuing to show...",
    "kind": "build",
    "lane": "working",
-   "age": "54m ago"
+   "age": "1h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
-   "summary": "Handle Jacob's latest reply in the flash-drive thread: now put the art on the 16GB SanDisk flash drive so he...",
+   "summary": "Handle Jacob's latest reply in the flash-drive thread: now put the art on the 16GB SanDisk flash drive so he... | latest: Art-to-TV flash drive: DONE and verified. Identity re-confirmed before any write: E: is...",
    "kind": "build",
    "lane": "working",
-   "age": "0m ago"
+   "age": "55m ago"
   },
   {
    "name": "Neural rendering and Isaac laptop stack",
@@ -97,39 +111,25 @@
    "age": "10h ago"
   },
   {
-   "name": "Djev project factory",
-   "summary": "Deploy engine's workspace was rebuilt too; exact-byte archive is not recoverable from either current... | latest: Media QA complete. Attached: lucky-x-jev-media.zip (1.2 MB) - 10 screenshots + 9 demo...",
+   "name": "Blender art + addon lane",
+   "summary": "Handle Jacob's new reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: studio_yebisu reference handled (one assignment, not two). What the post actually is: a...",
    "kind": "build",
    "lane": "working",
-   "age": "10h ago"
+   "age": "0m ago"
   },
   {
    "name": "Ribbit - eat the frog",
    "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: Morning cycle, Sep 20: BLUEPRINT (material - decision was due by today): dashboard...",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
-  },
-  {
-   "name": "Blender art + addon lane",
-   "summary": "Restart LA MESA from scratch and recover the remaining screening slate gaps you own. Priority: one excellent... | latest: Slate gaps I owned - closed: - EL TACO preserved in the Drive archive...",
-   "kind": "build",
-   "lane": "working",
-   "age": "11h ago"
+   "age": "3h ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
-   "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: Correction to my last report - a formatting slip mangled the loader link. The bell-chime...",
+   "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: Sunday noon session artifact: the $49 Mini phone-brain demo path - the product-lane spec...",
    "kind": "build",
    "lane": "working",
    "age": "5h ago"
-  },
-  {
-   "name": "Verify Alexis Williams family lead",
-   "summary": "Awaiting specific Lucky Cat assignment",
-   "kind": "build",
-   "lane": "awaiting",
-   "age": ""
   },
   {
    "name": "Multi-service code backup setup",
@@ -148,13 +148,6 @@
   {
    "name": "GITS game lane",
    "summary": "Take todo-01M277ZKKRRHFY1GJEGNA3C4MP: build the Minecraft VR + Rust voxel game locally, using your... | latest: Completed todo `todo-01M277ZKKRRHFY1GJEGNA3C4MP` as RUSTWILD VR, preserving GITS...",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Godot + anime build lane",
-   "summary": "Apply Jacob's latest correction to both RED WINTER and the Atomic Heart-style VR build: GOTY quality. Treat... | latest: RED WINTER GOTY pass supersedes v1. I treated the first build as foundation and did not...",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -198,24 +191,20 @@
  "queued": {
   "scheduled": [
    {
-    "name": "3D asset upgrade pass",
-    "fires_at": "10:49 AM"
-   },
-   {
-    "name": "Blender art + addon lane",
-    "fires_at": "11:38 AM"
-   },
-   {
     "name": "Genie/Lucky stack engineer",
     "fires_at": "11:51 AM"
    },
    {
     "name": "Djev project factory",
-    "fires_at": "11:56 AM"
+    "fires_at": "12:26 PM"
    },
    {
-    "name": "CEO - Lucky Cat Robotics",
-    "fires_at": "12:16 PM"
+    "name": "Blender art + addon lane",
+    "fires_at": "12:38 PM"
+   },
+   {
+    "name": "3D asset upgrade pass",
+    "fires_at": "12:44 PM"
    },
    {
     "name": "Neo terminal access + iPhone app verification",
@@ -224,6 +213,10 @@
    {
     "name": "Proactive value creation",
     "fires_at": "2:00 PM"
+   },
+   {
+    "name": "CEO - Lucky Cat Robotics",
+    "fires_at": "12:16 AM"
    },
    {
     "name": "Ribbit - eat the frog",

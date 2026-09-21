@@ -9,7 +9,7 @@
    "summary": "Handle Jacob's latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: Login completed. Google approval 31 landed, Micro Center opened as \u201cHello, JACOB,\u201d and the orders page was inspected live. Screens",
    "kind": "build",
    "lane": "working",
-   "age": "27m ago"
+   "age": "40m ago"
   },
   {
    "name": "Que Killer",
@@ -23,14 +23,14 @@
    "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Founders Inc exact state, live-checked now: - Blueprint application remains submitted. Receipt is Gmail message `1a0a37801372f5e8`",
    "kind": "build",
    "lane": "working",
-   "age": "31m ago"
+   "age": "45m ago"
   },
   {
    "name": "Neo terminal access + iPhone app verification",
    "summary": "Proceed now with the terminal-first Neo access leg of todo-01M2P255Y88YYS2YKN8EB4NC0A using the approved... | latest: Grounded iPhone music task state: - 661 lawful/free tracks, 2.60 GB, are already staged on JacobsLaptop at `C:\\\\Users\\\\paleo\\\\Musi",
    "kind": "build",
    "lane": "working",
-   "age": "41m ago"
+   "age": "54m ago"
   },
   {
    "name": "Queue Killer - creative shipping",
@@ -51,7 +51,7 @@
    "summary": "Provide the exact safe read-only command Jacob can paste into the already-open Windows Terminal to verify... | latest: DePaul verification is complete. Authenticator 73 landed in the existing session without generating another prompt. Live source-tr",
    "kind": "build",
    "lane": "working",
-   "age": "1m ago"
+   "age": "14m ago"
   },
   {
    "name": "Half-Life 3 game lead",
@@ -72,7 +72,7 @@
    "summary": "Stars lead independently passed the canonical gate and requests deployment of the already-gated package.... | latest: Blocked by the user's overwrite condition: `JacobEGarcia/portfolio` already exists and contains unrelated prior user work, a live ",
    "kind": "build",
    "lane": "working",
-   "age": "3h ago"
+   "age": "4h ago"
   },
   {
    "name": "Godot + anime build lane",
@@ -107,7 +107,7 @@
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: Source-truth status, fresh poll 2:12 PM: NOT READY yet. - D:\\\\Users verify-only check: still running (rclone pid 30096, active). N",
    "kind": "build",
    "lane": "working",
-   "age": "4m ago"
+   "age": "17m ago"
   },
   {
    "name": "Portal 3 game lead",
@@ -131,11 +131,18 @@
    "age": "7h ago"
   },
   {
+   "name": "3D asset upgrade pass",
+   "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: Arguments: json import json d = json.load(open('/tmp/nom_reports.json')) for r in d['rows']: t = r[0] i = t.find(\\\"EOF\\\") print(t[",
+   "kind": "build",
+   "lane": "working",
+   "age": "0m ago"
+  },
+  {
    "name": "me_irl useful project factory",
    "summary": "Handle Jacob's latest iMessage request to make a bunch of cool, helpful and useful things from the me_irl X post he linked. Use the browser-use skill to inspect the supplied post and its media/context. Build strong free artifacts that follo | latest: fal portfolio index is built and QA'd \u2014 please route it to the Deploy Engine lane as the new application Website (suggested slug: ",
    "kind": "build",
    "lane": "working",
-   "age": "3h ago"
+   "age": "4h ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
@@ -150,13 +157,6 @@
    "kind": "build",
    "lane": "working",
    "age": "6h ago"
-  },
-  {
-   "name": "3D asset upgrade pass",
-   "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: Game-backup checkpoint - important caveat first: the execution environment was rebuilt between runs (this run started on a fresh c",
-   "kind": "build",
-   "lane": "working",
-   "age": "0m ago"
   },
   {
    "name": "Blender art + addon lane",
@@ -195,16 +195,16 @@
     "fires_at": "8:00 PM"
    },
    {
+    "name": "3D asset upgrade pass",
+    "fires_at": "3:11 PM"
+   },
+   {
     "name": "CEO - Lucky Cat Robotics",
     "fires_at": "12:17 AM"
    },
    {
     "name": "Ribbit - eat the frog",
     "fires_at": "8:00 AM"
-   },
-   {
-    "name": "3D asset upgrade pass",
-    "fires_at": "3:11 PM"
    },
    {
     "name": "Blender art + addon lane",
@@ -261,8 +261,8 @@
     "blocked": false
    }
   ],
-  "backlog_total": 32,
-  "unique_total": 32
+  "backlog_total": 33,
+  "unique_total": 33
  },
- "generated_at": "Sep 21, 2:41 PM"
+ "generated_at": "Sep 21, 2:55 PM"
 }

@@ -1,6 +1,6 @@
 {
- "count": 28,
- "lucky_cat_count": 24,
+ "count": 26,
+ "lucky_cat_count": 22,
  "paused_count": 0,
  "blocked_count": 0,
  "agents": [
@@ -9,25 +9,25 @@
    "summary": "Jacob explicitly wants maximum useful throughput today. Keep auditing all live sibling assignments and... | latest: Coursework audit: CSC 301 HW2 is the nearest hard deadline, due Tuesday Sep 22 at 11:59...",
    "kind": "build",
    "lane": "working",
-   "age": "26m ago"
+   "age": "42m ago"
+  },
+  {
+   "name": "tech radar + founder programs",
+   "summary": "Handle Jacob's latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: I inspected the full 5:33 video and transcript...",
+   "kind": "build",
+   "lane": "working",
+   "age": "22m ago"
   },
   {
    "name": "Queue Killer - coursework and income",
    "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Audit is open and monitored, not complete. Live verification passed...",
    "kind": "build",
    "lane": "working",
-   "age": "25m ago"
+   "age": "1h ago"
   },
   {
    "name": "Queue Killer - creative shipping",
    "summary": "Standing queue-killer lane focused on Jacob's unowned creative builds, launches and publishing blockers.... | latest: Completed a strong publishing-ready artifact for todo-01M1YPE1BK9J3KE1ZERTKKN3QD, \\\"Jacob...",
-   "kind": "build",
-   "lane": "working",
-   "age": "26m ago"
-  },
-  {
-   "name": "Neo terminal access + iPhone app verification",
-   "summary": "Proceed now with the terminal-first Neo access leg of todo-01M2P255Y88YYS2YKN8EB4NC0A using the approved... | latest: Neo is still offline as of 5:51 AM CDT, with Chrome Remote Desktop continuing to show...",
    "kind": "build",
    "lane": "working",
    "age": "1h ago"
@@ -37,144 +37,130 @@
    "summary": "Take the local leg of todo-01M2S2P92YJQ2R24MT8VXVNYVD now: inventory the backup scope across SSD, Windows... | latest: Local legs done for both assignments. Nothing external was created, changed, or deleted...",
    "kind": "build",
    "lane": "working",
-   "age": "12h ago"
+   "age": "40m ago"
+  },
+  {
+   "name": "Neo terminal access + iPhone app verification",
+   "summary": "Proceed now with the terminal-first Neo access leg of todo-01M2P255Y88YYS2YKN8EB4NC0A using the approved... | latest: Neo is still offline as of 5:51 AM CDT, with Chrome Remote Desktop continuing to show...",
+   "kind": "build",
+   "lane": "working",
+   "age": "29m ago"
   },
   {
    "name": "Verify Freebuff CLI connection",
    "summary": "Provide the exact safe read-only command Jacob can paste into the already-open Windows Terminal to verify... | latest: Have Jacob paste this single line into the already-open **cmd.exe** window: `where...",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
-  },
-  {
-   "name": "tech radar + founder programs",
-   "summary": "Handle Jacob's latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: I inspected the full 5:33 video and transcript...",
-   "kind": "build",
-   "lane": "working",
-   "age": "24m ago"
-  },
-  {
-   "name": "deploy engine",
-   "summary": "Stars lead independently passed the canonical gate and requests deployment of the already-gated package.... | latest: Stars v3 is deployed to the verified production repo only. Final production HEAD is...",
-   "kind": "build",
-   "lane": "working",
-   "age": "2h ago"
-  },
-  {
-   "name": "Genie/Lucky stack engineer",
-   "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: Errand prep complete: price match + Termius + Pi decision grounding. === 1. MICRO CENTER...",
-   "kind": "build",
-   "lane": "working",
-   "age": "2m ago"
-  },
-  {
-   "name": "Proactive value creation",
-   "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment.",
-   "kind": "system",
-   "lane": "system",
-   "age": "5h ago"
-  },
-  {
-   "name": "DePaul Outlook via Windows laptop",
-   "summary": "Jacob completed the fresh DePaul D2L vault update. After a lockout-safe pause, verify the new credential... | latest: Verified exactly once after a ~19-minute lockout-safe pause: the NEW DePaul D2L vault...",
-   "kind": "build",
-   "lane": "working",
-   "age": "12h ago"
-  },
-  {
-   "name": "me_irl useful project factory",
-   "summary": "Handle Jacob's latest iMessage request to make a bunch of cool, helpful and useful things from the me_irl X post he linked. Use the browser-use skill to inspect the supplied post and its media/context. Build strong free artifacts that follo",
-   "kind": "build",
-   "lane": "working",
-   "age": "2h ago"
-  },
-  {
-   "name": "CEO - Lucky Cat Robotics",
-   "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: Sunday noon session artifact: the $49 Mini phone-brain demo path - the product-lane spec...",
-   "kind": "build",
-   "lane": "working",
-   "age": "36m ago"
-  },
-  {
-   "name": "Ribbit - eat the frog",
-   "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: Morning cycle, Sep 20: BLUEPRINT (material - decision was due by today): dashboard...",
-   "kind": "build",
-   "lane": "working",
-   "age": "4h ago"
-  },
-  {
-   "name": "Depop and resale income route",
-   "summary": "Apply Jacob's latest resale preference: shipped-only, no Chicago meetups. Update the launch pack assumptions... | latest: Shipped-only preference applied and republished. Same link, now on generation 2...",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Little Nightmares sequel lead",
-   "summary": "Jacob has ordered queue-kill mode. Finish your current concrete artifact, then claim the highest-value... | latest: Queue-kill follow-up landed: updated the QA kit with an executable evidence validator and...",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "GITS game lane",
-   "summary": "Take todo-01M277ZKKRRHFY1GJEGNA3C4MP: build the Minecraft VR + Rust voxel game locally, using your... | latest: Completed todo `todo-01M277ZKKRRHFY1GJEGNA3C4MP` as RUSTWILD VR, preserving GITS...",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "3D asset upgrade pass",
-   "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: Frostfall Godot rebuild: assets integrated into the actual game and validated in-engine....",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Blender art + addon lane",
-   "summary": "Handle Jacob's new reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: studio_yebisu reference handled (one assignment, not two). What the post actually is: a...",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Godot + anime build lane",
-   "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: TIME VOLUME v4 supersedes v2 after Jacob's exact-match correction. I re-opened decisive...",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Ravenholm game lead",
-   "summary": "Jacob has ordered queue-kill mode. Finish your current concrete artifact, then claim the highest-value... | latest: Next queue-kill artifact shipped: a self-contained private reviewer-route page plus...",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Portal 3 game lead",
-   "summary": "Jacob has ordered queue-kill mode. Finish your current concrete artifact, then claim the highest-value... | latest: QUEUE-KILL ARTIFACT SHIPPED: rebuilt the wishlist og:image share card. Queue audit found...",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Cancelled Valve games lead",
-   "summary": "Take todo-01M2M4A6X21BCSSGCYP1FHH7TT: upgrade Jacob's boss-rush game to GOTY quality using your catalog... | latest: VOIDFALL GOTY pass is open, but source recovery is the real first gate. Attached...",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
+   "age": "29m ago"
   },
   {
    "name": "Half-Life 3 game lead",
    "summary": "PALE ROAD is also absent from my rebuilt filesystem. Check whether its prior attachment is recoverable... | latest: PALE ROAD preservation result: exact bytes do not survive. I recovered the full original...",
    "kind": "build",
    "lane": "working",
-   "age": ""
+   "age": "45m ago"
+  },
+  {
+   "name": "Ravenholm game lead",
+   "summary": "Jacob has ordered queue-kill mode. Finish your current concrete artifact, then claim the highest-value... | latest: Next queue-kill artifact shipped: a self-contained private reviewer-route page plus...",
+   "kind": "build",
+   "lane": "working",
+   "age": "41m ago"
+  },
+  {
+   "name": "deploy engine",
+   "summary": "Stars lead independently passed the canonical gate and requests deployment of the already-gated package.... | latest: Stars v3 is deployed to the verified production repo only. Final production HEAD is...",
+   "kind": "build",
+   "lane": "working",
+   "age": "3h ago"
+  },
+  {
+   "name": "Godot + anime build lane",
+   "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: TIME VOLUME v4 supersedes v2 after Jacob's exact-match correction. I re-opened decisive...",
+   "kind": "build",
+   "lane": "working",
+   "age": "42m ago"
+  },
+  {
+   "name": "Little Nightmares sequel lead",
+   "summary": "Jacob has ordered queue-kill mode. Finish your current concrete artifact, then claim the highest-value... | latest: Queue-kill follow-up landed: updated the QA kit with an executable evidence validator and...",
+   "kind": "build",
+   "lane": "working",
+   "age": "44m ago"
+  },
+  {
+   "name": "Cancelled Valve games lead",
+   "summary": "Take todo-01M2M4A6X21BCSSGCYP1FHH7TT: upgrade Jacob's boss-rush game to GOTY quality using your catalog... | latest: VOIDFALL GOTY pass is open, but source recovery is the real first gate. Attached...",
+   "kind": "build",
+   "lane": "working",
+   "age": "44m ago"
+  },
+  {
+   "name": "GITS game lane",
+   "summary": "Take todo-01M277ZKKRRHFY1GJEGNA3C4MP: build the Minecraft VR + Rust voxel game locally, using your... | latest: Completed todo `todo-01M277ZKKRRHFY1GJEGNA3C4MP` as RUSTWILD VR, preserving GITS...",
+   "kind": "build",
+   "lane": "working",
+   "age": "44m ago"
+  },
+  {
+   "name": "Genie/Lucky stack engineer",
+   "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: Errand prep complete: price match + Termius + Pi decision grounding. === 1. MICRO CENTER...",
+   "kind": "build",
+   "lane": "working",
+   "age": "0m ago"
+  },
+  {
+   "name": "Portal 3 game lead",
+   "summary": "Jacob has ordered queue-kill mode. Finish your current concrete artifact, then claim the highest-value... | latest: QUEUE-KILL ARTIFACT SHIPPED: rebuilt the wishlist og:image share card. Queue audit found...",
+   "kind": "build",
+   "lane": "working",
+   "age": "41m ago"
   },
   {
    "name": "Stars of Blood lead",
    "summary": "Deployment completed to the verified production repo only. New HEAD... | latest: Final independent production gate: PASS. Verified live source and assets at...",
+   "kind": "build",
+   "lane": "working",
+   "age": "43m ago"
+  },
+  {
+   "name": "Proactive value creation",
+   "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment.",
+   "kind": "system",
+   "lane": "system",
+   "age": "6h ago"
+  },
+  {
+   "name": "me_irl useful project factory",
+   "summary": "Handle Jacob's latest iMessage request to make a bunch of cool, helpful and useful things from the me_irl X post he linked. Use the browser-use skill to inspect the supplied post and its media/context. Build strong free artifacts that follo",
+   "kind": "build",
+   "lane": "working",
+   "age": "3h ago"
+  },
+  {
+   "name": "CEO - Lucky Cat Robotics",
+   "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: Sunday noon session artifact: the $49 Mini phone-brain demo path - the product-lane spec...",
+   "kind": "build",
+   "lane": "working",
+   "age": "1h ago"
+  },
+  {
+   "name": "Ribbit - eat the frog",
+   "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: Morning cycle, Sep 20: BLUEPRINT (material - decision was due by today): dashboard...",
+   "kind": "build",
+   "lane": "working",
+   "age": "5h ago"
+  },
+  {
+   "name": "3D asset upgrade pass",
+   "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: Frostfall Godot rebuild: assets integrated into the actual game and validated in-engine....",
+   "kind": "build",
+   "lane": "working",
+   "age": "44m ago"
+  },
+  {
+   "name": "Blender art + addon lane",
+   "summary": "Handle Jacob's new reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: studio_yebisu reference handled (one assignment, not two). What the post actually is: a...",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -202,7 +188,7 @@
    },
    {
     "name": "Genie/Lucky stack engineer",
-    "fires_at": "1:11 PM"
+    "fires_at": "2:14 PM"
    },
    {
     "name": "Proactive value creation",
@@ -218,11 +204,11 @@
    },
    {
     "name": "3D asset upgrade pass",
-    "fires_at": "1:11 PM"
+    "fires_at": "2:11 PM"
    },
    {
     "name": "Blender art + addon lane",
-    "fires_at": "1:06 PM"
+    "fires_at": "2:16 PM"
    }
   ],
   "backlog": [
@@ -275,8 +261,8 @@
     "blocked": false
    }
   ],
-  "backlog_total": 34,
-  "unique_total": 34
+  "backlog_total": 33,
+  "unique_total": 33
  },
- "generated_at": "Sep 21, 12:54 PM"
+ "generated_at": "Sep 21, 1:54 PM"
 }

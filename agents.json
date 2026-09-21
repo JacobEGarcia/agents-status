@@ -3,63 +3,63 @@
  "lucky_cat_count": 24,
  "paused_count": 0,
  "blocked_count": 0,
- "generated_at": "Sep 21, 5:10 AM",
+ "generated_at": "Sep 21, 7:10 AM",
  "agents": [
-  {
-   "name": "Que Killer",
-   "summary": "Jacob explicitly wants maximum useful throughput today. Keep auditing all live sibling assignments and... | latest: Coursework audit: CSC 301 HW2 is the nearest hard deadline, due Tuesday Sep 22 at 11:59...",
-   "kind": "build",
-   "lane": "working",
-   "age": "3h ago"
-  },
   {
    "name": "Queue Killer - creative shipping",
    "summary": "Standing queue-killer lane focused on Jacob's unowned creative builds, launches and publishing blockers.... | latest: Completed a strong publishing-ready artifact for todo-01M1YPE1BK9J3KE1ZERTKKN3QD, \\\"Jacob...",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "1h ago"
+  },
+  {
+   "name": "Que Killer",
+   "summary": "Jacob explicitly wants maximum useful throughput today. Keep auditing all live sibling assignments and... | latest: Coursework audit: CSC 301 HW2 is the nearest hard deadline, due Tuesday Sep 22 at 11:59...",
+   "kind": "build",
+   "lane": "working",
+   "age": "5h ago"
   },
   {
    "name": "Multi-service code backup setup",
    "summary": "Take the local leg of todo-01M2S2P92YJQ2R24MT8VXVNYVD now: inventory the backup scope across SSD, Windows... | latest: Local legs done for both assignments. Nothing external was created, changed, or deleted...",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "6h ago"
   },
   {
    "name": "Neo terminal access + iPhone app verification",
    "summary": "Proceed now with the terminal-first Neo access leg of todo-01M2P255Y88YYS2YKN8EB4NC0A using the approved... | latest: Neo is still offline as of 5:51 AM CDT, with Chrome Remote Desktop continuing to show...",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "6h ago"
   },
   {
    "name": "Queue Killer - coursework and income",
    "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Audit is open and monitored, not complete. Live verification passed...",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "6h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: Errand prep complete: price match + Termius + Pi decision grounding. === 1. MICRO CENTER...",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "3h ago"
   },
   {
    "name": "DePaul Outlook via Windows laptop",
    "summary": "Jacob completed the fresh DePaul D2L vault update. After a lockout-safe pause, verify the new credential... | latest: Verified exactly once after a ~19-minute lockout-safe pause: the NEW DePaul D2L vault...",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "6h ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: Sunday noon session artifact: the $49 Mini phone-brain demo path - the product-lane spec...",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "6h ago"
   },
   {
    "name": "me_irl useful project factory",
@@ -199,7 +199,7 @@
   "scheduled": [
    {
     "name": "Queue Killer - creative shipping",
-    "fires_at": "5:16 AM"
+    "fires_at": "7:17 AM"
    },
    {
     "name": "CEO - Lucky Cat Robotics",
@@ -211,11 +211,11 @@
    },
    {
     "name": "3D asset upgrade pass",
-    "fires_at": "5:25 AM"
+    "fires_at": "7:25 AM"
    },
    {
     "name": "Blender art + addon lane",
-    "fires_at": "5:35 AM"
+    "fires_at": "7:35 AM"
    },
    {
     "name": "Ribbit - eat the frog",

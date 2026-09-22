@@ -9,42 +9,42 @@
    "summary": "Provide the exact safe read-only command Jacob can paste into the already-open Windows Terminal to verify... | latest: Outreachr continuation is still gated. The backup owner has regained Windows access and is checking the C:\\\\Downloads job now, but",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "2h ago"
   },
   {
    "name": "Que Killer",
    "summary": "Jacob explicitly wants maximum useful throughput today. Keep auditing all live sibling assignments and... | latest: Demo ready and attached: an 8-second 1280x720 H.264 video plus a strong full-resolution screenshot. I visually inspected the actua",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "3h ago"
   },
   {
    "name": "Queue Killer - creative shipping",
    "summary": "Standing queue-killer lane focused on Jacob's unowned creative builds, launches and publishing blockers.... | latest: Mira V3 animation correction is ready. I re-inspected the source motion and replaced the static portrait with an autoplaying, mute",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "3h ago"
   },
   {
    "name": "Queue Killer - coursework and income",
    "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "3h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
-   "age": "45m ago"
+   "age": "19m ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by ",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "3h ago"
   },
   {
    "name": "Founder opportunity search",
@@ -184,7 +184,7 @@
   "scheduled": [
    {
     "name": "Genie/Lucky stack engineer",
-    "fires_at": "3:26 AM"
+    "fires_at": "4:27 AM"
    },
    {
     "name": "CEO - Lucky Cat Robotics",
@@ -256,5 +256,5 @@
   "backlog_total": 29,
   "unique_total": 29
  },
- "generated_at": "Sep 22, 3:13 AM"
+ "generated_at": "Sep 22, 4:13 AM"
 }

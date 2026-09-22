@@ -1,12 +1,19 @@
 {
- "count": 27,
- "lucky_cat_count": 23,
+ "count": 26,
+ "lucky_cat_count": 22,
  "paused_count": 0,
  "blocked_count": 0,
  "agents": [
   {
-   "name": "Revise OKOCIM poster flag",
-   "summary": "Handle Jacob's latest iMessage correction to the delivered OKOCIM party poster: make the Polish flag way bigger. Preserve all verified event details exactly and visually inspect the rerender.",
+   "name": "Verify Freebuff CLI connection",
+   "summary": "Provide the exact safe read-only command Jacob can paste into the already-open Windows Terminal to verify... | latest: Correct: Outreachr has not run yet. I audited the exact repo and staged the verified Windows build, but held installation because ",
+   "kind": "build",
+   "lane": "working",
+   "age": "11m ago"
+  },
+  {
+   "name": "Genie/Lucky stack engineer",
+   "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: Pi 500 Fleet Command Center is DEPLOYED and live as a full-screen wallboard on the TV. Attached screenshot is the actual TV render",
    "kind": "build",
    "lane": "working",
    "age": "0m ago"
@@ -35,13 +42,6 @@
   {
    "name": "Neo terminal access + iPhone app verification",
    "summary": "Proceed now with the terminal-first Neo access leg of todo-01M2P255Y88YYS2YKN8EB4NC0A using the approved... | latest: Live Neo poll at 4:17-4:19 PM CDT: - Mac backup is still actively copying `/Users/jacobgarcia` to `gdrive:Device Backups/Neo`; rcl",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Verify Freebuff CLI connection",
-   "summary": "Provide the exact safe read-only command Jacob can paste into the already-open Windows Terminal to verify... | latest: Outreachr is identified and source-audited, but I held installation so I would not disrupt the active C:\\\\Users\\\\paleo\\\\Downloads ",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -83,14 +83,14 @@
   },
   {
    "name": "3D asset upgrade pass",
-   "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: Schedule deleted (wakeschedule-01M2REJVRKRBVXYAM6HZ6H4PXB). Both em_nomadic games (MUSCLEBOT, SWARM) are verified and archived; re",
+   "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: SWARM: SELF-ASSEMBLY QA screenshots, as real attachments - these are the exact files from the validated final run (Sep 21 3:04-3:0",
    "kind": "build",
    "lane": "working",
    "age": ""
   },
   {
    "name": "Blender art + addon lane",
-   "summary": "Handle Jacob's new reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: Wake gating updated per audit: the 30-min cadence now fires only on a verifiable state change - f0080.png landed (done), RENDER_EX",
+   "summary": "Handle Jacob's new reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: LA MESA Drive master landed: https://drive.google.com/file/d/1F5SuuWuSrU8iCOupCDYxdqfAw5BKFwDe/view (7.68MB, verified single copy ",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -132,7 +132,7 @@
   },
   {
    "name": "Half-Life 3 game lead",
-   "summary": "PALE ROAD is also absent from my rebuilt filesystem. Check whether its prior attachment is recoverable... | latest: Game-backup checkpoint saved without overwrite/delete: Project: PALE ROAD recovered-v1, the playable Calavera Transit / low-poly a",
+   "summary": "PALE ROAD is also absent from my rebuilt filesystem. Check whether its prior attachment is recoverable... | latest: Attached is one fresh, honest PALE ROAD / Calavera Transit recovered-v1 gameplay screenshot, captured now from the actual saved HT",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -152,15 +152,8 @@
    "age": ""
   },
   {
-   "name": "Genie/Lucky stack engineer",
-   "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: Acknowledged. Read todo-01M32A3D048J4AGFTBJ8ETWRX9: two moves fully verified (Founder Opportunities and Applications - 2026 -> Car",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
    "name": "Ribbit - eat the frog",
-   "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: Morning cycle, Sep 21: BLUEPRINT: window (Sep 20) closed with no decision - dashboard still \\\"Submitted\\\" as of yesterday 8:39 AM,",
+   "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: Idle-time blocker audit, finishable-before-midnight view: ONE highest-leverage physical step: the Mercor sign-in tap. One minute a",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -181,7 +174,7 @@
   },
   {
    "name": "Proactive value creation",
-   "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment. | latest: HonorsFund verified answer: Program: `$150k Online University Pitch Competition #15`, run by Honors Fund / CEAS Investments I, LLC",
+   "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment. | latest: Air-monitor live result is incomplete because today's desktop-browser budget is exhausted; I will not invent Chicago stock or sale",
    "kind": "system",
    "lane": "system",
    "age": ""
@@ -194,12 +187,12 @@
     "fires_at": "12:18 AM"
    },
    {
-    "name": "deploy engine",
-    "fires_at": "9:00 AM"
-   },
-   {
     "name": "Genie/Lucky stack engineer",
     "fires_at": "12:12 AM"
+   },
+   {
+    "name": "deploy engine",
+    "fires_at": "9:00 AM"
    },
    {
     "name": "Ribbit - eat the frog",
@@ -267,5 +260,5 @@
   "backlog_total": 28,
   "unique_total": 28
  },
- "generated_at": "Sep 22, 12:01 AM"
+ "generated_at": "Sep 22, 12:12 AM"
 }

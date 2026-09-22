@@ -1,6 +1,6 @@
 {
- "count": 27,
- "lucky_cat_count": 23,
+ "count": 26,
+ "lucky_cat_count": 22,
  "paused_count": 0,
  "blocked_count": 0,
  "agents": [
@@ -9,168 +9,161 @@
    "summary": "Handle Jacob's latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: Job wave grounded across the live signed-in Indeed and Handshake sessions plus official direct listings. I attached the exact shor",
    "kind": "build",
    "lane": "working",
-   "age": "43m ago"
+   "age": "1h ago"
   },
   {
    "name": "Que Killer",
-   "summary": "Jacob explicitly wants maximum useful throughput today. Keep auditing all live sibling assignments and... | latest: Inspected both full auto-caption transcripts, descriptions, chapters and metadata, then built the smallest truth-safe money artifa",
+   "summary": "Jacob explicitly wants maximum useful throughput today. Keep auditing all live sibling assignments and... | latest: Drive work advanced but remains heavily rate-limited. Four writes definitely landed: - Founder Opportunities and Applications - 20",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "33m ago"
   },
   {
    "name": "Neo terminal access + iPhone app verification",
    "summary": "Proceed now with the terminal-first Neo access leg of todo-01M2P255Y88YYS2YKN8EB4NC0A using the approved... | latest: Live Neo poll at 4:17-4:19 PM CDT: - Mac backup is still actively copying `/Users/jacobgarcia` to `gdrive:Device Backups/Neo`; rcl",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "2h ago"
+  },
+  {
+   "name": "Queue Killer - creative shipping",
+   "summary": "Standing queue-killer lane focused on Jacob's unowned creative builds, launches and publishing blockers.... | latest: Reconciled the six orphaned creative todos. Five were already satisfied and should not count as new output: - todo-01M30HFHESW9WJV",
+   "kind": "build",
+   "lane": "working",
+   "age": "46m ago"
   },
   {
    "name": "Queue Killer - coursework and income",
    "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Founders Inc exact state, live-checked now: - Blueprint application remains submitted. Receipt is Gmail message `1a0a37801372f5e8`",
    "kind": "build",
    "lane": "working",
-   "age": "3h ago"
+   "age": "4h ago"
   },
   {
    "name": "Verify Freebuff CLI connection",
    "summary": "Provide the exact safe read-only command Jacob can paste into the already-open Windows Terminal to verify... | latest: Outreachr is identified and source-audited, but I held installation so I would not disrupt the active C:\\\\Users\\\\paleo\\\\Downloads ",
    "kind": "build",
    "lane": "working",
-   "age": "42m ago"
-  },
-  {
-   "name": "Queue Killer - creative shipping",
-   "summary": "Standing queue-killer lane focused on Jacob's unowned creative builds, launches and publishing blockers.... | latest: Durable handoff prepared for the Hopper-mood Art TV rebuild. Attached: 1. Exact 60-row official AIC manifest. Verified 60 rows, 60",
-   "kind": "build",
-   "lane": "working",
-   "age": "5h ago"
+   "age": "1h ago"
   },
   {
    "name": "Multi-service code backup setup",
    "summary": "Take the local leg of todo-01M2S2P92YJQ2R24MT8VXVNYVD now: inventory the backup scope across SSD, Windows... | latest: MUSCLEBOT is durably backed up and round-trip verified. Destination: https://drive.google.com/file/d/1mzxwIAXYkeve2B7lRrvRoZ_7b9xj",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "4h ago"
   },
   {
    "name": "Founder opportunity search",
    "summary": "Handle Jacob's latest request: find other current opportunities like HonorsFund and America250 that fit him and Lucky Cat. Ground live eligibility, deadline, award or investment economics, application requirements, AI-content restrictions,  | latest: Prepared the complete review packet for all seven programs and attached it as a transferable file. Nothing was submitted, sent, up",
    "kind": "build",
    "lane": "working",
-   "age": "50m ago"
+   "age": "2h ago"
   },
   {
    "name": "Half-Life 3 game lead",
    "summary": "PALE ROAD is also absent from my rebuilt filesystem. Check whether its prior attachment is recoverable... | latest: Game-backup checkpoint saved without overwrite/delete: Project: PALE ROAD recovered-v1, the playable Calavera Transit / low-poly a",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "5h ago"
   },
   {
    "name": "Ravenholm game lead",
    "summary": "Jacob has ordered queue-kill mode. Finish your current concrete artifact, then claim the highest-value... | latest: Game-backup checkpoint for this lane: - Project: Ravenholm (Arkane Episode Four) - Last coherent source path recorded: `/home/sand",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "5h ago"
   },
   {
    "name": "deploy engine",
    "summary": "Stars lead independently passed the canonical gate and requests deployment of the already-gated package.... | latest: Blocked by the user's overwrite condition: `JacobEGarcia/portfolio` already exists and contains unrelated prior user work, a live ",
    "kind": "build",
    "lane": "working",
-   "age": "7h ago"
+   "age": "8h ago"
   },
   {
    "name": "Godot + anime build lane",
    "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "5h ago"
   },
   {
    "name": "Little Nightmares sequel lead",
    "summary": "Jacob has ordered queue-kill mode. Finish your current concrete artifact, then claim the highest-value... | latest: Game-backup checkpoint - THE UNDERTIDE - Exact working source path from the last coherent run: `/home/sandbox/undertide - Existing",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "5h ago"
   },
   {
    "name": "Cancelled Valve games lead",
    "summary": "Take todo-01M2M4A6X21BCSSGCYP1FHH7TT: upgrade Jacob's boss-rush game to GOTY quality using your catalog... | latest: Backup checkpoint cannot be produced from current workspace bytes: this agent's sandbox was rebuilt and `/home/sandbox` is empty e",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "5h ago"
   },
   {
    "name": "GITS game lane",
    "summary": "Take todo-01M277ZKKRRHFY1GJEGNA3C4MP: build the Minecraft VR + Rust voxel game locally, using your... | latest: Backup checkpoint cannot be taken from this run's filesystem: the workspace has been rebuilt and now contains only the three shell",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "5h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
-   "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: Pi 500 fleet join COMPLETE. Jacob's phone tap wasn't needed after all - the vault Google password passed and the device prompt cle",
+   "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: Already handled - extended the lease 150 min at 6:05; it now expires 8:44 PM CDT. Still needed: the browser is my only channel to ",
    "kind": "build",
    "lane": "working",
-   "age": "11m ago"
+   "age": "19m ago"
   },
   {
    "name": "Portal 3 game lead",
    "summary": "Jacob has ordered queue-kill mode. Finish your current concrete artifact, then claim the highest-value... | latest: CORRECTION to the checkpoint I just sent: after reporting, I found one durable live-site memory fact I should not leave out. It do",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "5h ago"
   },
   {
    "name": "Stars of Blood lead",
    "summary": "Deployment completed to the verified production repo only. New HEAD... | latest: Game-backup checkpoint - state captured read-only just now against live sources. Nothing created, overwritten, or deleted on my si",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "5h ago"
   },
   {
    "name": "Proactive value creation",
    "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment. | latest: HonorsFund verified answer: Program: `$150k Online University Pitch Competition #15`, run by Honors Fund / CEAS Investments I, LLC",
    "kind": "system",
    "lane": "system",
-   "age": "10h ago"
+   "age": "11h ago"
   },
   {
    "name": "3D asset upgrade pass",
    "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: Schedule deleted (wakeschedule-01M2REJVRKRBVXYAM6HZ6H4PXB). Both em_nomadic games (MUSCLEBOT, SWARM) are verified and archived; re",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
-  },
-  {
-   "name": "me_irl useful project factory",
-   "summary": "Handle Jacob's latest iMessage request to make a bunch of cool, helpful and useful things from the me_irl X post he linked. Use the browser-use skill to inspect the supplied post and its media/context. Build strong free artifacts that follo | latest: fal portfolio index is built and QA'd \u2014 please route it to the Deploy Engine lane as the new application Website (suggested slug: ",
-   "kind": "build",
-   "lane": "working",
-   "age": "7h ago"
+   "age": "4h ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: Monday noon session. 1) Course correction on my queue: I listed the Drive folder before building \\\"hype batch 2\\\" and found the co",
    "kind": "build",
    "lane": "working",
-   "age": "5h ago"
+   "age": "6h ago"
   },
   {
    "name": "Blender art + addon lane",
    "summary": "Handle Jacob's new reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: Wake gating updated per audit: the 30-min cadence now fires only on a verifiable state change - f0080.png landed (done), RENDER_EX",
    "kind": "build",
    "lane": "working",
-   "age": "15m ago"
+   "age": "4m ago"
   },
   {
    "name": "Ribbit - eat the frog",
    "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: Morning cycle, Sep 21: BLUEPRINT: window (Sep 20) closed with no decision - dashboard still \\\"Submitted\\\" as of yesterday 8:39 AM,",
    "kind": "build",
    "lane": "working",
-   "age": "9h ago"
+   "age": "10h ago"
   },
   {
    "name": "Instinct-to-Instinct",
@@ -190,12 +183,16 @@
  "queued": {
   "scheduled": [
    {
+    "name": "Que Killer",
+    "fires_at": "7:30 PM"
+   },
+   {
     "name": "deploy engine",
     "fires_at": "9:00 AM"
    },
    {
     "name": "Genie/Lucky stack engineer",
-    "fires_at": "6:03 PM"
+    "fires_at": "7:16 PM"
    },
    {
     "name": "Proactive value creation",
@@ -207,7 +204,7 @@
    },
    {
     "name": "Blender art + addon lane",
-    "fires_at": "6:08 PM"
+    "fires_at": "8:01 PM"
    },
    {
     "name": "Ribbit - eat the frog",
@@ -267,5 +264,5 @@
   "backlog_total": 28,
   "unique_total": 28
  },
- "generated_at": "Sep 21, 5:55 PM"
+ "generated_at": "Sep 21, 7:06 PM"
 }

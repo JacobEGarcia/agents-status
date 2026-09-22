@@ -1,6 +1,6 @@
 {
- "count": 26,
- "lucky_cat_count": 22,
+ "count": 27,
+ "lucky_cat_count": 23,
  "paused_count": 0,
  "blocked_count": 0,
  "agents": [
@@ -9,63 +9,77 @@
    "summary": "Provide the exact safe read-only command Jacob can paste into the already-open Windows Terminal to verify... | latest: Outreachr continuation is still gated. The backup owner has regained Windows access and is checking the C:\\\\Downloads job now, but",
    "kind": "build",
    "lane": "working",
-   "age": "5h ago"
+   "age": "6h ago"
   },
   {
    "name": "Queue Killer - coursework and income",
    "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "34m ago"
-  },
-  {
-   "name": "Founder opportunity search",
-   "summary": "Handle Jacob's latest request: find other current opportunities like HonorsFund and America250 that fit him and Lucky Cat. Ground live eligibility, deadline, award or investment economics, application requirements, AI-content restrictions,  | latest: Prepared the complete review packet for all seven programs and attached it as a transferable file. Nothing was submitted, sent, up",
-   "kind": "build",
-   "lane": "working",
-   "age": "3h ago"
+   "age": "1h ago"
   },
   {
    "name": "Que Killer",
    "summary": "Jacob explicitly wants maximum useful throughput today. Keep auditing all live sibling assignments and... | latest: Demo ready and attached: an 8-second 1280x720 H.264 video plus a strong full-resolution screenshot. I visually inspected the actua",
    "kind": "build",
    "lane": "working",
-   "age": "9h ago"
+   "age": "11h ago"
+  },
+  {
+   "name": "tech radar + founder programs",
+   "summary": "Handle Jacob's latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: Job wave grounded across the live signed-in Indeed and Handshake sessions plus official direct listings. I attached the exact shor",
+   "kind": "build",
+   "lane": "working",
+   "age": "11m ago"
   },
   {
    "name": "Queue Killer - creative shipping",
    "summary": "Standing queue-killer lane focused on Jacob's unowned creative builds, launches and publishing blockers.... | latest: Mira V3 animation correction is ready. I re-inspected the source motion and replaced the static portrait with an autoplaying, mute",
    "kind": "build",
    "lane": "working",
-   "age": "9h ago"
+   "age": "11h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
-   "age": "48m ago"
+   "age": "1h ago"
   },
   {
    "name": "Agent mail notification manager",
    "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill. | latest: Relevant infrastructure deep dive from SemiAnalysis at 1:19:15 PM CDT: \\\"Computation and Data Movement for Inference\\\" (ref 017900",
    "kind": "system",
    "lane": "system",
-   "age": "3h ago"
+   "age": "4h ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by ",
    "kind": "build",
    "lane": "working",
-   "age": "10h ago"
+   "age": "7m ago"
   },
   {
    "name": "Ribbit - eat the frog",
    "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely ",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "3h ago"
+  },
+  {
+   "name": "send the 50 email",
+   "summary": "Jacob explicitly asked for this email: send from his Agent Mail assistant address (jacobgarcia@mail.instinct.com) to his personal Gmail (jacobegarcia101@gmail.com), subject \"Your 50 - tasks and questions parked on you\". He will reply to the",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "dorkitude X post notes",
+   "summary": "Jacob sent this X post and asked \"can any of these notes help us?\": https://x.com/dorkitude/status/2102194028704092585 Identify the post: author, date, full text/content, and specifically what \"notes\" it contains (a list, a doc, tips, a thr",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
   },
   {
    "name": "Neo terminal access + iPhone app verification",
@@ -124,13 +138,6 @@
    "age": ""
   },
   {
-   "name": "tech radar + founder programs",
-   "summary": "Handle Jacob's latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: Job wave grounded across the live signed-in Indeed and Handshake sessions plus official direct listings. I attached the exact shor",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
    "name": "Ravenholm game lead",
    "summary": "Jacob has ordered queue-kill mode. Finish your current concrete artifact, then claim the highest-value... | latest: Game-backup checkpoint for this lane: - Project: Ravenholm (Arkane Episode Four) - Last coherent source path recorded: `/home/sand",
    "kind": "build",
@@ -184,7 +191,7 @@
   "scheduled": [
    {
     "name": "Genie/Lucky stack engineer",
-    "fires_at": "10:31 AM"
+    "fires_at": "12:32 PM"
    },
    {
     "name": "CEO - Lucky Cat Robotics",
@@ -253,8 +260,8 @@
     "blocked": false
    }
   ],
-  "backlog_total": 29,
-  "unique_total": 29
+  "backlog_total": 28,
+  "unique_total": 28
  },
- "generated_at": "Sep 22, 10:27 AM"
+ "generated_at": "Sep 22, 11:52 AM"
 }

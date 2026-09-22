@@ -9,56 +9,63 @@
    "summary": "Provide the exact safe read-only command Jacob can paste into the already-open Windows Terminal to verify... | latest: Outreachr continuation is still gated. The backup owner has regained Windows access and is checking the C:\\\\Downloads job now, but",
    "kind": "build",
    "lane": "working",
-   "age": "3h ago"
-  },
-  {
-   "name": "Founder opportunity search",
-   "summary": "Handle Jacob's latest request: find other current opportunities like HonorsFund and America250 that fit him and Lucky Cat. Ground live eligibility, deadline, award or investment economics, application requirements, AI-content restrictions,  | latest: Prepared the complete review packet for all seven programs and attached it as a transferable file. Nothing was submitted, sent, up",
-   "kind": "build",
-   "lane": "working",
-   "age": "50m ago"
-  },
-  {
-   "name": "Que Killer",
-   "summary": "Jacob explicitly wants maximum useful throughput today. Keep auditing all live sibling assignments and... | latest: Demo ready and attached: an 8-second 1280x720 H.264 video plus a strong full-resolution screenshot. I visually inspected the actua",
-   "kind": "build",
-   "lane": "working",
-   "age": "7h ago"
-  },
-  {
-   "name": "Queue Killer - creative shipping",
-   "summary": "Standing queue-killer lane focused on Jacob's unowned creative builds, launches and publishing blockers.... | latest: Mira V3 animation correction is ready. I re-inspected the source motion and replaced the static portrait with an autoplaying, mute",
-   "kind": "build",
-   "lane": "working",
-   "age": "7h ago"
+   "age": "5h ago"
   },
   {
    "name": "Queue Killer - coursework and income",
    "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "7h ago"
+   "age": "32m ago"
+  },
+  {
+   "name": "Founder opportunity search",
+   "summary": "Handle Jacob's latest request: find other current opportunities like HonorsFund and America250 that fit him and Lucky Cat. Ground live eligibility, deadline, award or investment economics, application requirements, AI-content restrictions,  | latest: Prepared the complete review packet for all seven programs and attached it as a transferable file. Nothing was submitted, sent, up",
+   "kind": "build",
+   "lane": "working",
+   "age": "2h ago"
+  },
+  {
+   "name": "Que Killer",
+   "summary": "Jacob explicitly wants maximum useful throughput today. Keep auditing all live sibling assignments and... | latest: Demo ready and attached: an 8-second 1280x720 H.264 video plus a strong full-resolution screenshot. I visually inspected the actua",
+   "kind": "build",
+   "lane": "working",
+   "age": "9h ago"
+  },
+  {
+   "name": "Queue Killer - creative shipping",
+   "summary": "Standing queue-killer lane focused on Jacob's unowned creative builds, launches and publishing blockers.... | latest: Mira V3 animation correction is ready. I re-inspected the source motion and replaced the static portrait with an autoplaying, mute",
+   "kind": "build",
+   "lane": "working",
+   "age": "9h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
-   "age": "44m ago"
+   "age": "46m ago"
   },
   {
    "name": "Agent mail notification manager",
    "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill. | latest: Relevant infrastructure deep dive from SemiAnalysis at 1:19:15 PM CDT: \\\"Computation and Data Movement for Inference\\\" (ref 017900",
    "kind": "system",
    "lane": "system",
-   "age": "53m ago"
+   "age": "3h ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by ",
    "kind": "build",
    "lane": "working",
-   "age": "7h ago"
+   "age": "10h ago"
+  },
+  {
+   "name": "Ribbit - eat the frog",
+   "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely ",
+   "kind": "build",
+   "lane": "working",
+   "age": "1h ago"
   },
   {
    "name": "Neo terminal access + iPhone app verification",
@@ -166,13 +173,6 @@
    "age": ""
   },
   {
-   "name": "Ribbit - eat the frog",
-   "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely ",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
    "name": "Proactive value creation",
    "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment. | latest: Air-monitor live result is incomplete because today's desktop-browser budget is exhausted; I will not invent Chicago stock or sale",
    "kind": "system",
@@ -184,77 +184,28 @@
   "scheduled": [
    {
     "name": "Genie/Lucky stack engineer",
-    "fires_at": "8:30 AM"
+    "fires_at": "10:31 AM"
    },
    {
     "name": "CEO - Lucky Cat Robotics",
-    "fires_at": "9:54 AM"
-   },
-   {
-    "name": "deploy engine",
-    "fires_at": "9:00 AM"
+    "fires_at": "12:18 PM"
    },
    {
     "name": "Ribbit - eat the frog",
     "fires_at": "8:00 AM"
    },
    {
+    "name": "deploy engine",
+    "fires_at": "9:00 AM"
+   },
+   {
     "name": "Proactive value creation",
     "fires_at": "2:00 PM"
    }
   ],
-  "backlog": [
-   {
-    "title": "Launch Jacob creative ventures: Lucky Cat Co, The New Chicagoan, personal blog/photography",
-    "blocked": false
-   },
-   {
-    "title": "e/acc media campaign",
-    "blocked": false
-   },
-   {
-    "title": "Jacob's end-of-year plan: job, Lucky Cat, car, apartment, social life",
-    "blocked": false
-   },
-   {
-    "title": "Day of the Dead Lego-animation short film",
-    "blocked": false
-   },
-   {
-    "title": "Frostfall Godot rebuild with Blender assets",
-    "blocked": false
-   },
-   {
-    "title": "Games from @em_nomadic ideas (Blender to Godot)",
-    "blocked": false
-   },
-   {
-    "title": "Execute the four self-emailed creative tasks",
-    "blocked": false
-   },
-   {
-    "title": "Make Lucky Cat real with Micro Center parts and Amazon shell",
-    "blocked": false
-   },
-   {
-    "title": "Help Jacob treat two lip blisters",
-    "blocked": false
-   },
-   {
-    "title": "Redo past anime girl models at HQ bar",
-    "blocked": false
-   },
-   {
-    "title": "Sign up for Modal + Oracle free VM",
-    "blocked": false
-   },
-   {
-    "title": "Anime girl characters with baku_lab head style",
-    "blocked": false
-   }
-  ],
-  "backlog_total": 29,
-  "unique_total": 29
+  "backlog": [],
+  "backlog_total": 0,
+  "unique_total": 0
  },
- "generated_at": "Sep 22, 8:15 AM"
+ "generated_at": "Sep 22, 10:25 AM"
 }

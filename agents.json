@@ -5,36 +5,50 @@
  "blocked_count": 0,
  "agents": [
   {
-   "name": "Verify Freebuff CLI connection",
-   "summary": "Provide the exact safe read-only command Jacob can paste into the already-open Windows Terminal to verify... | latest: Correct: Outreachr has not run yet. I audited the exact repo and staged the verified Windows build, but held installation because ",
+   "name": "Que Killer",
+   "summary": "Jacob explicitly wants maximum useful throughput today. Keep auditing all live sibling assignments and... | latest: Demo ready and attached: an 8-second 1280x720 H.264 video plus a strong full-resolution screenshot. I visually inspected the actua",
    "kind": "build",
    "lane": "working",
-   "age": "11m ago"
+   "age": "34m ago"
+  },
+  {
+   "name": "Verify Freebuff CLI connection",
+   "summary": "Provide the exact safe read-only command Jacob can paste into the already-open Windows Terminal to verify... | latest: Outreachr continuation is still gated. The backup owner has regained Windows access and is checking the C:\\\\Downloads job now, but",
+   "kind": "build",
+   "lane": "working",
+   "age": "43m ago"
+  },
+  {
+   "name": "Queue Killer - creative shipping",
+   "summary": "Standing queue-killer lane focused on Jacob's unowned creative builds, launches and publishing blockers.... | latest: Mira V3 animation correction is ready. I re-inspected the source motion and replaced the static portrait with an autoplaying, mute",
+   "kind": "build",
+   "lane": "working",
+   "age": "33m ago"
+  },
+  {
+   "name": "Queue Killer - coursework and income",
+   "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
+   "kind": "build",
+   "lane": "working",
+   "age": "43m ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
-   "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: Pi 500 Fleet Command Center is DEPLOYED and live as a full-screen wallboard on the TV. Attached screenshot is the actual TV render",
+   "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: V2.1 VERIFICATION CONTRACT - DONE, deployed and visually verified on the TV (screenshot attached, NERV theme). What changed (serve",
    "kind": "build",
    "lane": "working",
-   "age": "0m ago"
+   "age": "24m ago"
+  },
+  {
+   "name": "CEO - Lucky Cat Robotics",
+   "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: Midnight session - Branch B execution from the Decision Day Playbook. 1) BLUEPRINT STATUS: their own FAQ still says \\\"apply by Sep",
+   "kind": "build",
+   "lane": "working",
+   "age": "53m ago"
   },
   {
    "name": "Founder opportunity search",
    "summary": "Handle Jacob's latest request: find other current opportunities like HonorsFund and America250 that fit him and Lucky Cat. Ground live eligibility, deadline, award or investment economics, application requirements, AI-content restrictions,  | latest: Prepared the complete review packet for all seven programs and attached it as a transferable file. Nothing was submitted, sent, up",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Queue Killer - creative shipping",
-   "summary": "Standing queue-killer lane focused on Jacob's unowned creative builds, launches and publishing blockers.... | latest: Reconciled the six orphaned creative todos. Five were already satisfied and should not count as new output: - todo-01M30HFHESW9WJV",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Queue Killer - coursework and income",
-   "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Founders Inc exact state, live-checked now: - Blueprint application remains submitted. Receipt is Gmail message `1a0a37801372f5e8`",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -49,13 +63,6 @@
   {
    "name": "Multi-service code backup setup",
    "summary": "Take the local leg of todo-01M2S2P92YJQ2R24MT8VXVNYVD now: inventory the backup scope across SSD, Windows... | latest: MUSCLEBOT is durably backed up and round-trip verified. Destination: https://drive.google.com/file/d/1mzxwIAXYkeve2B7lRrvRoZ_7b9xj",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Que Killer",
-   "summary": "Jacob explicitly wants maximum useful throughput today. Keep auditing all live sibling assignments and... | latest: Drive organization is now blocked by sustained project-wide Google Drive API contention, not by account access. Even after a 75-mi",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -159,13 +166,6 @@
    "age": ""
   },
   {
-   "name": "CEO - Lucky Cat Robotics",
-   "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: Monitoring hygiene note: the Gmail event subscription for wishlist signups produced a third false positive tonight (an f.inc newsl",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
    "name": "Agent mail notification manager",
    "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill. | latest: Relevant infrastructure deep dive from SemiAnalysis at 1:19:15 PM CDT: \\\"Computation and Data Movement for Inference\\\" (ref 017900",
    "kind": "system",
@@ -184,11 +184,15 @@
   "scheduled": [
    {
     "name": "Verify Freebuff CLI connection",
-    "fires_at": "12:18 AM"
+    "fires_at": "1:19 AM"
    },
    {
     "name": "Genie/Lucky stack engineer",
-    "fires_at": "12:12 AM"
+    "fires_at": "1:25 AM"
+   },
+   {
+    "name": "CEO - Lucky Cat Robotics",
+    "fires_at": "1:54 AM"
    },
    {
     "name": "deploy engine",
@@ -197,10 +201,6 @@
    {
     "name": "Ribbit - eat the frog",
     "fires_at": "8:00 AM"
-   },
-   {
-    "name": "CEO - Lucky Cat Robotics",
-    "fires_at": "12:17 AM"
    },
    {
     "name": "Proactive value creation",
@@ -260,5 +260,5 @@
   "backlog_total": 28,
   "unique_total": 28
  },
- "generated_at": "Sep 22, 12:12 AM"
+ "generated_at": "Sep 22, 1:12 AM"
 }

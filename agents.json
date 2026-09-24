@@ -1,99 +1,64 @@
 {
- "count": 23,
- "lucky_cat_count": 19,
+ "count": 22,
+ "lucky_cat_count": 18,
  "paused_count": 0,
  "blocked_count": 0,
  "agents": [
-  {
-   "name": "Verify Freebuff CLI connection",
-   "summary": "Provide the exact safe read-only command Jacob can paste into the already-open Windows Terminal to verify... | latest: Outreachr continuation is still gated. The backup owner has regained Windows access and is checking the C:\\\\Downloads job now, but",
-   "kind": "build",
-   "lane": "working",
-   "age": "47m ago"
-  },
   {
    "name": "Queue Killer - coursework and income",
    "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
-  },
-  {
-   "name": "QM test on Z13",
-   "summary": "Jacob approved testing QM (yc-software/qm, MIT, runs on local ollama) on the Z13 with one hard constraint: NO REBOOT. If any install step requires a reboot, stop before it and report what's pending - never reboot. Access: CRD to jacobslapto",
-   "kind": "build",
-   "lane": "working",
-   "age": "24m ago"
-  },
-  {
-   "name": "deploy engine",
-   "summary": "Stars lead independently passed the canonical gate and requests deployment of the already-gated package.... | latest: Blocked by the user's overwrite condition: `JacobEGarcia/portfolio` already exists and contains unrelated prior user work, a live ",
-   "kind": "build",
-   "lane": "working",
-   "age": "48m ago"
-  },
-  {
-   "name": "GITS game lane",
-   "summary": "Take todo-01M277ZKKRRHFY1GJEGNA3C4MP: build the Minecraft VR + Rust voxel game locally, using your... | latest: Backup checkpoint cannot be taken from this run's filesystem: the workspace has been rebuilt and now contains only the three shell",
-   "kind": "build",
-   "lane": "working",
-   "age": "1h ago"
-  },
-  {
-   "name": "tech radar + founder programs",
-   "summary": "Handle Jacob's latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: Job wave grounded across the live signed-in Indeed and Handshake sessions plus official direct listings. I attached the exact shor",
-   "kind": "build",
-   "lane": "working",
-   "age": "1h ago"
-  },
-  {
-   "name": "Godot + anime build lane",
-   "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
-   "kind": "build",
-   "lane": "working",
-   "age": "12h ago"
+   "age": "0m ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
-   "age": "3m ago"
-  },
-  {
-   "name": "Ribbit - eat the frog",
-   "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely ",
-   "kind": "build",
-   "lane": "working",
-   "age": "3h ago"
-  },
-  {
-   "name": "Agent mail notification manager",
-   "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill. | latest: Relevant infrastructure deep dive from SemiAnalysis at 1:19:15 PM CDT: \\\"Computation and Data Movement for Inference\\\" (ref 017900",
-   "kind": "system",
-   "lane": "system",
-   "age": "9h ago"
-  },
-  {
-   "name": "vault link - GitHub password retry",
-   "summary": "Vault-link lane. Jacob is re-updating the GitHub password in the vault - the one he saved earlier today is being rejected by GitHub. Follow /skills/platform/vault-agent/SKILL.md. Do exactly these steps in order, nothing else: 1) tools vault",
-   "kind": "build",
-   "lane": "working",
-   "age": "1h ago"
+   "age": "0m ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by ",
    "kind": "build",
    "lane": "working",
-   "age": "26m ago"
+   "age": "10m ago"
   },
   {
-   "name": "3D asset upgrade pass",
-   "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: ```thinking Files exist, timestamps 15:04-15:05 match the validated final run. These are the exact QA shots I inspected and attach",
+   "name": "Email LA block",
+   "summary": "Send one email as the user (jacobegarcia101@gmail.com) to himself. Subject: \"NET 365 Lab 1 - LA router block\". Body: exactly the LA-JG router config block from the attached file /downloads/NET365_Lab1_worked_model_SN44-c0960c02.md (the \"###",
    "kind": "build",
    "lane": "working",
-   "age": "12h ago"
+   "age": ""
+  },
+  {
+   "name": "Her OS install on Z13",
+   "summary": "Install Her OS Local on the Z13 (jacobslaptop, Windows over Tailscale terminal preferred, CRD fallback) and run a voice round-trip test to confirm it works end to end. User approved today: \"Yes\" (phonemsg-01M37X0SZKWHGEGBF4QB6Z9PJ0) to slot",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "YouTube link check",
+   "summary": "Identify this YouTube video and report what it is: https://youtu.be/AL-PQuB2wy0 Get the title, channel, length, and a one-paragraph summary of what it shows or teaches (from description/transcript if available). Report the canonical URL.",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "GitLab mirror wiring",
+   "summary": "Jacob just filled the vault entry \"GitLab PAT jacobegarcia101\" (personal access token for gitlab.com/jacobegarcia101, scopes read_repository + write_repository). Context: on 2026-09-21 all 100 GitHub repos (88 public + 12 private, account J",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "SUBPIXEL native + FSR 4 INT8 proof",
+   "summary": "Jacob approved (iMessage 1:04 PM Sep 23) installing Visual Studio Build Tools (C++ workload) + CMake on the Z13. No reboot - stop and report if anything asks for one. Goal: build the FidelityFX SDK 2.3 upscaler sample on the Z13 (Ryzen AI M",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
   },
   {
    "name": "D2L vault password link",
@@ -103,36 +68,36 @@
    "age": ""
   },
   {
-   "name": "iPhone app dev on Neo",
-   "summary": "Jacob's directive: use the MacBook (Neo) for iPhone app development. Set up an Xcode SwiftUI build lane on Neo via Chrome Remote Desktop (host jacobs-macbook, vault PIN; CRD Google sign-in is saved on config-c - use a read lease, no new pho",
+   "name": "QM test on Z13",
+   "summary": "Jacob approved testing QM (yc-software/qm, MIT, runs on local ollama) on the Z13 with one hard constraint: NO REBOOT. If any install step requires a reboot, stop before it and report what's pending - never reboot. Access: CRD to jacobslapto",
    "kind": "build",
    "lane": "working",
    "age": ""
   },
   {
-   "name": "agent visual + Chinese agents",
-   "summary": "Handle the user's latest iMessage pair: \"Make this but with more ai agents including the Chinese ones\" + https://x.com/p4nthera_/status/2102537766244323719. Read the post first, report back exactly what it shows, then build his version: the",
+   "name": "Verify Freebuff CLI connection",
+   "summary": "Provide the exact safe read-only command Jacob can paste into the already-open Windows Terminal to verify... | latest: Outreachr continuation is still gated. The backup owner has regained Windows access and is checking the C:\\\\Downloads job now, but",
    "kind": "build",
    "lane": "working",
    "age": ""
   },
   {
-   "name": "playlist remakes 9-14",
-   "summary": "Handle the user's iMessage request \"Make all the 3d remakes in this playlist\" (https://youtube.com/playlist?list=PLRj3O9GQgD4UVhr45LlyhqwpdrSyh6fq1 - CodyCantEatThis \"All Remakes\", 14 videos). Your half: videos #9-14 only - Lego Minecraft (",
+   "name": "GITS game lane",
+   "summary": "Take todo-01M277ZKKRRHFY1GJEGNA3C4MP: build the Minecraft VR + Rust voxel game locally, using your... | latest: Backup checkpoint cannot be taken from this run's filesystem: the workspace has been rebuilt and now contains only the three shell",
    "kind": "build",
    "lane": "working",
    "age": ""
   },
   {
-   "name": "living painting TV pilot",
-   "summary": "Handle the user's latest iMessage: he approved the living-painting TV art pilot (eve_bouff living-painting technique) and wants the works written to the 16GB flash drive attached to one of his machines (likely the Z13 - remote access approv",
+   "name": "deploy engine",
+   "summary": "Stars lead independently passed the canonical gate and requests deployment of the already-gated package.... | latest: Blocked by the user's overwrite condition: `JacobEGarcia/portfolio` already exists and contains unrelated prior user work, a live ",
    "kind": "build",
    "lane": "working",
    "age": ""
   },
   {
-   "name": "QK - video + music",
-   "summary": "You are a queue-killer for Jacob's queued video/music work. Kill these four queued todos, one at a time: 1. todo-01M21JWK7Q2RCED7MNX8PT8Q54 \"Day of the Dead Lego-animation short film\" 2. todo-01M275M3M5KXKHA1JRTXS03XC7 \"Animated video: the ",
+   "name": "3D asset upgrade pass",
+   "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: ```thinking Files exist, timestamps 15:04-15:05 match the validated final run. These are the exact QA shots I inspected and attach",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -145,8 +110,36 @@
    "age": ""
   },
   {
+   "name": "Godot + anime build lane",
+   "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "tech radar + founder programs",
+   "summary": "Handle Jacob's latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: Job wave grounded across the live signed-in Indeed and Handshake sessions plus official direct listings. I attached the exact shor",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
    "name": "Instinct-to-Instinct",
    "summary": "Follow your persistent platform task assignment for your user\u2019s Instinct-to-Instinct conversations.",
+   "kind": "system",
+   "lane": "system",
+   "age": ""
+  },
+  {
+   "name": "Ribbit - eat the frog",
+   "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely ",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
+  },
+  {
+   "name": "Agent mail notification manager",
+   "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill. | latest: Relevant infrastructure deep dive from SemiAnalysis at 1:19:15 PM CDT: \\\"Computation and Data Movement for Inference\\\" (ref 017900",
    "kind": "system",
    "lane": "system",
    "age": ""
@@ -162,28 +155,52 @@
  "queued": {
   "scheduled": [
    {
+    "name": "Queue Killer - coursework and income",
+    "fires_at": "12:05 AM"
+   },
+   {
+    "name": "Genie/Lucky stack engineer",
+    "fires_at": "1:00 AM"
+   },
+   {
+    "name": "CEO - Lucky Cat Robotics",
+    "fires_at": "12:19 AM"
+   },
+   {
+    "name": "Her OS install on Z13",
+    "fires_at": "1:20 AM"
+   },
+   {
+    "name": "GitLab mirror wiring",
+    "fires_at": "12:45 AM"
+   },
+   {
+    "name": "SUBPIXEL native + FSR 4 INT8 proof",
+    "fires_at": "12:05 AM"
+   },
+   {
+    "name": "QM test on Z13",
+    "fires_at": "12:35 AM"
+   },
+   {
     "name": "deploy engine",
-    "fires_at": "9:00 AM"
+    "fires_at": "8:30 AM"
+   },
+   {
+    "name": "Godot + anime build lane",
+    "fires_at": "2:39 AM"
    },
    {
     "name": "tech radar + founder programs",
     "fires_at": "11:30 AM"
    },
    {
-    "name": "Genie/Lucky stack engineer",
-    "fires_at": "1:02 PM"
-   },
-   {
     "name": "Ribbit - eat the frog",
     "fires_at": "8:00 AM"
    },
    {
-    "name": "CEO - Lucky Cat Robotics",
-    "fires_at": "4:08 PM"
-   },
-   {
     "name": "Proactive value creation",
-    "fires_at": "2:00 PM"
+    "fires_at": "8:00 AM"
    }
   ],
   "backlog": [
@@ -236,8 +253,8 @@
     "blocked": false
    }
   ],
-  "backlog_total": 38,
-  "unique_total": 38
+  "backlog_total": 40,
+  "unique_total": 40
  },
- "generated_at": "Sep 23, 12:56 PM"
+ "generated_at": "Sep 24, 12:19 AM"
 }

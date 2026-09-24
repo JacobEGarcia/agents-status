@@ -9,21 +9,77 @@
    "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "0m ago"
+   "age": "3m ago"
+  },
+  {
+   "name": "QM test on Z13",
+   "summary": "Jacob approved testing QM (yc-software/qm, MIT, runs on local ollama) on the Z13 with one hard constraint: NO REBOOT. If any install step requires a reboot, stop before it and report what's pending - never reboot. Access: CRD to jacobslapto",
+   "kind": "build",
+   "lane": "working",
+   "age": "36m ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
+   "age": "8m ago"
+  },
+  {
+   "name": "GitLab mirror wiring",
+   "summary": "Jacob just filled the vault entry \"GitLab PAT jacobegarcia101\" (personal access token for gitlab.com/jacobegarcia101, scopes read_repository + write_repository). Context: on 2026-09-21 all 100 GitHub repos (88 public + 12 private, account J",
+   "kind": "build",
+   "lane": "working",
    "age": "0m ago"
+  },
+  {
+   "name": "Her OS install on Z13",
+   "summary": "Install Her OS Local on the Z13 (jacobslaptop, Windows over Tailscale terminal preferred, CRD fallback) and run a voice round-trip test to confirm it works end to end. User approved today: \"Yes\" (phonemsg-01M37X0SZKWHGEGBF4QB6Z9PJ0) to slot",
+   "kind": "build",
+   "lane": "working",
+   "age": "11m ago"
+  },
+  {
+   "name": "Godot + anime build lane",
+   "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
+   "kind": "build",
+   "lane": "working",
+   "age": "49m ago"
+  },
+  {
+   "name": "tech radar + founder programs",
+   "summary": "Handle Jacob's latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: Job wave grounded across the live signed-in Indeed and Handshake sessions plus official direct listings. I attached the exact shor",
+   "kind": "build",
+   "lane": "working",
+   "age": "37m ago"
+  },
+  {
+   "name": "deploy engine",
+   "summary": "Stars lead independently passed the canonical gate and requests deployment of the already-gated package.... | latest: Blocked by the user's overwrite condition: `JacobEGarcia/portfolio` already exists and contains unrelated prior user work, a live ",
+   "kind": "build",
+   "lane": "working",
+   "age": "5m ago"
+  },
+  {
+   "name": "SUBPIXEL native + FSR 4 INT8 proof",
+   "summary": "Jacob approved (iMessage 1:04 PM Sep 23) installing Visual Studio Build Tools (C++ workload) + CMake on the Z13. No reboot - stop and report if anything asks for one. Goal: build the FidelityFX SDK 2.3 upscaler sample on the Z13 (Ryzen AI M",
+   "kind": "build",
+   "lane": "working",
+   "age": "59m ago"
+  },
+  {
+   "name": "D2L vault password link",
+   "summary": "Create a vault request for Jacob to update his stored DePaul D2L password (the existing D2L entry's password is stale - rejected at login since 11:49 AM today). The request should collect just the updated password field for that entry. Repo",
+   "kind": "build",
+   "lane": "working",
+   "age": "6m ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by ",
    "kind": "build",
    "lane": "working",
-   "age": "10m ago"
+   "age": "2h ago"
   },
   {
    "name": "Email LA block",
@@ -33,43 +89,8 @@
    "age": ""
   },
   {
-   "name": "Her OS install on Z13",
-   "summary": "Install Her OS Local on the Z13 (jacobslaptop, Windows over Tailscale terminal preferred, CRD fallback) and run a voice round-trip test to confirm it works end to end. User approved today: \"Yes\" (phonemsg-01M37X0SZKWHGEGBF4QB6Z9PJ0) to slot",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
    "name": "YouTube link check",
    "summary": "Identify this YouTube video and report what it is: https://youtu.be/AL-PQuB2wy0 Get the title, channel, length, and a one-paragraph summary of what it shows or teaches (from description/transcript if available). Report the canonical URL.",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "GitLab mirror wiring",
-   "summary": "Jacob just filled the vault entry \"GitLab PAT jacobegarcia101\" (personal access token for gitlab.com/jacobegarcia101, scopes read_repository + write_repository). Context: on 2026-09-21 all 100 GitHub repos (88 public + 12 private, account J",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "SUBPIXEL native + FSR 4 INT8 proof",
-   "summary": "Jacob approved (iMessage 1:04 PM Sep 23) installing Visual Studio Build Tools (C++ workload) + CMake on the Z13. No reboot - stop and report if anything asks for one. Goal: build the FidelityFX SDK 2.3 upscaler sample on the Z13 (Ryzen AI M",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "D2L vault password link",
-   "summary": "Create a vault request for Jacob to update his stored DePaul D2L password (the existing D2L entry's password is stale - rejected at login since 11:49 AM today). The request should collect just the updated password field for that entry. Repo",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "QM test on Z13",
-   "summary": "Jacob approved testing QM (yc-software/qm, MIT, runs on local ollama) on the Z13 with one hard constraint: NO REBOOT. If any install step requires a reboot, stop before it and report what's pending - never reboot. Access: CRD to jacobslapto",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -89,13 +110,6 @@
    "age": ""
   },
   {
-   "name": "deploy engine",
-   "summary": "Stars lead independently passed the canonical gate and requests deployment of the already-gated package.... | latest: Blocked by the user's overwrite condition: `JacobEGarcia/portfolio` already exists and contains unrelated prior user work, a live ",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
    "name": "3D asset upgrade pass",
    "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: ```thinking Files exist, timestamps 15:04-15:05 match the validated final run. These are the exact QA shots I inspected and attach",
    "kind": "build",
@@ -105,20 +119,6 @@
   {
    "name": "Blender art + addon lane",
    "summary": "Handle Jacob's new reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: ```thinking Single copy only (no duplicate \u2014 the 8:36:56 attempt failed on quota), correct size. post.py updated. Get the link and",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Godot + anime build lane",
-   "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "tech radar + founder programs",
-   "summary": "Handle Jacob's latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: Job wave grounded across the live signed-in Indeed and Handshake sessions plus official direct listings. I attached the exact shor",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -156,35 +156,15 @@
   "scheduled": [
    {
     "name": "Queue Killer - coursework and income",
-    "fires_at": "12:05 AM"
+    "fires_at": "12:10 AM"
    },
    {
     "name": "Genie/Lucky stack engineer",
-    "fires_at": "1:00 AM"
-   },
-   {
-    "name": "CEO - Lucky Cat Robotics",
-    "fires_at": "12:19 AM"
-   },
-   {
-    "name": "Her OS install on Z13",
-    "fires_at": "1:20 AM"
+    "fires_at": "2:37 AM"
    },
    {
     "name": "GitLab mirror wiring",
-    "fires_at": "12:45 AM"
-   },
-   {
-    "name": "SUBPIXEL native + FSR 4 INT8 proof",
-    "fires_at": "12:05 AM"
-   },
-   {
-    "name": "QM test on Z13",
-    "fires_at": "12:35 AM"
-   },
-   {
-    "name": "deploy engine",
-    "fires_at": "8:30 AM"
+    "fires_at": "2:37 AM"
    },
    {
     "name": "Godot + anime build lane",
@@ -193,6 +173,14 @@
    {
     "name": "tech radar + founder programs",
     "fires_at": "11:30 AM"
+   },
+   {
+    "name": "deploy engine",
+    "fires_at": "8:30 AM"
+   },
+   {
+    "name": "CEO - Lucky Cat Robotics",
+    "fires_at": "4:08 AM"
    },
    {
     "name": "Ribbit - eat the frog",
@@ -256,5 +244,5 @@
   "backlog_total": 40,
   "unique_total": 40
  },
- "generated_at": "Sep 24, 12:19 AM"
+ "generated_at": "Sep 24, 2:26 AM"
 }

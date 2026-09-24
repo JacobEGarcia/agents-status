@@ -1,12 +1,26 @@
 {
- "count": 24,
- "lucky_cat_count": 20,
+ "count": 27,
+ "lucky_cat_count": 23,
  "paused_count": 0,
  "blocked_count": 0,
  "agents": [
   {
+   "name": "Godot + anime build lane",
+   "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
+   "kind": "build",
+   "lane": "working",
+   "age": "2m ago"
+  },
+  {
    "name": "Queue Killer - coursework and income",
    "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
+   "kind": "build",
+   "lane": "working",
+   "age": "2m ago"
+  },
+  {
+   "name": "Paperclip on Z13 + local stack",
+   "summary": "Handle Jacob's latest iMessage (reply to the paperclip.ing link): \"Yes, what's the local stack we could max out with a windows os vs an omarchy Os\". Two parts: 1) He said yes to installing Paperclip (open source, self-hosted, github.com/pap",
    "kind": "build",
    "lane": "working",
    "age": "1m ago"
@@ -16,53 +30,46 @@
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
-   "age": "11m ago"
+   "age": "10m ago"
   },
   {
    "name": "ggsimm X game",
    "summary": "Jacob's latest iMessage: \"Make this game\" with https://x.com/ggsimm/status/2102809490672239007?s=46 . Read the post (headless/public first), then build the game so it looks like the reference - rebuild assets from its frames, placeholder ar",
    "kind": "build",
    "lane": "working",
-   "age": "37m ago"
+   "age": "38m ago"
   },
   {
    "name": "deploy engine",
    "summary": "Stars lead independently passed the canonical gate and requests deployment of the already-gated package.... | latest: Blocked by the user's overwrite condition: `JacobEGarcia/portfolio` already exists and contains unrelated prior user work, a live ",
    "kind": "build",
    "lane": "working",
-   "age": "2m ago"
+   "age": "3m ago"
   },
   {
    "name": "GITS game lane",
    "summary": "Take todo-01M277ZKKRRHFY1GJEGNA3C4MP: build the Minecraft VR + Rust voxel game locally, using your... | latest: Backup checkpoint cannot be taken from this run's filesystem: the workspace has been rebuilt and now contains only the three shell",
    "kind": "build",
    "lane": "working",
-   "age": "52m ago"
+   "age": "53m ago"
   },
   {
-   "name": "Godot + anime build lane",
-   "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
+   "name": "Chess reel v3 piece anim",
+   "summary": "Revise the attached DePaul Chess Club \"today\" reel v2 (15s) per Jacob's latest iMessage: replace the pixel hourglass in the right-hand \"WE WRAP\" cell of the chess clock with a chess piece animation. Keep everything else: the navy/red/cream ",
    "kind": "build",
    "lane": "working",
-   "age": "43m ago"
+   "age": "0m ago"
   },
   {
    "name": "Apple Watch Qbert",
    "summary": "Overnight queue-clearing lane. Jacob asked on iMessage (phonemsg-01M39A36KQXQXZ8DFMXFAESGM9, 3:56 AM) for max agents working through his queue. Lane: todo \"Build Q*bert-style Apple Watch game\". Xcode-ready watchOS SwiftUI/SpriteKit project,",
    "kind": "build",
    "lane": "working",
-   "age": "21m ago"
+   "age": "23m ago"
   },
   {
    "name": "tech radar + founder programs",
    "summary": "Handle Jacob's latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: Job wave grounded across the live signed-in Indeed and Handshake sessions plus official direct listings. I attached the exact shor",
-   "kind": "build",
-   "lane": "working",
-   "age": "5h ago"
-  },
-  {
-   "name": "D2L vault password link",
-   "summary": "Create a vault request for Jacob to update his stored DePaul D2L password (the existing D2L entry's password is stale - rejected at login since 11:49 AM today). The request should collect just the updated password field for that entry. Repo",
    "kind": "build",
    "lane": "working",
    "age": "6h ago"
@@ -72,28 +79,49 @@
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by ",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "6m ago"
+  },
+  {
+   "name": "D2L vault password link",
+   "summary": "Create a vault request for Jacob to update his stored DePaul D2L password (the existing D2L entry's password is stale - rejected at login since 11:49 AM today). The request should collect just the updated password field for that entry. Repo",
+   "kind": "build",
+   "lane": "working",
+   "age": "7h ago"
+  },
+  {
+   "name": "Pixocam-style iPhone app",
+   "summary": "Handle Jacob's latest iMessages: \"Make this iPhone app\" + https://pixocam.com/ + \"Use the MacBook Neo if I need too\". Study the reference (public page first, headless), then build his own version as an Xcode-ready SwiftUI iPhone app that lo",
+   "kind": "build",
+   "lane": "working",
+   "age": "0m ago"
   },
   {
    "name": "iPhone 4 Lucky node mockup",
    "summary": "Jacob's latest iMessage: \"Make me a pic of what this could look like\" - the jailbroken iPhone 4 as a Lucky Cat node, as I described it in the thread: on his desk as the cat's face, screen showing Lucky's eyes plus a small status readout, li",
    "kind": "build",
    "lane": "working",
-   "age": "7h ago"
+   "age": "8h ago"
+  },
+  {
+   "name": "Blender art + addon lane",
+   "summary": "Handle Jacob's new reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: ```thinking Single copy only (no duplicate \u2014 the 8:36:56 attempt failed on quota), correct size. post.py updated. Get the link and",
+   "kind": "build",
+   "lane": "working",
+   "age": "17m ago"
   },
   {
    "name": "Ribbit - eat the frog",
    "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely ",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "3h ago"
   },
   {
    "name": "Lucky logo upgrade",
    "summary": "Overnight queue-clearing lane. Jacob asked on iMessage (phonemsg-01M39A36KQXQXZ8DFMXFAESGM9, 3:56 AM) for max agents working through his queue. Quality bar: never AI-slop looking; Scandinavian default (warm white, charcoal, one muted accent",
    "kind": "build",
    "lane": "working",
-   "age": "7h ago"
+   "age": "8h ago"
   },
   {
    "name": "Lucky preorder plan",
@@ -138,13 +166,6 @@
    "age": ""
   },
   {
-   "name": "Blender art + addon lane",
-   "summary": "Handle Jacob's new reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: ```thinking Single copy only (no duplicate \u2014 the 8:36:56 attempt failed on quota), correct size. post.py updated. Get the link and",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
    "name": "Instinct-to-Instinct",
    "summary": "Follow your persistent platform task assignment for your user\u2019s Instinct-to-Instinct conversations.",
    "kind": "system",
@@ -169,12 +190,20 @@
  "queued": {
   "scheduled": [
    {
+    "name": "Godot + anime build lane",
+    "fires_at": "12:35 PM"
+   },
+   {
     "name": "Queue Killer - coursework and income",
     "fires_at": "12:10 AM"
    },
    {
+    "name": "Paperclip on Z13 + local stack",
+    "fires_at": "12:34 PM"
+   },
+   {
     "name": "Genie/Lucky stack engineer",
-    "fires_at": "12:16 PM"
+    "fires_at": "1:17 PM"
    },
    {
     "name": "deploy engine",
@@ -186,7 +215,7 @@
    },
    {
     "name": "CEO - Lucky Cat Robotics",
-    "fires_at": "12:08 PM"
+    "fires_at": "4:08 PM"
    },
    {
     "name": "Ribbit - eat the frog",
@@ -247,8 +276,8 @@
     "blocked": false
    }
   ],
-  "backlog_total": 40,
-  "unique_total": 40
+  "backlog_total": 41,
+  "unique_total": 41
  },
- "generated_at": "Sep 24, 11:28 AM"
+ "generated_at": "Sep 24, 12:28 PM"
 }

@@ -9,63 +9,70 @@
    "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "18m ago"
+   "age": "19m ago"
   },
   {
    "name": "shadowofboar Gmail storage cleanup",
    "summary": "Handle Jacob's latest iMessage: \"clean up storage space on my shadow of boar Gmail\" (shadowofboar@gmail.com, a connected Gmail account). Find what's using the space (large attachments, promotions/newsletters, social, old bulk senders, spam/",
    "kind": "build",
    "lane": "working",
-   "age": "8h ago"
+   "age": "10h ago"
   },
   {
    "name": "Godot + anime build lane",
    "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
    "kind": "build",
    "lane": "working",
-   "age": "6h ago"
+   "age": "8h ago"
   },
   {
    "name": "Paperclip on Z13 + local stack",
    "summary": "Handle Jacob's latest iMessage (reply to the paperclip.ing link): \"Yes, what's the local stack we could max out with a windows os vs an omarchy Os\". Two parts: 1) He said yes to installing Paperclip (open source, self-hosted, github.com/pap",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "4h ago"
   },
   {
    "name": "Humanico (Founders Inc version)",
    "summary": "Handle Jacob's latest iMessage: make a version of Founders Inc (f.inc, the SF startup accelerator/campus he applied to) called Humanico, \"working towards humanity\". There's existing Humanico context: trailers were made for it earlier, so gr",
    "kind": "build",
    "lane": "working",
-   "age": "7h ago"
+   "age": "9h ago"
+  },
+  {
+   "name": "Ribbit - eat the frog",
+   "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely ",
+   "kind": "build",
+   "lane": "working",
+   "age": "1h ago"
   },
   {
    "name": "DJ Schuler flyer edit",
    "summary": "Jacob's latest iMessage: \"Add in the edits described into the photos.\" Attached: DJ SCH\u00dcLER wordmark PNG, the Okocim Bar & Grill neon-night flyer (807x1424), and two screenshots of Sam's texts with the edits. Edits: replace the bottom-right",
    "kind": "build",
    "lane": "working",
-   "age": "3h ago"
+   "age": "5h ago"
   },
   {
    "name": "Addictive game from michaelmicasso post",
    "summary": "Handle Jacob's latest two iMessages: \"Make an addictive game that looks just like this\" plus https://x.com/michaelmicasso/status/2102927696003305811 (x.com blocks direct fetch, so use the fxtwitter mirror and the post's media). A build from",
    "kind": "build",
    "lane": "working",
-   "age": "7h ago"
+   "age": "9h ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by ",
    "kind": "build",
    "lane": "working",
-   "age": "18m ago"
+   "age": "2h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "5h ago"
   },
   {
    "name": "NotchBrowser release watch",
@@ -131,13 +138,6 @@
    "age": ""
   },
   {
-   "name": "Ribbit - eat the frog",
-   "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely ",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
    "name": "Agent mail notification manager",
    "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill. | latest: Relevant infrastructure deep dive from SemiAnalysis at 1:19:15 PM CDT: \\\"Computation and Data Movement for Inference\\\" (ref 017900",
    "kind": "system",
@@ -160,7 +160,11 @@
    },
    {
     "name": "Paperclip on Z13 + local stack",
-    "fires_at": "8:57 AM"
+    "fires_at": "10:58 AM"
+   },
+   {
+    "name": "Ribbit - eat the frog",
+    "fires_at": "8:00 AM"
    },
    {
     "name": "CEO - Lucky Cat Robotics",
@@ -168,7 +172,7 @@
    },
    {
     "name": "Genie/Lucky stack engineer",
-    "fires_at": "8:29 AM"
+    "fires_at": "10:30 AM"
    },
    {
     "name": "NotchBrowser release watch",
@@ -181,10 +185,6 @@
    {
     "name": "tech radar + founder programs",
     "fires_at": "10:20 AM"
-   },
-   {
-    "name": "Ribbit - eat the frog",
-    "fires_at": "8:00 AM"
    },
    {
     "name": "Proactive value creation",
@@ -244,5 +244,5 @@
   "backlog_total": 44,
   "unique_total": 44
  },
- "generated_at": "Sep 25, 8:28 AM"
+ "generated_at": "Sep 25, 10:29 AM"
 }

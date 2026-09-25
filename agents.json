@@ -1,15 +1,15 @@
 {
- "count": 24,
- "lucky_cat_count": 20,
+ "count": 26,
+ "lucky_cat_count": 22,
  "paused_count": 0,
  "blocked_count": 0,
  "agents": [
   {
-   "name": "Queue Killer - coursework and income",
-   "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
+   "name": "deploy engine",
+   "summary": "Stars lead independently passed the canonical gate and requests deployment of the already-gated package.... | latest: Blocked by the user's overwrite condition: `JacobEGarcia/portfolio` already exists and contains unrelated prior user work, a live ",
    "kind": "build",
    "lane": "working",
-   "age": "3h ago"
+   "age": "0m ago"
   },
   {
    "name": "X-reference backlog build lanes",
@@ -19,102 +19,116 @@
    "age": "0m ago"
   },
   {
+   "name": "Queue Killer - coursework and income",
+   "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
+   "kind": "build",
+   "lane": "working",
+   "age": "4h ago"
+  },
+  {
    "name": "Godot + anime build lane",
    "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
    "kind": "build",
    "lane": "working",
-   "age": "58m ago"
+   "age": "1h ago"
   },
   {
    "name": "shadowofboar Gmail storage cleanup",
    "summary": "Handle Jacob's latest iMessage: \"clean up storage space on my shadow of boar Gmail\" (shadowofboar@gmail.com, a connected Gmail account). Find what's using the space (large attachments, promotions/newsletters, social, old bulk senders, spam/",
    "kind": "build",
    "lane": "working",
-   "age": "13h ago"
+   "age": "14h ago"
   },
   {
    "name": "Apple Watch games lane",
    "summary": "Handle Jacob's latest iMessage asking for more agents to clear queued work. Build the Apple Watch game todos: 3D games that push the hardware, remakes/demakes, a 3D Tetris-style game, a Q*bert-style game, and 2D/3D brain games. Get details ",
    "kind": "build",
    "lane": "working",
-   "age": "46m ago"
+   "age": "1h ago"
   },
   {
-   "name": "deploy engine",
-   "summary": "Stars lead independently passed the canonical gate and requests deployment of the already-gated package.... | latest: Blocked by the user's overwrite condition: `JacobEGarcia/portfolio` already exists and contains unrelated prior user work, a live ",
+   "name": "Game from aelthemplaer post",
+   "summary": "Handle Jacob's latest iMessages: \"Make a game that looks exactly like this\" https://x.com/aelthemplaer/status/2103235980983783436?s=46 (phonemsg-01M3CXFWCH917H56CYAPXM7ESV). Study the post's actual media closely: art style, palette, camera,",
    "kind": "build",
    "lane": "working",
-   "age": "39m ago"
+   "age": "19m ago"
+  },
+  {
+   "name": "OPEN desktop: motorcycle for the mind",
+   "summary": "Handle Jacob's latest iMessage (phonemsg-01M3CZK50S21J8XR51E6B92BCQ, replying to his ctatedev ask): upgrade OPEN desktop so it runs real computer use and helpful AI models - \"a motorcycle for the mind\", riffing on Jobs' \"bicycle of the mind",
+   "kind": "build",
+   "lane": "working",
+   "age": "14m ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by ",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "2h ago"
   },
   {
    "name": "Cuphead 3D + VR lane",
    "summary": "Handle Jacob's latest iMessage asking for more agents to clear queued work. Build the todos \"Make Cuphead but 3D\" and \"Make a Cuphead VR game\". Use original art in the 1930s rubber-hose style, not ripped Cuphead assets. Web three.js/WebXR, ",
    "kind": "build",
    "lane": "working",
-   "age": "39m ago"
+   "age": "1h ago"
   },
   {
    "name": "Ribbit - eat the frog",
    "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely ",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
-  },
-  {
-   "name": "Projects from 0x0sojalsec model post",
-   "summary": "Handle Jacob's latest iMessages: \"Make a bunch of cool projects with this model\" https://x.com/0x0sojalsec/status/2103298971032777123?s=46 (phonemsg-01M3CX5HCKAJR0FS4618AHXAV1). First find out exactly which model the post is about, plus its",
-   "kind": "build",
-   "lane": "working",
-   "age": "0m ago"
+   "age": "5h ago"
   },
   {
    "name": "NotchBrowser release watch",
    "summary": "Standing daily watch: check the govi NotchBrowser project for a new release and report to the parent only when a new release appears (version + link). This replaces a prior watch that was cancelled.",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "2h ago"
   },
   {
    "name": "DJ Schuler flyer edit",
    "summary": "Jacob's latest iMessage: \"Add in the edits described into the photos.\" Attached: DJ SCH\u00dcLER wordmark PNG, the Okocim Bar & Grill neon-night flyer (807x1424), and two screenshots of Sam's texts with the edits. Edits: replace the bottom-right",
    "kind": "build",
    "lane": "working",
-   "age": "8h ago"
-  },
-  {
-   "name": "Addictive game from michaelmicasso post",
-   "summary": "Handle Jacob's latest two iMessages: \"Make an addictive game that looks just like this\" plus https://x.com/michaelmicasso/status/2102927696003305811 (x.com blocks direct fetch, so use the fxtwitter mirror and the post's media). A build from",
-   "kind": "build",
-   "lane": "working",
-   "age": "12h ago"
+   "age": "9h ago"
   },
   {
    "name": "Lucky LoRA retrain on Qwen2.5-1.5B",
    "summary": "Handle Jacob's \"Yes do it all\" (phonemsg-01M3CSWXWB79V6XNBQF4K3TYQB). The item for you: retrain the Lucky Cat LoRA on Qwen2.5-1.5B, which is Apache 2.0, using free Kaggle GPUs. That gives him an offline brain he can sell. The current LoRA s",
    "kind": "build",
    "lane": "working",
-   "age": "17m ago"
+   "age": "2m ago"
+  },
+  {
+   "name": "Addictive game from michaelmicasso post",
+   "summary": "Handle Jacob's latest two iMessages: \"Make an addictive game that looks just like this\" plus https://x.com/michaelmicasso/status/2102927696003305811 (x.com blocks direct fetch, so use the fxtwitter mirror and the post's media). A build from",
+   "kind": "build",
+   "lane": "working",
+   "age": "13h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
-   "age": "55m ago"
+   "age": "1h ago"
   },
   {
-   "name": "Frontierlist robotics applications",
-   "summary": "Handle Jacob's latest two iMessages: check out every company on https://frontierlist.com/robotics-talent-density (link previews were attached) and prepare applications for all of them. He's job hunting hard (DePaul student, no income). His ",
+   "name": "MEGA signup retry",
+   "summary": "Jacob said \"Retry it\" (phonemsg-01M3CZBH428ZQGY77XYF4JVV6V): create his free MEGA account at mega.nz/register with jacobegarcia101@gmail.com, using the password already saved in his vault under \"mega.io\" (vault fill, never in chat). Save ME",
    "kind": "build",
    "lane": "working",
-   "age": ""
+   "age": "23m ago"
+  },
+  {
+   "name": "Shadowfax native iPhone app",
+   "summary": "Handle Jacob's latest iMessage (phonemsg-01M3CZH8349181MFNMQQ799J5R, replying to his krispuckett \"make. This\" ask): refine SHADOWFAX until it's feature rich, polished and useful, and make it a real native iPhone app (SwiftUI + ActivityKit L",
+   "kind": "build",
+   "lane": "working",
+   "age": "22m ago"
   },
   {
    "name": "GITS game lane",
@@ -169,12 +183,16 @@
  "queued": {
   "scheduled": [
    {
-    "name": "Queue Killer - coursework and income",
-    "fires_at": "12:10 AM"
-   },
-   {
     "name": "deploy engine",
     "fires_at": "9:00 AM"
+   },
+   {
+    "name": "X-reference backlog build lanes",
+    "fires_at": "2:47 PM"
+   },
+   {
+    "name": "Queue Killer - coursework and income",
+    "fires_at": "12:10 AM"
    },
    {
     "name": "CEO - Lucky Cat Robotics",
@@ -190,11 +208,11 @@
    },
    {
     "name": "Lucky LoRA retrain on Qwen2.5-1.5B",
-    "fires_at": "1:33 PM"
+    "fires_at": "2:38 PM"
    },
    {
     "name": "Genie/Lucky stack engineer",
-    "fires_at": "1:32 PM"
+    "fires_at": "2:33 PM"
    },
    {
     "name": "tech radar + founder programs",
@@ -202,7 +220,7 @@
    },
    {
     "name": "Proactive value creation",
-    "fires_at": "2:00 PM"
+    "fires_at": "8:00 PM"
    }
   ],
   "backlog": [
@@ -258,5 +276,5 @@
   "backlog_total": 45,
   "unique_total": 45
  },
- "generated_at": "Sep 25, 1:31 PM"
+ "generated_at": "Sep 25, 2:32 PM"
 }

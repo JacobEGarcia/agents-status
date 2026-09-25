@@ -1,6 +1,6 @@
 {
- "count": 24,
- "lucky_cat_count": 20,
+ "count": 27,
+ "lucky_cat_count": 23,
  "paused_count": 0,
  "blocked_count": 0,
  "agents": [
@@ -9,109 +9,137 @@
    "summary": "Stars lead independently passed the canonical gate and requests deployment of the already-gated package.... | latest: Blocked by the user's overwrite condition: `JacobEGarcia/portfolio` already exists and contains unrelated prior user work, a live ",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "45m ago"
   },
   {
    "name": "X-reference backlog build lanes",
    "summary": "Handle Jacob's \"Yes do it all\" (phonemsg-01M3CSWXWB79V6XNBQF4K3TYQB). The item for you: clear the backlog of X-reference builds in parallel with the existing lanes. These are the todos owned by the status-board agent (agent-01M2781N66HYKT2E",
    "kind": "build",
    "lane": "working",
-   "age": "8m ago"
+   "age": "0m ago"
   },
   {
    "name": "Queue Killer - coursework and income",
    "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "6h ago"
+   "age": "1m ago"
   },
   {
    "name": "Lucky router + wake word + voice",
    "summary": "Handle Jacob's latest iMessage (phonemsg-01M3D5P3AQS81250C01VRXQNHS) approving my three proposals: 1) Lucky intent router - tiny offline model mapping speech text to commands (lights, timers, music etc.), aimed at fixing Lucky Link degraded",
    "kind": "build",
    "lane": "working",
-   "age": "4m ago"
+   "age": "49m ago"
   },
   {
    "name": "Godot + anime build lane",
    "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "21m ago"
+  },
+  {
+   "name": "Raster real app",
+   "summary": "Jacob: \"If it's not a real app yet make it one\" about Raster, the pixOcam-style iOS camera/filter app built Sep 24 on Neo (MacBook, his iPhone dev machine), running in simulator with Pixel 240P, ASCII, Truchet, CRT (last report phonemsg-01M",
+   "kind": "build",
+   "lane": "working",
+   "age": "0m ago"
   },
   {
    "name": "Apple Watch games lane",
    "summary": "Handle Jacob's latest iMessage asking for more agents to clear queued work. Build the Apple Watch game todos: 3D games that push the hardware, remakes/demakes, a 3D Tetris-style game, a Q*bert-style game, and 2D/3D brain games. Get details ",
    "kind": "build",
    "lane": "working",
-   "age": "3h ago"
+   "age": "4h ago"
   },
   {
    "name": "GITS game lane",
    "summary": "Take todo-01M277ZKKRRHFY1GJEGNA3C4MP: build the Minecraft VR + Rust voxel game locally, using your... | latest: Backup checkpoint cannot be taken from this run's filesystem: the workspace has been rebuilt and now contains only the three shell",
    "kind": "build",
    "lane": "working",
-   "age": "29m ago"
+   "age": "1h ago"
   },
   {
    "name": "Okocim Melee party posters",
    "summary": "Handle Jacob's latest iMessage (phonemsg-01M3D2ET8N7MYWNWW5Y6WGHX8S): \"Make melee posters for the okocim party on October second feat dj Schuler\". Oct 2 2026 is a Friday and his 23rd birthday. Open: whether \"melee\" means Super Smash Bros. M",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "2h ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by ",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "5h ago"
   },
   {
    "name": "Cuphead 3D + VR lane",
    "summary": "Handle Jacob's latest iMessage asking for more agents to clear queued work. Build the todos \"Make Cuphead but 3D\" and \"Make a Cuphead VR game\". Use original art in the 1930s rubber-hose style, not ripped Cuphead assets. Web three.js/WebXR, ",
    "kind": "build",
    "lane": "working",
-   "age": "3h ago"
+   "age": "4h ago"
   },
   {
    "name": "Ribbit - eat the frog",
    "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely ",
    "kind": "build",
    "lane": "working",
-   "age": "7h ago"
+   "age": "8h ago"
   },
   {
    "name": "NotchBrowser release watch",
    "summary": "Standing daily watch: check the govi NotchBrowser project for a new release and report to the parent only when a new release appears (version + link). This replaces a prior watch that was cancelled.",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "6h ago"
   },
   {
    "name": "bluecow009 free model projects",
    "summary": "Handle Jacob's latest iMessage: X link https://x.com/bluecow009/status/2103326124835311700 (phonemsg-01M3D6S8SR3GXVDT3TE5AG1F8X) plus \"Make cool projects with the best free model\" (phonemsg-01M3D6S906J16ETXV91TE6TP04). Find what the post is",
    "kind": "build",
    "lane": "working",
-   "age": "0m ago"
+   "age": "8m ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
-   "age": "36m ago"
+   "age": "0m ago"
+  },
+  {
+   "name": "Blender art + addon lane",
+   "summary": "Handle Jacob's new reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: ```thinking Single copy only (no duplicate \u2014 the 8:36:56 attempt failed on quota), correct size. post.py updated. Get the link and",
+   "kind": "build",
+   "lane": "working",
+   "age": "17m ago"
+  },
+  {
+   "name": "garylau0101 build",
+   "summary": "Handle Jacob's latest iMessages: \"Can we make this\" (phonemsg-01M3D83DPD0QNRRM3QFFSCRWC2) with https://x.com/garylau0101/status/2103321635935998071 (phonemsg-01M3D83JNP940WNMFRWG2KTC1W). Find what the post shows; answer honestly whether it'",
+   "kind": "build",
+   "lane": "working",
+   "age": "46m ago"
+  },
+  {
+   "name": "Trim founder video",
+   "summary": "Jacob sent his recorded founder video (attached .mov) for the F6S/Founders application: \"herws one vid u can make shorter\". Beat sheet he followed: WHO / WHY / PROOF / DIRECTION / ASK, target about 1 minute. Transcribe, cut dead air/flubs/r",
+   "kind": "build",
+   "lane": "working",
+   "age": "0m ago"
   },
   {
    "name": "MEGA signup retry",
    "summary": "Jacob said \"Retry it\" (phonemsg-01M3CZBH428ZQGY77XYF4JVV6V): create his free MEGA account at mega.nz/register with jacobegarcia101@gmail.com, using the password already saved in his vault under \"mega.io\" (vault fill, never in chat). Save ME",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "3h ago"
   },
   {
-   "name": "aron_adler teaching builds: robotics + Jev",
-   "summary": "Handle Jacob's two latest iMessages: \"Make this for teaching robotics and humanoid robotics and make another for teaching about Jev and how it works\" (phonemsg-01M3D7R5SXWKCR4X87QBPKX3CQ) with reference https://x.com/aron_adler/status/21031",
+   "name": "Morrow concept render",
+   "summary": "Jacob replied \"Make me a concept render\" on his Tamagotchi ask (phonemsg-01M3DA4DXFWYJTBSY40V8JS85V). We delivered Morrow: an original ivory keychain pocket companion, 3 physical buttons, dark oval screen with Pip (orange ember-cat characte",
    "kind": "build",
    "lane": "working",
    "age": "0m ago"
@@ -121,18 +149,11 @@
    "summary": "Handle Jacob's latest iMessage (phonemsg-01M3CZH8349181MFNMQQ799J5R, replying to his krispuckett \"make. This\" ask): refine SHADOWFAX until it's feature rich, polished and useful, and make it a real native iPhone app (SwiftUI + ActivityKit L",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "3h ago"
   },
   {
    "name": "3D asset upgrade pass",
    "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: ```thinking Files exist, timestamps 15:04-15:05 match the validated final run. These are the exact QA shots I inspected and attach",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Blender art + addon lane",
-   "summary": "Handle Jacob's new reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: ```thinking Single copy only (no duplicate \u2014 the 8:36:56 attempt failed on quota), correct size. post.py updated. Get the link and",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -173,16 +194,8 @@
     "fires_at": "9:00 AM"
    },
    {
-    "name": "X-reference backlog build lanes",
-    "fires_at": "4:40 PM"
-   },
-   {
     "name": "Queue Killer - coursework and income",
     "fires_at": "12:10 AM"
-   },
-   {
-    "name": "Lucky router + wake word + voice",
-    "fires_at": "4:39 PM"
    },
    {
     "name": "CEO - Lucky Cat Robotics",
@@ -197,8 +210,16 @@
     "fires_at": "10:00 AM"
    },
    {
+    "name": "bluecow009 free model projects",
+    "fires_at": "5:41 PM"
+   },
+   {
     "name": "Genie/Lucky stack engineer",
-    "fires_at": "4:34 PM"
+    "fires_at": "5:35 PM"
+   },
+   {
+    "name": "garylau0101 build",
+    "fires_at": "5:49 PM"
    },
    {
     "name": "tech radar + founder programs",
@@ -262,5 +283,5 @@
   "backlog_total": 45,
   "unique_total": 45
  },
- "generated_at": "Sep 25, 4:34 PM"
+ "generated_at": "Sep 25, 5:35 PM"
 }

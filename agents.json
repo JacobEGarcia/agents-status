@@ -1,64 +1,78 @@
 {
- "count": 27,
- "lucky_cat_count": 23,
+ "count": 26,
+ "lucky_cat_count": 22,
  "paused_count": 0,
  "blocked_count": 0,
  "agents": [
+  {
+   "name": "Finish other job applications + Bracket",
+   "summary": "Handle Jacob's iMessage phonemsg-01M3DNPGJ97KCECY8M3184QFF4: finish and submit all his started non-OpenAI/non-Anthropic applications, including Bracket Bot (two roles). His message is the authorization to submit. agent-01M3DNQ4BVNTHXQM56FBC",
+   "kind": "build",
+   "lane": "working",
+   "age": "29m ago"
+  },
+  {
+   "name": "X-reference backlog build lanes",
+   "summary": "Handle Jacob's \"Yes do it all\" (phonemsg-01M3CSWXWB79V6XNBQF4K3TYQB). The item for you: clear the backlog of X-reference builds in parallel with the existing lanes. These are the todos owned by the status-board agent (agent-01M2781N66HYKT2E",
+   "kind": "build",
+   "lane": "working",
+   "age": "0m ago"
+  },
   {
    "name": "Queue Killer - coursework and income",
    "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "1m ago"
+   "age": "1h ago"
   },
   {
    "name": "Finish all job applications",
    "summary": "Handle Jacob's latest iMessage (phonemsg-01M3DNPGJ97KCECY8M3184QFF4, replying to his jobs ask phonemsg-01M3DKWJXWHX2R6V1X44DR0JNY): he said yes, and wants every OpenAI and Anthropic application finished with tailored resumes made as impress",
    "kind": "build",
    "lane": "working",
-   "age": "8m ago"
+   "age": "1h ago"
   },
   {
    "name": "Godot + anime build lane",
    "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
    "kind": "build",
    "lane": "working",
-   "age": "12m ago"
+   "age": "1h ago"
   },
   {
    "name": "GITS game lane",
    "summary": "Take todo-01M277ZKKRRHFY1GJEGNA3C4MP: build the Minecraft VR + Rust voxel game locally, using your... | latest: Backup checkpoint cannot be taken from this run's filesystem: the workspace has been rebuilt and now contains only the three shell",
    "kind": "build",
    "lane": "working",
-   "age": "5m ago"
+   "age": "1h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
-   "age": "0m ago"
+   "age": "40m ago"
   },
   {
    "name": "Blender art + addon lane",
    "summary": "Handle Jacob's new reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: ```thinking Single copy only (no duplicate \u2014 the 8:36:56 attempt failed on quota), correct size. post.py updated. Get the link and",
    "kind": "build",
    "lane": "working",
-   "age": "0m ago"
-  },
-  {
-   "name": "CEO - Lucky Cat Robotics",
-   "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by ",
-   "kind": "build",
-   "lane": "working",
-   "age": "10m ago"
+   "age": "14m ago"
   },
   {
    "name": "Kaggle MuJoCo robotics experiments",
    "summary": "Handle Jacob's latest iMessage (phonemsg-01M3DRG42TC4SRP6JWH9VXNSMY): run as many robotics experiments as possible on Kaggle, including MuJoCo. Scope for now: his own Kaggle account tied to jacobegarcia101@gmail.com only. Multi-account quot",
    "kind": "build",
    "lane": "working",
-   "age": ""
+   "age": "16m ago"
+  },
+  {
+   "name": "CEO - Lucky Cat Robotics",
+   "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by ",
+   "kind": "build",
+   "lane": "working",
+   "age": "1h ago"
   },
   {
    "name": "Pyxel games lane",
@@ -68,22 +82,8 @@
    "age": ""
   },
   {
-   "name": "Finish other job applications + Bracket",
-   "summary": "Handle Jacob's iMessage phonemsg-01M3DNPGJ97KCECY8M3184QFF4: finish and submit all his started non-OpenAI/non-Anthropic applications, including Bracket Bot (two roles). His message is the authorization to submit. agent-01M3DNQ4BVNTHXQM56FBC",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
    "name": "Quant paper test",
    "summary": "Handle Jacob's latest iMessage: keep working on his quant test now, without the cloud browser. Hard rules from him: paper-only, hypothetical trades, isolated machine, no brokerage account, no API keys, no real money. Find the existing quant",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Cloudflare free account + ideas",
-   "summary": "Handle Jacob's latest iMessage (reply to his Cloudflare question): make a free Cloudflare account and list ideas/projects we can use the free tier for (Workers, Pages, R2, Tunnel, etc.), tied to his lanes (Lucky Cat, offline AI cluster on Z",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -126,13 +126,6 @@
   {
    "name": "Apple Watch games lane",
    "summary": "Handle Jacob's latest iMessage asking for more agents to clear queued work. Build the Apple Watch game todos: 3D games that push the hardware, remakes/demakes, a 3D Tetris-style game, a Q*bert-style game, and 2D/3D brain games. Get details ",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "X-reference backlog build lanes",
-   "summary": "Handle Jacob's \"Yes do it all\" (phonemsg-01M3CSWXWB79V6XNBQF4K3TYQB). The item for you: clear the backlog of X-reference builds in parallel with the existing lanes. These are the todos owned by the status-board agent (agent-01M2781N66HYKT2E",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -190,40 +183,32 @@
  "queued": {
   "scheduled": [
    {
+    "name": "Finish other job applications + Bracket",
+    "fires_at": "2:33 AM"
+   },
+   {
     "name": "Queue Killer - coursework and income",
     "fires_at": "8:00 AM"
    },
    {
     "name": "Genie/Lucky stack engineer",
-    "fires_at": "12:39 AM"
+    "fires_at": "2:40 AM"
+   },
+   {
+    "name": "Kaggle MuJoCo robotics experiments",
+    "fires_at": "2:40 AM"
    },
    {
     "name": "CEO - Lucky Cat Robotics",
     "fires_at": "11:22 AM"
    },
    {
-    "name": "Kaggle MuJoCo robotics experiments",
-    "fires_at": "12:20 AM"
-   },
-   {
-    "name": "Finish other job applications + Bracket",
-    "fires_at": "12:10 AM"
-   },
-   {
     "name": "Quant paper test",
     "fires_at": "3:30 PM"
    },
    {
-    "name": "Cloudflare free account + ideas",
-    "fires_at": "12:30 AM"
-   },
-   {
     "name": "garylau0101 build",
-    "fires_at": "12:36 AM"
-   },
-   {
-    "name": "X-reference backlog build lanes",
-    "fires_at": "12:25 AM"
+    "fires_at": "2:22 AM"
    },
    {
     "name": "NotchBrowser release watch",
@@ -295,5 +280,5 @@
   "backlog_total": 44,
   "unique_total": 44
  },
- "generated_at": "Sep 26, 12:33 AM"
+ "generated_at": "Sep 26, 2:16 AM"
 }

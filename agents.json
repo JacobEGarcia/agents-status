@@ -6,28 +6,28 @@
  "agents": [
   {
    "name": "Finish other job applications + Bracket",
-   "summary": "Handle Jacob's iMessage phonemsg-01M3DNPGJ97KCECY8M3184QFF4: finish and submit all his started non-OpenAI/non-Anthropic applications, including Bracket Bot (two roles). His message is the authorization to submit. agent-01M3DNQ4BVNTHXQM56FBC",
+   "summary": "Finish and submit all his started non-OpenAI/non-Anthropic applications, including Bracket Bot (two roles). His message is the authorization to submit. agent-01M3DNQ4BVNTHXQM56FBC",
    "kind": "build",
    "lane": "working",
-   "age": "34m ago"
+   "age": "43m ago"
   },
   {
    "name": "Queue Killer - coursework and income",
-   "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
+   "summary": "Shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
    "age": "1h ago"
   },
   {
    "name": "Funding applications",
-   "summary": "Handle Jacob's latest iMessage \"Start applications for all of them\" - the ranked funding list I just sent him (Thiel Fellowship https://thielfellowship.org/faq, Skip $10k fall grant https://helloskip.com/funding-details/10k-fall-grants due ",
+   "summary": "The ranked funding list I just sent him (Thiel Fellowship https://thielfellowship.org/faq, Skip $10k fall grant https://helloskip.com/funding-details/10k-fall-grants due",
    "kind": "build",
    "lane": "working",
-   "age": "33m ago"
+   "age": "42m ago"
   },
   {
    "name": "Finish all job applications",
-   "summary": "Handle Jacob's latest iMessage (phonemsg-01M3DNPGJ97KCECY8M3184QFF4, replying to his jobs ask phonemsg-01M3DKWJXWHX2R6V1X44DR0JNY): he said yes, and wants every OpenAI and Anthropic application finished with tailored resumes made as impress",
+   "summary": "He said yes, and wants every OpenAI and Anthropic application finished with tailored resumes made as impress",
    "kind": "build",
    "lane": "working",
    "age": "7h ago"
@@ -44,14 +44,14 @@
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
-   "age": "10m ago"
+   "age": "1m ago"
   },
   {
    "name": "Full PiG Rust port",
-   "summary": "Handle Jacob's latest iMessages: make the Rust version of PiG (https://github.com/MichaelKinsy/PiG, Go port of the Pi coding agent; source post https://x.com/zekramu/status/2103621478344429774) reach full PiG feature parity: file edit/write",
+   "summary": "Make the Rust version of PiG (https://github.com/MichaelKinsy/PiG, Go port of the Pi coding agent; source post https://x.com/zekramu/status/2103621478344429774) reach full PiG feature parity: file edit/write",
    "kind": "build",
    "lane": "working",
-   "age": "51m ago"
+   "age": "1h ago"
   },
   {
    "name": "GITS game lane",
@@ -62,70 +62,70 @@
   },
   {
    "name": "Blender art + addon lane",
-   "summary": "Handle Jacob's new reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: ```thinking Single copy only (no duplicate \u2014 the 8:36:56 attempt failed on quota), correct size. post.py updated. Get the link and",
+   "summary": "New reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: ```thinking Single copy only (no duplicate \u2014 the 8:36:56 attempt failed on quota), correct size. post.py updated. Get the link and",
    "kind": "build",
    "lane": "working",
    "age": "0m ago"
   },
   {
    "name": "Kaggle MuJoCo robotics experiments",
-   "summary": "Handle Jacob's latest iMessage (phonemsg-01M3DRG42TC4SRP6JWH9VXNSMY): run as many robotics experiments as possible on Kaggle, including MuJoCo. Scope for now: his own Kaggle account tied to jacobegarcia101@gmail.com only. Multi-account quot",
+   "summary": "Run as many robotics experiments as possible on Kaggle, including MuJoCo. Scope for now: his own Kaggle account tied to jacobegarcia101@gmail.com only. Multi-account quot",
    "kind": "build",
    "lane": "working",
    "age": "3h ago"
   },
   {
    "name": "NotchBrowser release watch",
-   "summary": "Standing daily watch: check the govi NotchBrowser project for a new release and report to the parent only when a new release appears (version + link). This replaces a prior watch that was cancelled.",
+   "summary": "Standing daily watch: check the govi NotchBrowser project for a new release and report to the parent only when a new release appears (version + link). This replaces a prior watch that was cancelled",
    "kind": "build",
    "lane": "working",
    "age": "3h ago"
   },
   {
    "name": "satellitedown model builds",
-   "summary": "Handle Jacob's ask about https://x.com/satellitedown/status/2103654205416198145 : identify the fast model in that post, actually run it (free tiers / his Z13 via SSH over Tailscale / Kaggle free GPU, no spending), and build a set of cool pr",
+   "summary": "Identify the fast model in that post, actually run it (free tiers / his Z13 via SSH over Tailscale / Kaggle free GPU, no spending), and build a set of cool pr",
    "kind": "build",
    "lane": "working",
    "age": "1h ago"
   },
   {
    "name": "Ribbit - eat the frog",
-   "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely ",
+   "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "3h ago"
   },
   {
    "name": "garylau0101 build",
-   "summary": "Handle Jacob's latest iMessages: \"Can we make this\" (phonemsg-01M3D83DPD0QNRRM3QFFSCRWC2) with https://x.com/garylau0101/status/2103321635935998071 (phonemsg-01M3D83JNP940WNMFRWG2KTC1W). Find what the post shows; answer honestly whether it'",
+   "summary": "\"Can we make this\" with https://x.com/garylau0101/status/2103321635935998071 . Find what the post shows; answer honestly whether it'",
    "kind": "build",
    "lane": "working",
    "age": "9h ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
-   "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by ",
+   "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by",
    "kind": "build",
    "lane": "working",
    "age": "3h ago"
   },
   {
    "name": "Pyxel games lane",
-   "summary": "Handle Jacob's latest iMessage (phonemsg-01M3DPZCNC6AHAGZQYW1QNXR4J): \"Make a bunch more games using pyxel 3.0\". Context: kitao's X post https://x.com/kitao/status/2103399585909760274 shows an in-development Pyxel 3.0 3D physics sample (low",
+   "summary": "\"Make a bunch more games using pyxel 3.0\". Context: kitao's X post https://x.com/kitao/status/2103399585909760274 shows an in-development Pyxel 3.0 3D physics sample (low",
    "kind": "build",
    "lane": "working",
    "age": ""
   },
   {
    "name": "Quant paper test",
-   "summary": "Handle Jacob's latest iMessage: keep working on his quant test now, without the cloud browser. Hard rules from him: paper-only, hypothetical trades, isolated machine, no brokerage account, no API keys, no real money. Find the existing quant",
+   "summary": "Keep working on his quant test now, without the cloud browser. Hard rules from him: paper-only, hypothetical trades, isolated machine, no brokerage account, no API keys, no real money. Find the existing quant",
    "kind": "build",
    "lane": "working",
    "age": ""
   },
   {
    "name": "Raster real app",
-   "summary": "Jacob: \"If it's not a real app yet make it one\" about Raster, the pixOcam-style iOS camera/filter app built Sep 24 on Neo (MacBook, his iPhone dev machine), running in simulator with Pixel 240P, ASCII, Truchet, CRT (last report phonemsg-01M",
+   "summary": "Jacob: \"If it's not a real app yet make it one\" about Raster, the pixOcam-style iOS camera/filter app built Sep 24 on Neo (MacBook, his iPhone dev machine), running in simulator with Pixel 240P, ASCII, Truchet, CRT (last report",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -139,14 +139,14 @@
   },
   {
    "name": "tech radar + founder programs",
-   "summary": "Handle Jacob's latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: Job wave grounded across the live signed-in Indeed and Handshake sessions plus official direct listings. I attached the exact shor",
+   "summary": "Latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: Job wave grounded across the live signed-in Indeed and Handshake sessions plus official direct listings. I attached the exact shor",
    "kind": "build",
    "lane": "working",
    "age": ""
   },
   {
    "name": "Instinct-to-Instinct",
-   "summary": "Follow your persistent platform task assignment for your user\u2019s Instinct-to-Instinct conversations.",
+   "summary": "Follow your persistent platform task assignment for your user\u2019s Instinct-to-Instinct conversations",
    "kind": "system",
    "lane": "system",
    "age": ""
@@ -266,5 +266,5 @@
   "backlog_total": 43,
   "unique_total": 43
  },
- "generated_at": "Sep 26, 3:22 PM"
+ "generated_at": "Sep 26, 3:31 PM"
 }

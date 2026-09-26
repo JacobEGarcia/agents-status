@@ -1,6 +1,6 @@
 {
- "count": 28,
- "lucky_cat_count": 24,
+ "count": 26,
+ "lucky_cat_count": 22,
  "paused_count": 0,
  "blocked_count": 0,
  "agents": [
@@ -9,35 +9,35 @@
    "summary": "Handle Jacob's iMessage phonemsg-01M3DNPGJ97KCECY8M3184QFF4: finish and submit all his started non-OpenAI/non-Anthropic applications, including Bracket Bot (two roles). His message is the authorization to submit. agent-01M3DNQ4BVNTHXQM56FBC",
    "kind": "build",
    "lane": "working",
-   "age": "23m ago"
+   "age": "1h ago"
   },
   {
    "name": "Queue Killer - coursework and income",
    "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "3h ago"
+   "age": "20m ago"
   },
   {
    "name": "Funding applications",
    "summary": "Handle Jacob's latest iMessage \"Start applications for all of them\" - the ranked funding list I just sent him (Thiel Fellowship https://thielfellowship.org/faq, Skip $10k fall grant https://helloskip.com/funding-details/10k-fall-grants due ",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "2h ago"
   },
   {
    "name": "Finish all job applications",
    "summary": "Handle Jacob's latest iMessage (phonemsg-01M3DNPGJ97KCECY8M3184QFF4, replying to his jobs ask phonemsg-01M3DKWJXWHX2R6V1X44DR0JNY): he said yes, and wants every OpenAI and Anthropic application finished with tailored resumes made as impress",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "5h ago"
   },
   {
    "name": "Godot + anime build lane",
    "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
    "kind": "build",
    "lane": "working",
-   "age": "18m ago"
+   "age": "1h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
@@ -51,28 +51,28 @@
    "summary": "Take todo-01M277ZKKRRHFY1GJEGNA3C4MP: build the Minecraft VR + Rust voxel game locally, using your... | latest: Backup checkpoint cannot be taken from this run's filesystem: the workspace has been rebuilt and now contains only the three shell",
    "kind": "build",
    "lane": "working",
-   "age": "8m ago"
+   "age": "1h ago"
   },
   {
    "name": "Full PiG Rust port",
    "summary": "Handle Jacob's latest iMessages: make the Rust version of PiG (https://github.com/MichaelKinsy/PiG, Go port of the Pi coding agent; source post https://x.com/zekramu/status/2103621478344429774) reach full PiG feature parity: file edit/write",
    "kind": "build",
    "lane": "working",
-   "age": "41m ago"
+   "age": "1h ago"
   },
   {
    "name": "Kaggle MuJoCo robotics experiments",
    "summary": "Handle Jacob's latest iMessage (phonemsg-01M3DRG42TC4SRP6JWH9VXNSMY): run as many robotics experiments as possible on Kaggle, including MuJoCo. Scope for now: his own Kaggle account tied to jacobegarcia101@gmail.com only. Multi-account quot",
    "kind": "build",
    "lane": "working",
-   "age": "15m ago"
+   "age": "1h ago"
   },
   {
    "name": "NotchBrowser release watch",
    "summary": "Standing daily watch: check the govi NotchBrowser project for a new release and report to the parent only when a new release appears (version + link). This replaces a prior watch that was cancelled.",
    "kind": "build",
    "lane": "working",
-   "age": "47m ago"
+   "age": "1h ago"
   },
   {
    "name": "Blender art + addon lane",
@@ -86,28 +86,28 @@
    "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely ",
    "kind": "build",
    "lane": "working",
-   "age": "23m ago"
+   "age": "55m ago"
   },
   {
    "name": "satellitedown model builds",
    "summary": "Handle Jacob's ask about https://x.com/satellitedown/status/2103654205416198145 : identify the fast model in that post, actually run it (free tiers / his Z13 via SSH over Tailscale / Kaggle free GPU, no spending), and build a set of cool pr",
    "kind": "build",
    "lane": "working",
-   "age": "53m ago"
+   "age": "0m ago"
   },
   {
    "name": "garylau0101 build",
    "summary": "Handle Jacob's latest iMessages: \"Can we make this\" (phonemsg-01M3D83DPD0QNRRM3QFFSCRWC2) with https://x.com/garylau0101/status/2103321635935998071 (phonemsg-01M3D83JNP940WNMFRWG2KTC1W). Find what the post shows; answer honestly whether it'",
    "kind": "build",
    "lane": "working",
-   "age": "6h ago"
+   "age": "7h ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by ",
    "kind": "build",
    "lane": "working",
-   "age": "58m ago"
+   "age": "59m ago"
   },
   {
    "name": "Pyxel games lane",
@@ -140,20 +140,6 @@
   {
    "name": "Shadowfax native iPhone app",
    "summary": "Handle Jacob's latest iMessage (phonemsg-01M3CZH8349181MFNMQQ799J5R, replying to his krispuckett \"make. This\" ask): refine SHADOWFAX until it's feature rich, polished and useful, and make it a real native iPhone app (SwiftUI + ActivityKit L",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Cuphead 3D + VR lane",
-   "summary": "Handle Jacob's latest iMessage asking for more agents to clear queued work. Build the todos \"Make Cuphead but 3D\" and \"Make a Cuphead VR game\". Use original art in the 1930s rubber-hose style, not ripped Cuphead assets. Web three.js/WebXR, ",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Apple Watch games lane",
-   "summary": "Handle Jacob's latest iMessage asking for more agents to clear queued work. Build the Apple Watch game todos: 3D games that push the hardware, remakes/demakes, a 3D Tetris-style game, a Q*bert-style game, and 2D/3D brain games. Get details ",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -198,7 +184,7 @@
   "scheduled": [
    {
     "name": "Finish other job applications + Bracket",
-    "fires_at": "12:35 PM"
+    "fires_at": "1:36 PM"
    },
    {
     "name": "Queue Killer - coursework and income",
@@ -206,31 +192,27 @@
    },
    {
     "name": "Genie/Lucky stack engineer",
-    "fires_at": "12:30 PM"
+    "fires_at": "1:24 PM"
    },
    {
     "name": "NotchBrowser release watch",
     "fires_at": "10:00 AM"
    },
    {
-    "name": "Blender art + addon lane",
-    "fires_at": "12:27 PM"
-   },
-   {
     "name": "Ribbit - eat the frog",
-    "fires_at": "3:00 PM"
+    "fires_at": "8:00 AM"
    },
    {
     "name": "satellitedown model builds",
-    "fires_at": "12:20 PM"
+    "fires_at": "1:35 PM"
    },
    {
     "name": "garylau0101 build",
-    "fires_at": "12:38 PM"
+    "fires_at": "1:38 PM"
    },
    {
     "name": "CEO - Lucky Cat Robotics",
-    "fires_at": "12:21 PM"
+    "fires_at": "11:22 PM"
    },
    {
     "name": "Quant paper test",
@@ -298,5 +280,5 @@
   "backlog_total": 43,
   "unique_total": 43
  },
- "generated_at": "Sep 26, 12:21 PM"
+ "generated_at": "Sep 26, 1:21 PM"
 }

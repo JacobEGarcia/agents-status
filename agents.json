@@ -1,6 +1,6 @@
 {
- "count": 27,
- "lucky_cat_count": 23,
+ "count": 28,
+ "lucky_cat_count": 24,
  "paused_count": 0,
  "blocked_count": 0,
  "agents": [
@@ -9,84 +9,98 @@
    "summary": "Handle Jacob's iMessage phonemsg-01M3DNPGJ97KCECY8M3184QFF4: finish and submit all his started non-OpenAI/non-Anthropic applications, including Bracket Bot (two roles). His message is the authorization to submit. agent-01M3DNQ4BVNTHXQM56FBC",
    "kind": "build",
    "lane": "working",
-   "age": "40m ago"
+   "age": "10m ago"
   },
   {
    "name": "X-reference backlog build lanes",
    "summary": "Handle Jacob's \"Yes do it all\" (phonemsg-01M3CSWXWB79V6XNBQF4K3TYQB). The item for you: clear the backlog of X-reference builds in parallel with the existing lanes. These are the todos owned by the status-board agent (agent-01M2781N66HYKT2E",
    "kind": "build",
    "lane": "working",
-   "age": "56m ago"
+   "age": "1h ago"
   },
   {
    "name": "Queue Killer - coursework and income",
    "summary": "shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "49m ago"
+   "age": "40m ago"
   },
   {
    "name": "Funding applications",
    "summary": "Handle Jacob's latest iMessage \"Start applications for all of them\" - the ranked funding list I just sent him (Thiel Fellowship https://thielfellowship.org/faq, Skip $10k fall grant https://helloskip.com/funding-details/10k-fall-grants due ",
    "kind": "build",
    "lane": "working",
-   "age": "31m ago"
+   "age": "1h ago"
   },
   {
    "name": "Finish all job applications",
    "summary": "Handle Jacob's latest iMessage (phonemsg-01M3DNPGJ97KCECY8M3184QFF4, replying to his jobs ask phonemsg-01M3DKWJXWHX2R6V1X44DR0JNY): he said yes, and wants every OpenAI and Anthropic application finished with tailored resumes made as impress",
    "kind": "build",
    "lane": "working",
-   "age": "43m ago"
+   "age": "1h ago"
+  },
+  {
+   "name": "hawkun X game",
+   "summary": "Handle Jacob's latest iMessage: \"Make this game\" with https://x.com/hawkun/status/2103499515491909909 . Preferences from memory: a build from a reference link must look like the reference (placeholder art reads as failure); no blocky Roblox",
+   "kind": "build",
+   "lane": "working",
+   "age": "44m ago"
   },
   {
    "name": "Godot + anime build lane",
    "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
    "kind": "build",
    "lane": "working",
-   "age": "7h ago"
+   "age": "8h ago"
   },
   {
    "name": "GITS game lane",
    "summary": "Take todo-01M277ZKKRRHFY1GJEGNA3C4MP: build the Minecraft VR + Rust voxel game locally, using your... | latest: Backup checkpoint cannot be taken from this run's filesystem: the workspace has been rebuilt and now contains only the three shell",
    "kind": "build",
    "lane": "working",
-   "age": "7h ago"
+   "age": "8h ago"
   },
   {
    "name": "Kaggle MuJoCo robotics experiments",
    "summary": "Handle Jacob's latest iMessage (phonemsg-01M3DRG42TC4SRP6JWH9VXNSMY): run as many robotics experiments as possible on Kaggle, including MuJoCo. Scope for now: his own Kaggle account tied to jacobegarcia101@gmail.com only. Multi-account quot",
    "kind": "build",
    "lane": "working",
-   "age": "3m ago"
+   "age": "0m ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
-   "age": "52m ago"
+   "age": "1h ago"
   },
   {
    "name": "Blender art + addon lane",
    "summary": "Handle Jacob's new reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: ```thinking Single copy only (no duplicate \u2014 the 8:36:56 attempt failed on quota), correct size. post.py updated. Get the link and",
    "kind": "build",
    "lane": "working",
-   "age": "6h ago"
+   "age": "7h ago"
+  },
+  {
+   "name": "Ribbit - eat the frog",
+   "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely ",
+   "kind": "build",
+   "lane": "working",
+   "age": "42m ago"
   },
   {
    "name": "garylau0101 build",
    "summary": "Handle Jacob's latest iMessages: \"Can we make this\" (phonemsg-01M3D83DPD0QNRRM3QFFSCRWC2) with https://x.com/garylau0101/status/2103321635935998071 (phonemsg-01M3D83JNP940WNMFRWG2KTC1W). Find what the post shows; answer honestly whether it'",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "3h ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by ",
    "kind": "build",
    "lane": "working",
-   "age": "7h ago"
+   "age": "8h ago"
   },
   {
    "name": "Pyxel games lane",
@@ -166,13 +180,6 @@
    "age": ""
   },
   {
-   "name": "Ribbit - eat the frog",
-   "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely ",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
    "name": "Agent mail notification manager",
    "summary": "You are the system-owned Agent Mail notification manager. Follow your persistent platform task assignment and read the agent-mail skill. | latest: Relevant infrastructure deep dive from SemiAnalysis at 1:19:15 PM CDT: \\\"Computation and Data Movement for Inference\\\" (ref 017900",
    "kind": "system",
@@ -191,23 +198,23 @@
   "scheduled": [
    {
     "name": "Finish other job applications + Bracket",
-    "fires_at": "8:35 AM"
+    "fires_at": "9:35 AM"
    },
    {
     "name": "Queue Killer - coursework and income",
     "fires_at": "12:10 AM"
    },
    {
-    "name": "Kaggle MuJoCo robotics experiments",
-    "fires_at": "9:15 AM"
+    "name": "Genie/Lucky stack engineer",
+    "fires_at": "9:45 AM"
    },
    {
-    "name": "Genie/Lucky stack engineer",
-    "fires_at": "8:44 AM"
+    "name": "Ribbit - eat the frog",
+    "fires_at": "8:00 AM"
    },
    {
     "name": "garylau0101 build",
-    "fires_at": "8:37 AM"
+    "fires_at": "9:37 AM"
    },
    {
     "name": "CEO - Lucky Cat Robotics",
@@ -224,10 +231,6 @@
    {
     "name": "tech radar + founder programs",
     "fires_at": "10:20 AM"
-   },
-   {
-    "name": "Ribbit - eat the frog",
-    "fires_at": "8:00 AM"
    },
    {
     "name": "Proactive value creation",
@@ -287,5 +290,5 @@
   "backlog_total": 43,
   "unique_total": 43
  },
- "generated_at": "Sep 26, 8:19 AM"
+ "generated_at": "Sep 26, 9:20 AM"
 }

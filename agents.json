@@ -9,21 +9,21 @@
    "summary": "Shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "4h ago"
   },
   {
    "name": "satellitedown model builds",
    "summary": "Identify the fast model in that post, actually run it (free tiers / his Z13 via SSH over Tailscale / Kaggle free GPU, no spending), and build a set of cool pr",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "3h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "3h ago"
   },
   {
    "name": "Drive to GitHub offload audit",
@@ -180,7 +180,7 @@
    },
    {
     "name": "Proactive value creation",
-    "fires_at": "3:12 AM"
+    "fires_at": "11:12 AM"
    }
   ],
   "backlog": [
@@ -236,5 +236,5 @@
   "backlog_total": 45,
   "unique_total": 45
  },
- "generated_at": "Sep 27, 2:28 AM"
+ "generated_at": "Sep 27, 4:29 AM"
 }

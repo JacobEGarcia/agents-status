@@ -1,6 +1,6 @@
 {
- "count": 24,
- "lucky_cat_count": 21,
+ "count": 22,
+ "lucky_cat_count": 19,
  "paused_count": 0,
  "blocked_count": 0,
  "agents": [
@@ -9,133 +9,119 @@
    "summary": "Finish and submit all his started non-OpenAI/non-Anthropic applications, including Bracket Bot (two roles). His message is the authorization to submit. agent-01M3DNQ4BVNTHXQM56FBC",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "5h ago"
   },
   {
    "name": "Queue Killer - coursework and income",
    "summary": "Shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "5h ago"
+   "age": "7h ago"
   },
   {
    "name": "Funding applications",
    "summary": "The ranked funding list I just sent him (Thiel Fellowship https://thielfellowship.org/faq, Skip $10k fall grant https://helloskip.com/funding-details/10k-fall-grants due",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "3h ago"
   },
   {
    "name": "GITS game lane",
    "summary": "Take todo-01M277ZKKRRHFY1GJEGNA3C4MP: build the Minecraft VR + Rust voxel game locally, using your... | latest: Backup checkpoint cannot be taken from this run's filesystem: the workspace has been rebuilt and now contains only the three shell",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "4h ago"
   },
   {
    "name": "Finish all job applications",
    "summary": "He said yes, and wants every OpenAI and Anthropic application finished with tailored resumes made as impress",
    "kind": "build",
    "lane": "working",
-   "age": "11h ago"
+   "age": "13h ago"
   },
   {
    "name": "Godot + anime build lane",
    "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
    "kind": "build",
    "lane": "working",
-   "age": "7h ago"
+   "age": "9h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
-   "age": "10m ago"
+   "age": "3m ago"
   },
   {
    "name": "Full PiG Rust port",
    "summary": "Make the Rust version of PiG (https://github.com/MichaelKinsy/PiG, Go port of the Pi coding agent; source post https://x.com/zekramu/status/2103621478344429774) reach full PiG feature parity: file edit/write",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "6h ago"
   },
   {
    "name": "nilsedison build + cat + VR",
    "summary": "Request \"Make this and make a cat version as well and make this a 3d vr game as well\"; the link is https://x.com/nilsedison/status/2103835613594317051 (fetch the full post and media, headless first). Build three things: (1) a",
    "kind": "build",
    "lane": "working",
-   "age": "3h ago"
-  },
-  {
-   "name": "mlajtos X post build",
-   "summary": "\"Make this\", with https://x.com/mlajtos_mu/status/2103847646737629568. The cloud browser is capped until midnight, so recover the post via api.fxtwitter.com / oEmbed. Build a faithful, working recreation of w",
-   "kind": "build",
-   "lane": "working",
-   "age": "2h ago"
+   "age": "5h ago"
   },
   {
    "name": "Drive to GitHub offload audit",
    "summary": "\"Find out how much of our stuff on drive we can save onto GitHub\". Context: his Google Drive has 471.8 GiB used (rclone about, Sep 26); Google AI Pro ends Oct 5 and drops him to 15 GB, so he needs to offload",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "2m ago"
+  },
+  {
+   "name": "mlajtos X post build",
+   "summary": "\"Make this\", with https://x.com/mlajtos_mu/status/2103847646737629568. The cloud browser is capped until midnight, so recover the post via api.fxtwitter.com / oEmbed. Build a faithful, working recreation of w",
+   "kind": "build",
+   "lane": "working",
+   "age": "4h ago"
   },
   {
    "name": "Blender art + addon lane",
    "summary": "New reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: ```thinking Single copy only (no duplicate \u2014 the 8:36:56 attempt failed on quota), correct size. post.py updated. Get the link and",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
-  },
-  {
-   "name": "Kaggle MuJoCo robotics experiments",
-   "summary": "Run as many robotics experiments as possible on Kaggle, including MuJoCo. Scope for now: his own Kaggle account tied to jacobegarcia101@gmail.com only. Multi-account quot",
-   "kind": "build",
-   "lane": "working",
-   "age": "7h ago"
+   "age": "4h ago"
   },
   {
    "name": "NotchBrowser release watch",
    "summary": "Standing daily watch: check the govi NotchBrowser project for a new release and report to the parent only when a new release appears (version + link). This replaces a prior watch that was cancelled",
    "kind": "build",
    "lane": "working",
-   "age": "7h ago"
+   "age": "9h ago"
   },
   {
    "name": "satellitedown model builds",
    "summary": "Identify the fast model in that post, actually run it (free tiers / his Z13 via SSH over Tailscale / Kaggle free GPU, no spending), and build a set of cool pr",
    "kind": "build",
    "lane": "working",
-   "age": "3h ago"
+   "age": "5h ago"
   },
   {
    "name": "Ribbit - eat the frog",
    "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely",
    "kind": "build",
    "lane": "working",
-   "age": "6h ago"
+   "age": "8h ago"
   },
   {
    "name": "k2sbhai X post projects",
    "summary": "\"Make a bunch of cool projects with this and test this out\" with https://x.com/k2sbhai/status/2103737675312488668. The cloud browser cap is out until midnight, so recover the post via the public oEmbed/FxTwit",
    "kind": "build",
    "lane": "working",
-   "age": "53m ago"
+   "age": "2h ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by",
    "kind": "build",
    "lane": "working",
-   "age": "7h ago"
-  },
-  {
-   "name": "Pyxel games lane",
-   "summary": "\"Make a bunch more games using pyxel 3.0\". Context: kitao's X post https://x.com/kitao/status/2103399585909760274 shows an in-development Pyxel 3.0 3D physics sample (low",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
+   "age": "9h ago"
   },
   {
    "name": "3D asset upgrade pass",
@@ -181,7 +167,7 @@
    },
    {
     "name": "Genie/Lucky stack engineer",
-    "fires_at": "7:27 PM"
+    "fires_at": "12:15 AM"
    },
    {
     "name": "mlajtos X post build",
@@ -265,5 +251,5 @@
   "backlog_total": 45,
   "unique_total": 45
  },
- "generated_at": "Sep 26, 7:24 PM"
+ "generated_at": "Sep 26, 9:25 PM"
 }

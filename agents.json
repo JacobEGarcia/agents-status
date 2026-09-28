@@ -1,6 +1,6 @@
 {
- "count": 21,
- "lucky_cat_count": 18,
+ "count": 27,
+ "lucky_cat_count": 24,
  "paused_count": 0,
  "blocked_count": 0,
  "agents": [
@@ -9,28 +9,98 @@
    "summary": "Shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "8h ago"
+   "age": "9h ago"
+  },
+  {
+   "name": "kitao arcade",
+   "summary": "Build an entire arcade of well-polished 2D and 3D games made with the tool in https://x.com/kitao/status/2104158629637279997 (verify what the post actually shows; don't assume). His bar: never AI-slop lo",
+   "kind": "build",
+   "lane": "working",
+   "age": "0m ago"
   },
   {
    "name": "Ribbit - eat the frog",
    "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely",
    "kind": "build",
    "lane": "working",
-   "age": "1m ago"
+   "age": "45m ago"
   },
   {
-   "name": "Duolicious profiles comparison",
-   "summary": "Jacob is sending Duolicious profile links for your grounded, nonjudgmental read of compatibility and whom to message. First five links: https://duolicious.gg/p/karrri3 ; https://duolicious.gg/p/starry4 ; https://duolicious.gg/p/rei56 ; http",
+   "name": "tech radar + founder programs",
+   "summary": "Latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: Job wave grounded across the live signed-in Indeed and Handshake sessions plus official direct listings. I attached the exact shor",
    "kind": "build",
    "lane": "working",
-   "age": "8h ago"
+   "age": "24m ago"
+  },
+  {
+   "name": "Lucky Cat hardware   creative ventures lane",
+   "summary": "Jacob : \"Deploy as many new agents as u can To kill queued work.\" You are a standing queue-killer lane for these unowned todos (read each with tools todos get for full context an",
+   "kind": "build",
+   "lane": "working",
+   "age": "47m ago"
+  },
+  {
+   "name": "Valve and big-game remakes lane",
+   "summary": "Jacob : \"Deploy as many new agents as u can To kill queued work.\" You are a standing queue-killer lane for these unowned todos (read each with tools todos get for full context an",
+   "kind": "build",
+   "lane": "working",
+   "age": "43m ago"
   },
   {
    "name": "Earthshard trailer-faithful 3D VR",
    "summary": "Latest follow-up to the Human Resources trailer build: \"Reiterate until it looks exactly like the trailer vid and make a 3d vr version\". Reference trailer https://youtu.be/oNZ7oto4z4A?is=nI-UzfwpHBTkCwIq; current compact 2D E",
    "kind": "build",
    "lane": "working",
+   "age": "51m ago"
+  },
+  {
+   "name": "Duolicious profiles comparison",
+   "summary": "Jacob is sending Duolicious profile links for your grounded, nonjudgmental read of compatibility and whom to message. First five links: https://duolicious.gg/p/karrri3 ; https://duolicious.gg/p/starry4 ; https://duolicious.gg/p/rei56 ; http",
+   "kind": "build",
+   "lane": "working",
+   "age": "9h ago"
+  },
+  {
+   "name": "Apple Watch games lane",
+   "summary": "Jacob : \"Deploy as many new agents as u can To kill queued work.\" You are a standing queue-killer lane for these unowned todos (read each with tools todos get for full context an",
+   "kind": "build",
+   "lane": "working",
+   "age": "43m ago"
+  },
+  {
+   "name": "Imp benchmark",
+   "summary": "Threaded reply \"Benchmark it\" about Imp (https://github.com/deepfates/imp, deepfates' DSPy-style Elixir library, v0.5.0, needs Elixir 1.19+ and a C/C++ compiler). Anchor . Run a real, honest",
+   "kind": "build",
+   "lane": "working",
    "age": "1m ago"
+  },
+  {
+   "name": "Genie/Lucky stack engineer",
+   "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
+   "kind": "build",
+   "lane": "working",
+   "age": "0m ago"
+  },
+  {
+   "name": "BioLife earnings estimate",
+   "summary": "Estimate how much he could earn from BioLife plasma donation donating the max allowed from now (Mon Sep 28, 2026) through Dec 31, 2026. He lives on Chicago's North Side. Ground current BioLife pay (new-donor",
+   "kind": "build",
+   "lane": "working",
+   "age": "0m ago"
+  },
+  {
+   "name": "Dark Alpha AI Engineer application",
+   "summary": "Handle the Dark Alpha Capital AI Engineer job application portion of Jacob's latest \"work on all of those rn\" request. The prior handoff said the Handshake application deadline is Sep 30 at 10 AM CDT and a tailored kit was emailed today; ob",
+   "kind": "build",
+   "lane": "working",
+   "age": "40m ago"
+  },
+  {
+   "name": "life quest app",
+   "summary": "Build the game from https://x.com/michaelmicasso/status/2104538180397736294 where he turns life into a quest - a gamified productivity app. Study the actual post first; build must look like the reference",
+   "kind": "build",
+   "lane": "working",
+   "age": ""
   },
   {
    "name": "Private relationship tracker website",
@@ -40,22 +110,8 @@
    "age": ""
   },
   {
-   "name": "Dark Alpha AI Engineer application",
-   "summary": "Handle the Dark Alpha Capital AI Engineer job application portion of Jacob's latest \"work on all of those rn\" request. The prior handoff said the Handshake application deadline is Sep 30 at 10 AM CDT and a tailored kit was emailed today; ob",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
    "name": "eschadiol game",
    "summary": "Make a game from https://x.com/eschadiol/status/2103952238616162430 (verify what the post shows). Must look like the reference; placeholder art reads as failure; never AI-slop. Free tiers only. Host on JacobE",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "kitao arcade",
-   "summary": "Build an entire arcade of well-polished 2D and 3D games made with the tool in https://x.com/kitao/status/2104158629637279997 (verify what the post actually shows; don't assume). His bar: never AI-slop lo",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -110,24 +166,10 @@
    "age": ""
   },
   {
-   "name": "tech radar + founder programs",
-   "summary": "Latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: Job wave grounded across the live signed-in Indeed and Handshake sessions plus official direct listings. I attached the exact shor",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
    "name": "Instinct-to-Instinct",
    "summary": "Follow your persistent platform task assignment for your user\u2019s Instinct-to-Instinct conversations",
    "kind": "system",
    "lane": "system",
-   "age": ""
-  },
-  {
-   "name": "Genie/Lucky stack engineer",
-   "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
-   "kind": "build",
-   "lane": "working",
    "age": ""
   },
   {
@@ -163,12 +205,16 @@
     "fires_at": "8:00 AM"
    },
    {
-    "name": "NotchBrowser release watch",
-    "fires_at": "10:00 AM"
-   },
-   {
     "name": "tech radar + founder programs",
     "fires_at": "10:20 AM"
+   },
+   {
+    "name": "Imp benchmark",
+    "fires_at": "9:51 AM"
+   },
+   {
+    "name": "NotchBrowser release watch",
+    "fires_at": "10:00 AM"
    },
    {
     "name": "CEO - Lucky Cat Robotics",
@@ -181,56 +227,56 @@
   ],
   "backlog": [
    {
-    "title": "Launch Jacob creative ventures: Lucky Cat Co, The New Chicagoan, personal blog/photography",
-    "blocked": false
-   },
-   {
-    "title": "Develop low-poly afterlife open-world game concept",
-    "blocked": false
-   },
-   {
-    "title": "e/acc media campaign",
-    "blocked": false
-   },
-   {
-    "title": "Jacob's end-of-year plan: job, Lucky Cat, car, apartment, social life",
-    "blocked": false
-   },
-   {
-    "title": "Frostfall Godot rebuild with Blender assets",
-    "blocked": false
-   },
-   {
-    "title": "Games from @em_nomadic ideas (Blender to Godot)",
-    "blocked": false
-   },
-   {
-    "title": "Execute the four self-emailed creative tasks",
-    "blocked": false
-   },
-   {
-    "title": "Make Lucky Cat real with Micro Center parts and Amazon shell",
-    "blocked": false
-   },
-   {
-    "title": "Redo past anime girl models at HQ bar",
-    "blocked": false
-   },
-   {
     "title": "Anime girl characters with baku_lab head style",
     "blocked": false
    },
    {
-    "title": "Genie lamp shells for Lucky Cat prototype",
+    "title": "Set up terminal-first remote access to Neo",
     "blocked": false
    },
    {
-    "title": "Chicago 2033 Worlds Fair: vision + feasibility + concepts",
+    "title": "Free certificate harvest",
+    "blocked": false
+   },
+   {
+    "title": "Apply to RentAHuman job",
+    "blocked": false
+   },
+   {
+    "title": "Find former figure-skating friends Alexis, Tori and Roxanne",
+    "blocked": false
+   },
+   {
+    "title": "Make money through Depop and other resale apps",
+    "blocked": false
+   },
+   {
+    "title": "Connect Termius on iPhone",
+    "blocked": false
+   },
+   {
+    "title": "Remove Pi dependency from laptop remote access",
+    "blocked": false
+   },
+   {
+    "title": "Money-mode plan: execute on Jacob go-ahead",
+    "blocked": false
+   },
+   {
+    "title": "Migrate backup rclone remotes off shared client_id",
+    "blocked": false
+   },
+   {
+    "title": "OpenMausBot install on Z13 (resume after QM)",
+    "blocked": false
+   },
+   {
+    "title": "Mention the Amex, Socket, Traba, DoorDash and AbbVie rejections at a natural moment",
     "blocked": false
    }
   ],
-  "backlog_total": 49,
-  "unique_total": 49
+  "backlog_total": 21,
+  "unique_total": 21
  },
- "generated_at": "Sep 28, 8:42 AM"
+ "generated_at": "Sep 28, 9:46 AM"
 }

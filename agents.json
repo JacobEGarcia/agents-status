@@ -1,6 +1,6 @@
 {
- "count": 27,
- "lucky_cat_count": 24,
+ "count": 25,
+ "lucky_cat_count": 22,
  "paused_count": 0,
  "blocked_count": 0,
  "agents": [
@@ -9,70 +9,49 @@
    "summary": "Shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "9h ago"
+   "age": "10h ago"
   },
   {
    "name": "kitao arcade",
    "summary": "Build an entire arcade of well-polished 2D and 3D games made with the tool in https://x.com/kitao/status/2104158629637279997 (verify what the post actually shows; don't assume). His bar: never AI-slop lo",
    "kind": "build",
    "lane": "working",
-   "age": "0m ago"
+   "age": "54m ago"
   },
   {
    "name": "Ribbit - eat the frog",
    "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely",
    "kind": "build",
    "lane": "working",
-   "age": "45m ago"
+   "age": "1h ago"
   },
   {
    "name": "tech radar + founder programs",
    "summary": "Latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: Job wave grounded across the live signed-in Indeed and Handshake sessions plus official direct listings. I attached the exact shor",
    "kind": "build",
    "lane": "working",
-   "age": "24m ago"
+   "age": "1h ago"
   },
   {
    "name": "Lucky Cat hardware   creative ventures lane",
    "summary": "Jacob : \"Deploy as many new agents as u can To kill queued work.\" You are a standing queue-killer lane for these unowned todos (read each with tools todos get for full context an",
    "kind": "build",
    "lane": "working",
-   "age": "47m ago"
+   "age": "1h ago"
   },
   {
    "name": "Valve and big-game remakes lane",
    "summary": "Jacob : \"Deploy as many new agents as u can To kill queued work.\" You are a standing queue-killer lane for these unowned todos (read each with tools todos get for full context an",
    "kind": "build",
    "lane": "working",
-   "age": "43m ago"
+   "age": "1h ago"
   },
   {
    "name": "Earthshard trailer-faithful 3D VR",
    "summary": "Latest follow-up to the Human Resources trailer build: \"Reiterate until it looks exactly like the trailer vid and make a 3d vr version\". Reference trailer https://youtu.be/oNZ7oto4z4A?is=nI-UzfwpHBTkCwIq; current compact 2D E",
    "kind": "build",
    "lane": "working",
-   "age": "51m ago"
-  },
-  {
-   "name": "Duolicious profiles comparison",
-   "summary": "Jacob is sending Duolicious profile links for your grounded, nonjudgmental read of compatibility and whom to message. First five links: https://duolicious.gg/p/karrri3 ; https://duolicious.gg/p/starry4 ; https://duolicious.gg/p/rei56 ; http",
-   "kind": "build",
-   "lane": "working",
-   "age": "9h ago"
-  },
-  {
-   "name": "Apple Watch games lane",
-   "summary": "Jacob : \"Deploy as many new agents as u can To kill queued work.\" You are a standing queue-killer lane for these unowned todos (read each with tools todos get for full context an",
-   "kind": "build",
-   "lane": "working",
-   "age": "43m ago"
-  },
-  {
-   "name": "Imp benchmark",
-   "summary": "Threaded reply \"Benchmark it\" about Imp (https://github.com/deepfates/imp, deepfates' DSPy-style Elixir library, v0.5.0, needs Elixir 1.19+ and a C/C++ compiler). Anchor . Run a real, honest",
-   "kind": "build",
-   "lane": "working",
-   "age": "1m ago"
+   "age": "1h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
@@ -82,25 +61,32 @@
    "age": "0m ago"
   },
   {
-   "name": "BioLife earnings estimate",
-   "summary": "Estimate how much he could earn from BioLife plasma donation donating the max allowed from now (Mon Sep 28, 2026) through Dec 31, 2026. He lives on Chicago's North Side. Ground current BioLife pay (new-donor",
+   "name": "Improve Imp",
+   "summary": "\"How can we make it better\" (threaded on the deepfates Imp post https://x.com/deepfates/status/2104271342111776832). Context from the finished benchmark (same free Pollinations gpt-oss-20b, 12 train/20 test GS",
    "kind": "build",
    "lane": "working",
    "age": "0m ago"
+  },
+  {
+   "name": "Duolicious profiles comparison",
+   "summary": "Jacob is sending Duolicious profile links for your grounded, nonjudgmental read of compatibility and whom to message. First five links: https://duolicious.gg/p/karrri3 ; https://duolicious.gg/p/starry4 ; https://duolicious.gg/p/rei56 ; http",
+   "kind": "build",
+   "lane": "working",
+   "age": "10h ago"
+  },
+  {
+   "name": "Apple Watch games lane",
+   "summary": "Jacob : \"Deploy as many new agents as u can To kill queued work.\" You are a standing queue-killer lane for these unowned todos (read each with tools todos get for full context an",
+   "kind": "build",
+   "lane": "working",
+   "age": "1h ago"
   },
   {
    "name": "Dark Alpha AI Engineer application",
    "summary": "Handle the Dark Alpha Capital AI Engineer job application portion of Jacob's latest \"work on all of those rn\" request. The prior handoff said the Handshake application deadline is Sep 30 at 10 AM CDT and a tailored kit was emailed today; ob",
    "kind": "build",
    "lane": "working",
-   "age": "40m ago"
-  },
-  {
-   "name": "life quest app",
-   "summary": "Build the game from https://x.com/michaelmicasso/status/2104538180397736294 where he turns life into a quest - a gamified productivity app. Study the actual post first; build must look like the reference",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
+   "age": "1h ago"
   },
   {
    "name": "Private relationship tracker website",
@@ -209,8 +195,8 @@
     "fires_at": "10:20 AM"
    },
    {
-    "name": "Imp benchmark",
-    "fires_at": "9:51 AM"
+    "name": "Genie/Lucky stack engineer",
+    "fires_at": "10:54 AM"
    },
    {
     "name": "NotchBrowser release watch",
@@ -278,5 +264,5 @@
   "backlog_total": 21,
   "unique_total": 21
  },
- "generated_at": "Sep 28, 9:46 AM"
+ "generated_at": "Sep 28, 10:46 AM"
 }

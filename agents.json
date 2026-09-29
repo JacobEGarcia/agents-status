@@ -5,123 +5,123 @@
  "blocked_count": 0,
  "agents": [
   {
-   "name": "Shopping upgrade intro File",
-   "summary": "Planned product introduction: build one PRIVATE web File of shopping picks for Jacob Garcia (Chicago, America/Chicago), to be introduced to him in three messages at 8 AM today (Tue Sep 29, 2026). Nothing is bought: no carts, checkou",
-   "kind": "build",
-   "lane": "working",
-   "age": "54m ago"
-  },
-  {
-   "name": "MuJoCo sims from rai_inst post",
-   "summary": "\"Make mujoco simulations of robots that do this on the computer\" + https://x.com/rai_inst/status/2104587271433290047?s=46 . Context",
-   "kind": "build",
-   "lane": "working",
-   "age": "0m ago"
-  },
-  {
-   "name": "Lucky Cat hardware   creative ventures lane",
-   "summary": "Jacob : \"Deploy as many new agents as u can To kill queued work.\" You are a standing queue-killer lane for these unowned todos (read each with tools todos get for full context an",
-   "kind": "build",
-   "lane": "working",
-   "age": "0m ago"
-  },
-  {
-   "name": "Sites from ordimaxi5 post",
-   "summary": "\"Make a / Bunch more sites Inspired by this\" + https://x.com/ordimaxi5/status/2104723581225591253?s=46 . Open the post (text + media",
-   "kind": "build",
-   "lane": "working",
-   "age": "0m ago"
-  },
-  {
-   "name": "Improve Imp",
-   "summary": "\"How can we make it better\" (threaded on the deepfates Imp post https://x.com/deepfates/status/2104271342111776832). Context from the finished benchmark (same free Pollinations gpt-oss-20b, 12 train/20 test GS",
-   "kind": "build",
-   "lane": "working",
-   "age": "0m ago"
-  },
-  {
-   "name": "R36S arcade program",
-   "summary": "Build an awesome program for his R36S handheld with as many games and arcade games as possible, 2D, 2.5D and 3D, with really cool graphics and animations like the reference post https://x.com/shoejaat/status",
-   "kind": "build",
-   "lane": "working",
-   "age": "0m ago"
-  },
-  {
-   "name": "Queue Killer - coursework and income",
-   "summary": "Shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
-   "kind": "build",
-   "lane": "working",
-   "age": "4h ago"
-  },
-  {
    "name": "GITS game lane",
    "summary": "Take todo-01M277ZKKRRHFY1GJEGNA3C4MP: build the Minecraft VR + Rust voxel game locally, using your... | latest: Backup checkpoint cannot be taken from this run's filesystem: the workspace has been rebuilt and now contains only the three shell",
    "kind": "build",
    "lane": "working",
-   "age": "0m ago"
-  },
-  {
-   "name": "Finish other job applications + Bracket",
-   "summary": "Finish and submit all his started non-OpenAI/non-Anthropic applications, including Bracket Bot (two roles)",
-   "kind": "build",
-   "lane": "working",
-   "age": "0m ago"
-  },
-  {
-   "name": "Valve and big-game remakes lane",
-   "summary": "Jacob : \"Deploy as many new agents as u can To kill queued work.\" You are a standing queue-killer lane for these unowned todos (read each with tools todos get for full context an",
-   "kind": "build",
-   "lane": "working",
-   "age": "0m ago"
-  },
-  {
-   "name": "3D asset upgrade pass",
-   "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: ```thinking Files exist, timestamps 15:04-15:05 match the validated final run. These are the exact QA shots I inspected and attach",
-   "kind": "build",
-   "lane": "working",
-   "age": "2h ago"
+   "age": "21m ago"
   },
   {
    "name": "Finish all job applications",
    "summary": "He said yes, and wants every OpenAI and Anthropic application finished with tailored resumes made as impress",
    "kind": "build",
    "lane": "working",
-   "age": "0m ago"
+   "age": "29m ago"
+  },
+  {
+   "name": "Allotile (Crocotile-style editor)",
+   "summary": "The X post link , \"Make me crocotile 3d 2 and\", then \"Call it allotile\". Build Allotile: an original, free tile-based low-poly 3D modeling tool in the spirit of Cro",
+   "kind": "build",
+   "lane": "working",
+   "age": "16m ago"
+  },
+  {
+   "name": "Valve and big-game remakes lane",
+   "summary": "Jacob : \"Deploy as many new agents as u can To kill queued work.\" You are a standing queue-killer lane for these unowned todos (read each with tools todos get for full context an",
+   "kind": "build",
+   "lane": "working",
+   "age": "46m ago"
+  },
+  {
+   "name": "Afterimage v2 - match re:serial experiments trailer",
+   "summary": "\"Make it work and look exactly like the game.\" This refers to the fan game trailer quoted in https://x.com/desperastatus/status/2104689060895699270; the original trailer",
+   "kind": "build",
+   "lane": "working",
+   "age": "17m ago"
   },
   {
    "name": "Godot + anime build lane",
    "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
    "kind": "build",
    "lane": "working",
-   "age": "0m ago"
+   "age": "26m ago"
   },
   {
-   "name": "Test free Meshy alternatives",
-   "summary": "The free Meshy alternatives I just sent him. List sent: TRELLIS.2 (free HF Space https://huggingface.c",
+   "name": "Finish other job applications + Bracket",
+   "summary": "Finish and submit all his started non-OpenAI/non-Anthropic applications, including Bracket Bot (two roles)",
    "kind": "build",
    "lane": "working",
-   "age": "0m ago"
+   "age": "55m ago"
+  },
+  {
+   "name": "R36S arcade program",
+   "summary": "Build an awesome program for his R36S handheld with as many games and arcade games as possible, 2D, 2.5D and 3D, with really cool graphics and animations like the reference post https://x.com/shoejaat/status",
+   "kind": "build",
+   "lane": "working",
+   "age": "57m ago"
+  },
+  {
+   "name": "Improve Imp",
+   "summary": "\"How can we make it better\" (threaded on the deepfates Imp post https://x.com/deepfates/status/2104271342111776832). Context from the finished benchmark (same free Pollinations gpt-oss-20b, 12 train/20 test GS",
+   "kind": "build",
+   "lane": "working",
+   "age": "56m ago"
+  },
+  {
+   "name": "Shopping upgrade intro File",
+   "summary": "Planned product introduction: build one PRIVATE web File of shopping picks for Jacob Garcia (Chicago, America/Chicago), to be introduced to him in three messages at 8 AM today (Tue Sep 29, 2026). Nothing is bought: no carts, checkou",
+   "kind": "build",
+   "lane": "working",
+   "age": "1h ago"
+  },
+  {
+   "name": "Lucky Cat hardware   creative ventures lane",
+   "summary": "Jacob : \"Deploy as many new agents as u can To kill queued work.\" You are a standing queue-killer lane for these unowned todos (read each with tools todos get for full context an",
+   "kind": "build",
+   "lane": "working",
+   "age": "59m ago"
+  },
+  {
+   "name": "itsmeajaykv X post projects",
+   "summary": "Figure out what the tool/thing in https://x.com/itsmeajaykv/status/2104598280290353472 is, try it out, and make cool projects with it. Free tiers only, no spend. His quality bar: never AI-slop looking, f",
+   "kind": "build",
+   "lane": "working",
+   "age": "17m ago"
+  },
+  {
+   "name": "Queue Killer - coursework and income",
+   "summary": "Shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
+   "kind": "build",
+   "lane": "working",
+   "age": "5h ago"
+  },
+  {
+   "name": "3D asset upgrade pass",
+   "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: ```thinking Files exist, timestamps 15:04-15:05 match the validated final run. These are the exact QA shots I inspected and attach",
+   "kind": "build",
+   "lane": "working",
+   "age": "3h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
-   "age": "4m ago"
+   "age": "0m ago"
   },
   {
    "name": "Blender art + addon lane",
    "summary": "New reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: ```thinking Single copy only (no duplicate \u2014 the 8:36:56 attempt failed on quota), correct size. post.py updated. Get the link and",
    "kind": "build",
    "lane": "working",
-   "age": "0m ago"
+   "age": "1m ago"
   },
   {
    "name": "Apple Watch games lane",
    "summary": "Jacob : \"Deploy as many new agents as u can To kill queued work.\" You are a standing queue-killer lane for these unowned todos (read each with tools todos get for full context an",
    "kind": "build",
    "lane": "working",
-   "age": "0m ago"
+   "age": "1m ago"
   },
   {
    "name": "NotchBrowser release watch",
@@ -178,10 +178,6 @@
    {
     "name": "Queue Killer - coursework and income",
     "fires_at": "12:10 AM"
-   },
-   {
-    "name": "Genie/Lucky stack engineer",
-    "fires_at": "4:58 AM"
    },
    {
     "name": "NotchBrowser release watch",
@@ -246,16 +242,16 @@
     "blocked": false
    },
    {
-    "title": "OpenMausBot install on Z13 (resume after QM)",
+    "title": "Mention the Amex, Socket, Traba, DoorDash and AbbVie rejections at a natural moment",
     "blocked": false
    },
    {
-    "title": "Mention the Amex, Socket, Traba, DoorDash and AbbVie rejections at a natural moment",
+    "title": "Consider Kaggle Gemma 4 offline coding-agent competition",
     "blocked": false
    }
   ],
   "backlog_total": 22,
   "unique_total": 22
  },
- "generated_at": "Sep 29, 4:52 AM"
+ "generated_at": "Sep 29, 5:52 AM"
 }

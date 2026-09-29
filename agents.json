@@ -9,14 +9,14 @@
    "summary": "Shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "3h ago"
   },
   {
    "name": "3D asset upgrade pass",
    "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: ```thinking Files exist, timestamps 15:04-15:05 match the validated final run. These are the exact QA shots I inspected and attach",
    "kind": "build",
    "lane": "working",
-   "age": "0m ago"
+   "age": "1h ago"
   },
   {
    "name": "R36S arcade program",
@@ -169,7 +169,7 @@
    },
    {
     "name": "Proactive value creation",
-    "fires_at": "3:12 AM"
+    "fires_at": "11:12 AM"
    }
   ],
   "backlog": [
@@ -225,5 +225,5 @@
   "backlog_total": 25,
   "unique_total": 25
  },
- "generated_at": "Sep 29, 1:50 AM"
+ "generated_at": "Sep 29, 3:51 AM"
 }

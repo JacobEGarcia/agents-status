@@ -1,6 +1,6 @@
 {
- "count": 22,
- "lucky_cat_count": 19,
+ "count": 24,
+ "lucky_cat_count": 21,
  "paused_count": 0,
  "blocked_count": 0,
  "agents": [
@@ -9,28 +9,14 @@
    "summary": "Take todo-01M277ZKKRRHFY1GJEGNA3C4MP: build the Minecraft VR + Rust voxel game locally, using your... | latest: Backup checkpoint cannot be taken from this run's filesystem: the workspace has been rebuilt and now contains only the three shell",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "3h ago"
   },
   {
    "name": "Allotile (Crocotile-style editor)",
    "summary": "The X post link , \"Make me crocotile 3d 2 and\", then \"Call it allotile\". Build Allotile: an original, free tile-based low-poly 3D modeling tool in the spirit of Cro",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
-  },
-  {
-   "name": "Finish all job applications",
-   "summary": "He said yes, and wants every OpenAI and Anthropic application finished with tailored resumes made as impress",
-   "kind": "build",
-   "lane": "working",
-   "age": "2h ago"
-  },
-  {
-   "name": "Afterimage v2 - match re:serial experiments trailer",
-   "summary": "\"Make it work and look exactly like the game.\" This refers to the fan game trailer quoted in https://x.com/desperastatus/status/2104689060895699270; the original trailer",
-   "kind": "build",
-   "lane": "working",
-   "age": "1h ago"
+   "age": "3h ago"
   },
   {
    "name": "tech radar + founder programs",
@@ -40,102 +26,130 @@
    "age": "1h ago"
   },
   {
+   "name": "Finish all job applications",
+   "summary": "Finishing his started applications at the two frontier AI labs, tailored per role; he reviews before anything is submitted",
+   "kind": "build",
+   "lane": "working",
+   "age": "4h ago"
+  },
+  {
+   "name": "Afterimage v2 - match re:serial experiments trailer",
+   "summary": "\"Make it work and look exactly like the game.\" This refers to the fan game trailer quoted in https://x.com/desperastatus/status/2104689060895699270; the original trailer",
+   "kind": "build",
+   "lane": "working",
+   "age": "3h ago"
+  },
+  {
    "name": "Valve and big-game remakes lane",
    "summary": "Jacob : \"Deploy as many new agents as u can To kill queued work.\" You are a standing queue-killer lane for these unowned todos (read each with tools todos get for full context an",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
-  },
-  {
-   "name": "Godot + anime build lane",
-   "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
-   "kind": "build",
-   "lane": "working",
-   "age": "2h ago"
+   "age": "4h ago"
   },
   {
    "name": "Queue Killer - coursework and income",
    "summary": "Shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "1h ago"
+  },
+  {
+   "name": "Godot + anime build lane",
+   "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
+   "kind": "build",
+   "lane": "working",
+   "age": "4h ago"
   },
   {
    "name": "Finish other job applications + Bracket",
-   "summary": "Finish and submit all his started non-OpenAI/non-Anthropic applications, including Bracket Bot (two roles)",
+   "summary": "Finishing his remaining started applications, including a robotics startup with two roles; nothing is submitted without his review",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "4h ago"
   },
   {
    "name": "Lucky Cat hardware   creative ventures lane",
    "summary": "Jacob : \"Deploy as many new agents as u can To kill queued work.\" You are a standing queue-killer lane for these unowned todos (read each with tools todos get for full context an",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "4h ago"
+  },
+  {
+   "name": "Job openings research",
+   "summary": "Researching open role applications that fit his profile and tracking which are still worth filing",
+   "kind": "build",
+   "lane": "working",
+   "age": "26m ago"
   },
   {
    "name": "Shopping upgrade intro File",
    "summary": "Planned product introduction: build one PRIVATE web File of shopping picks for Jacob Garcia (Chicago, America/Chicago), to be introduced to him in three messages at 8 AM today (Tue Sep 29, 2026). Nothing is bought: no carts, checkou",
    "kind": "build",
    "lane": "working",
-   "age": "11h ago"
+   "age": "14h ago"
   },
   {
    "name": "R36S warpdoor game",
    "summary": "\"Make a game exactly like this for the r36s\" with https://x.com/warpdoor/status/2104789882296304004 . Match the reference's look and play closely (build must actually look like it; placeholder art = failure)",
    "kind": "build",
    "lane": "working",
-   "age": "2m ago"
+   "age": "2h ago"
   },
   {
    "name": "Genie/Lucky stack engineer",
    "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "1m ago"
   },
   {
    "name": "3D asset upgrade pass",
    "summary": "The rebuilt starter set is validated, but the outcome remains open until it is integrated into the actual... | latest: ```thinking Files exist, timestamps 15:04-15:05 match the validated final run. These are the exact QA shots I inspected and attach",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "3h ago"
   },
   {
    "name": "Ribbit - eat the frog",
    "summary": "Efficiency adjustment: keep the daily morning frog, but stop the every-120-minute recurring nudges. Report... | latest: ```thinking Two Gmail accounts connected: jacobegarcia101 (default) + shadowofboar@gmail.com (new since yesterday \u2014 that's likely",
    "kind": "build",
    "lane": "working",
-   "age": "7h ago"
+   "age": "9h ago"
   },
   {
    "name": "NotchBrowser release watch",
    "summary": "Standing daily watch: check the govi NotchBrowser project for a new release and report to the parent only when a new release appears (version + link). This replaces a prior watch that was cancelled",
    "kind": "build",
    "lane": "working",
-   "age": "4h ago"
+   "age": "6h ago"
   },
   {
    "name": "Blender art + addon lane",
    "summary": "New reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: ```thinking Single copy only (no duplicate \u2014 the 8:36:56 attempt failed on quota), correct size. post.py updated. Get the link and",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "3m ago"
   },
   {
    "name": "Apple Watch games lane",
    "summary": "Jacob : \"Deploy as many new agents as u can To kill queued work.\" You are a standing queue-killer lane for these unowned todos (read each with tools todos get for full context an",
    "kind": "build",
    "lane": "working",
-   "age": "3h ago"
+   "age": "5h ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "4h ago"
+  },
+  {
+   "name": "Family job application help",
+   "summary": "Prep help for a family member's job application; she reviews and submits everything herself",
+   "kind": "build",
+   "lane": "working",
+   "age": "24m ago"
   },
   {
    "name": "Instinct-to-Instinct",
@@ -243,5 +257,5 @@
   "backlog_total": 23,
   "unique_total": 23
  },
- "generated_at": "Sep 29, 3:57 PM"
+ "generated_at": "Sep 29, 5:59 PM"
 }

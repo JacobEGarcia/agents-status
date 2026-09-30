@@ -5,32 +5,53 @@
  "blocked_count": 0,
  "agents": [
   {
+   "name": "quixiai post: visuals, posters, projects",
+   "summary": "\"Make a bunch of cool stuff with this and make cool visualizations and make cool posters and infographics with it and projects\", followed by the link https://x.com/quixiai/status/2105201328330809587 (an emp",
+   "kind": "build",
+   "lane": "working",
+   "age": "9m ago"
+  },
+  {
    "name": "Queue Killer - coursework and income",
    "summary": "Shadowofboar@gmail.com is now connected across Google Workspace. Verify the exact Gmail account live, then... | latest: Correction: the actual SHA-256 of the attached Maestro/YuE2 song-set Markdown is `b32caafbf76231fb9715d20627fb5a9a29667ec7fd532c55",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "3h ago"
   },
   {
    "name": "Proactive value creation",
    "summary": "Read and follow the proactive-value-creation platform skill as your standing assignment. | latest: Air-monitor live result is incomplete because today's desktop-browser budget is exhausted; I will not invent Chicago stock or sale",
    "kind": "system",
    "lane": "system",
-   "age": "1h ago"
+   "age": "2h ago"
+  },
+  {
+   "name": "Godot + anime build lane",
+   "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
+   "kind": "build",
+   "lane": "working",
+   "age": "9m ago"
   },
   {
    "name": "CEO - Lucky Cat Robotics",
    "summary": "Queue Killer verified a current opportunity: TITAN Haptics Launchpad, free, deadline Sep 22, 2026, official... | latest: ```thinking FAQ live-checked: no next-cohort info published (only Blueprint II dates). Also note the FAQ still says \"hear back by",
    "kind": "build",
    "lane": "working",
-   "age": "2h ago"
+   "age": "3h ago"
+  },
+  {
+   "name": "Genie/Lucky stack engineer",
+   "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
+   "kind": "build",
+   "lane": "working",
+   "age": "0m ago"
   },
   {
    "name": "Blender art + addon lane",
    "summary": "New reference https://x.com/studio_yebisu/status/2101559292218462476?s=46 as part of his... | latest: ```thinking Single copy only (no duplicate \u2014 the 8:36:56 attempt failed on quota), correct size. post.py updated. Get the link and",
    "kind": "build",
    "lane": "working",
-   "age": "1h ago"
+   "age": "2h ago"
   },
   {
    "name": "Impressive projects for parents",
@@ -70,13 +91,6 @@
   {
    "name": "Allotile (Crocotile-style editor)",
    "summary": "The X post link , \"Make me crocotile 3d 2 and\", then \"Call it allotile\". Build Allotile: an original, free tile-based low-poly 3D modeling tool in the spirit of Cro",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
-   "name": "Shopping upgrade intro File",
-   "summary": "Planned product introduction: build one PRIVATE web File of shopping picks for Jacob Garcia (Chicago, America/Chicago), to be introduced to him in three messages at 8 AM today (Tue Sep 29, 2026). Nothing is bought: no carts, checkou",
    "kind": "build",
    "lane": "working",
    "age": ""
@@ -138,13 +152,6 @@
    "age": ""
   },
   {
-   "name": "Godot + anime build lane",
-   "summary": "Apply Jacob's latest correction to TIME VOLUME: make it look exactly like the original fkadev/LegalPrimes... | latest: Backup checkpoint for my current game lane: Latest coherent project: TIME VOLUME v4 - Exact source path when built: `/home/sandbox",
-   "kind": "build",
-   "lane": "working",
-   "age": ""
-  },
-  {
    "name": "tech radar + founder programs",
    "summary": "Latest YouTube request now: summarize https://youtu.be/yGrCMI7eWJ0?is=O4mwDxhYJHmC9aDi. This... | latest: Job wave grounded across the live signed-in Indeed and Handshake sessions plus official direct listings. I attached the exact shor",
    "kind": "build",
@@ -156,13 +163,6 @@
    "summary": "Follow your persistent platform task assignment for your user\u2019s Instinct-to-Instinct conversations",
    "kind": "system",
    "lane": "system",
-   "age": ""
-  },
-  {
-   "name": "Genie/Lucky stack engineer",
-   "summary": "Jacob decided to get the Pi power cable only for now and keep both Pis untouched. Prioritize the post-cable... | latest: ```thinking SKIP_RUNNING again. Stay quiet, keep schedule, hold. ``` SKIP_RUNNING \u2014 backup still active. Staying quiet, schedule u",
-   "kind": "build",
-   "lane": "working",
    "age": ""
   },
   {
@@ -188,11 +188,15 @@
    },
    {
     "name": "Proactive value creation",
-    "fires_at": "3:12 AM"
+    "fires_at": "9:20 AM"
    },
    {
     "name": "CEO - Lucky Cat Robotics",
     "fires_at": "11:23 AM"
+   },
+   {
+    "name": "Genie/Lucky stack engineer",
+    "fires_at": "4:10 AM"
    },
    {
     "name": "NotchBrowser release watch",
@@ -260,5 +264,5 @@
   "backlog_total": 24,
   "unique_total": 24
  },
- "generated_at": "Sep 30, 3:02 AM"
+ "generated_at": "Sep 30, 4:03 AM"
 }
